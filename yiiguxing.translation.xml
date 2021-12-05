@@ -1,0 +1,68 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="444" />
+    <option name="newTranslationDialogX" value="402" />
+    <option name="newTranslationDialogY" value="524" />
+    <option name="pinNewTranslationDialog" value="true" />
+    <histories>
+      <item value="No virtual method getBindingAdapterPosition()I in class LcomchadlibraryadapterbaseviewholderBaseViewHolder; or its super classes (declaration of 'com.chad.library.adapter.base.viewholder.BaseViewHolder' appears in dataappcom.example.materialtest-hRfq8kRuQr5JILCn15gO6Q==base.apk)" />
+      <item value="add Draggable Module" />
+      <item value="'setNewData(MutableList&lt;Fruit&gt;?): Unit' is deprecated. Please use setNewInstance(), This method will be removed in the next version" />
+      <item value="Base Multi Item Quick Adapter" />
+      <item value="You forever denied the permission" />
+      <item value="永久" />
+      <item value="You never denied the permission" />
+      <item value="Please register the android:requestLegacyExternalStorage=&quot;true&quot; attribute in the AndroidManifest.xml file, otherwise it will cause incompatibility with the old version" />
+      <item value="&#10;Most apps are not allowed to use MANAGE_EXTERNAL_STORAGE" />
+      <item value="You granted the permission" />
+      <item value="You grant the permission" />
+      <item value="You denied the permission" />
+      <item value="Please register permissions in the AndroidManifest.xml file &lt;uses-permission android:name=&quot;android.permission.SYSTEM_ALERT_WINDOW&quot;" />
+      <item value="Jetifier" />
+      <item value="enable Jetifier" />
+      <item value="deni" />
+      <item value="denied" />
+      <item value="granted" />
+      <item value="grant" />
+      <item value="buildscript" />
+      <item value="SYSTEM ALERT WINDOW" />
+      <item value="悬浮窗" />
+      <item value="ACCESS FINE LOCATION" />
+      <item value="&#10;Permission is only granted to system apps" />
+      <item value="Your project may be using a third-party plugin which is not compatible with the other plugins in the project or the version of Gradle requested by the project." />
+      <item value=" Unable to instantiate activity ComponentInfo{com.example.permissionxcom.example.permissionx.MainActivity2}: java.lang.NullPointerException: Attempt to invoke virtual method 'android.content.pm.ApplicationInfo android.content.Context.getApplicationInfo()' on a null object reference" />
+      <item value="Request Permissions" />
+      <item value="Permissions" />
+      <item value="refusing to merge unrelated histories" />
+      <item value="hint: Updates were rejected because the remote contains work that you do&#10;hint: not have locally. This is usually caused by another repository pushing&#10;hint: to the same ref. You may want to first integrate the remote changes&#10;hint: (e.g., 'git pull ...') before pushing again.&#10;hint: See the 'Note about fast-forwards' in 'git push --help' for details." />
+      <item value="Val cannot be reassigned" />
+      <item value="denied List" />
+      <item value="saltedfish" />
+      <item value="Scoped Storage" />
+      <item value="You denied granted permission" />
+      <item value="You denied" />
+      <item value="You did not granted permission" />
+      <item value="You did not grant permission" />
+      <item value="您未授予权限" />
+      <item value="You granted permission" />
+      <item value="Please grant permission first" />
+      <item value="请先授予权限" />
+      <item value="Unexpected tokens (use ';' to separate expressions on the same line)" />
+      <item value="request Multiple Permission" />
+      <item value="'var' on function parameter is not allowed" />
+      <item value="Cannot access 'split': it is private in file" />
+      <item value="delimeter" />
+      <item value="Companion" />
+      <item value="Modifier 'crossinline' is allowed only for function parameters of an inline function" />
+      <item value="lateinit property callback has not been initialized" />
+    </histories>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1638019906890" />
+  </component>
+  <component name="Settings">
+    <option name="keepFormat" value="true" />
+    <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
+    <option name="translateDocumentation" value="true" />
+  </component>
+</application>
