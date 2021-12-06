@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Parcelable" />
       <item value="alpha" />
       <item value="No virtual method getBindingAdapterPosition()I in class LcomchadlibraryadapterbaseviewholderBaseViewHolder; or its super classes (declaration of 'com.chad.library.adapter.base.viewholder.BaseViewHolder' appears in dataappcom.example.materialtest-hRfq8kRuQr5JILCn15gO6Q==base.apk)" />
       <item value="add Draggable Module" />
@@ -54,7 +55,6 @@
       <item value="Cannot access 'split': it is private in file" />
       <item value="delimeter" />
       <item value="Companion" />
-      <item value="Modifier 'crossinline' is allowed only for function parameters of an inline function" />
     </histories>
   </component>
   <component name="Cache">
