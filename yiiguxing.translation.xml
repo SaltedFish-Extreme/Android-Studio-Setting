@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="alpha" />
       <item value="No virtual method getBindingAdapterPosition()I in class LcomchadlibraryadapterbaseviewholderBaseViewHolder; or its super classes (declaration of 'com.chad.library.adapter.base.viewholder.BaseViewHolder' appears in dataappcom.example.materialtest-hRfq8kRuQr5JILCn15gO6Q==base.apk)" />
       <item value="add Draggable Module" />
       <item value="'setNewData(MutableList&lt;Fruit&gt;?): Unit' is deprecated. Please use setNewInstance(), This method will be removed in the next version" />
@@ -54,7 +55,6 @@
       <item value="delimeter" />
       <item value="Companion" />
       <item value="Modifier 'crossinline' is allowed only for function parameters of an inline function" />
-      <item value="lateinit property callback has not been initialized" />
     </histories>
   </component>
   <component name="Cache">
