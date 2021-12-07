@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Not enough information to infer type variable Y" />
+      <item value="&#10;This field leaks a context object" />
       <item value="Indices Weather Api" />
       <item value="Live Index" />
       <item value="Life Index" />
@@ -53,8 +55,6 @@
       <item value="You denied granted permission" />
       <item value="You denied" />
       <item value="You did not granted permission" />
-      <item value="You did not grant permission" />
-      <item value="您未授予权限" />
     </histories>
   </component>
   <component name="Cache">
