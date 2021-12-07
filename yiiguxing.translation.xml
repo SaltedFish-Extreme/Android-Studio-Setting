@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Expecting a class body" />
+      <item value="One type argument expected for interface OnHttpListener&lt;T : Any!&gt;" />
       <item value="Returns an instance that encapsulates the given [value] as successful value." />
       <item value="Not enough information to infer type variable Y" />
       <item value="&#10;This field leaks a context object" />
@@ -53,8 +55,6 @@
       <item value="denied List" />
       <item value="saltedfish" />
       <item value="Scoped Storage" />
-      <item value="You denied granted permission" />
-      <item value="You denied" />
     </histories>
   </component>
   <component name="Cache">
