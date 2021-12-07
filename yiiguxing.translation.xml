@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns an instance that encapsulates the given [value] as successful value." />
       <item value="Not enough information to infer type variable Y" />
       <item value="&#10;This field leaks a context object" />
       <item value="Indices Weather Api" />
@@ -54,7 +55,6 @@
       <item value="Scoped Storage" />
       <item value="You denied granted permission" />
       <item value="You denied" />
-      <item value="You did not granted permission" />
     </histories>
   </component>
   <component name="Cache">
