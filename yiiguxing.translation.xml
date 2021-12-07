@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Indices Weather Api" />
+      <item value="Live Index" />
+      <item value="Life Index" />
+      <item value="Life Index Request Server" />
+      <item value="生活指数" />
+      <item value="Indices" />
       <item value="btn main exec" />
       <item value="Assignments are not expressions, and only expressions are allowed in this context" />
       <item value="Unrecognized Android Studio (or Android Support plugin for IntelliJ IDEA) version '202.7660.26.42.7486908', please retry with version 2020.3.1 or newer.&#10;" />
@@ -49,12 +55,6 @@
       <item value="You did not granted permission" />
       <item value="You did not grant permission" />
       <item value="您未授予权限" />
-      <item value="You granted permission" />
-      <item value="Please grant permission first" />
-      <item value="请先授予权限" />
-      <item value="Unexpected tokens (use ';' to separate expressions on the same line)" />
-      <item value="request Multiple Permission" />
-      <item value="'var' on function parameter is not allowed" />
     </histories>
   </component>
   <component name="Cache">
