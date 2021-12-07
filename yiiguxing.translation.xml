@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="btn main exec" />
       <item value="Assignments are not expressions, and only expressions are allowed in this context" />
       <item value="Unrecognized Android Studio (or Android Support plugin for IntelliJ IDEA) version '202.7660.26.42.7486908', please retry with version 2020.3.1 or newer.&#10;" />
       <item value="Parcelable" />
@@ -54,7 +55,6 @@
       <item value="Unexpected tokens (use ';' to separate expressions on the same line)" />
       <item value="request Multiple Permission" />
       <item value="'var' on function parameter is not allowed" />
-      <item value="Cannot access 'split': it is private in file" />
     </histories>
   </component>
   <component name="Cache">
