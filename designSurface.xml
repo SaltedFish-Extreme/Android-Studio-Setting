@@ -37,6 +37,14 @@
         <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/mine_fragment.xml" value="0.1537037037037037" />
         <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/password_forget_activity.xml" value="0.22" />
         <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/password_reset_activity.xml" value="0.1537037037037037" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/pay_password_delete_item.xml" value="0.1537037037037037" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/pay_password_dialog.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/pay_password_empty_item.xml" value="0.1537037037037037" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/pay_password_normal_item.xml" value="0.1537037037037037" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/personal_data_activity.xml" value="0.1537037037037037" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/safe_dialog.xml" value="0.1537037037037037" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/ui_dialog.xml" value="0.1537037037037037" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/widget_status_layout.xml" value="0.1537037037037037" />
         <entry key="..\:/AndroidStudioProjects/AndroidProject/app/src/main/res/drawable/arrows_right_ic.xml" value="0.37916666666666665" />
         <entry key="..\:/AndroidStudioProjects/AndroidProject/app/src/main/res/drawable/ic_out.xml" value="0.37916666666666665" />
         <entry key="..\:/AndroidStudioProjects/AndroidProject/app/src/main/res/drawable/ic_out_pressed.xml" value="0.37916666666666665" />

@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Failed to notify project evaluation listener.&#10;   &gt; No such property: variantConfiguration for class: com.android.build.gradle.internal.variant.ApplicationVariantData&#10;   &gt; can't find tinkerProcessDebugManifest, you must init tinker plugin first!" />
+      <item value="migration guide" />
       <item value="Suspension functions can be called only within coroutine body" />
       <item value="Expecting a class body" />
       <item value="One type argument expected for interface OnHttpListener&lt;T : Any!&gt;" />
@@ -53,8 +55,6 @@
       <item value="refusing to merge unrelated histories" />
       <item value="hint: Updates were rejected because the remote contains work that you do&#10;hint: not have locally. This is usually caused by another repository pushing&#10;hint: to the same ref. You may want to first integrate the remote changes&#10;hint: (e.g., 'git pull ...') before pushing again.&#10;hint: See the 'Note about fast-forwards' in 'git push --help' for details." />
       <item value="Val cannot be reassigned" />
-      <item value="denied List" />
-      <item value="saltedfish" />
     </histories>
   </component>
   <component name="Cache">
