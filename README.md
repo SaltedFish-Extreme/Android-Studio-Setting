@@ -1,2 +1,2 @@
-# Android-Studio-Plugin
-Android Studio 插件
+# Android-Studio-Setting
+Android Studio 配置
