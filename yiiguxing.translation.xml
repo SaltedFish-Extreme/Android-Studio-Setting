@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Suspension functions can be called only within coroutine body" />
       <item value="Expecting a class body" />
       <item value="One type argument expected for interface OnHttpListener&lt;T : Any!&gt;" />
       <item value="Returns an instance that encapsulates the given [value] as successful value." />
@@ -54,7 +55,6 @@
       <item value="Val cannot be reassigned" />
       <item value="denied List" />
       <item value="saltedfish" />
-      <item value="Scoped Storage" />
     </histories>
   </component>
   <component name="Cache">
