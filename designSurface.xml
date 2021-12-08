@@ -7,6 +7,36 @@
         <entry key="..\:/AndroidStudioProjects/ActivityTest/app/src/main/res/layout/fruit_item.xml" value="0.2558876811594203" />
         <entry key="..\:/AndroidStudioProjects/ActivityTest/app/src/main/res/layout/third_layout.xml" value="0.3640625" />
         <entry key="..\:/AndroidStudioProjects/ActivityTest/app/src/main/res/layout/title.xml" value="0.35778985507246375" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/about_activity.xml" value="0.1537037037037037" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/address_dialog.xml" value="0.1537037037037037" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/album_dialog.xml" value="0.1537037037037037" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/album_item.xml" value="0.1537037037037037" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/browser_activity.xml" value="0.1537037037037037" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/browser_fragment.xml" value="0.1537037037037037" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/copy_activity.xml" value="0.1537037037037037" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/copy_fragment.xml" value="0.1537037037037037" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/copy_item.xml" value="0.1537037037037037" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/copy_popup.xml" value="0.1537037037037037" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/custom_dialog.xml" value="0.1537037037037037" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/date_dialog.xml" value="0.1537037037037037" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/dialog_activity.xml" value="0.1537037037037037" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/guide_activity.xml" value="0.1537037037037037" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/guide_item.xml" value="0.1537037037037037" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/home_activity.xml" value="0.1537037037037037" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/home_fragment.xml" value="0.1537037037037037" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/home_navigation_item.xml" value="0.1537037037037037" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/image_preview_activity.xml" value="0.1537037037037037" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/image_preview_item.xml" value="0.1537037037037037" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/image_select_activity.xml" value="0.1537037037037037" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/image_select_item.xml" value="0.1537037037037037" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/login_activity.xml" value="0.1537037037037037" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/menu_dialog.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/menu_item.xml" value="0.1537037037037037" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/message_dialog.xml" value="0.1537037037037037" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/message_fragment.xml" value="0.1537037037037037" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/mine_fragment.xml" value="0.1537037037037037" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/password_forget_activity.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/AndroidProject-master/app/src/main/res/layout/password_reset_activity.xml" value="0.1537037037037037" />
         <entry key="..\:/AndroidStudioProjects/AndroidProject/app/src/main/res/drawable/arrows_right_ic.xml" value="0.37916666666666665" />
         <entry key="..\:/AndroidStudioProjects/AndroidProject/app/src/main/res/drawable/ic_out.xml" value="0.37916666666666665" />
         <entry key="..\:/AndroidStudioProjects/AndroidProject/app/src/main/res/drawable/ic_out_pressed.xml" value="0.37916666666666665" />
