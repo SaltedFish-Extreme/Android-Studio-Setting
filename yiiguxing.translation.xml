@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="&#10;Call requires API level 26 (current min is 23): android.net.ConnectivityManagerrequestNetwork" />
+      <item value="Defines a request for a network, made through {@link NetworkRequest.Builder} and used&#10;  to request a network via {@link ConnectivityManagerrequestNetwork} or listen for changes&#10;  via {@link ConnectivityManagerregisterNetworkCallback}." />
+      <item value="describing this request." />
+      <item value="Cannot access '&lt;init&gt;': it is package-private in 'NetworkRequest'" />
+      <item value="Classifier 'NetworkRequest' does not have a companion object, and thus must be initialized here" />
+      <item value="Null can not be a value of a non-null type NetworkRequest" />
+      <item value="This annotation is not applicable to target 'local variable'" />
+      <item value="The lambda expression is unused. If you mean a block, you can use 'run { ... }'" />
+      <item value="Unexpected tokens (use ';' to separate expressions on the same line)" />
       <item value="Called when a network disconnects or otherwise no longer satisfies this request or&#10;callback.&#10;&lt;p&gt;If the callback was registered with requestNetwork() or&#10;registerDefaultNetworkCallback(), it will only be invoked against the last network&#10;returned by onAvailable() when that network is lost and no other network satisfies&#10;the criteria of the request.&#10;&lt;p&gt;If the callback was registered with registerNetworkCallback() it will be called for&#10;each network which no longer satisfies the criteria of the callback.&#10;&lt;p&gt;Do NOT call {@link getNetworkCapabilities(Network)} or&#10;{@link getLinkProperties(Network)} or other synchronous ConnectivityManager methods in&#10;this callback as this is prone to race conditions ; calling these methods while in a&#10;callback may return an outdated or even a null object.&#10;@param network The {@link Network} lost." />
       <item value="Callers should instead use the {@link ConnectivityManager.NetworkCallback} API to&#10;              learn about connectivity changes, or switch to use&#10;              {@link ConnectivityManagergetNetworkCapabilities} or&#10;              {@link ConnectivityManagergetLinkProperties} to get information synchronously. Keep&#10;              in mind that while callbacks are guaranteed to be called for every event in order,&#10;              synchronous calls have no such constraints, and as such it is unadvisable to use the&#10;              synchronous methods inside the callbacks as they will often not offer a view of&#10;              networking that is consistent (that is: they may return a past or a future state with&#10;              respect to the event being processed by the callback). Instead, callers are advised&#10;              to only use the arguments of the callbacks, possibly memorizing the specific bits of&#10;              information they need to keep from one callback to another." />
       <item value="Suppress Lint" />
@@ -46,20 +55,11 @@
       <item value="util" />
       <item value="utils" />
       <item value="get Active Network Info" />
-      <item value="Salted-Fish" />
-      <item value="Unable to start activity ComponentInfo{com.example.wanandroidcom.example.wanandroid.activity.MainActivity}: kotlin.UninitializedPropertyAccessException: lateinit property mNetworkChangeListener has not been initialized" />
-      <item value="A problem occurred evaluating root project 'WanAndroid'.&#10;&gt; Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by build file 'build.gradle'" />
-      <item value="A problem occurred evaluating root project 'WanAndroid'.&#10;&gt; Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'build.gradle'" />
-      <item value=" NOTE: Do not place your application dependencies here; they belong&#10;         in the individual module build.gradle files" />
-      <item value="persistent State" />
-      <item value="Net Work State" />
-      <item value="'lateinit' modifier is not allowed on properties of primitive types" />
-      <item value="network Status" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="79" />
-        <entry key="ENGLISH" value="80" />
+        <entry key="CHINESE" value="88" />
+        <entry key="ENGLISH" value="82" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
