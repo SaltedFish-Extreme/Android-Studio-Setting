@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="minify" />
+      <item value="minify Enabled" />
+      <item value="msg" />
+      <item value="CALL STACK INDEX" />
+      <item value="wrap Message" />
+      <item value="is Link Mode" />
       <item value="Extract the class name without any anonymous class suffixes&#10;      (e.g., `Foo1` becomes `Foo`)." />
       <item value="proguard" />
       <item value="Synthetic stacktrace didn't have enough elements: are you using proguard?" />
@@ -49,17 +55,11 @@
       <item value="net State" />
       <item value="net Work State" />
       <item value="wifi State" />
-      <item value="&#10;Exported receiver does not require permission" />
-      <item value="receiver" />
-      <item value="ACCESS NETWORK STATE" />
-      <item value="des" />
-      <item value="Recycler View Adapter" />
-      <item value="Recycler Adapter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="54" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="65" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
