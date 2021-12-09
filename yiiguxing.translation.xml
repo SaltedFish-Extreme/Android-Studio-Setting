@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="tinker" />
       <item value="try Use Login By Biometric" />
       <item value="Article" />
       <item value="古诗" />
@@ -54,8 +55,12 @@
       <item value="ACCESS FINE LOCATION" />
       <item value="&#10;Permission is only granted to system apps" />
       <item value="Your project may be using a third-party plugin which is not compatible with the other plugins in the project or the version of Gradle requested by the project." />
-      <item value=" Unable to instantiate activity ComponentInfo{com.example.permissionxcom.example.permissionx.MainActivity2}: java.lang.NullPointerException: Attempt to invoke virtual method 'android.content.pm.ApplicationInfo android.content.Context.getApplicationInfo()' on a null object reference" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1638781915489" />
