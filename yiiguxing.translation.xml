@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="A problem occurred evaluating project ':JetpackMvvm'.&#10;&gt; Failed to apply plugin 'com.github.dcendents.android-maven'.&#10;   &gt; Could not create plugin of type 'AndroidMavenPlugin'.&#10;      &gt; Could not generate a decorated class for type AndroidMavenPlugin.&#10;         &gt; orggradleapipublicationmaveninternalMavenPomMetaInfoProvider&#10;" />
       <item value="Runtime JAR files in the classpath should have the same version. These files were found in the classpath:" />
       <item value="A problem occurred configuring project ':app'.&#10;&gt; Failed to notify project evaluation listener.&#10;   &gt; It is too late to modify additionalParameters&#10;     It has already been read to configure this project.&#10;     Consider either moving this call to be during evaluation,&#10;     or using the variant API.&#10;   &gt; can't find tinkerProcessDebugManifest, you must init tinker plugin first!" />
       <item value="It is too late to modify additionalParameters&#10;It has already been read to configure this project.&#10;Consider either moving this call to be during evaluation,&#10;or using the variant API.&#10;" />
@@ -54,12 +55,11 @@
       <item value="grant" />
       <item value="buildscript" />
       <item value="SYSTEM ALERT WINDOW" />
-      <item value="悬浮窗" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="CHINESE" value="4" />
+        <entry key="ENGLISH" value="5" />
       </map>
     </option>
   </component>
