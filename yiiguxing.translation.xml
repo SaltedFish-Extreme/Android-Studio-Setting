@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="STATE CHANGE" />
+      <item value="WIFI STATE CHANGED" />
       <item value="on Capabilities Changed" />
       <item value="on Unavailable" />
       <item value="TRANSPORT BLUETOOTH" />
@@ -24,8 +26,6 @@
       <item value="ACCESS WIFI STATE" />
       <item value="CHANGE NETWORK STATE" />
       <item value="ACCESS NETWORK STATE" />
-      <item value="STATE CHANGE" />
-      <item value="WIFI STATE CHANGED" />
       <item value="connected to the mobile provider's data plan" />
       <item value="Error receiving broadcast Intent { act=android.net.conn.CONNECTIVITY_CHANGE flg=0x4200010 (has extras) } in com.example.wanandroid.receiver.NetworkConnectChangedReceiver@76dd73d" />
       <item value="com.example.wanandroid was not granted  either of these permissions: android.permission.CHANGE_NETWORK_STATE, android.permission.WRITE_SETTINGS." />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="113" />
-        <entry key="ENGLISH" value="114" />
+        <entry key="CHINESE" value="115" />
+        <entry key="ENGLISH" value="116" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
