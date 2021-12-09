@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Runtime JAR files in the classpath should have the same version. These files were found in the classpath:" />
+      <item value="A problem occurred configuring project ':app'.&#10;&gt; Failed to notify project evaluation listener.&#10;   &gt; It is too late to modify additionalParameters&#10;     It has already been read to configure this project.&#10;     Consider either moving this call to be during evaluation,&#10;     or using the variant API.&#10;   &gt; can't find tinkerProcessDebugManifest, you must init tinker plugin first!" />
+      <item value="It is too late to modify additionalParameters&#10;It has already been read to configure this project.&#10;Consider either moving this call to be during evaluation,&#10;or using the variant API.&#10;" />
       <item value="tinker" />
       <item value="try Use Login By Biometric" />
       <item value="Article" />
@@ -52,13 +55,11 @@
       <item value="buildscript" />
       <item value="SYSTEM ALERT WINDOW" />
       <item value="悬浮窗" />
-      <item value="ACCESS FINE LOCATION" />
-      <item value="&#10;Permission is only granted to system apps" />
-      <item value="Your project may be using a third-party plugin which is not compatible with the other plugins in the project or the version of Gradle requested by the project." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="3" />
+        <entry key="ENGLISH" value="4" />
       </map>
     </option>
   </component>
