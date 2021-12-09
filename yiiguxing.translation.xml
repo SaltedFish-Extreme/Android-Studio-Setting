@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="try Use Login By Biometric" />
+      <item value="Article" />
+      <item value="古诗" />
       <item value="USE FINGERPRINT" />
       <item value="USE BIOMETRIC" />
       <item value="Failed to notify project evaluation listener.&#10;   &gt; No such property: variantConfiguration for class: com.android.build.gradle.internal.variant.ApplicationVariantData&#10;   &gt; can't find tinkerProcessDebugManifest, you must init tinker plugin first!" />
@@ -52,9 +55,6 @@
       <item value="&#10;Permission is only granted to system apps" />
       <item value="Your project may be using a third-party plugin which is not compatible with the other plugins in the project or the version of Gradle requested by the project." />
       <item value=" Unable to instantiate activity ComponentInfo{com.example.permissionxcom.example.permissionx.MainActivity2}: java.lang.NullPointerException: Attempt to invoke virtual method 'android.content.pm.ApplicationInfo android.content.Context.getApplicationInfo()' on a null object reference" />
-      <item value="Request Permissions" />
-      <item value="Permissions" />
-      <item value="refusing to merge unrelated histories" />
     </histories>
   </component>
   <component name="Cache">
