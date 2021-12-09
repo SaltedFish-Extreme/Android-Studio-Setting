@@ -5,11 +5,19 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Synthetic stacktrace didn't have enough elements: are you using proguard" />
+      <item value="map Tag" />
+      <item value="map Msg" />
+      <item value="Extract the class name without any anonymous class suffixes (e.g., {@code Foo1}&#10;      becomes {@code Foo})." />
+      <item value="Network State" />
+      <item value="Connect" />
+      <item value="Network Connect Changed Receiver" />
+      <item value="Conflicting declarations: public var wifi: Boolean, public var wifi: Boolean" />
+      <item value="is Network Available" />
       <item value="for check internet over Bluetooth" />
       <item value="for other device how are able to connect with Ethernet" />
       <item value="desc" />
       <item value="decs" />
-      <item value="is Network Available" />
       <item value="Unable to start activity ComponentInfo{com.example.wanandroidcom.example.wanandroid.activity.MainActivity}: java.lang.NullPointerException: Attempt to invoke virtual method 'android.content.pm.ApplicationInfo android.app.Application.getApplicationInfo()' on a null object reference&#10;        at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3375)" />
       <item value="Bluetooth" />
       <item value="TRANSPORT BLUETOOTH" />
@@ -38,7 +46,6 @@
       <item value="net Work State" />
       <item value="wifi State" />
       <item value="&#10;Exported receiver does not require permission" />
-      <item value="Network Connect Changed Receiver" />
       <item value="receiver" />
       <item value="ACCESS NETWORK STATE" />
       <item value="des" />
@@ -48,19 +55,13 @@
       <item value="constraintlayout" />
       <item value="A problem occurred evaluating project ':JetpackMvvm'.&#10;&gt; Failed to apply plugin 'com.github.dcendents.android-maven'.&#10;   &gt; Could not create plugin of type 'AndroidMavenPlugin'.&#10;      &gt; Could not generate a decorated class for type AndroidMavenPlugin.&#10;         &gt; orggradleapipublicationmaveninternalMavenPomMetaInfoProvider&#10;" />
       <item value="Runtime JAR files in the classpath should have the same version. These files were found in the classpath:" />
-      <item value="A problem occurred configuring project ':app'.&#10;&gt; Failed to notify project evaluation listener.&#10;   &gt; It is too late to modify additionalParameters&#10;     It has already been read to configure this project.&#10;     Consider either moving this call to be during evaluation,&#10;     or using the variant API.&#10;   &gt; can't find tinkerProcessDebugManifest, you must init tinker plugin first!" />
-      <item value="It is too late to modify additionalParameters&#10;It has already been read to configure this project.&#10;Consider either moving this call to be during evaluation,&#10;or using the variant API.&#10;" />
-      <item value="tinker" />
-      <item value="try Use Login By Biometric" />
-      <item value="Article" />
-      <item value="古诗" />
-      <item value="USE FINGERPRINT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="CHINESE" value="50" />
+        <entry key="ENGLISH" value="51" />
         <entry key="FRENCH" value="2" />
+        <entry key="LUXEMBOURGISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
