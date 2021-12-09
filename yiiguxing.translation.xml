@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="A problem occurred evaluating project ':app'.&#10;&gt; No signature of method: build_6z1585qsyifalf19cq0zoa4jw.android() is applicable for argument types: (build_6z1585qsyifalf19cq0zoa4jw_run_closure1) values: [build_6z1585qsyifalf19cq0zoa4jw_run_closure1@27422b3d]&#10;" />
+      <item value="A problem occurred evaluating project ':app'.&#10;&gt; Could not set unknown property 'targetSdkVersion' for extension 'android' of type com.android.build.gradle.internal.dsl.BaseAppModuleExtension." />
+      <item value="request Network" />
+      <item value="Connectivity Manager" />
+      <item value="TRANSPORT ETHERNET" />
+      <item value="&#10;This annotation does not apply for type String; expected int or long" />
       <item value="CONNECTIVITY CHANGE" />
       <item value="Name of the action to match, such as Intent.ACTION_VIEW." />
       <item value="ACCESS WIFI STATE" />
@@ -49,17 +55,11 @@
       <item value="Network Connect Changed Receiver" />
       <item value="Conflicting declarations: public var wifi: Boolean, public var wifi: Boolean" />
       <item value="is Network Available" />
-      <item value="for check internet over Bluetooth" />
-      <item value="for other device how are able to connect with Ethernet" />
-      <item value="desc" />
-      <item value="decs" />
-      <item value="Unable to start activity ComponentInfo{com.example.wanandroidcom.example.wanandroid.activity.MainActivity}: java.lang.NullPointerException: Attempt to invoke virtual method 'android.content.pm.ApplicationInfo android.app.Application.getApplicationInfo()' on a null object reference&#10;        at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3375)" />
-      <item value="Bluetooth" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="94" />
-        <entry key="ENGLISH" value="95" />
+        <entry key="CHINESE" value="100" />
+        <entry key="ENGLISH" value="101" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
