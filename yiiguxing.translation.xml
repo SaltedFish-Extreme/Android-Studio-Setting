@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="&#10;Exported receiver does not require permission" />
+      <item value="Network Connect Changed Receiver" />
+      <item value="receiver" />
+      <item value="ACCESS NETWORK STATE" />
       <item value="des" />
       <item value="desc" />
       <item value="Recycler View Adapter" />
@@ -51,15 +55,11 @@
       <item value="&#10;Most apps are not allowed to use MANAGE_EXTERNAL_STORAGE" />
       <item value="You granted the permission" />
       <item value="You grant the permission" />
-      <item value="You denied the permission" />
-      <item value="Please register permissions in the AndroidManifest.xml file &lt;uses-permission android:name=&quot;android.permission.SYSTEM_ALERT_WINDOW&quot;" />
-      <item value="Jetifier" />
-      <item value="enable Jetifier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="11" />
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="13" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
