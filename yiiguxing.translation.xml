@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Suppress Lint" />
+      <item value="Deprecated Is Still Used" />
+      <item value="needed to maintain forward compatibility" />
+      <item value="Suppress Warnings" />
       <item value="CALL STACK INDEX" />
       <item value="proguard" />
       <item value="Synthetic stacktrace didn't have enough elements: are you using proguard?" />
@@ -51,15 +55,11 @@
       <item value="network Status" />
       <item value="network State" />
       <item value="com.example.wanandroid.net Work State" />
-      <item value="net Work Status" />
-      <item value="net State" />
-      <item value="net Work State" />
-      <item value="wifi State" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="CHINESE" value="77" />
+        <entry key="ENGLISH" value="78" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
