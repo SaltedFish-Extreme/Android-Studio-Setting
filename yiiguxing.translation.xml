@@ -1,10 +1,26 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="440" />
+    <option name="newTranslationDialogWidth" value="436" />
     <option name="newTranslationDialogX" value="402" />
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="for check internet over Bluetooth" />
+      <item value="for other device how are able to connect with Ethernet" />
+      <item value="desc" />
+      <item value="decs" />
+      <item value="is Network Available" />
+      <item value="Unable to start activity ComponentInfo{com.example.wanandroidcom.example.wanandroid.activity.MainActivity}: java.lang.NullPointerException: Attempt to invoke virtual method 'android.content.pm.ApplicationInfo android.app.Application.getApplicationInfo()' on a null object reference&#10;        at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3375)" />
+      <item value="Bluetooth" />
+      <item value="TRANSPORT BLUETOOTH" />
+      <item value="TRANSPORT ETHERNET" />
+      <item value="TRANSPORT CELLULAR" />
+      <item value="TRANSPORT WIFI" />
+      <item value="Check Network State Ext" />
+      <item value="Check Network State" />
+      <item value="工具" />
+      <item value="util" />
+      <item value="utils" />
       <item value="get Active Network Info" />
       <item value="Salted-Fish" />
       <item value="Unable to start activity ComponentInfo{com.example.wanandroidcom.example.wanandroid.activity.MainActivity}: kotlin.UninitializedPropertyAccessException: lateinit property mNetworkChangeListener has not been initialized" />
@@ -26,7 +42,6 @@
       <item value="receiver" />
       <item value="ACCESS NETWORK STATE" />
       <item value="des" />
-      <item value="desc" />
       <item value="Recycler View Adapter" />
       <item value="Recycler Adapter" />
       <item value="extensions" />
@@ -40,27 +55,13 @@
       <item value="Article" />
       <item value="古诗" />
       <item value="USE FINGERPRINT" />
-      <item value="USE BIOMETRIC" />
-      <item value="Failed to notify project evaluation listener.&#10;   &gt; No such property: variantConfiguration for class: com.android.build.gradle.internal.variant.ApplicationVariantData&#10;   &gt; can't find tinkerProcessDebugManifest, you must init tinker plugin first!" />
-      <item value="migration guide" />
-      <item value="Suspension functions can be called only within coroutine body" />
-      <item value="Expecting a class body" />
-      <item value="One type argument expected for interface OnHttpListener&lt;T : Any!&gt;" />
-      <item value="Returns an instance that encapsulates the given [value] as successful value." />
-      <item value="Not enough information to infer type variable Y" />
-      <item value="&#10;This field leaks a context object" />
-      <item value="Indices Weather Api" />
-      <item value="Live Index" />
-      <item value="Life Index" />
-      <item value="Life Index Request Server" />
-      <item value="生活指数" />
-      <item value="Indices" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="28" />
-        <entry key="ENGLISH" value="29" />
+        <entry key="CHINESE" value="43" />
+        <entry key="ENGLISH" value="44" />
         <entry key="FRENCH" value="2" />
+        <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
   </component>
