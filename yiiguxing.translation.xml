@@ -5,11 +5,17 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="TRANSPORT BLUETOOTH" />
+      <item value="TRANSPORT WIFI" />
+      <item value="get Network Capabilities" />
+      <item value="TRANSPORT ETHERNET" />
+      <item value="TRANSPORT CELLULAR" />
+      <item value="active Network" />
+      <item value="on Available" />
       <item value="A problem occurred evaluating project ':app'.&#10;&gt; No signature of method: build_6z1585qsyifalf19cq0zoa4jw.android() is applicable for argument types: (build_6z1585qsyifalf19cq0zoa4jw_run_closure1) values: [build_6z1585qsyifalf19cq0zoa4jw_run_closure1@27422b3d]&#10;" />
       <item value="A problem occurred evaluating project ':app'.&#10;&gt; Could not set unknown property 'targetSdkVersion' for extension 'android' of type com.android.build.gradle.internal.dsl.BaseAppModuleExtension." />
       <item value="request Network" />
       <item value="Connectivity Manager" />
-      <item value="TRANSPORT ETHERNET" />
       <item value="&#10;This annotation does not apply for type String; expected int or long" />
       <item value="CONNECTIVITY CHANGE" />
       <item value="Name of the action to match, such as Intent.ACTION_VIEW." />
@@ -49,17 +55,11 @@
       <item value="Synthetic stacktrace didn't have enough elements: are you using proguard" />
       <item value="map Tag" />
       <item value="map Msg" />
-      <item value="Extract the class name without any anonymous class suffixes (e.g., {@code Foo1}&#10;      becomes {@code Foo})." />
-      <item value="Network State" />
-      <item value="Connect" />
-      <item value="Network Connect Changed Receiver" />
-      <item value="Conflicting declarations: public var wifi: Boolean, public var wifi: Boolean" />
-      <item value="is Network Available" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="100" />
-        <entry key="ENGLISH" value="101" />
+        <entry key="CHINESE" value="111" />
+        <entry key="ENGLISH" value="112" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
