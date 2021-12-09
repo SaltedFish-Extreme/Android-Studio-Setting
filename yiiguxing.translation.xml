@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Called when a network disconnects or otherwise no longer satisfies this request or&#10;callback.&#10;&lt;p&gt;If the callback was registered with requestNetwork() or&#10;registerDefaultNetworkCallback(), it will only be invoked against the last network&#10;returned by onAvailable() when that network is lost and no other network satisfies&#10;the criteria of the request.&#10;&lt;p&gt;If the callback was registered with registerNetworkCallback() it will be called for&#10;each network which no longer satisfies the criteria of the callback.&#10;&lt;p&gt;Do NOT call {@link getNetworkCapabilities(Network)} or&#10;{@link getLinkProperties(Network)} or other synchronous ConnectivityManager methods in&#10;this callback as this is prone to race conditions ; calling these methods while in a&#10;callback may return an outdated or even a null object.&#10;@param network The {@link Network} lost." />
+      <item value="Callers should instead use the {@link ConnectivityManager.NetworkCallback} API to&#10;              learn about connectivity changes, or switch to use&#10;              {@link ConnectivityManagergetNetworkCapabilities} or&#10;              {@link ConnectivityManagergetLinkProperties} to get information synchronously. Keep&#10;              in mind that while callbacks are guaranteed to be called for every event in order,&#10;              synchronous calls have no such constraints, and as such it is unadvisable to use the&#10;              synchronous methods inside the callbacks as they will often not offer a view of&#10;              networking that is consistent (that is: they may return a past or a future state with&#10;              respect to the event being processed by the callback). Instead, callers are advised&#10;              to only use the arguments of the callbacks, possibly memorizing the specific bits of&#10;              information they need to keep from one callback to another." />
       <item value="Suppress Lint" />
       <item value="Deprecated Is Still Used" />
       <item value="needed to maintain forward compatibility" />
@@ -53,13 +55,11 @@
       <item value="Net Work State" />
       <item value="'lateinit' modifier is not allowed on properties of primitive types" />
       <item value="network Status" />
-      <item value="network State" />
-      <item value="com.example.wanandroid.net Work State" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="77" />
-        <entry key="ENGLISH" value="78" />
+        <entry key="CHINESE" value="79" />
+        <entry key="ENGLISH" value="80" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
