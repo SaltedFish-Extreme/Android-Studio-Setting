@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Activity Collector" />
       <item value="on Unavailable" />
       <item value="Stub ConnectivityManager for layoutlib" />
       <item value="The minCompileSdk (31) specified in a&#10;     dependency's AAR metadata (META-INFcomandroidbuildgradleaar-metadata.properties)&#10;     is greater than this module's compileSdkVersion (android-30).&#10;     Dependency: androidx.emoji2:emoji2-views-helper:1.0.0." />
@@ -54,12 +55,11 @@
       <item value="msg" />
       <item value="wrap Message" />
       <item value="is Link Mode" />
-      <item value="Extract the class name without any anonymous class suffixes&#10;      (e.g., `Foo1` becomes `Foo`)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="119" />
-        <entry key="ENGLISH" value="120" />
+        <entry key="CHINESE" value="120" />
+        <entry key="ENGLISH" value="121" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
