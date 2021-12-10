@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="on Page Scrolled" />
+      <item value="invoke" />
+      <item value="register On Page Change Callback" />
       <item value="action" />
       <item value="Primary brand color." />
       <item value="Inlined Api" />
@@ -52,14 +55,11 @@
       <item value="describing this request." />
       <item value="Cannot access '&lt;init&gt;': it is package-private in 'NetworkRequest'" />
       <item value="Classifier 'NetworkRequest' does not have a companion object, and thus must be initialized here" />
-      <item value="Null can not be a value of a non-null type NetworkRequest" />
-      <item value="This annotation is not applicable to target 'local variable'" />
-      <item value="The lambda expression is unused. If you mean a block, you can use 'run { ... }'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="136" />
-        <entry key="ENGLISH" value="137" />
+        <entry key="CHINESE" value="139" />
+        <entry key="ENGLISH" value="140" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
