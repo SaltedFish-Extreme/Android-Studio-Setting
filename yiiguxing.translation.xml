@@ -5,9 +5,18 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="open Top Margin Status Bar Height" />
-      <item value="widget" />
       <item value="Bottom Drawer Layout" />
+      <item value="Collect View" />
+      <item value="Submit View" />
+      <item value="Color Circle Background View" />
+      <item value="open Top Margin Status Bar Height" />
+      <item value="clamp View Position Horizontal" />
+      <item value="get View Vertical Drag Range" />
+      <item value="get View Horizontal Drag Range" />
+      <item value="on View Captured" />
+      <item value="try Capture View" />
+      <item value="open Top Margin" />
+      <item value="widget" />
       <item value="on Page Scrolled" />
       <item value="invoke" />
       <item value="register On Page Change Callback" />
@@ -46,20 +55,11 @@
       <item value="Connectivity Manager" />
       <item value="&#10;This annotation does not apply for type String; expected int or long" />
       <item value="CONNECTIVITY CHANGE" />
-      <item value="Name of the action to match, such as Intent.ACTION_VIEW." />
-      <item value="ACCESS WIFI STATE" />
-      <item value="CHANGE NETWORK STATE" />
-      <item value="ACCESS NETWORK STATE" />
-      <item value="connected to the mobile provider's data plan" />
-      <item value="Error receiving broadcast Intent { act=android.net.conn.CONNECTIVITY_CHANGE flg=0x4200010 (has extras) } in com.example.wanandroid.receiver.NetworkConnectChangedReceiver@76dd73d" />
-      <item value="com.example.wanandroid was not granted  either of these permissions: android.permission.CHANGE_NETWORK_STATE, android.permission.WRITE_SETTINGS." />
-      <item value="&#10;Call requires API level 26 (current min is 23): android.net.ConnectivityManagerrequestNetwork" />
-      <item value="Defines a request for a network, made through {@link NetworkRequest.Builder} and used&#10;  to request a network via {@link ConnectivityManagerrequestNetwork} or listen for changes&#10;  via {@link ConnectivityManagerregisterNetworkCallback}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="142" />
+        <entry key="CHINESE" value="152" />
+        <entry key="ENGLISH" value="153" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
