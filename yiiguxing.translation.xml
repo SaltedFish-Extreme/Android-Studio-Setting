@@ -5,12 +5,12 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="on Unavailable" />
       <item value="Stub ConnectivityManager for layoutlib" />
       <item value="The minCompileSdk (31) specified in a&#10;     dependency's AAR metadata (META-INFcomandroidbuildgradleaar-metadata.properties)&#10;     is greater than this module's compileSdkVersion (android-30).&#10;     Dependency: androidx.emoji2:emoji2-views-helper:1.0.0." />
       <item value="STATE CHANGE" />
       <item value="WIFI STATE CHANGED" />
       <item value="on Capabilities Changed" />
-      <item value="on Unavailable" />
       <item value="TRANSPORT BLUETOOTH" />
       <item value="TRANSPORT WIFI" />
       <item value="get Network Capabilities" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="119" />
+        <entry key="ENGLISH" value="120" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
