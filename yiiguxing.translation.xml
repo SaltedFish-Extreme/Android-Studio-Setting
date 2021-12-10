@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Hide - Show NavHostFragment" />
+      <item value="NavHostFragment provides an area within your layout for self-contained navigation to occur." />
+      <item value="Android Studio Navigation editor temp files" />
       <item value="slide in left" />
       <item value="pop Enter Anim" />
       <item value="slide out left" />
@@ -52,14 +55,11 @@
       <item value="Deprecated Is Still Used" />
       <item value="needed to maintain forward compatibility" />
       <item value="Suppress Warnings" />
-      <item value="CALL STACK INDEX" />
-      <item value="proguard" />
-      <item value="Synthetic stacktrace didn't have enough elements: are you using proguard?" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="126" />
-        <entry key="ENGLISH" value="127" />
+        <entry key="CHINESE" value="129" />
+        <entry key="ENGLISH" value="130" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
