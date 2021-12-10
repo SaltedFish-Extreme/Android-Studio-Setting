@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Primary brand color." />
+      <item value="Inlined Api" />
+      <item value="FROM HTML MODE LEGACY" />
+      <item value="&#10;Field requires API level 24 (current min is 21): android.text.HtmlFROM_HTML_MODE_LEGACY" />
+      <item value="desc" />
+      <item value="Activity Collector" />
       <item value="公众号" />
       <item value="Hide - Show NavHostFragment" />
       <item value="NavHostFragment provides an area within your layout for self-contained navigation to occur." />
@@ -14,7 +20,6 @@
       <item value="slide out left" />
       <item value="slide in right" />
       <item value="multi Dex Enabled" />
-      <item value="Activity Collector" />
       <item value="on Unavailable" />
       <item value="Stub ConnectivityManager for layoutlib" />
       <item value="The minCompileSdk (31) specified in a&#10;     dependency's AAR metadata (META-INFcomandroidbuildgradleaar-metadata.properties)&#10;     is greater than this module's compileSdkVersion (android-30).&#10;     Dependency: androidx.emoji2:emoji2-views-helper:1.0.0." />
@@ -50,16 +55,11 @@
       <item value="This annotation is not applicable to target 'local variable'" />
       <item value="The lambda expression is unused. If you mean a block, you can use 'run { ... }'" />
       <item value="Unexpected tokens (use ';' to separate expressions on the same line)" />
-      <item value="Called when a network disconnects or otherwise no longer satisfies this request or&#10;callback.&#10;&lt;p&gt;If the callback was registered with requestNetwork() or&#10;registerDefaultNetworkCallback(), it will only be invoked against the last network&#10;returned by onAvailable() when that network is lost and no other network satisfies&#10;the criteria of the request.&#10;&lt;p&gt;If the callback was registered with registerNetworkCallback() it will be called for&#10;each network which no longer satisfies the criteria of the callback.&#10;&lt;p&gt;Do NOT call {@link getNetworkCapabilities(Network)} or&#10;{@link getLinkProperties(Network)} or other synchronous ConnectivityManager methods in&#10;this callback as this is prone to race conditions ; calling these methods while in a&#10;callback may return an outdated or even a null object.&#10;@param network The {@link Network} lost." />
-      <item value="Callers should instead use the {@link ConnectivityManager.NetworkCallback} API to&#10;              learn about connectivity changes, or switch to use&#10;              {@link ConnectivityManagergetNetworkCapabilities} or&#10;              {@link ConnectivityManagergetLinkProperties} to get information synchronously. Keep&#10;              in mind that while callbacks are guaranteed to be called for every event in order,&#10;              synchronous calls have no such constraints, and as such it is unadvisable to use the&#10;              synchronous methods inside the callbacks as they will often not offer a view of&#10;              networking that is consistent (that is: they may return a past or a future state with&#10;              respect to the event being processed by the callback). Instead, callers are advised&#10;              to only use the arguments of the callbacks, possibly memorizing the specific bits of&#10;              information they need to keep from one callback to another." />
-      <item value="Suppress Lint" />
-      <item value="Deprecated Is Still Used" />
-      <item value="needed to maintain forward compatibility" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="130" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="CHINESE" value="135" />
+        <entry key="ENGLISH" value="136" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
