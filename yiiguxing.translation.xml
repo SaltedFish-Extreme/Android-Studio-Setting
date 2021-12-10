@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Assignments are not expressions, and only expressions are allowed in this context" />
       <item value="Poems" />
       <item value="诗词" />
       <item value="Non exhaustive 'when' statements on enum will be prohibited in 1.7, add 'PullUpToLoad', 'PullDownCanceled', 'PullUpCanceled', 'ReleaseToLoad', 'ReleaseToTwoLevel', 'TwoLevelReleased', 'LoadReleased', ... branches or 'else' branch instead" />
@@ -54,11 +55,10 @@
       <item value="Stub ConnectivityManager for layoutlib" />
       <item value="The minCompileSdk (31) specified in a&#10;     dependency's AAR metadata (META-INFcomandroidbuildgradleaar-metadata.properties)&#10;     is greater than this module's compileSdkVersion (android-30).&#10;     Dependency: androidx.emoji2:emoji2-views-helper:1.0.0." />
       <item value="STATE CHANGE" />
-      <item value="WIFI STATE CHANGED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="171" />
+        <entry key="CHINESE" value="172" />
         <entry key="ENGLISH" value="168" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
