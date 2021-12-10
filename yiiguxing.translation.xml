@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="action" />
       <item value="Primary brand color." />
       <item value="Inlined Api" />
       <item value="FROM HTML MODE LEGACY" />
@@ -54,12 +55,11 @@
       <item value="Null can not be a value of a non-null type NetworkRequest" />
       <item value="This annotation is not applicable to target 'local variable'" />
       <item value="The lambda expression is unused. If you mean a block, you can use 'run { ... }'" />
-      <item value="Unexpected tokens (use ';' to separate expressions on the same line)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="135" />
-        <entry key="ENGLISH" value="136" />
+        <entry key="CHINESE" value="136" />
+        <entry key="ENGLISH" value="137" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
