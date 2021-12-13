@@ -5,6 +5,19 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Poem Token Response" />
+      <item value="obtain Poem Token" />
+      <item value="Obtain Token" />
+      <item value="获取诗词token" />
+      <item value="Obtain" />
+      <item value="获取" />
+      <item value="BASE POEM URL" />
+      <item value="poem Token" />
+      <item value="Holder" />
+      <item value="Poem Refresh Holder" />
+      <item value="观察器" />
+      <item value="viewholder" />
+      <item value="Scale Transition Pager Title View" />
       <item value="Poem Refresh Header" />
       <item value="poem" />
       <item value="poems" />
@@ -42,24 +55,11 @@
       <item value="try Capture View" />
       <item value="open Top Margin" />
       <item value="on Page Scrolled" />
-      <item value="invoke" />
-      <item value="register On Page Change Callback" />
-      <item value="action" />
-      <item value="Primary brand color." />
-      <item value="Inlined Api" />
-      <item value="FROM HTML MODE LEGACY" />
-      <item value="&#10;Field requires API level 24 (current min is 21): android.text.HtmlFROM_HTML_MODE_LEGACY" />
-      <item value="desc" />
-      <item value="Activity Collector" />
-      <item value="公众号" />
-      <item value="Hide - Show NavHostFragment" />
-      <item value="NavHostFragment provides an area within your layout for self-contained navigation to occur." />
-      <item value="Android Studio Navigation editor temp files" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="179" />
-        <entry key="ENGLISH" value="180" />
+        <entry key="CHINESE" value="190" />
+        <entry key="ENGLISH" value="191" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
