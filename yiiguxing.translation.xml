@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="weight" />
+      <item value="widget" />
+      <item value="srl Enable Pure Scroll Mode" />
+      <item value="refreshlayout" />
+      <item value="Classics Footer" />
+      <item value="Classics Header" />
       <item value="android.view.InflateException: Binary XML file line 31 in com.example.wanandroid:layoutlayout_shici_refresh_header: Binary XML file line 31 in com.example.wanandroid:layoutlayout_shici_refresh_header: Error inflating class TextView&#10;    Caused by: android.view.InflateException: Binary XML file line 31 in com.example.wanandroid:layoutlayout_shici_refresh_header: Error inflating class TextView" />
       <item value="Assignments are not expressions, and only expressions are allowed in this context" />
       <item value="Poems" />
@@ -32,7 +38,6 @@
       <item value="on View Captured" />
       <item value="try Capture View" />
       <item value="open Top Margin" />
-      <item value="widget" />
       <item value="on Page Scrolled" />
       <item value="invoke" />
       <item value="register On Page Change Callback" />
@@ -50,16 +55,11 @@
       <item value="slide in left" />
       <item value="pop Enter Anim" />
       <item value="slide out left" />
-      <item value="slide in right" />
-      <item value="multi Dex Enabled" />
-      <item value="on Unavailable" />
-      <item value="Stub ConnectivityManager for layoutlib" />
-      <item value="The minCompileSdk (31) specified in a&#10;     dependency's AAR metadata (META-INFcomandroidbuildgradleaar-metadata.properties)&#10;     is greater than this module's compileSdkVersion (android-30).&#10;     Dependency: androidx.emoji2:emoji2-views-helper:1.0.0." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="172" />
-        <entry key="ENGLISH" value="169" />
+        <entry key="CHINESE" value="174" />
+        <entry key="ENGLISH" value="174" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
