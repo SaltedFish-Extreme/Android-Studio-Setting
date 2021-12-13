@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="poem Token Response" />
+      <item value="poem token Response" />
+      <item value="poemtoken Response" />
+      <item value="repository" />
+      <item value="obtain Poem" />
       <item value="Poem Token Response" />
       <item value="obtain Poem Token" />
       <item value="Obtain Token" />
@@ -50,16 +55,11 @@
       <item value="open Top Margin Status Bar Height" />
       <item value="clamp View Position Horizontal" />
       <item value="get View Vertical Drag Range" />
-      <item value="get View Horizontal Drag Range" />
-      <item value="on View Captured" />
-      <item value="try Capture View" />
-      <item value="open Top Margin" />
-      <item value="on Page Scrolled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="190" />
-        <entry key="ENGLISH" value="191" />
+        <entry key="CHINESE" value="193" />
+        <entry key="ENGLISH" value="194" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
