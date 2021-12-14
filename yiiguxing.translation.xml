@@ -5,12 +5,12 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Poem Token Response" />
       <item value="poem Token Response" />
       <item value="poem token Response" />
       <item value="poemtoken Response" />
       <item value="repository" />
       <item value="obtain Poem" />
-      <item value="Poem Token Response" />
       <item value="obtain Poem Token" />
       <item value="Obtain Token" />
       <item value="获取诗词token" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="193" />
-        <entry key="ENGLISH" value="194" />
+        <entry key="CHINESE" value="194" />
+        <entry key="ENGLISH" value="195" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
