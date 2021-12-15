@@ -5,9 +5,13 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Refresh Released" />
       <item value="Pull Down To Refresh" />
       <item value="Release To Refresh" />
-      <item value="Refresh Released" />
+      <item value="Refresh Finish" />
+      <item value="Refreshing" />
+      <item value="Release To Two Level" />
+      <item value="Pull Down Canceled" />
       <item value="is Support Horizontal Drag" />
       <item value="on Horizontal Drag" />
       <item value="on Finish" />
@@ -51,15 +55,11 @@
       <item value="viewholder" />
       <item value="Scale Transition Pager Title View" />
       <item value="Poem Refresh Header" />
-      <item value="poem" />
-      <item value="poems" />
-      <item value="诗词" />
-      <item value="weight" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="216" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="CHINESE" value="227" />
+        <entry key="ENGLISH" value="228" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
