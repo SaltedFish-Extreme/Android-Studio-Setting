@@ -5,8 +5,10 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="Only one class may appear in a supertype list" />
+      <item value="Lateinit is unnecessary: definitely initialized in constructors" />
       <item value="Refresh Released" />
+      <item value="&#10;Should pass resolved color instead of resource id here: getResources().getColor(color)" />
+      <item value="Only one class may appear in a supertype list" />
       <item value="Release To Refresh" />
       <item value="is Visible" />
       <item value="Progress Drawable" />
@@ -53,13 +55,11 @@
       <item value="obtain Poem Token" />
       <item value="Obtain Token" />
       <item value="获取诗词token" />
-      <item value="Obtain" />
-      <item value="获取" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="270" />
-        <entry key="ENGLISH" value="270" />
+        <entry key="CHINESE" value="272" />
+        <entry key="ENGLISH" value="271" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
