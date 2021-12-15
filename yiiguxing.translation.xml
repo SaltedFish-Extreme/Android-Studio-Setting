@@ -5,6 +5,20 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Pull Down To Refresh" />
+      <item value="Release To Refresh" />
+      <item value="Refresh Released" />
+      <item value="is Support Horizontal Drag" />
+      <item value="on Horizontal Drag" />
+      <item value="on Finish" />
+      <item value="on Start Animator" />
+      <item value="on Released" />
+      <item value="on Moving" />
+      <item value="on Initialized" />
+      <item value="set Primary Colors" />
+      <item value="get Spinner Style" />
+      <item value="get View" />
+      <item value="on State Changed" />
       <item value="Suspend function 'coroutineScope' should be called only from a coroutine or another suspend function" />
       <item value="Cannot access '&lt;init&gt;': it is internal in 'Result'" />
       <item value="'lateinit' modifier is not allowed on properties of inline class types" />
@@ -41,25 +55,11 @@
       <item value="poems" />
       <item value="诗词" />
       <item value="weight" />
-      <item value="widget" />
-      <item value="srl Enable Pure Scroll Mode" />
-      <item value="refreshlayout" />
-      <item value="Classics Footer" />
-      <item value="Classics Header" />
-      <item value="android.view.InflateException: Binary XML file line 31 in com.example.wanandroid:layoutlayout_shici_refresh_header: Binary XML file line 31 in com.example.wanandroid:layoutlayout_shici_refresh_header: Error inflating class TextView&#10;    Caused by: android.view.InflateException: Binary XML file line 31 in com.example.wanandroid:layoutlayout_shici_refresh_header: Error inflating class TextView" />
-      <item value="Assignments are not expressions, and only expressions are allowed in this context" />
-      <item value="Poems" />
-      <item value="Non exhaustive 'when' statements on enum will be prohibited in 1.7, add 'PullUpToLoad', 'PullDownCanceled', 'PullUpCanceled', 'ReleaseToLoad', 'ReleaseToTwoLevel', 'TwoLevelReleased', 'LoadReleased', ... branches or 'else' branch instead" />
-      <item value="tab indicator text" />
-      <item value="secondary text dark nodisable" />
-      <item value="secondary text dark" />
-      <item value="&#10;Expected resource of type color" />
-      <item value="Initializer is not allowed here because this property has no backing field" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="206" />
-        <entry key="ENGLISH" value="203" />
+        <entry key="CHINESE" value="216" />
+        <entry key="ENGLISH" value="217" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
