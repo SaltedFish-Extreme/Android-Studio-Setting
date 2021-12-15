@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Suspend function 'coroutineScope' should be called only from a coroutine or another suspend function" />
+      <item value="Cannot access '&lt;init&gt;': it is internal in 'Result'" />
       <item value="'lateinit' modifier is not allowed on properties of inline class types" />
       <item value="Conflicting declarations: val result: Result&lt;T&gt;, val result: Result&lt;T&gt;" />
       <item value="noinspection GradleDependency" />
@@ -53,12 +55,10 @@
       <item value="secondary text dark" />
       <item value="&#10;Expected resource of type color" />
       <item value="Initializer is not allowed here because this property has no backing field" />
-      <item value="&#10;Accessing internal APIs via reflection is not supported and may not work on all devices or in the future" />
-      <item value="Simple On Multi Listener" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="204" />
+        <entry key="CHINESE" value="206" />
         <entry key="ENGLISH" value="203" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
