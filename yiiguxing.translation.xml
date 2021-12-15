@@ -5,21 +5,27 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Progress Drawable" />
+      <item value="Arrow Drawable" />
+      <item value="progress Drawable" />
+      <item value="arrow Drawable" />
       <item value="Refresh Released" />
+      <item value="Refreshing" />
+      <item value="Refresh Finish" />
+      <item value="Pull Down Canceled" />
       <item value="Pull Down To Refresh" />
       <item value="Release To Refresh" />
-      <item value="Refresh Finish" />
-      <item value="Refreshing" />
-      <item value="Release To Two Level" />
-      <item value="Pull Down Canceled" />
+      <item value="REFRESH HEADER PULLING" />
+      <item value="'lateinit' modifier is not allowed on properties of nullable types" />
       <item value="is Support Horizontal Drag" />
+      <item value="set Primary Colors" />
+      <item value="on Moving" />
+      <item value="on Released" />
+      <item value="Release To Two Level" />
       <item value="on Horizontal Drag" />
       <item value="on Finish" />
       <item value="on Start Animator" />
-      <item value="on Released" />
-      <item value="on Moving" />
       <item value="on Initialized" />
-      <item value="set Primary Colors" />
       <item value="get Spinner Style" />
       <item value="get View" />
       <item value="on State Changed" />
@@ -49,17 +55,11 @@
       <item value="获取" />
       <item value="BASE POEM URL" />
       <item value="poem Token" />
-      <item value="Holder" />
-      <item value="Poem Refresh Holder" />
-      <item value="观察器" />
-      <item value="viewholder" />
-      <item value="Scale Transition Pager Title View" />
-      <item value="Poem Refresh Header" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="227" />
-        <entry key="ENGLISH" value="228" />
+        <entry key="CHINESE" value="261" />
+        <entry key="ENGLISH" value="262" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
