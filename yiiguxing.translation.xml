@@ -5,17 +5,18 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Only one class may appear in a supertype list" />
+      <item value="Refresh Released" />
+      <item value="Release To Refresh" />
       <item value="is Visible" />
       <item value="Progress Drawable" />
       <item value="Arrow Drawable" />
       <item value="progress Drawable" />
       <item value="arrow Drawable" />
-      <item value="Refresh Released" />
       <item value="Refreshing" />
       <item value="Refresh Finish" />
       <item value="Pull Down Canceled" />
       <item value="Pull Down To Refresh" />
-      <item value="Release To Refresh" />
       <item value="REFRESH HEADER PULLING" />
       <item value="'lateinit' modifier is not allowed on properties of nullable types" />
       <item value="is Support Horizontal Drag" />
@@ -54,12 +55,11 @@
       <item value="获取诗词token" />
       <item value="Obtain" />
       <item value="获取" />
-      <item value="BASE POEM URL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="262" />
-        <entry key="ENGLISH" value="263" />
+        <entry key="CHINESE" value="270" />
+        <entry key="ENGLISH" value="270" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
