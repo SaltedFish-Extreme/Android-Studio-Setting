@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Refreshing" />
       <item value="Refresh Released" />
       <item value="Release To Refresh" />
       <item value="None" />
@@ -25,7 +26,6 @@
       <item value="Arrow Drawable" />
       <item value="progress Drawable" />
       <item value="arrow Drawable" />
-      <item value="Refreshing" />
       <item value="Refresh Finish" />
       <item value="Pull Down Canceled" />
       <item value="REFRESH HEADER PULLING" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="279" />
-        <entry key="ENGLISH" value="280" />
+        <entry key="CHINESE" value="281" />
+        <entry key="ENGLISH" value="282" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
