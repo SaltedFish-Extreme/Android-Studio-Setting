@@ -5,9 +5,11 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Refresh Released" />
+      <item value="Release To Refresh" />
+      <item value="None" />
       <item value="My Classics Header" />
       <item value="Pull Down To Refresh" />
-      <item value="Release To Refresh" />
       <item value="Variable 'results' must be initialized" />
       <item value="Modifier 'private' is not applicable to 'local function'" />
       <item value="Suspend function 'fire' should be called only from a coroutine or another suspend function" />
@@ -15,8 +17,6 @@
       <item value="This is a delicate API and its use requires care. Make sure you fully read and understand documentation of the declaration that is marked as a delicate API." />
       <item value="Talking is cheap, show me the code" />
       <item value="&#10;It will always be more efficient to use more specific change events if you can. Rely on notifyDataSetChanged as a last resort." />
-      <item value="Refresh Released" />
-      <item value="None" />
       <item value="Lateinit is unnecessary: definitely initialized in constructors" />
       <item value="&#10;Should pass resolved color instead of resource id here: getResources().getColor(color)" />
       <item value="Only one class may appear in a supertype list" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="278" />
-        <entry key="ENGLISH" value="277" />
+        <entry key="CHINESE" value="279" />
+        <entry key="ENGLISH" value="280" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
