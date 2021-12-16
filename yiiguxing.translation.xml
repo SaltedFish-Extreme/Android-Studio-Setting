@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Modifier 'private' is not applicable to 'local function'" />
       <item value="Suspend function 'fire' should be called only from a coroutine or another suspend function" />
       <item value="The expression is unused" />
       <item value="This is a delicate API and its use requires care. Make sure you fully read and understand documentation of the declaration that is marked as a delicate API." />
@@ -54,11 +55,10 @@
       <item value="Binary XML file line 31 in com.example.wanandroid:layoutlayout_poem_refresh_header: Binary XML file line 31 in com.example.wanandroid:layoutlayout_poem_refresh_header: Error inflating class TextView" />
       <item value="Poem Token Response" />
       <item value="poem Token Response" />
-      <item value="poem token Response" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="276" />
+        <entry key="CHINESE" value="277" />
         <entry key="ENGLISH" value="274" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
