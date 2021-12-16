@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Suspend function 'fire' should be called only from a coroutine or another suspend function" />
+      <item value="The expression is unused" />
+      <item value="This is a delicate API and its use requires care. Make sure you fully read and understand documentation of the declaration that is marked as a delicate API." />
       <item value="Talking is cheap, show me the code" />
       <item value="&#10;It will always be more efficient to use more specific change events if you can. Rely on notifyDataSetChanged as a last resort." />
       <item value="Refresh Released" />
@@ -52,13 +55,10 @@
       <item value="Poem Token Response" />
       <item value="poem Token Response" />
       <item value="poem token Response" />
-      <item value="poemtoken Response" />
-      <item value="repository" />
-      <item value="obtain Poem" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="273" />
+        <entry key="CHINESE" value="276" />
         <entry key="ENGLISH" value="274" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
