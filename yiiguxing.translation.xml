@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="&#10;It will always be more efficient to use more specific change events if you can. Rely on notifyDataSetChanged as a last resort." />
       <item value="Refresh Released" />
       <item value="None" />
       <item value="Lateinit is unnecessary: definitely initialized in constructors" />
@@ -54,11 +55,10 @@
       <item value="repository" />
       <item value="obtain Poem" />
       <item value="obtain Poem Token" />
-      <item value="Obtain Token" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="272" />
+        <entry key="CHINESE" value="273" />
         <entry key="ENGLISH" value="273" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
