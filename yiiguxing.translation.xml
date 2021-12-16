@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Talking is cheap, show me the code" />
       <item value="&#10;It will always be more efficient to use more specific change events if you can. Rely on notifyDataSetChanged as a last resort." />
       <item value="Refresh Released" />
       <item value="None" />
@@ -54,12 +55,11 @@
       <item value="poemtoken Response" />
       <item value="repository" />
       <item value="obtain Poem" />
-      <item value="obtain Poem Token" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="273" />
-        <entry key="ENGLISH" value="273" />
+        <entry key="ENGLISH" value="274" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
