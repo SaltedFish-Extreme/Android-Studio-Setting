@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="My Classics Header" />
+      <item value="Pull Down To Refresh" />
+      <item value="Release To Refresh" />
+      <item value="Variable 'results' must be initialized" />
       <item value="Modifier 'private' is not applicable to 'local function'" />
       <item value="Suspend function 'fire' should be called only from a coroutine or another suspend function" />
       <item value="The expression is unused" />
@@ -16,7 +20,6 @@
       <item value="Lateinit is unnecessary: definitely initialized in constructors" />
       <item value="&#10;Should pass resolved color instead of resource id here: getResources().getColor(color)" />
       <item value="Only one class may appear in a supertype list" />
-      <item value="Release To Refresh" />
       <item value="is Visible" />
       <item value="Progress Drawable" />
       <item value="Arrow Drawable" />
@@ -25,7 +28,6 @@
       <item value="Refreshing" />
       <item value="Refresh Finish" />
       <item value="Pull Down Canceled" />
-      <item value="Pull Down To Refresh" />
       <item value="REFRESH HEADER PULLING" />
       <item value="'lateinit' modifier is not allowed on properties of nullable types" />
       <item value="is Support Horizontal Drag" />
@@ -53,13 +55,11 @@
       <item value="Unsupported Operation Exception" />
       <item value="Binary XML file line 31 in com.example.wanandroid:layoutlayout_poem_refresh_header: Error inflating class TextView&#10;    Caused by: java.lang.UnsupportedOperationException: Failed to resolve attribute at index 5: TypedValue{t=0x2d=0x1010098 a=-1}" />
       <item value="Binary XML file line 31 in com.example.wanandroid:layoutlayout_poem_refresh_header: Binary XML file line 31 in com.example.wanandroid:layoutlayout_poem_refresh_header: Error inflating class TextView" />
-      <item value="Poem Token Response" />
-      <item value="poem Token Response" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="277" />
-        <entry key="ENGLISH" value="274" />
+        <entry key="CHINESE" value="278" />
+        <entry key="ENGLISH" value="277" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
