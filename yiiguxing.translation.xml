@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Only Edge" />
       <item value="in the individual module build.gradle files" />
       <item value="Do not place your application dependencies here; they belong" />
       <item value="My Classics Footer" />
@@ -54,12 +55,11 @@
       <item value="on Initialized" />
       <item value="get Spinner Style" />
       <item value="get View" />
-      <item value="on State Changed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="299" />
-        <entry key="ENGLISH" value="300" />
+        <entry key="CHINESE" value="300" />
+        <entry key="ENGLISH" value="301" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
