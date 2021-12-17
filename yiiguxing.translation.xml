@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Force Edge" />
+      <item value="is Root Swipe Back Enable" />
+      <item value="Transformer" />
+      <item value="swipe Back Transformer" />
+      <item value="Swipe Back Enable" />
+      <item value="Swipe Back Force Edge" />
+      <item value="is Swipe Back Force Edge" />
+      <item value="Swipe Back Only Edge" />
+      <item value="is Swipe Back Only Edge" />
       <item value="Only Edge" />
       <item value="in the individual module build.gradle files" />
       <item value="Do not place your application dependencies here; they belong" />
@@ -46,20 +55,11 @@
       <item value="'lateinit' modifier is not allowed on properties of nullable types" />
       <item value="is Support Horizontal Drag" />
       <item value="set Primary Colors" />
-      <item value="on Moving" />
-      <item value="on Released" />
-      <item value="Release To Two Level" />
-      <item value="on Horizontal Drag" />
-      <item value="on Finish" />
-      <item value="on Start Animator" />
-      <item value="on Initialized" />
-      <item value="get Spinner Style" />
-      <item value="get View" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="300" />
-        <entry key="ENGLISH" value="301" />
+        <entry key="CHINESE" value="311" />
+        <entry key="ENGLISH" value="312" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
