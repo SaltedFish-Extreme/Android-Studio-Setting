@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="A &lt;androidx.fragment.app.FragmentContainerView&gt; tag allows a layout file to dynamically include different layouts at runtime. At layout editing time the specific layout to be used is not known. You can choose which layout you would like previewed while editing the layout." />
+      <item value="single Task" />
+      <item value="single Instance Per Task" />
+      <item value="destination" />
       <item value="nav Graph" />
       <item value="Fragment Container View" />
       <item value="NavHostFragment is intended to be used as the content area within a layout resource&#10;  defining your app's chrome around it, e.g." />
@@ -51,15 +55,11 @@
       <item value="Use App Tint" />
       <item value="content Description" />
       <item value="untitled" />
-      <item value="Used in Contacts for a field that has no label and in Note Pad&#10;         for a note with no name. " />
-      <item value="Pull Up To Load" />
-      <item value="Pull Down Canceled" />
-      <item value="LOAD" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="348" />
-        <entry key="ENGLISH" value="348" />
+        <entry key="CHINESE" value="351" />
+        <entry key="ENGLISH" value="351" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="MARATHI" value="2" />
