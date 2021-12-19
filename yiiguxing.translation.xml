@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="标签" />
+      <item value="hello register fragment" />
+      <item value="next Focus Right" />
       <item value="A &lt;androidx.fragment.app.FragmentContainerView&gt; tag allows a layout file to dynamically include different layouts at runtime. At layout editing time the specific layout to be used is not known. You can choose which layout you would like previewed while editing the layout." />
       <item value="single Task" />
       <item value="single Instance Per Task" />
@@ -52,14 +55,11 @@
       <item value="LOAD HEADER FEFRESHING" />
       <item value="Pull Down To Refresh" />
       <item value="start" />
-      <item value="Use App Tint" />
-      <item value="content Description" />
-      <item value="untitled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="351" />
-        <entry key="ENGLISH" value="351" />
+        <entry key="CHINESE" value="353" />
+        <entry key="ENGLISH" value="353" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="MARATHI" value="2" />
