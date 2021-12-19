@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="u can't instantiate me..." />
+      <item value="features" />
+      <item value="Class that requests authentication and user information from the remote data source and&#10;maintains an in-memory cache of login status and user credentials information." />
+      <item value="User details post authentication that is exposed to the UI" />
+      <item value="ViewModel provider factory to instantiate LoginViewModel.&#10;Required given LoginViewModel has a non-empty constructor" />
+      <item value="This property is only valid between onCreateView and&#10;onDestroyView." />
       <item value="Rv Config Utils" />
       <item value="滑动" />
       <item value="Parallax Swipe Back Transformer" />
@@ -49,17 +55,11 @@
       <item value="This is a delicate API and its use requires care. Make sure you fully read and understand documentation of the declaration that is marked as a delicate API." />
       <item value="Talking is cheap, show me the code" />
       <item value="&#10;It will always be more efficient to use more specific change events if you can. Rely on notifyDataSetChanged as a last resort." />
-      <item value="Lateinit is unnecessary: definitely initialized in constructors" />
-      <item value="&#10;Should pass resolved color instead of resource id here: getResources().getColor(color)" />
-      <item value="Only one class may appear in a supertype list" />
-      <item value="is Visible" />
-      <item value="Progress Drawable" />
-      <item value="Arrow Drawable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="327" />
-        <entry key="ENGLISH" value="328" />
+        <entry key="CHINESE" value="333" />
+        <entry key="ENGLISH" value="334" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
