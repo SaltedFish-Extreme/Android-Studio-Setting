@@ -5,6 +5,20 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="nav Graph" />
+      <item value="Fragment Container View" />
+      <item value="NavHostFragment is intended to be used as the content area within a layout resource&#10;  defining your app's chrome around it, e.g." />
+      <item value="NavHostFragment provides an area within your layout for self-contained navigation to occur." />
+      <item value="Smart Refresh Layout" />
+      <item value="srl Enable Pure Scroll Mode" />
+      <item value="srl Enable Preview In Edit Mode" />
+      <item value="fragment container view" />
+      <item value="Feature module Support" />
+      <item value="Jetpack Compose Integration" />
+      <item value="A simple [Fragment] subclass.&#10;Use the [RegisterFragment.newInstance] factory method to&#10;create an instance of this fragment." />
+      <item value="the fragment initialization parameters, e.g. ARG_ITEM_NUMBER" />
+      <item value="TODO: Rename parameter arguments, choose names that match" />
+      <item value="Use this factory method to create a new instance of&#10;this fragment using the provided parameters." />
       <item value="u can't instantiate me..." />
       <item value="features" />
       <item value="Class that requests authentication and user information from the remote data source and&#10;maintains an in-memory cache of login status and user credentials information." />
@@ -41,27 +55,14 @@
       <item value="Pull Up To Load" />
       <item value="Pull Down Canceled" />
       <item value="LOAD" />
-      <item value="LOADING" />
-      <item value="Load Released" />
-      <item value="Refreshing" />
-      <item value="Refresh Released" />
-      <item value="Release To Refresh" />
-      <item value="None" />
-      <item value="My Classics Header" />
-      <item value="Variable 'results' must be initialized" />
-      <item value="Modifier 'private' is not applicable to 'local function'" />
-      <item value="Suspend function 'fire' should be called only from a coroutine or another suspend function" />
-      <item value="The expression is unused" />
-      <item value="This is a delicate API and its use requires care. Make sure you fully read and understand documentation of the declaration that is marked as a delicate API." />
-      <item value="Talking is cheap, show me the code" />
-      <item value="&#10;It will always be more efficient to use more specific change events if you can. Rely on notifyDataSetChanged as a last resort." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="333" />
-        <entry key="ENGLISH" value="334" />
+        <entry key="CHINESE" value="348" />
+        <entry key="ENGLISH" value="348" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
+        <entry key="MARATHI" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="VIETNAMESE" value="2" />
       </map>
