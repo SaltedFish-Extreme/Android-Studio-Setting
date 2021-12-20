@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="platform page" />
+      <item value="mine" />
       <item value="WeChat Official Accounts" />
       <item value="Official Accounts" />
       <item value="Official" />
@@ -53,13 +55,11 @@
       <item value="Transformer" />
       <item value="Swipe Back Enable" />
       <item value="Swipe Back Force Edge" />
-      <item value="Swipe Back Only Edge" />
-      <item value="is Swipe Back Only Edge" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="359" />
-        <entry key="ENGLISH" value="360" />
+        <entry key="CHINESE" value="361" />
+        <entry key="ENGLISH" value="362" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="MARATHI" value="2" />
