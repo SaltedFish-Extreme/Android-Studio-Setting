@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="&#10;@idnav_host_fragment is not a sibling in the same ConstraintLayout" />
       <item value="layout constraint Vertical bias" />
       <item value="destination" />
       <item value="platform page" />
@@ -54,11 +55,10 @@
       <item value="is Swipe Back Force Edge" />
       <item value="is Root Swipe Back Enable" />
       <item value="Transformer" />
-      <item value="Swipe Back Enable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="363" />
+        <entry key="CHINESE" value="364" />
         <entry key="ENGLISH" value="364" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
