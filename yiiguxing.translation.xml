@@ -5,6 +5,23 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Bridal Heat" />
+      <item value="浅灰" />
+      <item value="淡灰" />
+      <item value="gainsBoro" />
+      <item value="gains Boro" />
+      <item value="淡" />
+      <item value="淡灰色" />
+      <item value="navajo White" />
+      <item value="antique White" />
+      <item value="gainsboro" />
+      <item value="fire Brick" />
+      <item value="firebrick" />
+      <item value="blanched almond" />
+      <item value="blanchedalmond" />
+      <item value="blanched Almond" />
+      <item value="floralwhite" />
+      <item value="Opaque" />
       <item value="padded Bounds" />
       <item value="outline Provider" />
       <item value="&#10;Attribute outlineSpotShadowColor is only used in API level 28 and higher (current min is 24)" />
@@ -38,32 +55,16 @@
       <item value="fragment container view" />
       <item value="Feature module Support" />
       <item value="Jetpack Compose Integration" />
-      <item value="A simple [Fragment] subclass.&#10;Use the [RegisterFragment.newInstance] factory method to&#10;create an instance of this fragment." />
-      <item value="the fragment initialization parameters, e.g. ARG_ITEM_NUMBER" />
-      <item value="TODO: Rename parameter arguments, choose names that match" />
-      <item value="Use this factory method to create a new instance of&#10;this fragment using the provided parameters." />
-      <item value="u can't instantiate me..." />
-      <item value="features" />
-      <item value="Class that requests authentication and user information from the remote data source and&#10;maintains an in-memory cache of login status and user credentials information." />
-      <item value="User details post authentication that is exposed to the UI" />
-      <item value="ViewModel provider factory to instantiate LoginViewModel.&#10;Required given LoginViewModel has a non-empty constructor" />
-      <item value="This property is only valid between onCreateView and&#10;onDestroyView." />
-      <item value="Rv Config Utils" />
-      <item value="滑动" />
-      <item value="Parallax Swipe Back Transformer" />
-      <item value="Shrink Swipe Back Transformer" />
-      <item value="swipe Back Transformer" />
-      <item value="Direction" />
-      <item value="swipe Back Direction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="367" />
-        <entry key="ENGLISH" value="368" />
-        <entry key="FRENCH" value="2" />
+        <entry key="CHINESE" value="381" />
+        <entry key="ENGLISH" value="382" />
+        <entry key="FRENCH" value="4" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="MARATHI" value="2" />
         <entry key="PORTUGUESE" value="1" />
+        <entry key="SPANISH" value="1" />
         <entry key="VIETNAMESE" value="2" />
       </map>
     </option>
