@@ -5,6 +5,26 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Robin's Egg Blue" />
+      <item value="Gun Powder" />
+      <item value="硬色" />
+      <item value="pale violet red" />
+      <item value="mid night blue" />
+      <item value="midnight blue" />
+      <item value="medium aquamarine" />
+      <item value="pale turquoise" />
+      <item value="paleturquoise" />
+      <item value="mintcream" />
+      <item value="mint cream" />
+      <item value="papaya whip" />
+      <item value="papayawhip" />
+      <item value="sea Shell" />
+      <item value="corn silk" />
+      <item value="light golden rod yellow" />
+      <item value="honey dew" />
+      <item value="honeydew" />
+      <item value="pale grey" />
+      <item value="alto" />
       <item value="color Accent" />
       <item value="Bridal Heat" />
       <item value="浅灰" />
@@ -35,36 +55,18 @@
       <item value="mine" />
       <item value="WeChat Official Accounts" />
       <item value="Official Accounts" />
-      <item value="Official" />
-      <item value="Accounts" />
-      <item value="公众号" />
-      <item value="广场" />
-      <item value="Project Fragment" />
-      <item value="标签" />
-      <item value="hello register fragment" />
-      <item value="next Focus Right" />
-      <item value="A &lt;androidx.fragment.app.FragmentContainerView&gt; tag allows a layout file to dynamically include different layouts at runtime. At layout editing time the specific layout to be used is not known. You can choose which layout you would like previewed while editing the layout." />
-      <item value="single Task" />
-      <item value="single Instance Per Task" />
-      <item value="nav Graph" />
-      <item value="Fragment Container View" />
-      <item value="NavHostFragment is intended to be used as the content area within a layout resource&#10;  defining your app's chrome around it, e.g." />
-      <item value="NavHostFragment provides an area within your layout for self-contained navigation to occur." />
-      <item value="Smart Refresh Layout" />
-      <item value="srl Enable Pure Scroll Mode" />
-      <item value="srl Enable Preview In Edit Mode" />
-      <item value="fragment container view" />
-      <item value="Feature module Support" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="383" />
-        <entry key="ENGLISH" value="384" />
+        <entry key="CHINESE" value="402" />
+        <entry key="ENGLISH" value="403" />
         <entry key="FRENCH" value="4" />
+        <entry key="FILIPINO" value="1" />
+        <entry key="CZECH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="MARATHI" value="2" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="SPANISH" value="1" />
+        <entry key="SPANISH" value="2" />
         <entry key="VIETNAMESE" value="2" />
       </map>
     </option>
