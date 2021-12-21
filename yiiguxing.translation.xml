@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="NavHostFragment provides an area within your layout for self-contained navigation to occur." />
       <item value="Unable to start activity ComponentInfo{com.example.wanandroidcom.example.wanAndroid.ui.activity.MainActivity}: android.view.InflateException: Binary XML file line 20 in com.example.wanandroid:layoutactivity_main: Binary XML file line 20 in com.example" />
       <item value="srl Enable Preview In Edit Mode" />
       <item value="Robin's Egg Blue" />
@@ -54,12 +55,11 @@
       <item value="layout constraint Vertical bias" />
       <item value="destination" />
       <item value="platform page" />
-      <item value="mine" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="404" />
-        <entry key="ENGLISH" value="405" />
+        <entry key="CHINESE" value="405" />
+        <entry key="ENGLISH" value="406" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
         <entry key="CZECH" value="1" />
