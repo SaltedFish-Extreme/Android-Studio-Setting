@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="padded Bounds" />
+      <item value="outline Provider" />
+      <item value="&#10;Attribute outlineSpotShadowColor is only used in API level 28 and higher (current min is 24)" />
+      <item value="color" />
+      <item value="outline Spot Shadow Color" />
       <item value="&#10;@idnav_host_fragment is not a sibling in the same ConstraintLayout" />
       <item value="layout constraint Vertical bias" />
       <item value="destination" />
@@ -50,16 +55,11 @@
       <item value="swipe Back Transformer" />
       <item value="Direction" />
       <item value="swipe Back Direction" />
-      <item value="强制边缘可滑动返回" />
-      <item value="Force Edge" />
-      <item value="is Swipe Back Force Edge" />
-      <item value="is Root Swipe Back Enable" />
-      <item value="Transformer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="364" />
-        <entry key="ENGLISH" value="364" />
+        <entry key="CHINESE" value="367" />
+        <entry key="ENGLISH" value="368" />
         <entry key="FRENCH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="MARATHI" value="2" />
