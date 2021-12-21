@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="&#10;Expected resource of type id" />
+      <item value="Navigation actiondestination com.example.wanandroid:idproject_page cannot be found from the current destination Destination(0x102002c) class=com.example.wanAndroid.ui.fragment.HomeFragment" />
       <item value="Single Top means we only want one instance on the back stack" />
       <item value="intercept Long Click" />
       <item value="NavHostFragment provides an area within your layout for self-contained navigation to occur." />
@@ -53,13 +55,11 @@
       <item value="&#10;Attribute outlineSpotShadowColor is only used in API level 28 and higher (current min is 24)" />
       <item value="color" />
       <item value="outline Spot Shadow Color" />
-      <item value="&#10;@idnav_host_fragment is not a sibling in the same ConstraintLayout" />
-      <item value="layout constraint Vertical bias" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="407" />
-        <entry key="ENGLISH" value="408" />
+        <entry key="CHINESE" value="409" />
+        <entry key="ENGLISH" value="409" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
         <entry key="CZECH" value="1" />
