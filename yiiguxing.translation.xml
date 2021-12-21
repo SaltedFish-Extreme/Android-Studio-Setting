@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="srl Enable Preview In Edit Mode" />
       <item value="Robin's Egg Blue" />
       <item value="Gun Powder" />
       <item value="硬色" />
@@ -54,12 +55,11 @@
       <item value="platform page" />
       <item value="mine" />
       <item value="WeChat Official Accounts" />
-      <item value="Official Accounts" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="402" />
-        <entry key="ENGLISH" value="403" />
+        <entry key="CHINESE" value="403" />
+        <entry key="ENGLISH" value="404" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
         <entry key="CZECH" value="1" />
