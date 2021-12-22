@@ -1,12 +1,26 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="428" />
+    <option name="newTranslationDialogWidth" value="424" />
     <option name="newTranslationDialogX" value="402" />
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="navigation" />
+      <item value="Type mismatch: inferred type is Int? but Int was expected" />
+      <item value="Unchecked cast: Any! to ArrayDeque&lt;Int&gt;" />
+      <item value=" Fallback to using our own ID if this Fragment wasn't added via add(containerViewId, Fragment)" />
       <item value="Fallback to using our own ID if this Fragment wasn't added via&#10;add(containerViewId, Fragment)" />
+      <item value="Fragment Navigator" />
+      <item value="Nav Host Fragment" />
+      <item value="Hide - Show My NavHostFragment" />
+      <item value="Hide - Show MyNavHostFragment" />
+      <item value="get User Visible Hint" />
+      <item value="m User Visible" />
+      <item value="Navigator" />
+      <item value="Fragment Navigation" />
+      <item value="Fragment Navigator Hide Show" />
+      <item value="Nav Host Fragment Hide Show" />
+      <item value="nav bottom" />
+      <item value="navigation" />
       <item value="A 'return' expression required in a function with a block body ('{...}')" />
       <item value="&#10;Expected resource of type id" />
       <item value="Navigation actiondestination com.example.wanandroid:idproject_page cannot be found from the current destination Destination(0x102002c) class=com.example.wanAndroid.ui.fragment.HomeFragment" />
@@ -41,25 +55,11 @@
       <item value="淡灰" />
       <item value="gainsBoro" />
       <item value="gains Boro" />
-      <item value="淡" />
-      <item value="淡灰色" />
-      <item value="navajo White" />
-      <item value="antique White" />
-      <item value="gainsboro" />
-      <item value="fire Brick" />
-      <item value="firebrick" />
-      <item value="blanched almond" />
-      <item value="blanchedalmond" />
-      <item value="blanched Almond" />
-      <item value="floralwhite" />
-      <item value="Opaque" />
-      <item value="padded Bounds" />
-      <item value="outline Provider" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="411" />
-        <entry key="ENGLISH" value="412" />
+        <entry key="CHINESE" value="428" />
+        <entry key="ENGLISH" value="429" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
         <entry key="CZECH" value="1" />
