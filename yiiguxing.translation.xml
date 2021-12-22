@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Assignments are not expressions, and only expressions are allowed in this context" />
       <item value="Type mismatch: inferred type is Int? but Int was expected" />
       <item value="Unchecked cast: Any! to ArrayDeque&lt;Int&gt;" />
       <item value=" Fallback to using our own ID if this Fragment wasn't added via add(containerViewId, Fragment)" />
@@ -54,11 +55,10 @@
       <item value="浅灰" />
       <item value="淡灰" />
       <item value="gainsBoro" />
-      <item value="gains Boro" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="428" />
+        <entry key="CHINESE" value="429" />
         <entry key="ENGLISH" value="429" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
