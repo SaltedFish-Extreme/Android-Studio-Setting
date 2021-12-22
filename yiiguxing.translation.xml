@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="navigation" />
       <item value="Fallback to using our own ID if this Fragment wasn't added via&#10;add(containerViewId, Fragment)" />
       <item value="A 'return' expression required in a function with a block body ('{...}')" />
       <item value="&#10;Expected resource of type id" />
@@ -54,12 +55,11 @@
       <item value="Opaque" />
       <item value="padded Bounds" />
       <item value="outline Provider" />
-      <item value="&#10;Attribute outlineSpotShadowColor is only used in API level 28 and higher (current min is 24)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="410" />
-        <entry key="ENGLISH" value="410" />
+        <entry key="CHINESE" value="411" />
+        <entry key="ENGLISH" value="412" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
         <entry key="CZECH" value="1" />
