@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Fallback to using our own ID if this Fragment wasn't added via&#10;add(containerViewId, Fragment)" />
       <item value="A 'return' expression required in a function with a block body ('{...}')" />
       <item value="&#10;Expected resource of type id" />
       <item value="Navigation actiondestination com.example.wanandroid:idproject_page cannot be found from the current destination Destination(0x102002c) class=com.example.wanAndroid.ui.fragment.HomeFragment" />
@@ -54,12 +55,11 @@
       <item value="padded Bounds" />
       <item value="outline Provider" />
       <item value="&#10;Attribute outlineSpotShadowColor is only used in API level 28 and higher (current min is 24)" />
-      <item value="color" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="410" />
-        <entry key="ENGLISH" value="409" />
+        <entry key="ENGLISH" value="410" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
         <entry key="CZECH" value="1" />
