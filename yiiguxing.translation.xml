@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="layout behavior" />
       <item value="Build first class singleTop behavior for fragments" />
       <item value="Assignments are not expressions, and only expressions are allowed in this context" />
       <item value="Type mismatch: inferred type is Int? but Int was expected" />
@@ -54,12 +55,11 @@
       <item value="color Accent" />
       <item value="Bridal Heat" />
       <item value="浅灰" />
-      <item value="淡灰" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="429" />
-        <entry key="ENGLISH" value="430" />
+        <entry key="CHINESE" value="430" />
+        <entry key="ENGLISH" value="431" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
         <entry key="CZECH" value="1" />
