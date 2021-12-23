@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Floating Action Button" />
+      <item value="Behavior" />
+      <item value="Fat" />
+      <item value="Fat Scroll Aware FAB Behavior" />
       <item value="Restricted Api" />
       <item value="target" />
       <item value="dx Consumed" />
@@ -51,15 +55,11 @@
       <item value="medium aquamarine" />
       <item value="pale turquoise" />
       <item value="paleturquoise" />
-      <item value="mintcream" />
-      <item value="mint cream" />
-      <item value="papaya whip" />
-      <item value="papayawhip" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="438" />
-        <entry key="ENGLISH" value="439" />
+        <entry key="CHINESE" value="442" />
+        <entry key="ENGLISH" value="443" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
         <entry key="CZECH" value="1" />
