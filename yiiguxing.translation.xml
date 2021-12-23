@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The item's text contrast ratio is 2.36. This ratio is based on an estimated foreground color of 38ACFF and an estimated background color of FAFAFA. Consider increasing this item's text contrast ratio to 4.50 or greater." />
+      <item value="This Activity already has an action bar supplied by the window decor. Do not request Window.FEATURE_SUPPORT_ACTION_BAR and set windowActionBar to false in your theme to use a Toolbar instead." />
       <item value="layout behavior" />
       <item value="Build first class singleTop behavior for fragments" />
       <item value="Assignments are not expressions, and only expressions are allowed in this context" />
@@ -53,13 +55,11 @@
       <item value="pale grey" />
       <item value="alto" />
       <item value="color Accent" />
-      <item value="Bridal Heat" />
-      <item value="浅灰" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="430" />
-        <entry key="ENGLISH" value="431" />
+        <entry key="CHINESE" value="432" />
+        <entry key="ENGLISH" value="432" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
         <entry key="CZECH" value="1" />
