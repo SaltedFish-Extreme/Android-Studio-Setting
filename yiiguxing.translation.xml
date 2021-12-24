@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="&#10;This view is not constrained vertically: at runtime it will jump to the top unless you add a vertical constraint" />
       <item value="&#10;Consider replacing android:drawableLeft with android:drawableStart=&quot;@drawableselector_setting_color&quot; to better support right-to-left layouts" />
       <item value="Commit Pref Edits" />
       <item value="Preference Util" />
@@ -54,11 +55,10 @@
       <item value="A 'return' expression required in a function with a block body ('{...}')" />
       <item value="&#10;Expected resource of type id" />
       <item value="Navigation actiondestination com.example.wanandroid:idproject_page cannot be found from the current destination Destination(0x102002c) class=com.example.wanAndroid.ui.fragment.HomeFragment" />
-      <item value="Single Top means we only want one instance on the back stack" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="455" />
+        <entry key="CHINESE" value="456" />
         <entry key="ENGLISH" value="455" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
