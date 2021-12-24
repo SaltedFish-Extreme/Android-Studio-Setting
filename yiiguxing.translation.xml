@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="黑色阴影" />
+      <item value="前景色" />
       <item value="&#10;By convention, the custom view (CenterTitleToolbar) and the declare-styleable (Toolbar) should have the same name (various editor features rely on this convention)" />
       <item value="For-loop range must have an 'iterator()' method" />
       <item value="The boolean literal does not conform to the expected type Unit" />
@@ -53,13 +55,11 @@
       <item value="m User Visible" />
       <item value="Navigator" />
       <item value="Fragment Navigation" />
-      <item value="Fragment Navigator Hide Show" />
-      <item value="Nav Host Fragment Hide Show" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="462" />
-        <entry key="ENGLISH" value="459" />
+        <entry key="CHINESE" value="464" />
+        <entry key="ENGLISH" value="461" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
         <entry key="CZECH" value="1" />
