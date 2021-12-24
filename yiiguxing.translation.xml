@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="&#10;By convention, the custom view (CenterTitleToolbar) and the declare-styleable (Toolbar) should have the same name (various editor features rely on this convention)" />
       <item value="For-loop range must have an 'iterator()' method" />
       <item value="The boolean literal does not conform to the expected type Unit" />
       <item value="An optional layout to be used as an action view. See {@link android.view.MenuItemsetActionView(android.view.View)} for more info" />
@@ -54,11 +55,10 @@
       <item value="Fragment Navigation" />
       <item value="Fragment Navigator Hide Show" />
       <item value="Nav Host Fragment Hide Show" />
-      <item value="nav bottom" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="461" />
+        <entry key="CHINESE" value="462" />
         <entry key="ENGLISH" value="459" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
