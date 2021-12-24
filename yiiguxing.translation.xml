@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="&#10;Consider replacing android:drawableLeft with android:drawableStart=&quot;@drawableselector_setting_color&quot; to better support right-to-left layouts" />
       <item value="Commit Pref Edits" />
       <item value="Preference Util" />
       <item value="Action Bar Drawer Toggle" />
@@ -54,11 +55,10 @@
       <item value="&#10;Expected resource of type id" />
       <item value="Navigation actiondestination com.example.wanandroid:idproject_page cannot be found from the current destination Destination(0x102002c) class=com.example.wanAndroid.ui.fragment.HomeFragment" />
       <item value="Single Top means we only want one instance on the back stack" />
-      <item value="intercept Long Click" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="454" />
+        <entry key="CHINESE" value="455" />
         <entry key="ENGLISH" value="455" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
