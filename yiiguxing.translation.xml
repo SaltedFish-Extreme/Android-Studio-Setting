@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The boolean literal does not conform to the expected type Unit" />
+      <item value="An optional layout to be used as an action view. See {@link android.view.MenuItemsetActionView(android.view.View)} for more info" />
       <item value="Restricted Api" />
       <item value="fits System Windows" />
       <item value="&#10;This view is not constrained vertically: at runtime it will jump to the top unless you add a vertical constraint" />
@@ -53,12 +55,10 @@
       <item value="Nav Host Fragment Hide Show" />
       <item value="nav bottom" />
       <item value="navigation" />
-      <item value="A 'return' expression required in a function with a block body ('{...}')" />
-      <item value="&#10;Expected resource of type id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="458" />
+        <entry key="CHINESE" value="460" />
         <entry key="ENGLISH" value="459" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
