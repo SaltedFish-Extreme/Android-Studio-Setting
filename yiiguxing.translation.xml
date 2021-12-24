@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Restricted Api" />
+      <item value="fits System Windows" />
       <item value="&#10;This view is not constrained vertically: at runtime it will jump to the top unless you add a vertical constraint" />
       <item value="&#10;Consider replacing android:drawableLeft with android:drawableStart=&quot;@drawableselector_setting_color&quot; to better support right-to-left layouts" />
       <item value="Commit Pref Edits" />
@@ -23,7 +25,6 @@
       <item value="Behavior" />
       <item value="Fat" />
       <item value="Fat Scroll Aware FAB Behavior" />
-      <item value="Restricted Api" />
       <item value="target" />
       <item value="dx Consumed" />
       <item value="dy Consumed" />
@@ -54,12 +55,11 @@
       <item value="navigation" />
       <item value="A 'return' expression required in a function with a block body ('{...}')" />
       <item value="&#10;Expected resource of type id" />
-      <item value="Navigation actiondestination com.example.wanandroid:idproject_page cannot be found from the current destination Destination(0x102002c) class=com.example.wanAndroid.ui.fragment.HomeFragment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="456" />
-        <entry key="ENGLISH" value="455" />
+        <entry key="CHINESE" value="458" />
+        <entry key="ENGLISH" value="459" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
         <entry key="CZECH" value="1" />
