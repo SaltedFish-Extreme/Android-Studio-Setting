@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="checkable Behavior" />
+      <item value="start Destination" />
+      <item value="color accent" />
+      <item value="color primary dark" />
+      <item value="color primary" />
+      <item value="K Toolbar Title Appearance" />
+      <item value="Home Page Foot Button" />
       <item value="Title Bar" />
       <item value="Jetifier" />
       <item value="enable Jetifier" />
@@ -48,18 +55,11 @@
       <item value="The item's text contrast ratio is 2.36. This ratio is based on an estimated foreground color of 38ACFF and an estimated background color of FAFAFA. Consider increasing this item's text contrast ratio to 4.50 or greater." />
       <item value="This Activity already has an action bar supplied by the window decor. Do not request Window.FEATURE_SUPPORT_ACTION_BAR and set windowActionBar to false in your theme to use a Toolbar instead." />
       <item value="layout behavior" />
-      <item value="Build first class singleTop behavior for fragments" />
-      <item value="Assignments are not expressions, and only expressions are allowed in this context" />
-      <item value="Type mismatch: inferred type is Int? but Int was expected" />
-      <item value="Unchecked cast: Any! to ArrayDeque&lt;Int&gt;" />
-      <item value=" Fallback to using our own ID if this Fragment wasn't added via add(containerViewId, Fragment)" />
-      <item value="Fallback to using our own ID if this Fragment wasn't added via&#10;add(containerViewId, Fragment)" />
-      <item value="Fragment Navigator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="469" />
-        <entry key="ENGLISH" value="470" />
+        <entry key="CHINESE" value="477" />
+        <entry key="ENGLISH" value="478" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
         <entry key="CZECH" value="1" />
