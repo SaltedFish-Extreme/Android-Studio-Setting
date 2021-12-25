@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Base List Adapter" />
       <item value="My Nav Host Fragment" />
       <item value="Jvm Overloads" />
       <item value="set Title Text Color" />
@@ -54,12 +55,11 @@
       <item value="Fat Scroll Aware FAB Behavior" />
       <item value="target" />
       <item value="dx Consumed" />
-      <item value="dy Consumed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="485" />
-        <entry key="ENGLISH" value="486" />
+        <entry key="CHINESE" value="486" />
+        <entry key="ENGLISH" value="487" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
         <entry key="CZECH" value="1" />
