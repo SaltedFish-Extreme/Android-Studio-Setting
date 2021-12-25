@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is Succes" />
+      <item value="Parcel Creator" />
       <item value="Base List Adapter" />
       <item value="My Nav Host Fragment" />
       <item value="Jvm Overloads" />
@@ -53,15 +55,14 @@
       <item value="Behavior" />
       <item value="Fat" />
       <item value="Fat Scroll Aware FAB Behavior" />
-      <item value="target" />
-      <item value="dx Consumed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="486" />
-        <entry key="ENGLISH" value="487" />
+        <entry key="CHINESE" value="488" />
+        <entry key="ENGLISH" value="489" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
+        <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="ROMANIAN" value="2" />
