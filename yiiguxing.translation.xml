@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Title Bar" />
+      <item value="Jetifier" />
+      <item value="enable Jetifier" />
+      <item value="Automatically convert third-party libraries to use AndroidX" />
+      <item value="obsolete" />
+      <item value="official" />
+      <item value="legacy" />
       <item value="黑色阴影" />
       <item value="前景色" />
       <item value="&#10;By convention, the custom view (CenterTitleToolbar) and the declare-styleable (Toolbar) should have the same name (various editor features rely on this convention)" />
@@ -48,19 +55,12 @@
       <item value=" Fallback to using our own ID if this Fragment wasn't added via add(containerViewId, Fragment)" />
       <item value="Fallback to using our own ID if this Fragment wasn't added via&#10;add(containerViewId, Fragment)" />
       <item value="Fragment Navigator" />
-      <item value="Nav Host Fragment" />
-      <item value="Hide - Show My NavHostFragment" />
-      <item value="Hide - Show MyNavHostFragment" />
-      <item value="get User Visible Hint" />
-      <item value="m User Visible" />
-      <item value="Navigator" />
-      <item value="Fragment Navigation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="464" />
-        <entry key="ENGLISH" value="461" />
-        <entry key="FRENCH" value="4" />
+        <entry key="CHINESE" value="469" />
+        <entry key="ENGLISH" value="470" />
+        <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
