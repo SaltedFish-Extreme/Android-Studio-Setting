@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="My Nav Host Fragment" />
+      <item value="Jvm Overloads" />
+      <item value="set Title Text Color" />
+      <item value="set Title Text Appearance" />
+      <item value="single Instance Per Task" />
+      <item value="Scale Transition Pager Title View" />
+      <item value="Rtl Hardcoded" />
       <item value="checkable Behavior" />
       <item value="start Destination" />
       <item value="color accent" />
@@ -48,18 +55,11 @@
       <item value="target" />
       <item value="dx Consumed" />
       <item value="dy Consumed" />
-      <item value="dx Unconsumed" />
-      <item value="dy Unconsumed" />
-      <item value="chintz" />
-      <item value="Deprecated. Elevation is now controlled via a state list animator." />
-      <item value="The item's text contrast ratio is 2.36. This ratio is based on an estimated foreground color of 38ACFF and an estimated background color of FAFAFA. Consider increasing this item's text contrast ratio to 4.50 or greater." />
-      <item value="This Activity already has an action bar supplied by the window decor. Do not request Window.FEATURE_SUPPORT_ACTION_BAR and set windowActionBar to false in your theme to use a Toolbar instead." />
-      <item value="layout behavior" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="478" />
-        <entry key="ENGLISH" value="479" />
+        <entry key="CHINESE" value="485" />
+        <entry key="ENGLISH" value="486" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
         <entry key="CZECH" value="1" />
