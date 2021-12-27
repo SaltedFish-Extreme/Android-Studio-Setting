@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="banners" />
       <item value="Api Service" />
       <item value="wan Android API service" />
       <item value="Wan Android Api Service" />
@@ -54,12 +55,11 @@
       <item value="enter Always" />
       <item value="layout align Parent Bottom" />
       <item value="Sets a drawable as the content of this ImageView. Allows the use of vector drawable when running on older versions of the platform" />
-      <item value="Floating Action Button" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="491" />
-        <entry key="ENGLISH" value="491" />
+        <entry key="ENGLISH" value="492" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
