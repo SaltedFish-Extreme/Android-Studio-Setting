@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="2 type arguments expected for class Banner&lt;T : Any!, BA : BannerAdapter&lt;T!, out RecyclerView.ViewHolder!&gt;!&gt;" />
       <item value="banners" />
       <item value="Api Service" />
       <item value="wan Android API service" />
@@ -54,11 +55,10 @@
       <item value="scroll" />
       <item value="enter Always" />
       <item value="layout align Parent Bottom" />
-      <item value="Sets a drawable as the content of this ImageView. Allows the use of vector drawable when running on older versions of the platform" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="491" />
+        <entry key="CHINESE" value="492" />
         <entry key="ENGLISH" value="492" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
