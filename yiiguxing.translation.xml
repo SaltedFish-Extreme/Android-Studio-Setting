@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Api Service" />
+      <item value="wan Android API service" />
+      <item value="Wan Android Api Service" />
       <item value="is Succes" />
       <item value="Parcel Creator" />
       <item value="Base List Adapter" />
@@ -52,14 +55,11 @@
       <item value="layout align Parent Bottom" />
       <item value="Sets a drawable as the content of this ImageView. Allows the use of vector drawable when running on older versions of the platform" />
       <item value="Floating Action Button" />
-      <item value="Behavior" />
-      <item value="Fat" />
-      <item value="Fat Scroll Aware FAB Behavior" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="488" />
-        <entry key="ENGLISH" value="489" />
+        <entry key="CHINESE" value="491" />
+        <entry key="ENGLISH" value="491" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
@@ -75,10 +75,5 @@
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1640354754496" />
-  </component>
-  <component name="Settings">
-    <option name="keepFormat" value="true" />
-    <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
-    <option name="translateDocumentation" value="true" />
   </component>
 </application>
