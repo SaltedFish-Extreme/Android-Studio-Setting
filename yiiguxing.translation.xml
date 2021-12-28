@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The title this view should present to accessibility as a pane title. See {@link android.view.ViewsetAccessibilityPaneTitle(CharSequence)" />
       <item value="banner Texts" />
       <item value="placeholder" />
       <item value="banner tip Text Color" />
@@ -54,11 +55,10 @@
       <item value="&#10;This view is not constrained vertically: at runtime it will jump to the top unless you add a vertical constraint" />
       <item value="&#10;Consider replacing android:drawableLeft with android:drawableStart=&quot;@drawableselector_setting_color&quot; to better support right-to-left layouts" />
       <item value="Commit Pref Edits" />
-      <item value="Preference Util" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="502" />
+        <entry key="CHINESE" value="503" />
         <entry key="ENGLISH" value="503" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
