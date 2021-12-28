@@ -5,8 +5,12 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="banner transition Effect" />
+      <item value="banner Texts" />
+      <item value="placeholder" />
+      <item value="banner tip Text Color" />
+      <item value="color title bg" />
       <item value="banner placeholder Drawable" />
+      <item value="banner transition Effect" />
       <item value="banner tip Text Size" />
       <item value="Banners" />
       <item value="Circle Indicator" />
@@ -51,15 +55,11 @@
       <item value="&#10;Consider replacing android:drawableLeft with android:drawableStart=&quot;@drawableselector_setting_color&quot; to better support right-to-left layouts" />
       <item value="Commit Pref Edits" />
       <item value="Preference Util" />
-      <item value="Action Bar Drawer Toggle" />
-      <item value="drawer Arrow Drawable" />
-      <item value="disable Shift Mode" />
-      <item value="refresh Color" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="497" />
-        <entry key="ENGLISH" value="498" />
+        <entry key="CHINESE" value="502" />
+        <entry key="ENGLISH" value="503" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
