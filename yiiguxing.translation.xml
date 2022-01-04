@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="默认的" />
       <item value="Multiple observers registered but only one will be notified of changes" />
       <item value="There's a cycle in the inheritance hierarchy for this type" />
       <item value="noinspection GradleDependency" />
@@ -54,11 +55,10 @@
       <item value="For-loop range must have an 'iterator()' method" />
       <item value="The boolean literal does not conform to the expected type Unit" />
       <item value="An optional layout to be used as an action view. See {@link android.view.MenuItemsetActionView(android.view.View)} for more info" />
-      <item value="Restricted Api" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="505" />
+        <entry key="CHINESE" value="506" />
         <entry key="ENGLISH" value="506" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
