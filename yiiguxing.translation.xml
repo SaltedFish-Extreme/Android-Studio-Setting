@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="android.view.WindowLeaked: Activity com.example.wanAndroid.ui.activity.MainActivity has leaked window android.widget.TextView{7a229e9 V.ED..... ........ 0,0-414,133 102000b android:idmessage} that was originally added here" />
+      <item value="Failed to find GeneratedAppGlideModule. You should include an annotationProcessor compile dependency on com.github.bumptech.glide:compiler in your application and a @GlideModule annotated AppGlideModule implementation or LibraryGlideModules will be silently ignored" />
       <item value="The specified message queue synchronization barrier token has not been posted or has already been removed" />
       <item value="Already have a pending vsync event. There should only be one at a time" />
       <item value="默认的" />
@@ -53,13 +55,11 @@
       <item value="legacy" />
       <item value="黑色阴影" />
       <item value="前景色" />
-      <item value="&#10;By convention, the custom view (CenterTitleToolbar) and the declare-styleable (Toolbar) should have the same name (various editor features rely on this convention)" />
-      <item value="For-loop range must have an 'iterator()' method" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="507" />
-        <entry key="ENGLISH" value="508" />
+        <entry key="CHINESE" value="509" />
+        <entry key="ENGLISH" value="510" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
