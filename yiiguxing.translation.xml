@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="keyboard" />
+      <item value="keyboard Hidden" />
+      <item value="screen Size" />
+      <item value="font Scale" />
+      <item value="density" />
+      <item value="orientation" />
+      <item value="ViewRoot perform Traversals" />
+      <item value="ViewRoot performTraversals" />
       <item value="android.view.WindowLeaked: Activity com.example.wanAndroid.ui.activity.MainActivity has leaked window android.widget.TextView{7a229e9 V.ED..... ........ 0,0-414,133 102000b android:idmessage} that was originally added here" />
       <item value="Failed to find GeneratedAppGlideModule. You should include an annotationProcessor compile dependency on com.github.bumptech.glide:compiler in your application and a @GlideModule annotated AppGlideModule implementation or LibraryGlideModules will be silently ignored" />
       <item value="The specified message queue synchronization barrier token has not been posted or has already been removed" />
@@ -47,19 +55,11 @@
       <item value="K Toolbar Title Appearance" />
       <item value="Home Page Foot Button" />
       <item value="Title Bar" />
-      <item value="Jetifier" />
-      <item value="enable Jetifier" />
-      <item value="Automatically convert third-party libraries to use AndroidX" />
-      <item value="obsolete" />
-      <item value="official" />
-      <item value="legacy" />
-      <item value="黑色阴影" />
-      <item value="前景色" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="509" />
-        <entry key="ENGLISH" value="510" />
+        <entry key="CHINESE" value="516" />
+        <entry key="ENGLISH" value="517" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
