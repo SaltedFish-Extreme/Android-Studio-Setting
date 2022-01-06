@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="window Light Status Bar" />
       <item value="exclude" />
       <item value="keyboard" />
       <item value="keyboard Hidden" />
@@ -54,12 +55,11 @@
       <item value="color primary dark" />
       <item value="color primary" />
       <item value="K Toolbar Title Appearance" />
-      <item value="Home Page Foot Button" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="517" />
-        <entry key="ENGLISH" value="518" />
+        <entry key="CHINESE" value="518" />
+        <entry key="ENGLISH" value="519" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
