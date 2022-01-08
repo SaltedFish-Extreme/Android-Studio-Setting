@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Convert Exception" />
+      <item value="Member Visibility Can Be Private" />
       <item value="Banner API" />
       <item value="snap" />
       <item value="window Light Status Bar" />
@@ -53,13 +55,11 @@
       <item value="Rtl Hardcoded" />
       <item value="checkable Behavior" />
       <item value="start Destination" />
-      <item value="color accent" />
-      <item value="color primary dark" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="520" />
-        <entry key="ENGLISH" value="520" />
+        <entry key="CHINESE" value="521" />
+        <entry key="ENGLISH" value="522" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
