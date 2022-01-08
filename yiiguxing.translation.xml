@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Convert" />
       <item value="barrier token has not been posted or has already been removed" />
       <item value="Convert Exception" />
       <item value="Member Visibility Can Be Private" />
@@ -54,12 +55,11 @@
       <item value="single Instance Per Task" />
       <item value="Scale Transition Pager Title View" />
       <item value="Rtl Hardcoded" />
-      <item value="checkable Behavior" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="522" />
-        <entry key="ENGLISH" value="523" />
+        <entry key="CHINESE" value="523" />
+        <entry key="ENGLISH" value="524" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
