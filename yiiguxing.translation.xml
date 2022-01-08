@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Banner API" />
       <item value="snap" />
       <item value="window Light Status Bar" />
       <item value="exclude" />
@@ -54,11 +55,10 @@
       <item value="start Destination" />
       <item value="color accent" />
       <item value="color primary dark" />
-      <item value="color primary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="519" />
+        <entry key="CHINESE" value="520" />
         <entry key="ENGLISH" value="520" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
@@ -69,6 +69,7 @@
         <entry key="MARATHI" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="2" />
+        <entry key="INDONESIAN" value="1" />
         <entry key="VIETNAMESE" value="2" />
       </map>
     </option>
