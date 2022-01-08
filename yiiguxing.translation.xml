@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Failed to resolve" />
       <item value="refresh-layout-kernel" />
       <item value="Convert" />
       <item value="barrier token has not been posted or has already been removed" />
@@ -54,12 +55,11 @@
       <item value="set Title Text Color" />
       <item value="set Title Text Appearance" />
       <item value="single Instance Per Task" />
-      <item value="Scale Transition Pager Title View" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="524" />
-        <entry key="ENGLISH" value="525" />
+        <entry key="CHINESE" value="525" />
+        <entry key="ENGLISH" value="526" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
