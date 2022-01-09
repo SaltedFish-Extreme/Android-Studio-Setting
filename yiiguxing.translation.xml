@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Circle Indicator" />
       <item value="region Description" />
       <item value="editor-fold" />
       <item value="INDICATOR MARGIN" />
@@ -54,12 +55,11 @@
       <item value="banner transition Effect" />
       <item value="banner tip Text Size" />
       <item value="Banners" />
-      <item value="Circle Indicator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="536" />
-        <entry key="ENGLISH" value="537" />
+        <entry key="CHINESE" value="538" />
+        <entry key="ENGLISH" value="539" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
