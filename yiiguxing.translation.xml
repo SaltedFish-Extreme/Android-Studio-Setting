@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="This item may not have a label readable by screen readers." />
       <item value="Circle Indicator" />
       <item value="region Description" />
       <item value="editor-fold" />
@@ -54,11 +55,10 @@
       <item value="banner placeholder Drawable" />
       <item value="banner transition Effect" />
       <item value="banner tip Text Size" />
-      <item value="Banners" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="538" />
+        <entry key="CHINESE" value="539" />
         <entry key="ENGLISH" value="539" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
