@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="region Description" />
+      <item value="editor-fold" />
+      <item value="INDICATOR MARGIN" />
+      <item value="set Indicator Selected Color Res" />
+      <item value="bright" />
+      <item value="holo" />
+      <item value="holo blue bright" />
       <item value="Describes how the foreground is positioned" />
       <item value="foreground Gravity" />
       <item value="text Is Selectable" />
@@ -48,18 +55,11 @@
       <item value="banner tip Text Size" />
       <item value="Banners" />
       <item value="Circle Indicator" />
-      <item value="2 type arguments expected for class Banner&lt;T : Any!, BA : BannerAdapter&lt;T!, out RecyclerView.ViewHolder!&gt;!&gt;" />
-      <item value="banners" />
-      <item value="Api Service" />
-      <item value="wan Android API service" />
-      <item value="Wan Android Api Service" />
-      <item value="is Succes" />
-      <item value="Parcel Creator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="530" />
-        <entry key="ENGLISH" value="530" />
+        <entry key="CHINESE" value="536" />
+        <entry key="ENGLISH" value="537" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
@@ -67,6 +67,7 @@
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="MARATHI" value="2" />
+        <entry key="BENGALI" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="2" />
         <entry key="INDONESIAN" value="1" />
