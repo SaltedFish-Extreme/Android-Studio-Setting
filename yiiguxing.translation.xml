@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Type 'Lazy&lt;Boolean.Companion&gt;' has no method 'setValue(HomeFragment, KProperty&lt;&gt;, Boolean.Companion)' and thus it cannot serve as a delegate for var (read-write property)" />
       <item value="legacy" />
       <item value="Failed to resolve" />
       <item value="refresh-layout-kernel" />
@@ -54,11 +55,10 @@
       <item value="My Nav Host Fragment" />
       <item value="Jvm Overloads" />
       <item value="set Title Text Color" />
-      <item value="set Title Text Appearance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="526" />
+        <entry key="CHINESE" value="527" />
         <entry key="ENGLISH" value="527" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
