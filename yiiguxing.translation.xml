@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="This item is unreachable because a previous item (item 1) is a more general match than this one (Earlier item which masks item)" />
+      <item value="color title default" />
+      <item value="文本标题默认颜色" />
       <item value="fit Center" />
       <item value="riv oval" />
       <item value="riv tile mode" />
@@ -52,14 +55,11 @@
       <item value="Already have a pending vsync event. There should only be one at a time" />
       <item value="默认的" />
       <item value="Multiple observers registered but only one will be notified of changes" />
-      <item value="There's a cycle in the inheritance hierarchy for this type" />
-      <item value="noinspection GradleDependency" />
-      <item value="This project uses AndroidX dependencies, but the 'android.useAndroidX' property is not enabled. Set this property to true in the gradle.properties file and retry." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="551" />
-        <entry key="ENGLISH" value="552" />
+        <entry key="CHINESE" value="553" />
+        <entry key="ENGLISH" value="553" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
