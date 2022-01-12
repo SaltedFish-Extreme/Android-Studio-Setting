@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="color text article chapter pressed" />
+      <item value="color text article author pressed" />
       <item value="selector text color article chapter" />
       <item value="author" />
       <item value="chapter" />
@@ -53,13 +55,11 @@
       <item value="ViewRoot perform Traversals" />
       <item value="ViewRoot performTraversals" />
       <item value="android.view.WindowLeaked: Activity com.example.wanAndroid.ui.activity.MainActivity has leaked window android.widget.TextView{7a229e9 V.ED..... ........ 0,0-414,133 102000b android:idmessage} that was originally added here" />
-      <item value="Failed to find GeneratedAppGlideModule. You should include an annotationProcessor compile dependency on com.github.bumptech.glide:compiler in your application and a @GlideModule annotated AppGlideModule implementation or LibraryGlideModules will be silently ignored" />
-      <item value="The specified message queue synchronization barrier token has not been posted or has already been removed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="555" />
-        <entry key="ENGLISH" value="556" />
+        <entry key="CHINESE" value="557" />
+        <entry key="ENGLISH" value="558" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
