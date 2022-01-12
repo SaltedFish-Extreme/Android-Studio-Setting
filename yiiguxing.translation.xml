@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="rectangle" />
       <item value="item" />
       <item value="item Icon Tint" />
       <item value="item Icon Disabled Alpha" />
@@ -54,12 +55,11 @@
       <item value="text Is Selectable" />
       <item value="floral white" />
       <item value="Type 'Lazy&lt;Boolean.Companion&gt;' has no method 'setValue(HomeFragment, KProperty&lt;&gt;, Boolean.Companion)' and thus it cannot serve as a delegate for var (read-write property)" />
-      <item value="legacy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="574" />
-        <entry key="ENGLISH" value="575" />
+        <entry key="CHINESE" value="575" />
+        <entry key="ENGLISH" value="576" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
