@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="drawable" />
+      <item value="drawable Tint" />
+      <item value="Bridge" />
       <item value="Tint to apply to the icon" />
       <item value="K Toolbar Title Appearance" />
       <item value="K Toolbar Style" />
@@ -52,14 +55,11 @@
       <item value="barrier token has not been posted or has already been removed" />
       <item value="Convert Exception" />
       <item value="Member Visibility Can Be Private" />
-      <item value="Banner API" />
-      <item value="snap" />
-      <item value="window Light Status Bar" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="566" />
-        <entry key="ENGLISH" value="567" />
+        <entry key="CHINESE" value="571" />
+        <entry key="ENGLISH" value="572" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
