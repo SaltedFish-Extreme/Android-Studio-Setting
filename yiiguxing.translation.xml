@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="revert" />
+      <item value="The class name of a Behavior class defining special runtime behavior for this child view." />
       <item value="ScrollView can host only one direct child" />
       <item value="over Scroll Mode" />
       <item value="please add item model type : addType&lt;com.example.wanAndroid.logic.model.ArticleResponse&gt;(R.layout.item)" />
@@ -53,13 +55,11 @@
       <item value="Wild Strawberry" />
       <item value="color second" />
       <item value="soild" />
-      <item value="like soild" />
-      <item value="utils about vibrate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="628" />
-        <entry key="ENGLISH" value="628" />
+        <entry key="CHINESE" value="629" />
+        <entry key="ENGLISH" value="629" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
