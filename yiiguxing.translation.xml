@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="please add item model type : addType&lt;com.example.wanAndroid.logic.model.ArticleResponse&gt;(R.layout.item)" />
+      <item value="No Such Property Exception" />
+      <item value="Use parameter [adapter] on [addData] function or PageRefreshLayout direct wrap RecyclerView" />
+      <item value="Unsupported Operation Exception" />
       <item value="nice Date" />
       <item value="Duplicate id @+iditem_article_type originally defined here" />
       <item value="Article List API" />
@@ -51,15 +55,11 @@
       <item value="like soild" />
       <item value="utils about vibrate" />
       <item value="color Accent" />
-      <item value="item" />
-      <item value="item Icon Tint" />
-      <item value="item Icon Disabled Alpha" />
-      <item value="Blur radius of the text shadow." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="623" />
-        <entry key="ENGLISH" value="623" />
+        <entry key="CHINESE" value="626" />
+        <entry key="ENGLISH" value="627" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
