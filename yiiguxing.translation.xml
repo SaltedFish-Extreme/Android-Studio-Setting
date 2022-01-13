@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="scrollbars" />
+      <item value="over Scroll Mode" />
+      <item value="never" />
+      <item value="vertical" />
+      <item value="悬浮按钮" />
+      <item value="color floating action button" />
+      <item value="Image Contrast Check" />
       <item value="article title" />
       <item value="article content" />
       <item value="刚刚" />
@@ -48,18 +55,11 @@
       <item value="drawable participates in the padding of the content if the gravity is set to fill." />
       <item value="drawable" />
       <item value="drawable Tint" />
-      <item value="Bridge" />
-      <item value="Tint to apply to the icon" />
-      <item value="K Toolbar Title Appearance" />
-      <item value="K Toolbar Style" />
-      <item value="'clickable' attribute found, please also add 'focusable'" />
-      <item value="Unsupported Operation Exception" />
-      <item value="title Text Appearance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="614" />
-        <entry key="ENGLISH" value="614" />
+        <entry key="CHINESE" value="620" />
+        <entry key="ENGLISH" value="621" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
