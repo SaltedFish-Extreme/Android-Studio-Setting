@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="color second" />
       <item value="soild" />
       <item value="like soild" />
       <item value="utils about vibrate" />
@@ -54,12 +55,11 @@
       <item value="bright" />
       <item value="holo" />
       <item value="holo blue bright" />
-      <item value="Describes how the foreground is positioned" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="579" />
-        <entry key="ENGLISH" value="580" />
+        <entry key="CHINESE" value="580" />
+        <entry key="ENGLISH" value="581" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
