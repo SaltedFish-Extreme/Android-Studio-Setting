@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ScrollView can host only one direct child" />
       <item value="over Scroll Mode" />
       <item value="please add item model type : addType&lt;com.example.wanAndroid.logic.model.ArticleResponse&gt;(R.layout.item)" />
       <item value="No Such Property Exception" />
@@ -54,11 +55,10 @@
       <item value="soild" />
       <item value="like soild" />
       <item value="utils about vibrate" />
-      <item value="color Accent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="627" />
+        <entry key="CHINESE" value="628" />
         <entry key="ENGLISH" value="628" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
