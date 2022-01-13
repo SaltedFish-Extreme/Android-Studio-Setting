@@ -5,6 +5,18 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="center Crop" />
+      <item value="riv oval" />
+      <item value="repeat" />
+      <item value="riv mutate background" />
+      <item value="fit Center" />
+      <item value="Dusty Gray" />
+      <item value="Dove Gray" />
+      <item value="rl uncheck with expand" />
+      <item value="rl checked" />
+      <item value="set Allow Revert" />
+      <item value="rl check with expand" />
+      <item value="Wild Strawberry" />
       <item value="color second" />
       <item value="soild" />
       <item value="like soild" />
@@ -38,28 +50,16 @@
       <item value="This item is unreachable because a previous item (item 1) is a more general match than this one (Earlier item which masks item)" />
       <item value="color title default" />
       <item value="文本标题默认颜色" />
-      <item value="fit Center" />
-      <item value="riv oval" />
       <item value="riv tile mode" />
-      <item value="repeat" />
       <item value="article Top API" />
       <item value="editor-fold" />
       <item value="Description" />
       <item value="region" />
-      <item value="endregion" />
-      <item value="region Description" />
-      <item value="This item may not have a label readable by screen readers." />
-      <item value="Circle Indicator" />
-      <item value="INDICATOR MARGIN" />
-      <item value="set Indicator Selected Color Res" />
-      <item value="bright" />
-      <item value="holo" />
-      <item value="holo blue bright" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="580" />
-        <entry key="ENGLISH" value="581" />
+        <entry key="CHINESE" value="595" />
+        <entry key="ENGLISH" value="596" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
@@ -69,9 +69,10 @@
         <entry key="ROMANIAN" value="2" />
         <entry key="MARATHI" value="2" />
         <entry key="BENGALI" value="2" />
-        <entry key="NORWEGIAN" value="3" />
+        <entry key="NORWEGIAN" value="4" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="2" />
+        <entry key="ITALIAN" value="2" />
         <entry key="INDONESIAN" value="1" />
         <entry key="VIETNAMESE" value="2" />
       </map>
