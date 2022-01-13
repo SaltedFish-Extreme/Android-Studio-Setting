@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="color article pressed" />
+      <item value="rectangle" />
+      <item value="color important" />
+      <item value="重要提示颜色" />
+      <item value="置顶" />
       <item value="indeterminate Tint" />
       <item value="line Spacing Multiplier" />
       <item value="text Color Tertiary" />
@@ -26,7 +31,6 @@
       <item value="like soild" />
       <item value="utils about vibrate" />
       <item value="color Accent" />
-      <item value="rectangle" />
       <item value="item" />
       <item value="item Icon Tint" />
       <item value="item Icon Disabled Alpha" />
@@ -51,15 +55,11 @@
       <item value="selector text color article chapter" />
       <item value="author" />
       <item value="chapter" />
-      <item value="This item is unreachable because a previous item (item 1) is a more general match than this one (Earlier item which masks item)" />
-      <item value="color title default" />
-      <item value="文本标题默认颜色" />
-      <item value="riv tile mode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="601" />
-        <entry key="ENGLISH" value="602" />
+        <entry key="CHINESE" value="606" />
+        <entry key="ENGLISH" value="607" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
