@@ -5,10 +5,11 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="mutate" />
+      <item value="riv mutate background" />
       <item value="center Crop" />
       <item value="riv oval" />
       <item value="repeat" />
-      <item value="riv mutate background" />
       <item value="fit Center" />
       <item value="Dusty Gray" />
       <item value="Dove Gray" />
@@ -54,12 +55,11 @@
       <item value="article Top API" />
       <item value="editor-fold" />
       <item value="Description" />
-      <item value="region" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="595" />
-        <entry key="ENGLISH" value="596" />
+        <entry key="CHINESE" value="598" />
+        <entry key="ENGLISH" value="599" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
