@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="over Scroll Mode" />
       <item value="please add item model type : addType&lt;com.example.wanAndroid.logic.model.ArticleResponse&gt;(R.layout.item)" />
       <item value="No Such Property Exception" />
       <item value="Use parameter [adapter] on [addData] function or PageRefreshLayout direct wrap RecyclerView" />
@@ -14,7 +15,6 @@
       <item value="Article List API" />
       <item value="Acticle List API" />
       <item value="scrollbars" />
-      <item value="over Scroll Mode" />
       <item value="never" />
       <item value="vertical" />
       <item value="悬浮按钮" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="626" />
-        <entry key="ENGLISH" value="627" />
+        <entry key="CHINESE" value="627" />
+        <entry key="ENGLISH" value="628" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
