@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="indeterminate Tint" />
+      <item value="line Spacing Multiplier" />
       <item value="text Color Tertiary" />
       <item value="mutate" />
       <item value="riv mutate background" />
@@ -53,13 +55,11 @@
       <item value="color title default" />
       <item value="文本标题默认颜色" />
       <item value="riv tile mode" />
-      <item value="article Top API" />
-      <item value="editor-fold" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="599" />
-        <entry key="ENGLISH" value="600" />
+        <entry key="CHINESE" value="601" />
+        <entry key="ENGLISH" value="602" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
