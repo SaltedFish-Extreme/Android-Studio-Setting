@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Article List API" />
+      <item value="Acticle List API" />
       <item value="scrollbars" />
       <item value="over Scroll Mode" />
       <item value="never" />
@@ -53,13 +55,11 @@
       <item value="Blur radius of the text shadow." />
       <item value="Defines the drawable to draw over the content. This can be used as an overlay. The foreground drawable participates in the padding of the content if the gravity is set to fill" />
       <item value="drawable participates in the padding of the content if the gravity is set to fill." />
-      <item value="drawable" />
-      <item value="drawable Tint" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="620" />
-        <entry key="ENGLISH" value="621" />
+        <entry key="CHINESE" value="622" />
+        <entry key="ENGLISH" value="622" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
