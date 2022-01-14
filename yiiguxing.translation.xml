@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="fill Viewport" />
+      <item value="descendant Focusability" />
+      <item value="focusable In Touch Mode" />
+      <item value="Refreshing" />
+      <item value="Refresh Released" />
+      <item value="Pull Down To Refresh" />
+      <item value="Release To Refresh" />
       <item value="stack From End" />
       <item value="onBind { 绑定控件属性 findView&lt;TextView&gt;(R.id.item_article_author).text = getModel&lt;ArticleResponse&gt;().shareUser findView&lt;TextView&gt;(R.id.item_article_date).text = getModel&lt;ArticleResponse&gt;().niceDate findView&lt;TextView&gt;(R.id.item_article_title).text = getModel&lt;ArticleResponse&gt;().title findView&lt;TextView&gt;(R.id.item_article_chapter).text = getModel&lt;ArticleResponse&gt;().chapterName }" />
       <item value="Page Refresh Layout" />
@@ -48,18 +55,11 @@
       <item value="mutate" />
       <item value="riv mutate background" />
       <item value="center Crop" />
-      <item value="riv oval" />
-      <item value="repeat" />
-      <item value="fit Center" />
-      <item value="Dusty Gray" />
-      <item value="Dove Gray" />
-      <item value="rl checked" />
-      <item value="set Allow Revert" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="631" />
-        <entry key="ENGLISH" value="631" />
+        <entry key="CHINESE" value="637" />
+        <entry key="ENGLISH" value="638" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
