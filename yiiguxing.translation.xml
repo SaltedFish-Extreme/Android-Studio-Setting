@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="onBind { 绑定控件属性 findView&lt;TextView&gt;(R.id.item_article_author).text = getModel&lt;ArticleResponse&gt;().shareUser findView&lt;TextView&gt;(R.id.item_article_date).text = getModel&lt;ArticleResponse&gt;().niceDate findView&lt;TextView&gt;(R.id.item_article_title).text = getModel&lt;ArticleResponse&gt;().title findView&lt;TextView&gt;(R.id.item_article_chapter).text = getModel&lt;ArticleResponse&gt;().chapterName }" />
       <item value="Page Refresh Layout" />
       <item value="revert" />
       <item value="The class name of a Behavior class defining special runtime behavior for this child view." />
@@ -54,12 +55,11 @@
       <item value="rl checked" />
       <item value="set Allow Revert" />
       <item value="Wild Strawberry" />
-      <item value="color second" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="630" />
-        <entry key="ENGLISH" value="629" />
+        <entry key="ENGLISH" value="631" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
