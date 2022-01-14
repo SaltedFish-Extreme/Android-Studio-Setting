@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="stack From End" />
       <item value="onBind { 绑定控件属性 findView&lt;TextView&gt;(R.id.item_article_author).text = getModel&lt;ArticleResponse&gt;().shareUser findView&lt;TextView&gt;(R.id.item_article_date).text = getModel&lt;ArticleResponse&gt;().niceDate findView&lt;TextView&gt;(R.id.item_article_title).text = getModel&lt;ArticleResponse&gt;().title findView&lt;TextView&gt;(R.id.item_article_chapter).text = getModel&lt;ArticleResponse&gt;().chapterName }" />
       <item value="Page Refresh Layout" />
       <item value="revert" />
@@ -54,11 +55,10 @@
       <item value="Dove Gray" />
       <item value="rl checked" />
       <item value="set Allow Revert" />
-      <item value="Wild Strawberry" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="630" />
+        <entry key="CHINESE" value="631" />
         <entry key="ENGLISH" value="631" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
