@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="This annotation is not applicable to target 'expression'" />
       <item value="rl check with expand" />
       <item value="checked layout" />
       <item value="anim duration" />
@@ -54,11 +55,10 @@
       <item value="nice Date" />
       <item value="Duplicate id @+iditem_article_type originally defined here" />
       <item value="Article List API" />
-      <item value="Acticle List API" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="665" />
+        <entry key="CHINESE" value="666" />
         <entry key="ENGLISH" value="666" />
         <entry key="IRISH" value="2" />
         <entry key="DANISH" value="1" />
