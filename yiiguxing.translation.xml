@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="rl check with expand" />
+      <item value="checked layout" />
+      <item value="anim duration" />
+      <item value="allow revert" />
       <item value="merge" />
       <item value="srl Disable Content When Loading" />
       <item value="get Item Count" />
@@ -51,21 +55,18 @@
       <item value="Duplicate id @+iditem_article_type originally defined here" />
       <item value="Article List API" />
       <item value="Acticle List API" />
-      <item value="scrollbars" />
-      <item value="never" />
-      <item value="vertical" />
-      <item value="悬浮按钮" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="662" />
-        <entry key="ENGLISH" value="663" />
+        <entry key="CHINESE" value="665" />
+        <entry key="ENGLISH" value="666" />
         <entry key="IRISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
+        <entry key="LATIN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="ROMANIAN" value="3" />
         <entry key="MARATHI" value="2" />
