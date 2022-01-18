@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Chor uploadMDM JANK_TYPE_ONCE mViewTitle" />
+      <item value="Open GL Renderer" />
+      <item value="Davey" />
+      <item value="Setting up flushing for Thread[queued-work-looper,5,main]" />
       <item value="course Id" />
       <item value="publish Time" />
       <item value="real Super Chapter Id" />
@@ -51,15 +55,11 @@
       <item value="onBind { 绑定控件属性 findView&lt;TextView&gt;(R.id.item_article_author).text = getModel&lt;ArticleResponse&gt;().shareUser findView&lt;TextView&gt;(R.id.item_article_date).text = getModel&lt;ArticleResponse&gt;().niceDate findView&lt;TextView&gt;(R.id.item_article_title).text = getModel&lt;ArticleResponse&gt;().title findView&lt;TextView&gt;(R.id.item_article_chapter).text = getModel&lt;ArticleResponse&gt;().chapterName }" />
       <item value="Page Refresh Layout" />
       <item value="revert" />
-      <item value="The class name of a Behavior class defining special runtime behavior for this child view." />
-      <item value="ScrollView can host only one direct child" />
-      <item value="over Scroll Mode" />
-      <item value="please add item model type : addType&lt;com.example.wanAndroid.logic.model.ArticleResponse&gt;(R.layout.item)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="669" />
-        <entry key="ENGLISH" value="670" />
+        <entry key="CHINESE" value="673" />
+        <entry key="ENGLISH" value="674" />
         <entry key="IRISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
