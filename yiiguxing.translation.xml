@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="srl Enable Over Scroll Bounce" />
+      <item value="srl Enable Over Scroll Drag" />
       <item value="Open GL Renderer" />
       <item value="Davey" />
       <item value="You should include an annotationProcessor compile dependency on com.github.bumptech.glide:compiler in your application and a @GlideModule annotated AppGlideModule implementation or LibraryGlideModules will be silently ignored" />
@@ -53,13 +55,11 @@
       <item value="Pull Down To Refresh" />
       <item value="Release To Refresh" />
       <item value="stack From End" />
-      <item value="onBind { 绑定控件属性 findView&lt;TextView&gt;(R.id.item_article_author).text = getModel&lt;ArticleResponse&gt;().shareUser findView&lt;TextView&gt;(R.id.item_article_date).text = getModel&lt;ArticleResponse&gt;().niceDate findView&lt;TextView&gt;(R.id.item_article_title).text = getModel&lt;ArticleResponse&gt;().title findView&lt;TextView&gt;(R.id.item_article_chapter).text = getModel&lt;ArticleResponse&gt;().chapterName }" />
-      <item value="Page Refresh Layout" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="676" />
-        <entry key="ENGLISH" value="677" />
+        <entry key="CHINESE" value="678" />
+        <entry key="ENGLISH" value="679" />
         <entry key="IRISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
