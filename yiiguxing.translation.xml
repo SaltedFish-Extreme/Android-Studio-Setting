@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="course Id" />
+      <item value="publish Time" />
+      <item value="real Super Chapter Id" />
+      <item value="Request that your application's processes be created with a large Dalvik heap. This applies to all processes created for the application. It only applies to the first application loaded into a process; if using a sharedUserId to allow multiple applications to use a process, they all must use this option consistently or will get unpredictable results" />
       <item value="uses Cleartext Traffic" />
       <item value="Expression 'tags.isNullOrEmpty()' of type 'Boolean' cannot be invoked as a function. The function 'invoke()' is not found" />
       <item value="This annotation is not applicable to target 'expression'" />
@@ -51,15 +55,11 @@
       <item value="ScrollView can host only one direct child" />
       <item value="over Scroll Mode" />
       <item value="please add item model type : addType&lt;com.example.wanAndroid.logic.model.ArticleResponse&gt;(R.layout.item)" />
-      <item value="No Such Property Exception" />
-      <item value="Use parameter [adapter] on [addData] function or PageRefreshLayout direct wrap RecyclerView" />
-      <item value="Unsupported Operation Exception" />
-      <item value="nice Date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="667" />
-        <entry key="ENGLISH" value="667" />
+        <entry key="CHINESE" value="669" />
+        <entry key="ENGLISH" value="670" />
         <entry key="IRISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
