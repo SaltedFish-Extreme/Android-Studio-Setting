@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="uses Cleartext Traffic" />
       <item value="Expression 'tags.isNullOrEmpty()' of type 'Boolean' cannot be invoked as a function. The function 'invoke()' is not found" />
       <item value="This annotation is not applicable to target 'expression'" />
       <item value="rl check with expand" />
@@ -54,12 +55,11 @@
       <item value="Use parameter [adapter] on [addData] function or PageRefreshLayout direct wrap RecyclerView" />
       <item value="Unsupported Operation Exception" />
       <item value="nice Date" />
-      <item value="Duplicate id @+iditem_article_type originally defined here" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="667" />
-        <entry key="ENGLISH" value="666" />
+        <entry key="ENGLISH" value="667" />
         <entry key="IRISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
