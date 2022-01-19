@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="scrollable" />
       <item value="snap Margins" />
       <item value="snap" />
       <item value="enter Always Collapsed" />
@@ -54,12 +55,11 @@
       <item value="FAILED" />
       <item value="失败" />
       <item value="REFRESH HEADER FAILED" />
-      <item value="成功" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="687" />
-        <entry key="ENGLISH" value="688" />
+        <entry key="CHINESE" value="688" />
+        <entry key="ENGLISH" value="689" />
         <entry key="IRISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
@@ -81,7 +81,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1642153640321" />
+    <option name="lastTrimTime" value="1642593122629" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
