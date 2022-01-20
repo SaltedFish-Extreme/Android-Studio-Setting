@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Avoid passing null as the view root (needed to resolve layout parameters on the inflated layout's root element)" />
       <item value="scrollbar Default Delay Before Fade" />
       <item value="scrollable" />
       <item value="snap Margins" />
@@ -54,11 +55,10 @@
       <item value="SUCCESSED" />
       <item value="SUCCEED" />
       <item value="FAILED" />
-      <item value="失败" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="689" />
+        <entry key="CHINESE" value="690" />
         <entry key="ENGLISH" value="690" />
         <entry key="IRISH" value="2" />
         <entry key="DANISH" value="1" />
