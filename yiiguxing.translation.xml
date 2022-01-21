@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Scale the image uniformly (maintain the image's aspect ratio) so both dimensions (width and height) of the image will be equal to or larger than the corresponding dimension of the view (minus padding). The image is then centered in the view" />
+      <item value="圆" />
+      <item value="圆角" />
       <item value="Stop a nested scroll in progress.&#10;Calling this method when a nested scroll is not currently in progress is harmless." />
       <item value="stop" />
       <item value="停止" />
@@ -52,14 +55,11 @@
       <item value="Pull Up Canceled" />
       <item value="set Enable Over Scroll Bounce" />
       <item value="ellipsize" />
-      <item value="Relative Overlap" />
-      <item value="include Font Padding" />
-      <item value="line Spacing Multiplier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="701" />
-        <entry key="ENGLISH" value="701" />
+        <entry key="CHINESE" value="704" />
+        <entry key="ENGLISH" value="703" />
         <entry key="IRISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
