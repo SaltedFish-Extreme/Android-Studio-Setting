@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="420" />
+    <option name="newTranslationDialogWidth" value="412" />
     <option name="newTranslationDialogX" value="402" />
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Stop a nested scroll in progress.&#10;Calling this method when a nested scroll is not currently in progress is harmless." />
+      <item value="stop" />
+      <item value="停止" />
+      <item value="hide floating button" />
+      <item value="隐藏悬浮按钮" />
       <item value="article Data" />
       <item value="srl Enable Auto Load More" />
       <item value="The specified message queue synchronization barrier token has not been posted or has already been removed" />
@@ -50,16 +55,11 @@
       <item value="Relative Overlap" />
       <item value="include Font Padding" />
       <item value="line Spacing Multiplier" />
-      <item value="获取诗词" />
-      <item value="Obtain" />
-      <item value="获取" />
-      <item value="ancient" />
-      <item value="poetry" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="694" />
-        <entry key="ENGLISH" value="695" />
+        <entry key="CHINESE" value="701" />
+        <entry key="ENGLISH" value="701" />
         <entry key="IRISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
