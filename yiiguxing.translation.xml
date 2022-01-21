@@ -5,8 +5,12 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="Already have a pending vsync event. There should only be one at a time." />
+      <item value="perform Traversals" />
+      <item value="vibration" />
       <item value="The specified message queue synchronization barrier token has not been posted or has already been removed" />
+      <item value="抑制警告" />
+      <item value="Field requires API level S (current min is 24): android.content.ContextVIBRATOR_MANAGER_SERVICE" />
+      <item value="Already have a pending vsync event. There should only be one at a time." />
       <item value="ViewRoot performTraversals. in com.example.wanandroidcom.example.wanAndroid.ui.activity.MainActivity" />
       <item value="Scale the image uniformly (maintain the image's aspect ratio) so both dimensions (width and height) of the image will be equal to or larger than the corresponding dimension of the view (minus padding). The image is then centered in the view" />
       <item value="圆" />
@@ -51,15 +55,11 @@
       <item value="anim duration" />
       <item value="allow revert" />
       <item value="merge" />
-      <item value="srl Disable Content When Loading" />
-      <item value="get Item Count" />
-      <item value="set Enable Footer Translation Content" />
-      <item value="Pull Up Canceled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="705" />
-        <entry key="ENGLISH" value="706" />
+        <entry key="CHINESE" value="709" />
+        <entry key="ENGLISH" value="710" />
         <entry key="IRISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
