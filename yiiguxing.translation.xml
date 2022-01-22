@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The specified message queue synchronization barrier token has not been posted or has already been removed" />
+      <item value="ViewRoot performTraversals. in Toast" />
       <item value="set Check With Expand" />
       <item value="收藏" />
       <item value="layout reveal like checked" />
@@ -16,7 +18,6 @@
       <item value="set On Checked Change Listener" />
       <item value="perform Traversals" />
       <item value="vibration" />
-      <item value="The specified message queue synchronization barrier token has not been posted or has already been removed" />
       <item value="抑制警告" />
       <item value="Field requires API level S (current min is 24): android.content.ContextVIBRATOR_MANAGER_SERVICE" />
       <item value="Already have a pending vsync event. There should only be one at a time." />
@@ -54,12 +55,11 @@
       <item value="Setting up flushing for Thread[queued-work-looper,5,main]" />
       <item value="course Id" />
       <item value="publish Time" />
-      <item value="real Super Chapter Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="715" />
-        <entry key="ENGLISH" value="716" />
+        <entry key="CHINESE" value="717" />
+        <entry key="ENGLISH" value="718" />
         <entry key="IRISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
