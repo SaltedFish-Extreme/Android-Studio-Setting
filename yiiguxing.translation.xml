@@ -5,7 +5,9 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ViewRoot performTraversals." />
       <item value="Already have a pending vsync event. There should only be one at a time." />
+      <item value="lready have a pending vsync event. There should only be one at a time." />
       <item value="The specified message queue synchronization barrier token has not been posted or has already been removed" />
       <item value="ViewRoot performTraversals. in Toast" />
       <item value="set Check With Expand" />
@@ -53,13 +55,11 @@
       <item value="You should include an annotationProcessor compile dependency on com.github.bumptech.glide:compiler in your application and a @GlideModule annotated AppGlideModule implementation or LibraryGlideModules will be silently ignored" />
       <item value="Chor uploadMDM JANK_TYPE_ONCE mViewTitle" />
       <item value="Setting up flushing for Thread[queued-work-looper,5,main]" />
-      <item value="course Id" />
-      <item value="publish Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="719" />
-        <entry key="ENGLISH" value="720" />
+        <entry key="CHINESE" value="722" />
+        <entry key="ENGLISH" value="723" />
         <entry key="IRISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
