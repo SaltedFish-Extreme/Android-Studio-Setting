@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="&lt;merge &gt; can be used only with a valid ViewGroup root and attachToRoot=true" />
       <item value="merge" />
       <item value="包含" />
       <item value="ambiguous argument 'HEAD..originmaster': unknown revision or path not in the working tree." />
@@ -54,12 +55,11 @@
       <item value="layout collapse Mode" />
       <item value="It will always be more efficient to use more specific change events if you can. Rely on notifyDataSetChanged as a last resort." />
       <item value="Background young concurrent copying GC freed 95828(15MB) AllocSpace objects, 11(500KB) LOS objects, 66% free, 12MB36MB, paused 431us total 125.676ms" />
-      <item value="srl Enable Over Scroll Bounce" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="727" />
-        <entry key="ENGLISH" value="727" />
+        <entry key="ENGLISH" value="728" />
         <entry key="IRISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
