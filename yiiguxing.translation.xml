@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="LOAD FOOTER NO MORE DATA" />
+      <item value="Pull Up To Load" />
       <item value="View Pager" />
       <item value="include" />
       <item value="content Inset Start" />
@@ -53,13 +55,11 @@
       <item value="snap" />
       <item value="enter Always Collapsed" />
       <item value="exit Until Collapsed" />
-      <item value="Constraint Layout" />
-      <item value="parallax" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="730" />
-        <entry key="ENGLISH" value="731" />
+        <entry key="CHINESE" value="732" />
+        <entry key="ENGLISH" value="733" />
         <entry key="IRISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
