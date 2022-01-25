@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Failed to find GeneratedAppGlideModule. You should include an annotationProcessor compile dependency on com.github.bumptech.glide:compiler in your application and a @GlideModule annotated AppGlideModule implementation or LibraryGlideModules will be silently ignored" />
+      <item value="ViewRoot performTraversals. in com.example.wanandroidcom.example.wanAndroid.ui.activity.MainActivity WGlide: Failed to find GeneratedAppGlideModule. You should include an annotationProcessor compile dependency on com.github.bumptech.glide:compiler in your application and a @GlideModule annotated AppGlideModule implementation or LibraryGlideModules will be silently ignored" />
+      <item value="idden method LsunmiscUnsafe;-&gt;allocateInstance(LjavalangClass;)LjavalangObject; (greylist, reflection, allowed)" />
+      <item value="The specified message queue synchronization barrier token has not been posted or has already been removed" />
       <item value="网络风暴" />
       <item value="Base Delegate Multi Adapter" />
       <item value="Project Classify Response" />
@@ -30,7 +34,6 @@
       <item value="ViewRoot performTraversals." />
       <item value="Already have a pending vsync event. There should only be one at a time." />
       <item value="lready have a pending vsync event. There should only be one at a time." />
-      <item value="The specified message queue synchronization barrier token has not been posted or has already been removed" />
       <item value="ViewRoot performTraversals. in Toast" />
       <item value="set Check With Expand" />
       <item value="收藏" />
@@ -52,14 +55,11 @@
       <item value="Stop a nested scroll in progress.&#10;Calling this method when a nested scroll is not currently in progress is harmless." />
       <item value="stop" />
       <item value="停止" />
-      <item value="hide floating button" />
-      <item value="隐藏悬浮按钮" />
-      <item value="article Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="744" />
-        <entry key="ENGLISH" value="744" />
+        <entry key="CHINESE" value="748" />
+        <entry key="ENGLISH" value="749" />
         <entry key="IRISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
