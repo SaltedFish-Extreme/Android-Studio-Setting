@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="App Glide Module" />
+      <item value="Style" />
+      <item value="Appearance" />
       <item value="set Has Options Menu" />
       <item value="By convention, the custom view (MyToolbar) and the declare-styleable (Toolbar) should have the same name (various editor features rely on this convention)" />
       <item value="It will always be more efficient to use more specific change events if you can. Rely on notifyDataSetChanged as a last resort" />
@@ -52,14 +55,11 @@
       <item value="Json Syntax Exception" />
       <item value="set On Checked Change Listener" />
       <item value="perform Traversals" />
-      <item value="vibration" />
-      <item value="抑制警告" />
-      <item value="Field requires API level S (current min is 24): android.content.ContextVIBRATOR_MANAGER_SERVICE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="754" />
-        <entry key="ENGLISH" value="754" />
+        <entry key="CHINESE" value="756" />
+        <entry key="ENGLISH" value="757" />
         <entry key="IRISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
