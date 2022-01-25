@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="m Classify List" />
       <item value="Ariticle Adapter" />
       <item value="Article Adapter" />
       <item value="NOTE: Do not place your application dependencies here; they belong in the individual module build.gradle files" />
@@ -54,12 +55,11 @@
       <item value="ViewRoot performTraversals. in com.example.wanandroidcom.example.wanAndroid.ui.activity.MainActivity" />
       <item value="Scale the image uniformly (maintain the image's aspect ratio) so both dimensions (width and height) of the image will be equal to or larger than the corresponding dimension of the view (minus padding). The image is then centered in the view" />
       <item value="圆" />
-      <item value="圆角" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="751" />
-        <entry key="ENGLISH" value="752" />
+        <entry key="CHINESE" value="752" />
+        <entry key="ENGLISH" value="753" />
         <entry key="IRISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
