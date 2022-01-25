@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="网络风暴" />
       <item value="Base Delegate Multi Adapter" />
       <item value="Project Classify Response" />
       <item value="Classify" />
@@ -54,12 +55,11 @@
       <item value="hide floating button" />
       <item value="隐藏悬浮按钮" />
       <item value="article Data" />
-      <item value="srl Enable Auto Load More" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="741" />
-        <entry key="ENGLISH" value="742" />
+        <entry key="CHINESE" value="744" />
+        <entry key="ENGLISH" value="744" />
         <entry key="IRISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
