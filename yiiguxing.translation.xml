@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="615" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="m Project Classify Data" />
       <item value="UNUSED PARAMETER" />
       <item value="start Index" />
       <item value="he attribute android:dataExtractionRules only applies for Android 12 and higher; since minSdkVersion is API 24 you should also set android:fullBackupContent" />
@@ -54,12 +55,11 @@
       <item value="The specified message queue synchronization barrier token has not been posted or has already been removed" />
       <item value="网络风暴" />
       <item value="Base Delegate Multi Adapter" />
-      <item value="Project Classify Response" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="787" />
-        <entry key="ENGLISH" value="787" />
+        <entry key="ENGLISH" value="788" />
         <entry key="IRISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
