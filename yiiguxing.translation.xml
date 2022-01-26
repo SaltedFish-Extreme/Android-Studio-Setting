@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="412" />
+    <option name="newTranslationDialogWidth" value="408" />
     <option name="newTranslationDialogX" value="402" />
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Inflater" />
+      <item value="Layout Inflater" />
+      <item value="include" />
       <item value="placeholder" />
       <item value="Sets an Drawable to display while a resource is loading. Replaces any previous calls to this method or placeholder(int)." />
       <item value="Image View" />
@@ -39,7 +42,6 @@
       <item value="LOAD FOOTER NO MORE DATA" />
       <item value="Pull Up To Load" />
       <item value="View Pager" />
-      <item value="include" />
       <item value="content Inset Start" />
       <item value="&lt;merge &gt; can be used only with a valid ViewGroup root and attachToRoot=true" />
       <item value="merge" />
@@ -53,13 +55,11 @@
       <item value="lready have a pending vsync event. There should only be one at a time." />
       <item value="ViewRoot performTraversals. in Toast" />
       <item value="set Check With Expand" />
-      <item value="收藏" />
-      <item value="layout reveal like checked" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="760" />
-        <entry key="ENGLISH" value="761" />
+        <entry key="CHINESE" value="764" />
+        <entry key="ENGLISH" value="765" />
         <entry key="IRISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
