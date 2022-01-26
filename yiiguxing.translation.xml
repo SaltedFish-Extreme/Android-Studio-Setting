@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="fragment universal" />
+      <item value="universal" />
+      <item value="Universal" />
+      <item value="fragment Universal" />
+      <item value="通用" />
+      <item value="activity" />
+      <item value="item" />
       <item value="merge" />
       <item value="ViewHolder views must not be attached when created. Ensure that you are not passing 'true' to the attachToRoot parameter of LayoutInflater.inflate(..., boolean attachToRoot)" />
       <item value="header Layout" />
@@ -48,18 +55,11 @@
       <item value="content Inset Start" />
       <item value="&lt;merge &gt; can be used only with a valid ViewGroup root and attachToRoot=true" />
       <item value="包含" />
-      <item value="ambiguous argument 'HEAD..originmaster': unknown revision or path not in the working tree." />
-      <item value="refusing to merge unrelated histories" />
-      <item value="[javax.net.ssl.SSLException: Write error: ssl=0x7b7ff5ccc8: IO error during system call, Software caused connection abort, javax.net.ssl.SSLException: Write error: ssl=0x7b7ff5d088: IO error during system call, Software caused connection abort]" />
-      <item value="Activity com.example.wanAndroid.ui.activity.MainActivity has leaked window android.widget.TextView{4fe5d42 V.ED..... ......ID 0,0-270,133 102000b android:idmessage} that was originally added here" />
-      <item value="ViewRoot performTraversals." />
-      <item value="Already have a pending vsync event. There should only be one at a time." />
-      <item value="lready have a pending vsync event. There should only be one at a time." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="767" />
-        <entry key="ENGLISH" value="768" />
+        <entry key="CHINESE" value="776" />
+        <entry key="ENGLISH" value="777" />
         <entry key="IRISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
