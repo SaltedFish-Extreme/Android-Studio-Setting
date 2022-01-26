@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Background concurrent copying GC freed 61755(3061KB) AllocSpace objects, 137(10MB) LOS objects, 50% free, 16MB33MB, paused 89us total 131.703ms" />
+      <item value="No image meets the size requirements of a thumbnail image." />
+      <item value="Gralloc3: mapper 3.x is not supported" />
+      <item value="Accessing hidden method" />
+      <item value="Dynamic Font V2 Ignore Call" />
       <item value="Capture layout hierarchy snapshots Layout Inspector now allows you to save snapshots of your running app’s layout hierarchy, so that you can easily share them with others or refer to them later. Snapshots capture the data you would typically see when using the Layout Inspector, including a detailed 3D rendering of your layout, the component tree of your View, Compose, or hybrid layout, and detailed attributes for each component of your UI. When you want to capture a snapshot, click Export snapshot from the Layout Inspector toolbar. Capture layout hierarchy snapshots In Android Studio Bumblebee, you can now use the Layout Inspector to inspect semantic information in your Compose layouts. When selecting a Compose node, use the Attributes window to check whether it declares semantic information directly, merges semantics from its children, or both. To quickly identify which nodes include semantics, either declared or merged, use select the View options dropdown in the Component Tree window and select Highlight Semantics Layers." />
       <item value="This panel describes some of the new features and behavior changes included in this update. To open this panel again later, select Help &gt; What's New in Android Studio from the main menu. Read in a browser" />
       <item value="bumblebee" />
@@ -26,7 +31,6 @@
       <item value="Sets an Drawable to display while a resource is loading. Replaces any previous calls to this method or placeholder(int)." />
       <item value="Image View" />
       <item value="WaitForGcToComplete blocked ProfileSaver on HeapTrim for 60.050ms" />
-      <item value="No image meets the size requirements of a thumbnail image." />
       <item value="It will always be more efficient to use more specific change events if you can. Rely on notifyDataSetChanged as a last resort." />
       <item value="Too many arguments for public constructor Adapter&lt;VH : RecyclerView.ViewHolder!&gt;() defined in androidx.recyclerview.widget.RecyclerView.Adapter" />
       <item value="App Glide Module" />
@@ -51,15 +55,11 @@
       <item value="fragment集合" />
       <item value="is User Input Enabled" />
       <item value="Nested Header Scroll Behavior" />
-      <item value="Nested Content Scroll Behavior" />
-      <item value="Coordinator Layout" />
-      <item value="LOAD FOOTER NO MORE DATA" />
-      <item value="Pull Up To Load" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="779" />
-        <entry key="ENGLISH" value="779" />
+        <entry key="CHINESE" value="784" />
+        <entry key="ENGLISH" value="785" />
         <entry key="IRISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
