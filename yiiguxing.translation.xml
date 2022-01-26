@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="524" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="bumblebee" />
+      <item value="These steps are not required to perform the upgrade of this project at this time, but will be required when upgrading to a later version of the Android Gradle Plugin. You can choose to do them in this upgrade to prepare for the future, but only if the Android Gradle Plugin is upgraded to its new version." />
       <item value="fragment universal" />
       <item value="universal" />
       <item value="Universal" />
@@ -53,13 +55,11 @@
       <item value="Pull Up To Load" />
       <item value="View Pager" />
       <item value="content Inset Start" />
-      <item value="&lt;merge &gt; can be used only with a valid ViewGroup root and attachToRoot=true" />
-      <item value="包含" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="776" />
-        <entry key="ENGLISH" value="777" />
+        <entry key="CHINESE" value="777" />
+        <entry key="ENGLISH" value="778" />
         <entry key="IRISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
