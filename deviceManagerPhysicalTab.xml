@@ -1,0 +1,29 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="2fe0d4eb" />
+          </Key>
+        </key>
+        <name value="OnePlus ONEPLUS A5000" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.199.242:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-01-26T09:58:49.567909200Z" />
+        <name value="OnePlus ONEPLUS A5000" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>

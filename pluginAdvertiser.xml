@@ -24,7 +24,7 @@
                   </entry>
                   <entry key="Application">
                     <value>
-                      <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
+                      <FeaturePluginData displayName="应用程序" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
                     </value>
                   </entry>
                   <entry key="ComposePreviewRunConfiguration">
@@ -34,7 +34,7 @@
                   </entry>
                   <entry key="CompoundRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
+                      <FeaturePluginData displayName="复合" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
                     </value>
                   </entry>
                   <entry key="GradleRunConfiguration">
@@ -54,12 +54,12 @@
                   </entry>
                   <entry key="JarApplication">
                     <value>
-                      <FeaturePluginData displayName="JAR Application" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
+                      <FeaturePluginData displayName="JAR 应用程序" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
                     </value>
                   </entry>
                   <entry key="Java Scratch">
                     <value>
-                      <FeaturePluginData displayName="Java Scratch" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
+                      <FeaturePluginData displayName="Java 草稿" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
                     </value>
                   </entry>
                   <entry key="JetRunConfigurationType">
@@ -74,7 +74,7 @@
                   </entry>
                   <entry key="Remote">
                     <value>
-                      <FeaturePluginData displayName="Remote JVM Debug" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
+                      <FeaturePluginData displayName="远程 JVM 调试" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
                     </value>
                   </entry>
                   <entry key="ShConfigurationType">
@@ -159,7 +159,7 @@
                   </entry>
                   <entry key="plain">
                     <value>
-                      <FeaturePluginData displayName="Other" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
+                      <FeaturePluginData displayName="其它" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
                     </value>
                   </entry>
                 </map>
