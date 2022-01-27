@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="615" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Failed to find GeneratedAppGlideModule. You should include an annotationProcessor compile dependency on com.github.bumptech.glide:compiler in your application and a @GlideModule annotated AppGlideModule implementation or LibraryGlideModules will be silently ignored" />
+      <item value="WaitForGcToComplete blocked ClassLinker on ClassLinker for 26.226ms" />
+      <item value="Already have a pending vsync event. There should only be one at a time." />
+      <item value="The specified message queue synchronization barrier token has not been posted or has already been removed" />
       <item value="srl Enable Footer Follow When Load Finished" />
       <item value="m Project Classify Data" />
       <item value="UNUSED PARAMETER" />
@@ -50,16 +54,12 @@
       <item value="Ariticle Adapter" />
       <item value="Article Adapter" />
       <item value="NOTE: Do not place your application dependencies here; they belong in the individual module build.gradle files" />
-      <item value="Failed to find GeneratedAppGlideModule. You should include an annotationProcessor compile dependency on com.github.bumptech.glide:compiler in your application and a @GlideModule annotated AppGlideModule implementation or LibraryGlideModules will be silently ignored" />
       <item value="ViewRoot performTraversals. in com.example.wanandroidcom.example.wanAndroid.ui.activity.MainActivity WGlide: Failed to find GeneratedAppGlideModule. You should include an annotationProcessor compile dependency on com.github.bumptech.glide:compiler in your application and a @GlideModule annotated AppGlideModule implementation or LibraryGlideModules will be silently ignored" />
-      <item value="idden method LsunmiscUnsafe;-&gt;allocateInstance(LjavalangClass;)LjavalangObject; (greylist, reflection, allowed)" />
-      <item value="The specified message queue synchronization barrier token has not been posted or has already been removed" />
-      <item value="网络风暴" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="788" />
-        <entry key="ENGLISH" value="789" />
+        <entry key="CHINESE" value="793" />
+        <entry key="ENGLISH" value="794" />
         <entry key="IRISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
