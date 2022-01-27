@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="615" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="val activeNetwork = manager.activeNetworkInfo if (activeNetwork != null) { connected to the internet if (activeNetwork.isConnected) { if (activeNetwork.type == ConnectivityManager.TYPE_WIFI) { connected to wifi KLog.e(TAG, &quot;当前WiFi连接可用&quot;) } else if (activeNetwork.type == ConnectivityManager.TYPE_MOBILE) { connected to mobile KLog.e(TAG, &quot;当前移动网络连接可用&quot;) } } else { KLog.e(TAG, &quot;当前没有网络连接，请确保已经打开网络&quot;) } } else { not connected to the internet KLog.e(TAG, &quot;当前没有网络连接，请确保已经打开网络&quot;) }" />
       <item value="Suspicious cast to Vibrator for a VIBRATOR_MANAGER_SERVICE: expected VibratorManager" />
       <item value="ViewRoot performTraversals. in Toast" />
       <item value="toolbar" />
@@ -54,12 +55,11 @@
       <item value="placeholder" />
       <item value="Sets an Drawable to display while a resource is loading. Replaces any previous calls to this method or placeholder(int)." />
       <item value="Image View" />
-      <item value="WaitForGcToComplete blocked ProfileSaver on HeapTrim for 60.050ms" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="805" />
-        <entry key="ENGLISH" value="805" />
+        <entry key="CHINESE" value="806" />
+        <entry key="ENGLISH" value="806" />
         <entry key="IRISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
