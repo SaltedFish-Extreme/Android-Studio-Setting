@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="615" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Platform" />
+      <item value="Platform Fragment" />
       <item value="scrollbar Track Horizontal" />
       <item value="outline Ambient Shadow Color" />
       <item value="Reference to a theme that should be used to inflate popups shown by widgets in the toolbar." />
@@ -53,13 +55,11 @@
       <item value="fragment universal" />
       <item value="universal" />
       <item value="Universal" />
-      <item value="fragment Universal" />
-      <item value="通用" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="815" />
-        <entry key="ENGLISH" value="816" />
+        <entry key="CHINESE" value="817" />
+        <entry key="ENGLISH" value="818" />
         <entry key="IRISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
