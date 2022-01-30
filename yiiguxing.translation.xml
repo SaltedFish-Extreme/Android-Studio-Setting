@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="615" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="This TableLayout view is unnecessary (no children, no background, no id, no style)" />
+      <item value="Vertical Tab Layout" />
       <item value="flow tag" />
       <item value="is Nested Scrolling Enabled" />
       <item value="set Has Fixed Size" />
@@ -53,13 +55,11 @@
       <item value="Attribute dataExtractionRules is only used in API level 31 and higher (current min is 24)" />
       <item value="The attribute android:allowBackup is deprecated from Android 12 and higher and may be removed in future versions. Consider adding the attribute android:dataExtractionRules specifying an @xml resource which configures cloud backups and device transfers on Android 12 and higher." />
       <item value="Background concurrent copying GC freed 61755(3061KB) AllocSpace objects, 137(10MB) LOS objects, 50% free, 16MB33MB, paused 89us total 131.703ms" />
-      <item value="No image meets the size requirements of a thumbnail image." />
-      <item value="Gralloc3: mapper 3.x is not supported" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="828" />
-        <entry key="ENGLISH" value="829" />
+        <entry key="CHINESE" value="830" />
+        <entry key="ENGLISH" value="830" />
         <entry key="IRISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
