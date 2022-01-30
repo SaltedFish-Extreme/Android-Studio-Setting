@@ -5,6 +5,20 @@
     <option name="newTranslationDialogY" value="615" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="indicator gravity" />
+      <item value="scrollable" />
+      <item value="Useless Parent" />
+      <item value="content Description" />
+      <item value="This item may not have a label readable by screen readers." />
+      <item value="dim grey" />
+      <item value="line divider" />
+      <item value="alto" />
+      <item value="vertical tab layout bg" />
+      <item value="grey" />
+      <item value="gray" />
+      <item value="Tundora" />
+      <item value="Shape" />
+      <item value="Tab Layout" />
       <item value="This TableLayout view is unnecessary (no children, no background, no id, no style)" />
       <item value="Vertical Tab Layout" />
       <item value="flow tag" />
@@ -41,27 +55,15 @@
       <item value="牙黑" />
       <item value="selected" />
       <item value="unselected" />
-      <item value="color viewpager unselected" />
-      <item value="未选中" />
-      <item value="Failed to find GeneratedAppGlideModule. You should include an annotationProcessor compile dependency on com.github.bumptech.glide:compiler in your application and a @GlideModule annotated AppGlideModule implementation or LibraryGlideModules will be silently ignored" />
-      <item value="WaitForGcToComplete blocked ClassLinker on ClassLinker for 26.226ms" />
-      <item value="Already have a pending vsync event. There should only be one at a time." />
-      <item value="The specified message queue synchronization barrier token has not been posted or has already been removed" />
-      <item value="srl Enable Footer Follow When Load Finished" />
-      <item value="m Project Classify Data" />
-      <item value="UNUSED PARAMETER" />
-      <item value="start Index" />
-      <item value="he attribute android:dataExtractionRules only applies for Android 12 and higher; since minSdkVersion is API 24 you should also set android:fullBackupContent" />
-      <item value="Attribute dataExtractionRules is only used in API level 31 and higher (current min is 24)" />
-      <item value="The attribute android:allowBackup is deprecated from Android 12 and higher and may be removed in future versions. Consider adding the attribute android:dataExtractionRules specifying an @xml resource which configures cloud backups and device transfers on Android 12 and higher." />
-      <item value="Background concurrent copying GC freed 61755(3061KB) AllocSpace objects, 137(10MB) LOS objects, 50% free, 16MB33MB, paused 89us total 131.703ms" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="830" />
-        <entry key="ENGLISH" value="830" />
+        <entry key="CHINESE" value="841" />
+        <entry key="ENGLISH" value="842" />
         <entry key="IRISH" value="2" />
+        <entry key="BASQUE" value="2" />
         <entry key="DANISH" value="1" />
+        <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
@@ -73,7 +75,7 @@
         <entry key="BENGALI" value="2" />
         <entry key="NORWEGIAN" value="4" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="SPANISH" value="2" />
+        <entry key="SPANISH" value="3" />
         <entry key="ITALIAN" value="2" />
         <entry key="INDONESIAN" value="1" />
         <entry key="VIETNAMESE" value="2" />
