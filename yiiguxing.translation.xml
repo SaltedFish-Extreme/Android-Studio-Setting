@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="615" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="JCenter Maven repository is no longer receiving updates: newer library versions may be available elsewhere" />
       <item value="Too many arguments for public constructor NavigationChildAdapter() defined in com.example.wanAndroid.ui.adapter.NavigationChildAdapter" />
       <item value="Navigation Content Adapter" />
       <item value="内容" />
@@ -54,11 +55,10 @@
       <item value="List Classification Response" />
       <item value="List Classification" />
       <item value="Listclassification" />
-      <item value="List Classify" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="856" />
+        <entry key="CHINESE" value="857" />
         <entry key="ENGLISH" value="856" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="2" />
