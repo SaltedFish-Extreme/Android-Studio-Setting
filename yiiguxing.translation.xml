@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="615" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="light silver" />
+      <item value="silver" />
+      <item value="fill" />
+      <item value="填充" />
+      <item value="NativeAlloc concurrent copying GC freed 116341(4627KB) AllocSpace objects, 142(3772KB) LOS objects, 49% free, 14MB28MB, paused 159us total 101.663ms" />
       <item value="Tundora" />
       <item value="深灰色" />
       <item value="Boulder" />
@@ -50,16 +55,11 @@
       <item value="Square List API" />
       <item value="Tree Arr" />
       <item value="Platform" />
-      <item value="Platform Fragment" />
-      <item value="scrollbar Track Horizontal" />
-      <item value="outline Ambient Shadow Color" />
-      <item value="Reference to a theme that should be used to inflate popups shown by widgets in the toolbar." />
-      <item value="content Inset Start" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="860" />
-        <entry key="ENGLISH" value="861" />
+        <entry key="CHINESE" value="864" />
+        <entry key="ENGLISH" value="865" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
