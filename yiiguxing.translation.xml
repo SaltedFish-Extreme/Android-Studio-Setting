@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="615" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="on Tab Reselected" />
+      <item value="Inquiry Answer API" />
       <item value="Mutable List" />
       <item value="Adapter" />
       <item value="silver chalice" />
@@ -32,7 +34,6 @@
       <item value="set Has Fixed Size" />
       <item value="Answer" />
       <item value="Inquiry" />
-      <item value="Inquiry Answer API" />
       <item value="问答" />
       <item value="Square List API" />
       <item value="Tree Arr" />
@@ -54,12 +55,11 @@
       <item value="ViewRoot performTraversals. in Toast" />
       <item value="toolbar" />
       <item value="This method will be invoked when a new page becomes selected. Animation is not necessarily complete." />
-      <item value="white smoke" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="847" />
-        <entry key="ENGLISH" value="847" />
+        <entry key="CHINESE" value="849" />
+        <entry key="ENGLISH" value="850" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="2" />
         <entry key="DANISH" value="1" />
