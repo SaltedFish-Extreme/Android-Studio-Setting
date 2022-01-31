@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="615" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Tundora" />
+      <item value="深灰色" />
+      <item value="Boulder" />
+      <item value="grey" />
       <item value="color line divider bg" />
       <item value="JCenter Maven repository is no longer receiving updates: newer library versions may be available elsewhere" />
       <item value="Too many arguments for public constructor NavigationChildAdapter() defined in com.example.wanAndroid.ui.adapter.NavigationChildAdapter" />
@@ -32,9 +36,7 @@
       <item value="line divider" />
       <item value="alto" />
       <item value="vertical tab layout bg" />
-      <item value="grey" />
       <item value="gray" />
-      <item value="Tundora" />
       <item value="Shape" />
       <item value="Tab Layout" />
       <item value="This TableLayout view is unnecessary (no children, no background, no id, no style)" />
@@ -53,15 +55,13 @@
       <item value="outline Ambient Shadow Color" />
       <item value="Reference to a theme that should be used to inflate popups shown by widgets in the toolbar." />
       <item value="content Inset Start" />
-      <item value="List Classification Response" />
-      <item value="List Classification" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="857" />
-        <entry key="ENGLISH" value="858" />
+        <entry key="CHINESE" value="860" />
+        <entry key="ENGLISH" value="861" />
         <entry key="IRISH" value="2" />
-        <entry key="BASQUE" value="2" />
+        <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="5" />
