@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="615" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="stretch" />
+      <item value="align Content" />
+      <item value="align Items" />
+      <item value="flex Wrap" />
       <item value="Tab Adapter" />
       <item value="on Tab Reselected" />
       <item value="Inquiry Answer API" />
@@ -51,15 +55,11 @@
       <item value="Project Classify" />
       <item value="List classification" />
       <item value="列表分类" />
-      <item value="val activeNetwork = manager.activeNetworkInfo if (activeNetwork != null) { connected to the internet if (activeNetwork.isConnected) { if (activeNetwork.type == ConnectivityManager.TYPE_WIFI) { connected to wifi KLog.e(TAG, &quot;当前WiFi连接可用&quot;) } else if (activeNetwork.type == ConnectivityManager.TYPE_MOBILE) { connected to mobile KLog.e(TAG, &quot;当前移动网络连接可用&quot;) } } else { KLog.e(TAG, &quot;当前没有网络连接，请确保已经打开网络&quot;) } } else { not connected to the internet KLog.e(TAG, &quot;当前没有网络连接，请确保已经打开网络&quot;) }" />
-      <item value="Suspicious cast to Vibrator for a VIBRATOR_MANAGER_SERVICE: expected VibratorManager" />
-      <item value="ViewRoot performTraversals. in Toast" />
-      <item value="toolbar" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="850" />
-        <entry key="ENGLISH" value="850" />
+        <entry key="CHINESE" value="854" />
+        <entry key="ENGLISH" value="855" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="2" />
         <entry key="DANISH" value="1" />
