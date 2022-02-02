@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="615" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="rect" />
+      <item value="矩形" />
+      <item value="椭圆" />
       <item value="user Control Set Top" />
       <item value="Classify" />
       <item value="classify" />
@@ -53,14 +56,11 @@
       <item value="NativeAlloc concurrent copying GC freed 116341(4627KB) AllocSpace objects, 142(3772KB) LOS objects, 49% free, 14MB28MB, paused 159us total 101.663ms" />
       <item value="Tundora" />
       <item value="深灰色" />
-      <item value="Boulder" />
-      <item value="grey" />
-      <item value="color line divider bg" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="903" />
-        <entry key="ENGLISH" value="904" />
+        <entry key="CHINESE" value="905" />
+        <entry key="ENGLISH" value="906" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
