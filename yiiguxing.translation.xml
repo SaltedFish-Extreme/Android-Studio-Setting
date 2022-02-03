@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="615" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="相册" />
+      <item value="album" />
+      <item value="ic avatar edit" />
       <item value="关于" />
       <item value="提示" />
       <item value="排名" />
@@ -53,14 +56,11 @@
       <item value="smooth Scroll To Position" />
       <item value="link Left Right" />
       <item value="left Right Link" />
-      <item value="index Distance" />
-      <item value="Current Index" />
-      <item value="Left TabLayout and Right RecyclerView Link" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="932" />
-        <entry key="ENGLISH" value="932" />
+        <entry key="CHINESE" value="934" />
+        <entry key="ENGLISH" value="934" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
