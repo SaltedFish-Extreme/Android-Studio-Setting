@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="615" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Jcenter Repository Obsolete" />
+      <item value="noinspection" />
       <item value="Motion spec for hide animation. This should be a MotionSpec resource." />
       <item value="hide Motion Spec" />
       <item value="Wrong state class, expecting View State but received class com.google.android.material.stateful.ExtendableSavedState instead. This usually happens when two views of different type have the same id in the same hierarchy. This view's id is idfab. Make sure other views do not use the same id." />
@@ -54,13 +56,11 @@
       <item value="Recycler View" />
       <item value="Select Left TabLayout to Smooth Right RecyclerView" />
       <item value="Shape View" />
-      <item value="flexbox" />
-      <item value="Implement this method and use the helper to adapt the view to the given item." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="920" />
-        <entry key="ENGLISH" value="920" />
+        <entry key="CHINESE" value="921" />
+        <entry key="ENGLISH" value="922" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
