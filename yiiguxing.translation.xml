@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="615" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ic integral black_24" />
+      <item value="ic integral" />
+      <item value="积分" />
       <item value="This behavior can be disabled in the &quot;Logcat output&quot; section of the &quot;Debugger&quot; settings page." />
       <item value="create Or Get Cache Flex Item Text View" />
       <item value="swipelayout" />
@@ -53,14 +56,11 @@
       <item value="Right RecyclerView link Left TabLayout" />
       <item value="SCROLL STATE IDLE" />
       <item value="override fun onResume() { super.onResume() if (mFirst) { scopeNetLife { 获取导航数据 val mNavigationData = Get&lt;ApiResponse&lt;ArrayList&lt;NavigationResponse&gt;&gt;&gt;(NetApi.NavigationAPI).await() verticalTabLayout.setTabAdapter(NavigationTabAdapter(mNavigationData.data)) leftLinkRight() rv.layoutManager = linearLayoutManager rv.adapter = NavigationContentAdapter(mNavigationData.data) mFirst = false } } } 左边标签链接右边rv private fun leftLinkRight() { rv.addOnScrollListener(object : RecyclerView.OnScrollListener() { override fun onScrollStateChanged(recyclerView: RecyclerView, newState: Int) { super.onScrollStateChanged(recyclerView, newState) if (mScroll &amp;&amp; (newState == RecyclerView.SCROLL_STATE_IDLE)) { scrollRecyclerView() } rightLinkLeft(newState) } override fun onScrolled(recyclerView: RecyclerView, dx: Int, dy: Int) { super.onScrolled(recyclerView, dx, dy) if (mScroll) { scrollRecyclerView() } } }) verticalTabLayout.addOnTabSelectedListener(object : VerticalTabLayout.OnTabSelectedListener { override fun onTabReselected(tab: TabView?, position: Int) { } override fun onTabSelected(tab: TabView?, position: Int) { mClickTab = true selectTab(position) } }) } private fun scrollRecyclerView() { mScroll = false val indexDistance: Int = mCurrentIndex - linearLayoutManager.findFirstVisibleItemPosition() if (indexDistance &gt; 0 &amp;&amp; indexDistance &lt; rv.childCount) { val top: Int = rv.getChildAt(indexDistance).top rv.smoothScrollBy(0, top) } } 右边rv链接左边标签 @param newState rv滚动状态 private fun rightLinkLeft(newState: Int) { if (newState == RecyclerView.SCROLL_STATE_IDLE) { if (mClickTab) { mClickTab = false return } val firstPosition: Int = linearLayoutManager.findFirstVisibleItemPosition() if (firstPosition != mCurrentIndex) { mCurrentIndex = firstPosition setChecked(mCurrentIndex) } } } 平滑右边rv，以选择左边标签 @param position 位置 private fun setChecked(position: Int) { if (mClickTab) { mClickTab = false } else { verticalTabLayout.setTabSelected(mCurrentIndex) } mCurrentIndex = position } 选择左边标签，以平滑右边rv @param position 位置 private fun selectTab(position: Int) { mCurrentIndex = position rv.stopScroll() smoothScrollToPosition(position) } private fun smoothScrollToPosition(position: Int) { val firstPosition: Int = linearLayoutManager.findFirstVisibleItemPosition() val lastPosition: Int = linearLayoutManager.findLastVisibleItemPosition() when { position &lt;= firstPosition -&gt; { rv.smoothScrollToPosition(position) } position &lt;= lastPosition -&gt; { val top: Int = rv.getChildAt(position - firstPosition).top rv.smoothScrollBy(0, top) } else -&gt; { rv.smoothScrollToPosition(position) mScroll = true } } }" />
-      <item value="Background concurrent copying GC freed 171530(8986KB) AllocSpace objects, 363(7260KB) LOS objects, 49% free, 15MB30MB, paused 92us total 112.573ms" />
-      <item value="Reducing the number of considered missed Gc histogram windows from 109 to 100" />
-      <item value="linear Layout Manager" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="926" />
-        <entry key="ENGLISH" value="927" />
+        <entry key="CHINESE" value="928" />
+        <entry key="ENGLISH" value="929" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
