@@ -6,6 +6,12 @@
     <option name="newTranslationDialogY" value="615" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Wrong state class, expecting View State but received class com.google.android.material.stateful.ExtendableSavedState instead. This usually happens when two views of different type have the same id in the same hierarchy. This view's id is idfab. Make sure other views do not use the same id." />
+      <item value="dy Consumed" />
+      <item value="dx Consumed" />
+      <item value="dy Unconsumed" />
+      <item value="dx Unconsumed" />
+      <item value="Scroll Aware FAB 2 Behavior" />
       <item value="action Bar" />
       <item value="Drawer Layout" />
       <item value="arrow" />
@@ -50,17 +56,11 @@
       <item value="Implement this method and use the helper to adapt the view to the given item." />
       <item value="Illegal State Exception" />
       <item value="identical 1 line" />
-      <item value="Please get it after onAttachedToRecyclerView()" />
-      <item value="jank mJunkTimes = 31" />
-      <item value="selectable Item Background" />
-      <item value="legacy" />
-      <item value="Tab Layout" />
-      <item value="scrollable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="911" />
-        <entry key="ENGLISH" value="912" />
+        <entry key="CHINESE" value="918" />
+        <entry key="ENGLISH" value="919" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
