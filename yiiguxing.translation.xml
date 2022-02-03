@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="615" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="swipelayout" />
+      <item value="You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins." />
+      <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 8.0." />
       <item value="Jcenter Repository Obsolete" />
       <item value="noinspection" />
       <item value="Motion spec for hide animation. This should be a MotionSpec resource." />
@@ -53,14 +56,11 @@
       <item value="linear Layout Manager" />
       <item value="RecyclerView Scroll State" />
       <item value="Smooth Right RecyclerView to Select Left TabLayout" />
-      <item value="Recycler View" />
-      <item value="Select Left TabLayout to Smooth Right RecyclerView" />
-      <item value="Shape View" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="921" />
-        <entry key="ENGLISH" value="922" />
+        <entry key="CHINESE" value="924" />
+        <entry key="ENGLISH" value="925" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
