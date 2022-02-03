@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="615" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="A drawable to use as the background. This can be either a reference to a full drawable resource (such as a PNG image, 9-patch, XML state list description, etc), or a solid color such as &quot;ff000000&quot; (black)" />
+      <item value="Sets a drawable as the content of this ImageView. Allows the use of vector drawable when running on older versions of the platform" />
       <item value="Shape Text View" />
       <item value="m Junk Times" />
       <item value="rect" />
@@ -54,12 +56,10 @@
       <item value="light silver" />
       <item value="silver" />
       <item value="fill" />
-      <item value="填充" />
-      <item value="NativeAlloc concurrent copying GC freed 116341(4627KB) AllocSpace objects, 142(3772KB) LOS objects, 49% free, 14MB28MB, paused 159us total 101.663ms" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="907" />
+        <entry key="CHINESE" value="909" />
         <entry key="ENGLISH" value="908" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
