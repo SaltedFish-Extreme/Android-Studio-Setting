@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="449" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="item" />
       <item value="The name of an optional View class to instantiate and use as an action view. See {@link android.view.MenuItemsetActionView(android.view.View)} for more info" />
       <item value="action View Class" />
       <item value="Unable to start activity ComponentInfo{com.example.wanandroidcom.example.wanAndroid.ui.activity.MainActivity}: java.lang.NullPointerException: null cannot be cast to non-null type android.widget.TextView" />
@@ -56,12 +57,11 @@
       <item value="arrow" />
       <item value="background Tint" />
       <item value="A drawable to use as the background. This can be either a reference to a full drawable resource (such as a PNG image, 9-patch, XML state list description, etc), or a solid color such as &quot;ff000000&quot; (black)" />
-      <item value="Sets a drawable as the content of this ImageView. Allows the use of vector drawable when running on older versions of the platform" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="952" />
-        <entry key="ENGLISH" value="950" />
+        <entry key="ENGLISH" value="951" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
