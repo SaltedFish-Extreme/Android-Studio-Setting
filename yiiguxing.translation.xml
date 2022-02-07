@@ -7,6 +7,10 @@
     <option name="newTranslationDialogY" value="449" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Unable to start activity ComponentInfo{com.example.wanandroidcom.example.wanAndroid.ui.activity.MainActivity}: android.view.InflateException: Binary XML file line 35 in com.example.wanandroid:layoutactivity_main: Binary XML file line 35 in com.example.wanandroid:layoutactivity_main: Error inflating class androidx.fragment.app.FragmentContainerView" />
+      <item value="Defines whether changes in layout (caused by adding and removing items) should cause a LayoutTransition to run. When this flag is set to true, a default LayoutTransition object will be set on the ViewGroup container and default animations will run when these layout changes occur" />
+      <item value="Defines the layout animation to use the first time the ViewGroup is laid out. Layout animations can also be started manually after the first layout." />
+      <item value="IllegalArgumentException: Destination id == 0 can only be used in conjunction with a valid navOptions.popUpTo" />
       <item value="fade in" />
       <item value="pop Enter Anim" />
       <item value="The summary for the Preference. In API 25 and earlier, this value is read as a plain string with styling information stripped" />
@@ -53,15 +57,11 @@
       <item value="level Text" />
       <item value="The name of an optional View class to instantiate and use as an action view. See {@link android.view.MenuItemsetActionView(android.view.View)} for more info." />
       <item value="nav integral" />
-      <item value="scan" />
-      <item value="历史记录" />
-      <item value="相册" />
-      <item value="album" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="972" />
-        <entry key="ENGLISH" value="973" />
+        <entry key="CHINESE" value="975" />
+        <entry key="ENGLISH" value="975" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
