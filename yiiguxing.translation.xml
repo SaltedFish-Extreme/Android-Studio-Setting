@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="600" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The application should not provide its own launch screen" />
       <item value="window Translucent Status" />
       <item value="This Drawable is overlaid over the foreground of the Window's content area, usually to place a shadow below the title" />
       <item value="window Content Overlay" />
@@ -22,7 +23,6 @@
       <item value="Invocation Target Exception" />
       <item value="Unable to start activity ComponentInfo{com.example.wanandroidcom.example.wanAndroid.ui.activity.SplashActivity}: android.view.InflateException: Binary XML file line 2 in com.example.wanandroid:layoutactivity_splash: Binary XML file line 2 in com.example.wanandroid:layoutactivity_splash: Error inflating class androidx.constraintlayout.widget.ConstraintLayout" />
       <item value="Custom Splash Screen" />
-      <item value="The application should not provide its own launch screen" />
       <item value="A launchable activity must be exported as of Android 12, which also makes it available to other apps." />
       <item value="Swipe Back Force Edge" />
       <item value="Root Swipe Back Enable" />
@@ -60,7 +60,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1004" />
+        <entry key="CHINESE" value="1005" />
         <entry key="ENGLISH" value="1005" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
