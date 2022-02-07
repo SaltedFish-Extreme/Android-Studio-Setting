@@ -7,12 +7,12 @@
     <option name="newTranslationDialogY" value="600" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="window Disable Preview" />
       <item value="The application should not provide its own launch screen" />
       <item value="window Translucent Status" />
       <item value="This Drawable is overlaid over the foreground of the Window's content area, usually to place a shadow below the title" />
       <item value="window Content Overlay" />
       <item value="window Is Translucent" />
-      <item value="window Disable Preview" />
       <item value="window Background" />
       <item value="window Fullscreen" />
       <item value="window Action Bar" />
@@ -61,7 +61,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1005" />
-        <entry key="ENGLISH" value="1005" />
+        <entry key="ENGLISH" value="1006" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
