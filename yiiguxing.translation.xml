@@ -7,10 +7,10 @@
     <option name="newTranslationDialogY" value="600" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="A Drawable resource providing a graphical representation of its associated item. Use with the application tag (to supply a default round icon for all application components), or with the activity, receiver, service, or instrumentation tag (to supply a specific round icon for that component). It may also be used with the intent-filter tag to supply a round icon to show to the user when an activity is being selected based on a particular Intent. The given round icon will be used to display to the user a graphical representation of its associated component; for example, as the round icon for main activity that is displayed in the launcher. This must be a reference to a Drawable resource containing the image definition" />
-      <item value="window Content Overlay" />
-      <item value="Flag indicating whether there should be no title on this window." />
       <item value="window Fullscreen" />
+      <item value="window Content Overlay" />
+      <item value="A Drawable resource providing a graphical representation of its associated item. Use with the application tag (to supply a default round icon for all application components), or with the activity, receiver, service, or instrumentation tag (to supply a specific round icon for that component). It may also be used with the intent-filter tag to supply a round icon to show to the user when an activity is being selected based on a particular Intent. The given round icon will be used to display to the user a graphical representation of its associated component; for example, as the round icon for main activity that is displayed in the launcher. This must be a reference to a Drawable resource containing the image definition" />
+      <item value="Flag indicating whether there should be no title on this window." />
       <item value="window Is Translucent" />
       <item value="window Disable Preview" />
       <item value="list divider" />
@@ -60,8 +60,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1023" />
-        <entry key="ENGLISH" value="1023" />
+        <entry key="CHINESE" value="1024" />
+        <entry key="ENGLISH" value="1025" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
