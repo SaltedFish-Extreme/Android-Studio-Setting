@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="600" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Swipe Back Direction For Activity" />
+      <item value="Root Swipe Back Enable" />
       <item value="Only Edge" />
       <item value="Direction" />
       <item value="Force Edge" />
@@ -48,7 +50,6 @@
       <item value="Custom Splash Screen" />
       <item value="A launchable activity must be exported as of Android 12, which also makes it available to other apps." />
       <item value="Swipe Back Force Edge" />
-      <item value="Root Swipe Back Enable" />
       <item value="When you define paddingEnd you should probably also define paddingStart for right-to-left symmetry" />
       <item value="警示" />
       <item value="提示" />
@@ -56,12 +57,11 @@
       <item value="源码" />
       <item value="site" />
       <item value="网站" />
-      <item value="检查更新" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1042" />
-        <entry key="ENGLISH" value="1043" />
+        <entry key="CHINESE" value="1044" />
+        <entry key="ENGLISH" value="1045" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
