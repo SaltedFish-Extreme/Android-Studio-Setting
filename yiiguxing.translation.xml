@@ -8,6 +8,7 @@
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
       <item value="get Confirm Dialog" />
+      <item value="'onActivityResult(Int, Int, Intent?): Unit' is deprecated. Overrides deprecated member in 'androidx.activity.ComponentActivity'. Deprecated in Java" />
       <item value="Retrieve the OnBackPressedDispatcher that will be triggered when onBackPressed() is called." />
       <item value="set Content View" />
       <item value="Unsafe use of a nullable receiver of type Array&lt;(out) String!&gt;?" />
@@ -56,12 +57,11 @@
       <item value="Defines the layout animation to use the first time the ViewGroup is laid out. Layout animations can also be started manually after the first layout." />
       <item value="IllegalArgumentException: Destination id == 0 can only be used in conjunction with a valid navOptions.popUpTo" />
       <item value="fade in" />
-      <item value="pop Enter Anim" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1033" />
-        <entry key="ENGLISH" value="1032" />
+        <entry key="CHINESE" value="1034" />
+        <entry key="ENGLISH" value="1033" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
