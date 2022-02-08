@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="600" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Confirm Dialog" />
       <item value="Retrieve the OnBackPressedDispatcher that will be triggered when onBackPressed() is called." />
       <item value="set Content View" />
       <item value="Unsafe use of a nullable receiver of type Array&lt;(out) String!&gt;?" />
@@ -56,12 +57,11 @@
       <item value="IllegalArgumentException: Destination id == 0 can only be used in conjunction with a valid navOptions.popUpTo" />
       <item value="fade in" />
       <item value="pop Enter Anim" />
-      <item value="The summary for the Preference. In API 25 and earlier, this value is read as a plain string with styling information stripped" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1033" />
-        <entry key="ENGLISH" value="1031" />
+        <entry key="ENGLISH" value="1032" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
