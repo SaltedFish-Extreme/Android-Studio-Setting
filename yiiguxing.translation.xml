@@ -7,6 +7,13 @@
     <option name="newTranslationDialogY" value="600" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Direction" />
+      <item value="Only Edge" />
+      <item value="Force Edge" />
+      <item value="Mask Alpha" />
+      <item value="Swipe Back Ability.Direction" />
+      <item value="swipe Back Force Edge" />
+      <item value="is Root Swipe Back Enable" />
       <item value="get Confirm Dialog" />
       <item value="'onActivityResult(Int, Int, Intent?): Unit' is deprecated. Overrides deprecated member in 'androidx.activity.ComponentActivity'. Deprecated in Java" />
       <item value="Retrieve the OnBackPressedDispatcher that will be triggered when onBackPressed() is called." />
@@ -50,18 +57,11 @@
       <item value="site" />
       <item value="网站" />
       <item value="检查更新" />
-      <item value="推荐" />
-      <item value="缓存" />
-      <item value="Unable to start activity ComponentInfo{com.example.wanandroidcom.example.wanAndroid.ui.activity.MainActivity}: android.view.InflateException: Binary XML file line 35 in com.example.wanandroid:layoutactivity_main: Binary XML file line 35 in com.example.wanandroid:layoutactivity_main: Error inflating class androidx.fragment.app.FragmentContainerView" />
-      <item value="Defines whether changes in layout (caused by adding and removing items) should cause a LayoutTransition to run. When this flag is set to true, a default LayoutTransition object will be set on the ViewGroup container and default animations will run when these layout changes occur" />
-      <item value="Defines the layout animation to use the first time the ViewGroup is laid out. Layout animations can also be started manually after the first layout." />
-      <item value="IllegalArgumentException: Destination id == 0 can only be used in conjunction with a valid navOptions.popUpTo" />
-      <item value="fade in" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1034" />
-        <entry key="ENGLISH" value="1033" />
+        <entry key="CHINESE" value="1041" />
+        <entry key="ENGLISH" value="1042" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
