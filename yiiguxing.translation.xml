@@ -7,6 +7,9 @@
     <option name="newTranslationDialogY" value="600" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="cancel Float Btn" />
+      <item value="取消悬浮按钮" />
+      <item value="init Float Btn" />
       <item value="get Confirm Dialog" />
       <item value="get Select Dialog" />
       <item value="get Single Choice Dialog" />
@@ -54,14 +57,11 @@
       <item value="list Divider" />
       <item value="Invocation Target Exception" />
       <item value="Unable to start activity ComponentInfo{com.example.wanandroidcom.example.wanAndroid.ui.activity.SplashActivity}: android.view.InflateException: Binary XML file line 2 in com.example.wanandroid:layoutactivity_splash: Binary XML file line 2 in com.example.wanandroid:layoutactivity_splash: Error inflating class androidx.constraintlayout.widget.ConstraintLayout" />
-      <item value="Custom Splash Screen" />
-      <item value="A launchable activity must be exported as of Android 12, which also makes it available to other apps." />
-      <item value="When you define paddingEnd you should probably also define paddingStart for right-to-left symmetry" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1057" />
-        <entry key="ENGLISH" value="1058" />
+        <entry key="CHINESE" value="1060" />
+        <entry key="ENGLISH" value="1061" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
@@ -88,7 +88,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1643981392101" />
+    <option name="lastTrimTime" value="1644416211050" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
