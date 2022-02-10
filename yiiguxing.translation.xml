@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="600" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="crashreport upgrade" />
+      <item value="crash" />
       <item value="Web Container" />
       <item value="setting version" />
       <item value="clean success" />
@@ -55,13 +57,11 @@
       <item value="window Translucent Navigation" />
       <item value="window Translucent Status" />
       <item value="window No Title" />
-      <item value="Flag indicating whether this window should have an Action Bar in place of the usual title bar." />
-      <item value="The application should not provide its own launch screen" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1067" />
-        <entry key="ENGLISH" value="1068" />
+        <entry key="CHINESE" value="1069" />
+        <entry key="ENGLISH" value="1070" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
