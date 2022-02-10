@@ -7,6 +7,15 @@
     <option name="newTranslationDialogY" value="600" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="简书" />
+      <item value="web Chrome Client" />
+      <item value="Web View Client" />
+      <item value="Web Client Factory" />
+      <item value="Nested Scroll Agent Web View" />
+      <item value="layout Params" />
+      <item value="clear View Translation Callback" />
+      <item value="Called when a child of this parent is giving up focus" />
+      <item value="get Agent Web" />
       <item value="Common Indicator" />
       <item value="A dazzling indicator" />
       <item value="set Web Contents Debugging Enabled" />
@@ -48,20 +57,11 @@
       <item value="set Right Text" />
       <item value="cancel Float Btn" />
       <item value="取消悬浮按钮" />
-      <item value="init Float Btn" />
-      <item value="get Confirm Dialog" />
-      <item value="get Select Dialog" />
-      <item value="get Single Choice Dialog" />
-      <item value="get Multi Choice Dialog" />
-      <item value="Only Edge" />
-      <item value="Force Edge" />
-      <item value="Returns the Adapter position of the item represented by this ViewHolder. &lt;p&gt; Note that this might be different than the {@link getLayoutPosition()} if there are pending adapter updates but a new layout pass has not happened yet. &lt;p&gt; RecyclerView does not handle any adapter updates until the next layout traversal. This may create temporary inconsistencies between what user sees on the screen and what adapter contents have. This inconsistency is not important since it will be less than 16ms but it might be a problem if you want to use ViewHolder position to access the adapter. Sometimes, you may need to get the exact adapter position to do some actions in response to user events. In that case, you should use this method which will calculate the Adapter position of the ViewHolder. &lt;p&gt; Note that if you've called {@link RecyclerView.AdapternotifyDataSetChanged()}, until the next layout pass, the return value of this method will be {@link NO_POSITION}. @return The adapter position of the item if it still exists in the adapter. {@link RecyclerViewNO_POSITION} if item has been removed from the adapter, {@link RecyclerView.AdapternotifyDataSetChanged()} has been called after the last layout pass or the ViewHolder has already been recycled." />
-      <item value="Swipe Back Force Edge" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1089" />
-        <entry key="ENGLISH" value="1090" />
+        <entry key="CHINESE" value="1097" />
+        <entry key="ENGLISH" value="1097" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
