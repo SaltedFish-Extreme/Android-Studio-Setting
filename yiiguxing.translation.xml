@@ -7,6 +7,9 @@
     <option name="newTranslationDialogY" value="600" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Makes the TextView be exactly this many lines tall." />
+      <item value="Makes the TextView be at most this many lines tall. When used on an editable text, the inputType attribute's value must be combined with the textMultiLine flag for the maxLines attribute to apply." />
+      <item value="Constrains the text to a single horizontally scrolling line instead of letting it wrap onto multiple lines, and advances focus instead of inserting a newline when you press the enter key. The default value is false (multi-line wrapped text mode) for non-editable text, but if you specify any value for inputType, the default is true (single-line input field mode). {@deprecated This attribute is deprecated. Use maxLines instead to change the layout of a static text, and use the textMultiLine flag in the inputType attribute instead for editable text views (if both singleLine and inputType are supplied, the inputType flags will override the value of singleLine). }" />
       <item value="Fill color for the item background shape. Used if itemBackground isn't set and there is an itemShapeAppearance or itemShapeAppearanceOverlay" />
       <item value="Sets the color of the ambient shadow that is drawn when the view has a positive Z or elevation value. By default the shadow color is black. Generally, this color will be opaque so the intensity of the shadow is consistent between different views with different colors. The opacity of the final ambient shadow is a function of the shadow caster height, the alpha channel of the outlineAmbientShadowColor (typically opaque), and the {@link android.R.attrambientShadowAlpha} theme attribute." />
       <item value="alpha property of the view, as a value between 0 (completely transparent) and 1 (completely opaque" />
@@ -54,13 +57,10 @@
       <item value="at java.desktopjava.awt.geom.RectangularShape.intersects(RectangularShape.java:320)" />
       <item value="This item may not have a label readable by screen readers." />
       <item value="Tip: Use View.isInEditMode() in your custom views to skip code or show sample data when shown in the IDE." />
-      <item value="Exception Details" />
-      <item value="web browser" />
-      <item value="浏览器" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1117" />
+        <entry key="CHINESE" value="1120" />
         <entry key="ENGLISH" value="1114" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
