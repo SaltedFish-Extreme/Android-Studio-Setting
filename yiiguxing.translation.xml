@@ -7,9 +7,10 @@
     <option name="newTranslationDialogY" value="600" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="at java.desktopjava.awt.geom.RectangularShape.intersects(RectangularShape.java:320)" />
+      <item value="This item may not have a label readable by screen readers." />
       <item value="Tip: Use View.isInEditMode() in your custom views to skip code or show sample data when shown in the IDE." />
       <item value="Exception Details" />
-      <item value="This item may not have a label readable by screen readers." />
       <item value="web browser" />
       <item value="浏览器" />
       <item value="refresh" />
@@ -56,11 +57,10 @@
       <item value="window Fullscreen" />
       <item value="Swipe Item Layout" />
       <item value="Nested Scroll Agent Web View" />
-      <item value="MODE NIGHT FOLLOW SYSTEM" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1078" />
+        <entry key="CHINESE" value="1080" />
         <entry key="ENGLISH" value="1076" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
