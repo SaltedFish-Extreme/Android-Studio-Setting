@@ -7,6 +7,10 @@
     <option name="newTranslationDialogY" value="600" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="elevation" />
+      <item value="CONTENT CID KEY" />
+      <item value="HAS NETWORK KEY" />
+      <item value="Constant" />
       <item value="content data key" />
       <item value="handle Key Event" />
       <item value="DEPRECATED IDENTITY EQUALS" />
@@ -53,15 +57,11 @@
       <item value="swipe Back Force Edge" />
       <item value="is Root Swipe Back Enable" />
       <item value="'onActivityResult(Int, Int, Intent?): Unit' is deprecated. Overrides deprecated member in 'androidx.activity.ComponentActivity'. Deprecated in Java" />
-      <item value="Retrieve the OnBackPressedDispatcher that will be triggered when onBackPressed() is called." />
-      <item value="set Content View" />
-      <item value="Unsafe use of a nullable receiver of type Array&lt;(out) String!&gt;?" />
-      <item value="Cache Manager Util" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1080" />
-        <entry key="ENGLISH" value="1079" />
+        <entry key="CHINESE" value="1082" />
+        <entry key="ENGLISH" value="1083" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
