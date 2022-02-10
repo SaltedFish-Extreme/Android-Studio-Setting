@@ -2,11 +2,14 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="244" />
-    <option name="newTranslationDialogWidth" value="376" />
+    <option name="newTranslationDialogWidth" value="372" />
     <option name="newTranslationDialogX" value="518" />
     <option name="newTranslationDialogY" value="600" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Tip: Use View.isInEditMode() in your custom views to skip code or show sample data when shown in the IDE." />
+      <item value="Exception Details" />
+      <item value="This item may not have a label readable by screen readers." />
       <item value="web browser" />
       <item value="浏览器" />
       <item value="refresh" />
@@ -54,13 +57,10 @@
       <item value="Swipe Item Layout" />
       <item value="Nested Scroll Agent Web View" />
       <item value="MODE NIGHT FOLLOW SYSTEM" />
-      <item value="window Content Overlay" />
-      <item value="A Drawable resource providing a graphical representation of its associated item. Use with the application tag (to supply a default round icon for all application components), or with the activity, receiver, service, or instrumentation tag (to supply a specific round icon for that component). It may also be used with the intent-filter tag to supply a round icon to show to the user when an activity is being selected based on a particular Intent. The given round icon will be used to display to the user a graphical representation of its associated component; for example, as the round icon for main activity that is displayed in the launcher. This must be a reference to a Drawable resource containing the image definition" />
-      <item value="Flag indicating whether there should be no title on this window." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1075" />
+        <entry key="CHINESE" value="1078" />
         <entry key="ENGLISH" value="1076" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
