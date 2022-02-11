@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="609" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="action Mode Close Content Description" />
       <item value="overlap Anchor" />
       <item value="Whether this view has elements that may overlap when drawn. See {@link android.view.ViewforceHasOverlappingRendering(boolean)}." />
       <item value="is Overflow Menu Show Pending()" />
@@ -19,7 +20,6 @@
       <item value="tooltip Text" />
       <item value="navigation Content Description" />
       <item value="collapse Content Description" />
-      <item value="action Mode Close Content Description" />
       <item value="abc action bar up description" />
       <item value="nav app bar navigate up description" />
       <item value="その他のオプション" />
@@ -61,7 +61,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1147" />
-        <entry key="ENGLISH" value="1147" />
+        <entry key="ENGLISH" value="1148" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
