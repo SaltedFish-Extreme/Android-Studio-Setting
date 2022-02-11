@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="600" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Deprecated. Elevation is now controlled via a state list animator." />
+      <item value="display Options" />
       <item value="textplain" />
       <item value="plain" />
       <item value="subject" />
@@ -55,13 +57,11 @@
       <item value="set Web Contents Debugging Enabled" />
       <item value="Using setJavaScriptEnabled can introduce XSS vulnerabilities into your application, review carefully" />
       <item value="SINGLE COLUMN" />
-      <item value="This algorithm is now obsolete." />
-      <item value="过时的 This algorithm is now obsolete." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1126" />
-        <entry key="ENGLISH" value="1126" />
+        <entry key="CHINESE" value="1128" />
+        <entry key="ENGLISH" value="1128" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
