@@ -7,8 +7,16 @@
     <option name="newTranslationDialogY" value="609" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="Reference to a theme that should be used to inflate popups shown by widgets in the toolbar." />
+      <item value="generate Overflow Button Layout Params" />
+      <item value="Pending" />
+      <item value="is Overflow Menu Show Pending" />
+      <item value="is Overflow Reserved" />
+      <item value="Null can not be a value of a non-null type Boolean" />
+      <item value="html Description" />
+      <item value="Rtl Underlay" />
       <item value="Overflow" />
+      <item value="Action Button" />
+      <item value="Reference to a theme that should be used to inflate popups shown by widgets in the toolbar." />
       <item value="action Mode Close Content Description" />
       <item value="overlap Anchor" />
       <item value="Whether this view has elements that may overlap when drawn. See {@link android.view.ViewforceHasOverlappingRendering(boolean)}." />
@@ -31,7 +39,6 @@
       <item value="Prefer &quot;ifRoom&quot; instead of &quot;always&quot;" />
       <item value="with Text" />
       <item value="collapse Action View" />
-      <item value="is Overflow Menu Show Pending" />
       <item value="Should use app:showAsAction with the appcompat library with xmlns:app=&quot;http:schemas.android.comapkres-auto&quot;" />
       <item value="Deprecated. Elevation is now controlled via a state list animator." />
       <item value="display Options" />
@@ -50,21 +57,15 @@
       <item value="Cool Indicator Layout" />
       <item value="Makes the TextView be exactly this many lines tall." />
       <item value="Makes the TextView be at most this many lines tall. When used on an editable text, the inputType attribute's value must be combined with the textMultiLine flag for the maxLines attribute to apply." />
-      <item value="Constrains the text to a single horizontally scrolling line instead of letting it wrap onto multiple lines, and advances focus instead of inserting a newline when you press the enter key. The default value is false (multi-line wrapped text mode) for non-editable text, but if you specify any value for inputType, the default is true (single-line input field mode). {@deprecated This attribute is deprecated. Use maxLines instead to change the layout of a static text, and use the textMultiLine flag in the inputType attribute instead for editable text views (if both singleLine and inputType are supplied, the inputType flags will override the value of singleLine). }" />
-      <item value="Fill color for the item background shape. Used if itemBackground isn't set and there is an itemShapeAppearance or itemShapeAppearanceOverlay" />
-      <item value="Sets the color of the ambient shadow that is drawn when the view has a positive Z or elevation value. By default the shadow color is black. Generally, this color will be opaque so the intensity of the shadow is consistent between different views with different colors. The opacity of the final ambient shadow is a function of the shadow caster height, the alpha channel of the outlineAmbientShadowColor (typically opaque), and the {@link android.R.attrambientShadowAlpha} theme attribute." />
-      <item value="alpha property of the view, as a value between 0 (completely transparent) and 1 (completely opaque" />
-      <item value="Corner size for the exposed corners (those not attatched to the side of the screen) when the navigation view is placed inside a drawer layout." />
-      <item value="swipe Back Force Edge" />
-      <item value="Root Swipe Back Enable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1149" />
-        <entry key="ENGLISH" value="1149" />
+        <entry key="CHINESE" value="1155" />
+        <entry key="ENGLISH" value="1156" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
+        <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
