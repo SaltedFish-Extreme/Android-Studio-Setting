@@ -2,11 +2,21 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="244" />
-    <option name="newTranslationDialogWidth" value="368" />
-    <option name="newTranslationDialogX" value="518" />
-    <option name="newTranslationDialogY" value="600" />
+    <option name="newTranslationDialogWidth" value="364" />
+    <option name="newTranslationDialogX" value="134" />
+    <option name="newTranslationDialogY" value="609" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Text to set as the content description for the navigation button located at the start of the toolbar." />
+      <item value="logo Description" />
+      <item value="content Description" />
+      <item value="tooltip Text" />
+      <item value="navigation Content Description" />
+      <item value="collapse Content Description" />
+      <item value="action Mode Close Content Description" />
+      <item value="floating toolbar open overflow description" />
+      <item value="abc action bar up description" />
+      <item value="nav app bar navigate up description" />
       <item value="その他のオプション" />
       <item value="CATEGORY ALTERNATIVE" />
       <item value="abc action menu overflow description" />
@@ -47,21 +57,11 @@
       <item value="Unable to start activity ComponentInfo{com.example.wanandroidcom.example.wanAndroid.ui.activity.WebActivity}: android.view.InflateException: Binary XML file line 2 in com.example.wanandroid:layoutactivity_web: Binary XML file line 2 in com.example.wanandroid:layoutactivity_web: Error inflating class com.example.wanAndroid.widget.web.WebContainer" />
       <item value="ActivityNotFoundException: Unable to find explicit activity class {com.example.wanandroidcom.example.wanAndroid.ui.activity.WebActivity}; have you declared this activity in your AndroidManifest.xml?" />
       <item value="NativeAlloc concurrent copying GC freed 71960(4213KB) AllocSpace objects, 84(2596KB) LOS objects, 49% free, 14MB29MB, paused 61us total 106.224ms" />
-      <item value="Wget" />
-      <item value="should Intercept Request" />
-      <item value="on Received Ssl Error" />
-      <item value="proceed" />
-      <item value="handler?.proceed()" />
-      <item value="Permitting connections with SSL-related errors could allow eavesdroppers to intercept data sent by your app, which impacts the privacy of your users. Consider canceling the connections by invoking SslErrorHandlercancel()." />
-      <item value="简书" />
-      <item value="web Chrome Client" />
-      <item value="Web View Client" />
-      <item value="Web Client Factory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1134" />
-        <entry key="ENGLISH" value="1134" />
+        <entry key="CHINESE" value="1143" />
+        <entry key="ENGLISH" value="1143" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
