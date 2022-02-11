@@ -7,6 +7,12 @@
     <option name="newTranslationDialogY" value="609" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="overlap Anchor" />
+      <item value="Whether this view has elements that may overlap when drawn. See {@link android.view.ViewforceHasOverlappingRendering(boolean)}." />
+      <item value="is Overflow Menu Show Pending()" />
+      <item value="accessibility Action Move Window" />
+      <item value="floating toolbar open overflow description" />
+      <item value="溢出" />
       <item value="Text to set as the content description for the navigation button located at the start of the toolbar." />
       <item value="logo Description" />
       <item value="content Description" />
@@ -14,7 +20,6 @@
       <item value="navigation Content Description" />
       <item value="collapse Content Description" />
       <item value="action Mode Close Content Description" />
-      <item value="floating toolbar open overflow description" />
       <item value="abc action bar up description" />
       <item value="nav app bar navigate up description" />
       <item value="その他のオプション" />
@@ -25,7 +30,6 @@
       <item value="with Text" />
       <item value="collapse Action View" />
       <item value="is Overflow Menu Show Pending" />
-      <item value="溢出" />
       <item value="Should use app:showAsAction with the appcompat library with xmlns:app=&quot;http:schemas.android.comapkres-auto&quot;" />
       <item value="Deprecated. Elevation is now controlled via a state list animator." />
       <item value="display Options" />
@@ -53,15 +57,11 @@
       <item value="Root Swipe Back Enable" />
       <item value="dispatch Draw" />
       <item value="canvas" />
-      <item value="draw Color" />
-      <item value="Unable to start activity ComponentInfo{com.example.wanandroidcom.example.wanAndroid.ui.activity.WebActivity}: android.view.InflateException: Binary XML file line 2 in com.example.wanandroid:layoutactivity_web: Binary XML file line 2 in com.example.wanandroid:layoutactivity_web: Error inflating class com.example.wanAndroid.widget.web.WebContainer" />
-      <item value="ActivityNotFoundException: Unable to find explicit activity class {com.example.wanandroidcom.example.wanAndroid.ui.activity.WebActivity}; have you declared this activity in your AndroidManifest.xml?" />
-      <item value="NativeAlloc concurrent copying GC freed 71960(4213KB) AllocSpace objects, 84(2596KB) LOS objects, 49% free, 14MB29MB, paused 61us total 106.224ms" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1144" />
-        <entry key="ENGLISH" value="1143" />
+        <entry key="CHINESE" value="1147" />
+        <entry key="ENGLISH" value="1147" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
