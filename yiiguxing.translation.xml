@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="609" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Rtl Underlay" />
       <item value="direction Descriptions" />
       <item value="Widget.Holo.Action Button.Overflow" />
       <item value="溢出" />
@@ -16,7 +17,6 @@
       <item value="is Overflow Reserved" />
       <item value="Null can not be a value of a non-null type Boolean" />
       <item value="html Description" />
-      <item value="Rtl Underlay" />
       <item value="Overflow" />
       <item value="Action Button" />
       <item value="Reference to a theme that should be used to inflate popups shown by widgets in the toolbar." />
@@ -60,12 +60,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1157" />
+        <entry key="CHINESE" value="1158" />
         <entry key="ENGLISH" value="1158" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
-        <entry key="GERMAN" value="1" />
+        <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
