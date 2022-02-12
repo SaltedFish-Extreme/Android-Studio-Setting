@@ -7,6 +7,11 @@
     <option name="newTranslationDialogY" value="609" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="qrcv is Show Default Scan Line Drawable" />
+      <item value="qrcv is Show Location Point" />
+      <item value="qrcv is Show Tip Background" />
+      <item value="Scan Activity" />
+      <item value="Smart cast to 'ZXingView!' is impossible, because 'mZXingView' is a mutable property that could have been changed by this time" />
       <item value="mercury" />
       <item value="Scoped Storage" />
       <item value="The Google Play store has a policy that limits usage of MANAGE_EXTERNAL_STORAGE" />
@@ -52,16 +57,11 @@
       <item value="tooltip Text" />
       <item value="navigation Content Description" />
       <item value="collapse Content Description" />
-      <item value="abc action bar up description" />
-      <item value="nav app bar navigate up description" />
-      <item value="その他のオプション" />
-      <item value="CATEGORY ALTERNATIVE" />
-      <item value="abc action menu overflow description" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1174" />
-        <entry key="ENGLISH" value="1175" />
+        <entry key="CHINESE" value="1178" />
+        <entry key="ENGLISH" value="1179" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
