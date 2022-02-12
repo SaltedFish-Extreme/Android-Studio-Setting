@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="609" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="direction Descriptions" />
       <item value="Widget.Holo.Action Button.Overflow" />
       <item value="溢出" />
       <item value="generate Overflow Button Layout Params" />
@@ -56,12 +57,11 @@
       <item value="Color Transition Pager Title View" />
       <item value="Custom view CoolIndicatorLayout is missing constructor used by tools: (Context) or (Context,AttributeSet) or (Context,AttributeSet,int)" />
       <item value="Cool Indicator Layout" />
-      <item value="Makes the TextView be exactly this many lines tall." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1156" />
-        <entry key="ENGLISH" value="1157" />
+        <entry key="CHINESE" value="1157" />
+        <entry key="ENGLISH" value="1158" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
