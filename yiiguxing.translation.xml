@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="609" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Parameter specified as non-null is null: method kotlin.jvm.internal.Intrinsics.checkNotNullParameter, parameter result" />
+      <item value="Parameter specified as non-null is null: method kotlin.jvm.internal.Intrinsics.checkNotNullParameter, parameter result at com.example.wanAndroid.ui.activity.ScanActivity.onScanQRCodeSuccess(Unknown Source:2)" />
       <item value="scan tip" />
       <item value="get Parcelable Array List Extra" />
       <item value="@idflash can overlap com.example.wanAndroid.widget.view.FloatActionButton-5 if @idflash grows due to localized text expansion" />
@@ -55,13 +57,11 @@
       <item value="Reference to a theme that should be used to inflate popups shown by widgets in the toolbar." />
       <item value="action Mode Close Content Description" />
       <item value="overlap Anchor" />
-      <item value="Whether this view has elements that may overlap when drawn. See {@link android.view.ViewforceHasOverlappingRendering(boolean)}." />
-      <item value="is Overflow Menu Show Pending()" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1185" />
-        <entry key="ENGLISH" value="1186" />
+        <entry key="CHINESE" value="1187" />
+        <entry key="ENGLISH" value="1188" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
