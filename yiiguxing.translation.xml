@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="609" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Echromium: [ERROR:simple_index_file_posix.cc(36)] opendir datauser0com.example.wanandroidcacheWebViewDefaultHTTP CacheCode Cachejs: No such file or directory (2)" />
+      <item value="Error receiving broadcast Intent { act=android.net.conn.CONNECTIVITY_CHANGE flg=0x4200010 (has extras) } in com.example.wanAndroid.ui.receiver.NetworkConnectChangedReceiver@fcd9388" />
       <item value="prompt" />
       <item value="扫码提示" />
       <item value="scantip" />
@@ -55,13 +57,11 @@
       <item value="subject" />
       <item value="Cache Interceptor" />
       <item value="Suppress Lint" />
-      <item value="Handler Leak" />
-      <item value="evaluate Javascript" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1160" />
-        <entry key="ENGLISH" value="1161" />
+        <entry key="CHINESE" value="1162" />
+        <entry key="ENGLISH" value="1163" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
