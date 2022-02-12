@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="609" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Widget.Holo.Action Button.Overflow" />
+      <item value="溢出" />
       <item value="generate Overflow Button Layout Params" />
       <item value="Pending" />
       <item value="is Overflow Menu Show Pending" />
@@ -23,7 +25,6 @@
       <item value="is Overflow Menu Show Pending()" />
       <item value="accessibility Action Move Window" />
       <item value="floating toolbar open overflow description" />
-      <item value="溢出" />
       <item value="Text to set as the content description for the navigation button located at the start of the toolbar." />
       <item value="logo Description" />
       <item value="content Description" />
@@ -56,12 +57,11 @@
       <item value="Custom view CoolIndicatorLayout is missing constructor used by tools: (Context) or (Context,AttributeSet) or (Context,AttributeSet,int)" />
       <item value="Cool Indicator Layout" />
       <item value="Makes the TextView be exactly this many lines tall." />
-      <item value="Makes the TextView be at most this many lines tall. When used on an editable text, the inputType attribute's value must be combined with the textMultiLine flag for the maxLines attribute to apply." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1155" />
-        <entry key="ENGLISH" value="1156" />
+        <entry key="CHINESE" value="1156" />
+        <entry key="ENGLISH" value="1157" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
