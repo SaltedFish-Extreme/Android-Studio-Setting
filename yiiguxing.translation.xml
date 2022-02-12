@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="609" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Unreachable code" />
       <item value="save failed" />
       <item value="save error" />
       <item value="save success" />
@@ -56,11 +57,10 @@
       <item value="action menu overflow description" />
       <item value="Prefer &quot;ifRoom&quot; instead of &quot;always&quot;" />
       <item value="with Text" />
-      <item value="collapse Action View" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1170" />
+        <entry key="CHINESE" value="1171" />
         <entry key="ENGLISH" value="1171" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
