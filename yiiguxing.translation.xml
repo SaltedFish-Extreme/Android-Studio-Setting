@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="609" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Declare that your application will be able to deal with RTL (right to left) layouts. The default value is false" />
       <item value="Received HEADERS for invalid stream 9" />
       <item value="Repository; description]custom: description control characters are not allowed" />
       <item value="stroke" />
@@ -56,11 +57,10 @@
       <item value="prompt" />
       <item value="扫码提示" />
       <item value="scantip" />
-      <item value="setting Scan" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1199" />
+        <entry key="CHINESE" value="1200" />
         <entry key="ENGLISH" value="1200" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
