@@ -7,6 +7,10 @@
     <option name="newTranslationDialogY" value="609" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="should Override Url Loading" />
+      <item value="is Resource" />
+      <item value="Consider adding a &lt;queries&gt; declaration to your manifest when calling this method; see https:g" />
+      <item value="evaluate Javascript" />
       <item value="SINGLE COLUMN" />
       <item value="layout Algorithm" />
       <item value="is Intercept Unkown Url" />
@@ -53,15 +57,11 @@
       <item value="qrcv is Show Location Point" />
       <item value="qrcv is Show Tip Background" />
       <item value="Scan Activity" />
-      <item value="Smart cast to 'ZXingView!' is impossible, because 'mZXingView' is a mutable property that could have been changed by this time" />
-      <item value="mercury" />
-      <item value="Scoped Storage" />
-      <item value="The Google Play store has a policy that limits usage of MANAGE_EXTERNAL_STORAGE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1216" />
-        <entry key="ENGLISH" value="1217" />
+        <entry key="CHINESE" value="1219" />
+        <entry key="ENGLISH" value="1220" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
