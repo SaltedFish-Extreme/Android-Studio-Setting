@@ -7,6 +7,9 @@
     <option name="newTranslationDialogY" value="609" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="padded Bounds" />
+      <item value="ViewOutlineProvider used to determine the View's Outline." />
+      <item value="圆角" />
       <item value="translatable" />
       <item value="repository" />
       <item value="仓库" />
@@ -54,14 +57,11 @@
       <item value="溢出菜单" />
       <item value="Rtl Underlay" />
       <item value="direction Descriptions" />
-      <item value="Widget.Holo.Action Button.Overflow" />
-      <item value="溢出" />
-      <item value="generate Overflow Button Layout Params" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1194" />
-        <entry key="ENGLISH" value="1195" />
+        <entry key="CHINESE" value="1197" />
+        <entry key="ENGLISH" value="1197" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
