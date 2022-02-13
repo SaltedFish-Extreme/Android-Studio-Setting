@@ -7,6 +7,11 @@
     <option name="newTranslationDialogY" value="609" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="layout collapse Mode" />
+      <item value="scrim Visible Height Trigger" />
+      <item value="The drawable to use as a scrim on top of the CollapsingToolbarLayouts content when it has been scrolled sufficiently off screen." />
+      <item value="parallax" />
+      <item value="&lt;com.example.wanAndroid.widget.toolbar.Toolbar android:id=&quot;@+idtoolbar&quot; style=&quot;@styleKToolbarStyle&quot; android:layout_marginTop=&quot;@dimendp_20&quot; app:title=&quot;@stringloading&quot; app:layout_collapseMode=&quot;pin&quot;&gt;" />
       <item value="The view will pin in place" />
       <item value="pin" />
       <item value="Scoped Storage" />
@@ -52,16 +57,11 @@
       <item value="ViewOutlineProvider used to determine the View's Outline." />
       <item value="圆角" />
       <item value="translatable" />
-      <item value="repository" />
-      <item value="仓库" />
-      <item value="setting site" />
-      <item value="setting code" />
-      <item value="官方网站" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1237" />
-        <entry key="ENGLISH" value="1235" />
+        <entry key="CHINESE" value="1238" />
+        <entry key="ENGLISH" value="1239" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
