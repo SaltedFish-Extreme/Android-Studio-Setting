@@ -7,6 +7,20 @@
     <option name="newTranslationDialogY" value="609" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="SINGLE COLUMN" />
+      <item value="layout Algorithm" />
+      <item value="is Intercept Unkown Url" />
+      <item value="DEFAULT CHECK" />
+      <item value="STRICT CHECK" />
+      <item value="set Security Type" />
+      <item value="set Main Frame Error View" />
+      <item value="set Web Chrome Client" />
+      <item value="set Web View Client" />
+      <item value="set Web View" />
+      <item value="set Custom Indicator" />
+      <item value="set Agent Web Parent" />
+      <item value="intercept Unkown Url" />
+      <item value="cleartext Traffic Permitted" />
       <item value="Declare that your application will be able to deal with RTL (right to left) layouts. The default value is false" />
       <item value="Received HEADERS for invalid stream 9" />
       <item value="Repository; description]custom: description control characters are not allowed" />
@@ -43,25 +57,11 @@
       <item value="mercury" />
       <item value="Scoped Storage" />
       <item value="The Google Play store has a policy that limits usage of MANAGE_EXTERNAL_STORAGE" />
-      <item value="扫码下载" />
-      <item value="Unreachable code" />
-      <item value="save failed" />
-      <item value="save error" />
-      <item value="save success" />
-      <item value="save succeed" />
-      <item value="QR Code Activity" />
-      <item value="Application attempted to call on a destroyed WebView" />
-      <item value="Error receiving broadcast Intent { act=android.net.conn.CONNECTIVITY_CHANGE flg=0x4200010 (has extras) } in com.example.wanAndroid.ui.receiver.NetworkConnectChangedReceiver@ae8fafb" />
-      <item value="Echromium: [ERROR:simple_index_file_posix.cc(36)] opendir datauser0com.example.wanandroidcacheWebViewDefaultHTTP CacheCode Cachejs: No such file or directory (2)" />
-      <item value="Error receiving broadcast Intent { act=android.net.conn.CONNECTIVITY_CHANGE flg=0x4200010 (has extras) } in com.example.wanAndroid.ui.receiver.NetworkConnectChangedReceiver@fcd9388" />
-      <item value="prompt" />
-      <item value="扫码提示" />
-      <item value="scantip" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1200" />
-        <entry key="ENGLISH" value="1200" />
+        <entry key="CHINESE" value="1216" />
+        <entry key="ENGLISH" value="1217" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
