@@ -2,11 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="244" />
-    <option name="newTranslationDialogWidth" value="360" />
+    <option name="newTranslationDialogWidth" value="356" />
     <option name="newTranslationDialogX" value="134" />
     <option name="newTranslationDialogY" value="609" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The drawable to use as a scrim for the status bar content when the CollapsingToolbarLayout has been scrolled sufficiently off screen. Only works on Lollipop when used together with android:fitSystemWindows=&quot;true&quot;" />
       <item value="layout collapse Mode" />
       <item value="scrim Visible Height Trigger" />
       <item value="The drawable to use as a scrim on top of the CollapsingToolbarLayouts content when it has been scrolled sufficiently off screen." />
@@ -56,11 +57,10 @@
       <item value="padded Bounds" />
       <item value="ViewOutlineProvider used to determine the View's Outline." />
       <item value="圆角" />
-      <item value="translatable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1238" />
+        <entry key="CHINESE" value="1239" />
         <entry key="ENGLISH" value="1239" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
