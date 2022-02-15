@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="492" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="scrollable" />
       <item value="Positions the top edge of this view below the given anchor view ID. Accommodates top margin of this view and bottom margin of anchor view" />
       <item value="layout below" />
       <item value="layout align Top" />
@@ -56,12 +57,11 @@
       <item value="white translucent" />
       <item value="作者" />
       <item value="Generate Avatar API" />
-      <item value="生成头像" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1265" />
-        <entry key="ENGLISH" value="1265" />
+        <entry key="ENGLISH" value="1266" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
