@@ -7,7 +7,9 @@
     <option name="newTranslationDialogY" value="492" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="This plugin add an editor popup menu. The menu opens GitHub page that the selected line is added." />
       <item value="ripple" />
+      <item value="bar Style" />
       <item value="refactor" />
       <item value="Indicates that the content of a non-editable text can be selected." />
       <item value="OFFSCREEN PAGE LIMIT DEFAULT" />
@@ -55,13 +57,11 @@
       <item value="The view will pin in place" />
       <item value="pin" />
       <item value="Scoped Storage" />
-      <item value="meta-data" />
-      <item value="layout align Bottom" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1271" />
-        <entry key="ENGLISH" value="1272" />
+        <entry key="CHINESE" value="1274" />
+        <entry key="ENGLISH" value="1274" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
