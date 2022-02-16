@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="492" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="This LinearLayout layout or its LinearLayout parent is unnecessary" />
       <item value="This plugin add an editor popup menu. The menu opens GitHub page that the selected line is added." />
       <item value="ripple" />
       <item value="bar Style" />
@@ -56,11 +57,10 @@
       <item value="&lt;com.example.wanAndroid.widget.toolbar.Toolbar android:id=&quot;@+idtoolbar&quot; style=&quot;@styleKToolbarStyle&quot; android:layout_marginTop=&quot;@dimendp_20&quot; app:title=&quot;@stringloading&quot; app:layout_collapseMode=&quot;pin&quot;&gt;" />
       <item value="The view will pin in place" />
       <item value="pin" />
-      <item value="Scoped Storage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1274" />
+        <entry key="CHINESE" value="1275" />
         <entry key="ENGLISH" value="1274" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
