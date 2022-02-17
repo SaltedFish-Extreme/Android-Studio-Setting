@@ -2,11 +2,16 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="244" />
-    <option name="newTranslationDialogWidth" value="340" />
+    <option name="newTranslationDialogWidth" value="336" />
     <option name="newTranslationDialogX" value="134" />
     <option name="newTranslationDialogY" value="492" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="unable to marshal value SearchHotResponse(id=6, link=, name=面试)" />
+      <item value="Parcel" />
+      <item value="Parcel: unable to marshal value SearchHotResponse(id=6, link=, name=面试)" />
+      <item value="request search terms" />
+      <item value="请求搜索热词" />
       <item value="On Editor Action Listener" />
       <item value="content data" />
       <item value="搜索历史" />
@@ -52,16 +57,11 @@
       <item value="Specifies the amount of visible height in pixels used to define when to trigger a scrim visibility change." />
       <item value="scroll" />
       <item value="exit Until Collapsed" />
-      <item value="elevation" />
-      <item value="srl Enable Footer Follow When Load Finished" />
-      <item value="collapsing Toolbar" />
-      <item value="头像" />
-      <item value="Convert Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1281" />
-        <entry key="ENGLISH" value="1282" />
+        <entry key="CHINESE" value="1285" />
+        <entry key="ENGLISH" value="1287" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
