@@ -7,12 +7,13 @@
     <option name="newTranslationDialogY" value="492" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="unique" />
+      <item value="default Value" />
       <item value="UNIQUE constraint" />
       <item value="Error inserting url=https:url.rengwuxian.comgw title=给高级 Android 工程师的进阶手册 from {P:10917;U:10617} android.database.sqlite.SQLiteConstraintException: UNIQUE constraint failed: historyrecorddb.title (code 2067 SQLITE_CONSTRAINT_UNIQUE)" />
       <item value="For security reasons offline mode is disabled when the process being inspected does not correspond to the project open in studio or when the project has been generated from a prebuilt apk." />
       <item value="历史记录" />
       <item value="nullable" />
-      <item value="unique" />
       <item value="Define your models in the list with mapping tag, LitePal will create tables for each mapping class. The supported fields defined in models will be mapped into columns. For example:" />
       <item value="Define the version of your database. Each time you want to upgrade your database, the version tag would helps. Modify the models you defined in the mapping tag, and just make the version value plus one, the upgrade of database will be processed automatically without concern. For example:" />
       <item value="Define the database name of your application. By default each database name should be end with .db. If you didn't name your database end with .db, LitePal would plus the suffix automatically for you. For example:" />
@@ -56,12 +57,11 @@
       <item value="Indicates that the content of a non-editable text can be selected." />
       <item value="OFFSCREEN PAGE LIMIT DEFAULT" />
       <item value="Unable to start activity ComponentInfo{com.example.wanandroidcom.example.wanAndroid.ui.activity.SystemActivity}: java.lang.IllegalArgumentException: Offscreen page limit must be OFFSCREEN_PAGE_LIMIT_DEFAULT or a number &gt; 0" />
-      <item value="Stack Overflow Error" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1311" />
-        <entry key="ENGLISH" value="1311" />
+        <entry key="CHINESE" value="1312" />
+        <entry key="ENGLISH" value="1313" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
