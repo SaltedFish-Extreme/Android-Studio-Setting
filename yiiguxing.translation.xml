@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="492" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="时长" />
+      <item value="Set the swipe movement direction.&lt;p&gt; The value should be ItemTouchHelper.START, ItemTouchHelper.END or their combination.&lt;p&gt; can combine them like ItemTouchHelper.START | ItemTouchHelper.END, it means that the item could swipe to both left or right." />
       <item value="is Drag Enabled" />
       <item value="set Swipe Enabled" />
       <item value="on Item Swipe Moving" />
@@ -55,13 +57,11 @@
       <item value="action search bg" />
       <item value="light inky grey" />
       <item value="淡墨灰色" />
-      <item value="light inky black" />
-      <item value="淡墨黑色" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1321" />
-        <entry key="ENGLISH" value="1322" />
+        <entry key="CHINESE" value="1322" />
+        <entry key="ENGLISH" value="1323" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
