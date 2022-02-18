@@ -7,6 +7,9 @@
     <option name="newTranslationDialogY" value="492" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Define your models in the list with mapping tag, LitePal will create tables for each mapping class. The supported fields defined in models will be mapped into columns. For example:" />
+      <item value="Define the version of your database. Each time you want to upgrade your database, the version tag would helps. Modify the models you defined in the mapping tag, and just make the version value plus one, the upgrade of database will be processed automatically without concern. For example:" />
+      <item value="Define the database name of your application. By default each database name should be end with .db. If you didn't name your database end with .db, LitePal would plus the suffix automatically for you. For example:" />
       <item value="Sensor Manager" />
       <item value="ESensorManager: registerListenerImpl sensorName:Game Rotation Vector,isWakeUpSensor:false,callingApp: com.example.wanandroid,callingPid:30357,callingUid:10615" />
       <item value="Application attempted to call on a destroyed WebView" />
@@ -54,14 +57,11 @@
       <item value="layout below" />
       <item value="layout align Top" />
       <item value="Layout parameter layout_below ignored unless both layout_width and layout_height are also specified on &lt;include&gt; tag" />
-      <item value="Generate Avatar" />
-      <item value="体系文章" />
-      <item value="parallax" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1301" />
-        <entry key="ENGLISH" value="1302" />
+        <entry key="CHINESE" value="1304" />
+        <entry key="ENGLISH" value="1305" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
