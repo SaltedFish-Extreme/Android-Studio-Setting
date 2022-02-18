@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="492" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="direction" />
       <item value="Called when item is swiped, the view is going to be removed from the adapter." />
       <item value="is Currently Active" />
       <item value="clear View" />
@@ -56,12 +57,11 @@
       <item value="content data" />
       <item value="搜索历史" />
       <item value="Constrains the text to a single horizontally scrolling line instead of letting it wrap onto multiple lines, and advances focus instead of inserting a newline when you press the enter key. The default value is false (multi-line wrapped text mode) for non-editable text, but if you specify any value for inputType, the default is true (single-line input field mode). {@deprecated This attribute is deprecated. Use maxLines instead to change the layout of a static text, and use the textMultiLine flag in the inputType attribute instead for editable text views (if both singleLine and inputType are supplied, the inputType flags will override the value of singleLine)." />
-      <item value="Reference to a drawable that will be drawn under the insertion cursor." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1326" />
-        <entry key="ENGLISH" value="1326" />
+        <entry key="ENGLISH" value="1327" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
