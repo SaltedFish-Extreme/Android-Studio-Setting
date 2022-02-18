@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="492" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="History Record" />
+      <item value="wrapped.contentEncoding must not be null" />
       <item value="unique" />
       <item value="default Value" />
       <item value="UNIQUE constraint" />
@@ -55,13 +57,11 @@
       <item value="bar Style" />
       <item value="refactor" />
       <item value="Indicates that the content of a non-editable text can be selected." />
-      <item value="OFFSCREEN PAGE LIMIT DEFAULT" />
-      <item value="Unable to start activity ComponentInfo{com.example.wanandroidcom.example.wanAndroid.ui.activity.SystemActivity}: java.lang.IllegalArgumentException: Offscreen page limit must be OFFSCREEN_PAGE_LIMIT_DEFAULT or a number &gt; 0" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1312" />
-        <entry key="ENGLISH" value="1313" />
+        <entry key="CHINESE" value="1314" />
+        <entry key="ENGLISH" value="1314" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
