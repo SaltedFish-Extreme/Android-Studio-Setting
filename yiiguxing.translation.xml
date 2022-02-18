@@ -2,11 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="244" />
-    <option name="newTranslationDialogWidth" value="336" />
+    <option name="newTranslationDialogWidth" value="332" />
     <option name="newTranslationDialogX" value="134" />
     <option name="newTranslationDialogY" value="492" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="历史记录" />
       <item value="Define your models in the list with mapping tag, LitePal will create tables for each mapping class. The supported fields defined in models will be mapped into columns. For example:" />
       <item value="Define the version of your database. Each time you want to upgrade your database, the version tag would helps. Modify the models you defined in the mapping tag, and just make the version value plus one, the upgrade of database will be processed automatically without concern. For example:" />
       <item value="Define the database name of your application. By default each database name should be end with .db. If you didn't name your database end with .db, LitePal would plus the suffix automatically for you. For example:" />
@@ -56,7 +57,6 @@
       <item value="Positions the top edge of this view below the given anchor view ID. Accommodates top margin of this view and bottom margin of anchor view" />
       <item value="layout below" />
       <item value="layout align Top" />
-      <item value="Layout parameter layout_below ignored unless both layout_width and layout_height are also specified on &lt;include&gt; tag" />
     </histories>
     <option name="languageScores">
       <map>
