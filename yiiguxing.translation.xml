@@ -7,9 +7,10 @@
     <option name="newTranslationDialogY" value="492" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="For security reasons offline mode is disabled when the process being inspected does not correspond to the project open in studio or when the project has been generated from a prebuilt apk." />
+      <item value="历史记录" />
       <item value="nullable" />
       <item value="unique" />
-      <item value="历史记录" />
       <item value="Define your models in the list with mapping tag, LitePal will create tables for each mapping class. The supported fields defined in models will be mapped into columns. For example:" />
       <item value="Define the version of your database. Each time you want to upgrade your database, the version tag would helps. Modify the models you defined in the mapping tag, and just make the version value plus one, the upgrade of database will be processed automatically without concern. For example:" />
       <item value="Define the database name of your application. By default each database name should be end with .db. If you didn't name your database end with .db, LitePal would plus the suffix automatically for you. For example:" />
@@ -56,11 +57,10 @@
       <item value="Stack Overflow Error" />
       <item value="Icon drawable to use for the navigation button located at the start of the toolbar." />
       <item value="scrollable" />
-      <item value="Positions the top edge of this view below the given anchor view ID. Accommodates top margin of this view and bottom margin of anchor view" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1308" />
+        <entry key="CHINESE" value="1310" />
         <entry key="ENGLISH" value="1309" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
