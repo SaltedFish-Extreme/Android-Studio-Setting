@@ -2,11 +2,14 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="244" />
-    <option name="newTranslationDialogWidth" value="332" />
+    <option name="newTranslationDialogWidth" value="328" />
     <option name="newTranslationDialogX" value="134" />
     <option name="newTranslationDialogY" value="492" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="screen" />
+      <item value="icon Tint Mode" />
+      <item value="确认" />
       <item value="add Item Decoration" />
       <item value="HONEYCOMB" />
       <item value="Could hide open views here if you wanted." />
@@ -54,14 +57,11 @@
       <item value="unregisterListenerImpl sensorName:Game Rotation Vector,isWakeUpSensor:false,callingApp" />
       <item value="It will always be more efficient to use more specific change events if you can. Rely on notifyDataSetChanged as a last resort." />
       <item value="unable to marshal value SearchHotResponse(id=6, link=, name=面试)" />
-      <item value="Parcel" />
-      <item value="Parcel: unable to marshal value SearchHotResponse(id=6, link=, name=面试)" />
-      <item value="request search terms" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1331" />
-        <entry key="ENGLISH" value="1332" />
+        <entry key="CHINESE" value="1333" />
+        <entry key="ENGLISH" value="1334" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
