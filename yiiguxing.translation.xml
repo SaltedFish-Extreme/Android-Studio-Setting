@@ -7,6 +7,9 @@
     <option name="newTranslationDialogY" value="492" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="STRICT CHECK" />
+      <item value="set Security Type" />
+      <item value="intercept Unkown Url" />
       <item value="Receiver Call Not Allowed Exception" />
       <item value="接收广播" />
       <item value="Error receiving broadcast Intent { act=android.net.conn.CONNECTIVITY_CHANGE flg=0x4200010 (has extras) } in com.example.wanAndroid.ui.receiver.NetworkConnectChangedReceiver@ee115ed" />
@@ -54,14 +57,11 @@
       <item value="Flattened final assist data: 1376 bytes, containing 1 windows, 7 views" />
       <item value="重定向" />
       <item value="跳转" />
-      <item value="precomposed" />
-      <item value="on Received Touch Icon Url" />
-      <item value="on Received Title" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1336" />
-        <entry key="ENGLISH" value="1337" />
+        <entry key="CHINESE" value="1339" />
+        <entry key="ENGLISH" value="1340" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="1" />
