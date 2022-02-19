@@ -7,6 +7,9 @@
     <option name="newTranslationDialogY" value="492" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="add Item Decoration" />
+      <item value="HONEYCOMB" />
+      <item value="Could hide open views here if you wanted." />
       <item value="RecyclerView: The new recycler view replaces the list view. Its more modular and therefore we must implement some of the functionality ourselves and attach it to our recyclerview. &lt;p&gt; 1) Position items on the screen: This is done with LayoutManagers 2) Animate &amp; Decorate views: This is done with ItemAnimators &amp; ItemDecorators 3) Handle any touch events apart from scrolling: This is now done in our adapter's ViewHolder" />
       <item value="get View Holder Position" />
       <item value="Called when item is swiped, the view is going to be removed from the adapter." />
@@ -54,14 +57,11 @@
       <item value="Parcel" />
       <item value="Parcel: unable to marshal value SearchHotResponse(id=6, link=, name=面试)" />
       <item value="request search terms" />
-      <item value="请求搜索热词" />
-      <item value="On Editor Action Listener" />
-      <item value="content data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1328" />
-        <entry key="ENGLISH" value="1329" />
+        <entry key="CHINESE" value="1331" />
+        <entry key="ENGLISH" value="1332" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="DANISH" value="1" />
