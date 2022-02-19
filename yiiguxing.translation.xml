@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="492" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="unique" />
       <item value="STRICT CHECK" />
       <item value="set Security Type" />
       <item value="intercept Unkown Url" />
@@ -38,7 +39,6 @@
       <item value="Surface View End" />
       <item value="History Record" />
       <item value="wrapped.contentEncoding must not be null" />
-      <item value="unique" />
       <item value="default Value" />
       <item value="UNIQUE constraint" />
       <item value="Error inserting url=https:url.rengwuxian.comgw title=给高级 Android 工程师的进阶手册 from {P:10917;U:10617} android.database.sqlite.SQLiteConstraintException: UNIQUE constraint failed: historyrecorddb.title (code 2067 SQLITE_CONSTRAINT_UNIQUE)" />
@@ -60,8 +60,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1339" />
-        <entry key="ENGLISH" value="1340" />
+        <entry key="CHINESE" value="1340" />
+        <entry key="ENGLISH" value="1341" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="1" />
