@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="492" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Error receiving broadcast Intent { act=android.net.conn.CONNECTIVITY_CHANGE flg=0x4200010 (has extras) } in com.example.wanAndroid.ui.receiver.NetworkConnectChangedReceiver@ee115ed" />
+      <item value="e.g." />
       <item value="screen" />
       <item value="icon Tint Mode" />
       <item value="确认" />
@@ -55,15 +57,14 @@
       <item value="on Received Title" />
       <item value="unregisterListenerImpl sensor Name:Game Rotation Vector,isWakeUp Sensor:false,calling App" />
       <item value="unregisterListenerImpl sensorName:Game Rotation Vector,isWakeUpSensor:false,callingApp" />
-      <item value="It will always be more efficient to use more specific change events if you can. Rely on notifyDataSetChanged as a last resort." />
-      <item value="unable to marshal value SearchHotResponse(id=6, link=, name=面试)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1333" />
-        <entry key="ENGLISH" value="1334" />
+        <entry key="CHINESE" value="1335" />
+        <entry key="ENGLISH" value="1336" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
+        <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
