@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="492" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="minify Enabled" />
       <item value="Missing classes detected while running R8. Please add the missing classes or apply additional keep rules that are generated in D:\AndroidStudioProjects\WanAndroid\app\build\outputs\mapping\release\missing_rules.txt." />
       <item value="Cause: failed to decrypt safe contents entry: javax.crypto.BadPaddingException: Given final block not properly padded. Such issues can arise if a bad key is used during decryption." />
       <item value="App Signature" />
@@ -14,7 +15,6 @@
       <item value="preview" />
       <item value="dontwarn" />
       <item value="Add project specific ProGuard rules here. You can control the set of applied configuration files using the proguardFiles setting in build.gradle. For more details, see http:developer.android.comguidedevelopingtoolsproguard.html If your project uses WebView with JS, uncomment the following and specify the fully qualified class name to the JavaScript interface class: -keepclassmembers class fqcn.of.javascript.interface.for.webview { public ; } Uncomment this to preserve the line number information for debugging stack traces. -keepattributes SourceFile,LineNumberTable If you keep the line number information, uncomment this to hide the original source file name. -renamesourcefileattribute SourceFile" />
-      <item value="minify Enabled" />
       <item value="Mozilla" />
       <item value="drake" />
       <item value="new fresh" />
@@ -60,8 +60,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1357" />
-        <entry key="ENGLISH" value="1358" />
+        <entry key="CHINESE" value="1358" />
+        <entry key="ENGLISH" value="1359" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="1" />
