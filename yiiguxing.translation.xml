@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="492" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Add project specific ProGuard rules here. You can control the set of applied configuration files using the proguardFiles setting in build.gradle. For more details, see http:developer.android.comguidedevelopingtoolsproguard.html If your project uses WebView with JS, uncomment the following and specify the fully qualified class name to the JavaScript interface class: -keepclassmembers class fqcn.of.javascript.interface.for.webview { public ; } Uncomment this to preserve the line number information for debugging stack traces. -keepattributes SourceFile,LineNumberTable If you keep the line number information, uncomment this to hide the original source file name. -renamesourcefileattribute SourceFile" />
+      <item value="minify Enabled" />
       <item value="Mozilla" />
       <item value="drake" />
       <item value="new fresh" />
@@ -55,13 +57,11 @@
       <item value="For security reasons offline mode is disabled when the process being inspected does not correspond to the project open in studio or when the project has been generated from a prebuilt apk." />
       <item value="历史记录" />
       <item value="nullable" />
-      <item value="Define your models in the list with mapping tag, LitePal will create tables for each mapping class. The supported fields defined in models will be mapped into columns. For example:" />
-      <item value="Define the version of your database. Each time you want to upgrade your database, the version tag would helps. Modify the models you defined in the mapping tag, and just make the version value plus one, the upgrade of database will be processed automatically without concern. For example:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1349" />
-        <entry key="ENGLISH" value="1350" />
+        <entry key="CHINESE" value="1351" />
+        <entry key="ENGLISH" value="1352" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="1" />
