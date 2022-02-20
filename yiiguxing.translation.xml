@@ -7,6 +7,9 @@
     <option name="newTranslationDialogY" value="492" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Application classes that will be serializeddeserialized over Gson" />
+      <item value="Unsafe" />
+      <item value="Gson specific classes" />
       <item value="ignorewarnings" />
       <item value="Signature" />
       <item value="printmapping" />
@@ -54,14 +57,11 @@
       <item value="direction" />
       <item value="is Currently Active" />
       <item value="clear View" />
-      <item value="on Item Swiped" />
-      <item value="时长" />
-      <item value="Set the swipe movement direction.&lt;p&gt; The value should be ItemTouchHelper.START, ItemTouchHelper.END or their combination.&lt;p&gt; can combine them like ItemTouchHelper.START | ItemTouchHelper.END, it means that the item could swipe to both left or right." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1372" />
-        <entry key="ENGLISH" value="1373" />
+        <entry key="CHINESE" value="1375" />
+        <entry key="ENGLISH" value="1376" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="1" />
@@ -70,6 +70,7 @@
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
+        <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="DUTCH" value="3" />
         <entry key="CZECH" value="1" />
         <entry key="LATIN" value="1" />
