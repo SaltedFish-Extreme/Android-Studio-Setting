@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="492" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Type inference failed. The value of the type parameter K should be mentioned in input types (argument types, receiver type or expected type). Try to specify it explicitly." />
+      <item value="Not nullable value required to call an 'iterator()' method on for-loop range" />
       <item value="Echromium: [ERROR:aw_browser_terminator.cc(149)] Renderer process (31969) crash detected (code 11). Achromium: [FATAL:crashpad_client_linux.cc(670)] Render process (31969)'s crash wasn't handled by all associated webviews, triggering application crash. Alibc: Fatal signal 5 (SIGTRAP), code 1 (TRAP_BRKPT), fault addr 0xc545f13a in tid 20567 (mple.wanandroid), pid 20567 (mple.wanandroid)" />
       <item value="2022-02-21 21:16:39.266 20568-32180com.example.wanandroid Echromium: [ERROR:simple_index_file_posix.cc(36)] opendir datauser0com.example.wanandroidcacheWebViewDefaultHTTP CacheCode Cachejs: No such file or directory (2) 2022-02-21 21:16:39.267 20568-32180com.example.wanandroid Echromium: [ERROR:simple_index_file.cc(575)] Could not reconstruct index from disk" />
       <item value="Application attempted to call on a destroyed WebView" />
@@ -55,12 +57,10 @@
       <item value="App Signature" />
       <item value="application Id Suffix" />
       <item value="preview" />
-      <item value="Add project specific ProGuard rules here. You can control the set of applied configuration files using the proguardFiles setting in build.gradle. For more details, see http:developer.android.comguidedevelopingtoolsproguard.html If your project uses WebView with JS, uncomment the following and specify the fully qualified class name to the JavaScript interface class: -keepclassmembers class fqcn.of.javascript.interface.for.webview { public ; } Uncomment this to preserve the line number information for debugging stack traces. -keepattributes SourceFile,LineNumberTable If you keep the line number information, uncomment this to hide the original source file name. -renamesourcefileattribute SourceFile" />
-      <item value="Mozilla" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1398" />
+        <entry key="CHINESE" value="1400" />
         <entry key="ENGLISH" value="1399" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
