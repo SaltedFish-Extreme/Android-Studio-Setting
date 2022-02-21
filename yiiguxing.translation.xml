@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="492" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="挂起" />
+      <item value="Task was cancelled." />
       <item value="chapter Tops" />
       <item value="window Translucent Status" />
       <item value="注册" />
@@ -55,13 +57,11 @@
       <item value="content Disposition" />
       <item value="mimetype" />
       <item value="content Length" />
-      <item value="unique" />
-      <item value="STRICT CHECK" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1389" />
-        <entry key="ENGLISH" value="1390" />
+        <entry key="CHINESE" value="1391" />
+        <entry key="ENGLISH" value="1391" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
