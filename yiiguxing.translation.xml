@@ -7,6 +7,15 @@
     <option name="newTranslationDialogY" value="492" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="text Visible Password" />
+      <item value="regex Type" />
+      <item value="action Done" />
+      <item value="ime Options" />
+      <item value="text Email Address" />
+      <item value="Describes the content of a view so that a autofill service can fill in the appropriate data. Multiple hints can be combined in a comma separated list or an array of strings to mean e.g. emailAddress or postalAddress." />
+      <item value="focusable In Touch Mode" />
+      <item value="focusable" />
+      <item value="autofill Hints" />
       <item value="text Color Tertiary" />
       <item value="screen Orientation" />
       <item value="window Soft Input Mode" />
@@ -48,23 +57,14 @@
       <item value="intercept Unkown Url" />
       <item value="Receiver Call Not Allowed Exception" />
       <item value="接收广播" />
-      <item value="Error receiving broadcast Intent { act=android.net.conn.CONNECTIVITY_CHANGE flg=0x4200010 (has extras) } in com.example.wanAndroid.ui.receiver.NetworkConnectChangedReceiver@ee115ed" />
-      <item value="e.g." />
-      <item value="screen" />
-      <item value="icon Tint Mode" />
-      <item value="确认" />
-      <item value="add Item Decoration" />
-      <item value="HONEYCOMB" />
-      <item value="Could hide open views here if you wanted." />
-      <item value="RecyclerView: The new recycler view replaces the list view. Its more modular and therefore we must implement some of the functionality ourselves and attach it to our recyclerview. &lt;p&gt; 1) Position items on the screen: This is done with LayoutManagers 2) Animate &amp; Decorate views: This is done with ItemAnimators &amp; ItemDecorators 3) Handle any touch events apart from scrolling: This is now done in our adapter's ViewHolder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1379" />
-        <entry key="ENGLISH" value="1380" />
+        <entry key="CHINESE" value="1386" />
+        <entry key="ENGLISH" value="1387" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
-        <entry key="BULGARIAN" value="1" />
+        <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
