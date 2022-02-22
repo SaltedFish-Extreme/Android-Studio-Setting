@@ -2,11 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="244" />
-    <option name="newTranslationDialogWidth" value="328" />
+    <option name="newTranslationDialogWidth" value="324" />
     <option name="newTranslationDialogX" value="134" />
     <option name="newTranslationDialogY" value="492" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="重新输入密码" />
       <item value="Attempt to invoke virtual method 'int com.example.wanAndroid.logic.model.CoinInfoResponse.getLevel()' on a null object reference" />
       <item value="Share Response" />
       <item value="grade text" />
@@ -56,7 +57,6 @@
       <item value="dontskipnonpubliclibraryclasses" />
       <item value="dontusemixedcaseclassnames" />
       <item value="keepattributes" />
-      <item value="dontwarn" />
     </histories>
     <option name="languageScores">
       <map>
