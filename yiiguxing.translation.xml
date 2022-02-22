@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="492" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="grade text" />
       <item value="User Info Response" />
       <item value="set Alpha" />
       <item value="Expecting a class body" />
@@ -56,12 +57,11 @@
       <item value="dontwarn" />
       <item value="minify Enabled" />
       <item value="Missing classes detected while running R8. Please add the missing classes or apply additional keep rules that are generated in D:\AndroidStudioProjects\WanAndroid\app\build\outputs\mapping\release\missing_rules.txt." />
-      <item value="Cause: failed to decrypt safe contents entry: javax.crypto.BadPaddingException: Given final block not properly padded. Such issues can arise if a bad key is used during decryption." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1401" />
-        <entry key="ENGLISH" value="1401" />
+        <entry key="ENGLISH" value="1402" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
