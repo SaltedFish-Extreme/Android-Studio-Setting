@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="492" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="please login" />
       <item value="my integral" />
       <item value="tv integral" />
       <item value="uniform" />
@@ -56,11 +57,10 @@
       <item value="action Done" />
       <item value="ime Options" />
       <item value="text Email Address" />
-      <item value="Describes the content of a view so that a autofill service can fill in the appropriate data. Multiple hints can be combined in a comma separated list or an array of strings to mean e.g. emailAddress or postalAddress." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1420" />
+        <entry key="CHINESE" value="1421" />
         <entry key="ENGLISH" value="1420" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
