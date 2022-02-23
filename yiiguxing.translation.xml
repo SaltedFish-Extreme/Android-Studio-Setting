@@ -7,6 +7,9 @@
     <option name="newTranslationDialogY" value="492" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="allow Revert" />
+      <item value="check With Expand" />
+      <item value="rl check With Expand" />
       <item value="重新输入密码" />
       <item value="Attempt to invoke virtual method 'int com.example.wanAndroid.logic.model.CoinInfoResponse.getLevel()' on a null object reference" />
       <item value="Share Response" />
@@ -54,14 +57,11 @@
       <item value="verbose" />
       <item value="dontpreverify" />
       <item value="dontskipnonpubliclibraryclassmembers" />
-      <item value="dontskipnonpubliclibraryclasses" />
-      <item value="dontusemixedcaseclassnames" />
-      <item value="keepattributes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1403" />
-        <entry key="ENGLISH" value="1404" />
+        <entry key="CHINESE" value="1406" />
+        <entry key="ENGLISH" value="1407" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
