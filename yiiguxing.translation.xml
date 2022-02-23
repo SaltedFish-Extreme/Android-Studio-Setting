@@ -7,6 +7,11 @@
     <option name="newTranslationDialogY" value="492" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="item integral list" />
+      <item value="Integral List API" />
+      <item value="积分" />
+      <item value="item coin list" />
+      <item value="title Enabled" />
       <item value="please login" />
       <item value="my integral" />
       <item value="tv integral" />
@@ -19,7 +24,6 @@
       <item value="SCREEN ORIENTATION UNSPECIFIED" />
       <item value="Integral Activity" />
       <item value="integral" />
-      <item value="积分" />
       <item value="Number formatting does not take into account locale settings. Consider using String.format instead." />
       <item value="do Big Decimal Anim" />
       <item value="on Animation Start" />
@@ -53,15 +57,11 @@
       <item value="注册" />
       <item value="Sign Up" />
       <item value="text Visible Password" />
-      <item value="regex Type" />
-      <item value="action Done" />
-      <item value="ime Options" />
-      <item value="text Email Address" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1421" />
-        <entry key="ENGLISH" value="1420" />
+        <entry key="CHINESE" value="1424" />
+        <entry key="ENGLISH" value="1425" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
