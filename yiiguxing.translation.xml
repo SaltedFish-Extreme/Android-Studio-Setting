@@ -7,6 +7,9 @@
     <option name="newTranslationDialogY" value="492" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="on Animation Start" />
+      <item value="on Animation End" />
+      <item value="on Animation Repeat" />
       <item value="allow Revert" />
       <item value="check With Expand" />
       <item value="rl check With Expand" />
@@ -54,14 +57,11 @@
       <item value="ignorewarnings" />
       <item value="Signature" />
       <item value="printmapping" />
-      <item value="verbose" />
-      <item value="dontpreverify" />
-      <item value="dontskipnonpubliclibraryclassmembers" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1406" />
-        <entry key="ENGLISH" value="1407" />
+        <entry key="CHINESE" value="1409" />
+        <entry key="ENGLISH" value="1410" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
