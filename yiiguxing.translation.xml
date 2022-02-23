@@ -2,11 +2,20 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="244" />
-    <option name="newTranslationDialogWidth" value="324" />
+    <option name="newTranslationDialogWidth" value="320" />
     <option name="newTranslationDialogX" value="134" />
     <option name="newTranslationDialogY" value="492" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="SCREEN ORIENTATION PORTRAIT" />
+      <item value="Source Locked Orientation Activity" />
+      <item value="You should not lock orientation of your activities, so that you can support a good user experience for any device or orientation" />
+      <item value="SCREEN ORIENTATION UNSPECIFIED" />
+      <item value="Integral Activity" />
+      <item value="integral" />
+      <item value="积分" />
+      <item value="Number formatting does not take into account locale settings. Consider using String.format instead." />
+      <item value="do Big Decimal Anim" />
       <item value="on Animation Start" />
       <item value="on Animation End" />
       <item value="on Animation Repeat" />
@@ -48,20 +57,11 @@
       <item value="autofill Hints" />
       <item value="text Color Tertiary" />
       <item value="screen Orientation" />
-      <item value="window Soft Input Mode" />
-      <item value="tiramisu" />
-      <item value="Persistent Cookie Store" />
-      <item value="Application classes that will be serializeddeserialized over Gson" />
-      <item value="Unsafe" />
-      <item value="Gson specific classes" />
-      <item value="ignorewarnings" />
-      <item value="Signature" />
-      <item value="printmapping" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1409" />
-        <entry key="ENGLISH" value="1410" />
+        <entry key="CHINESE" value="1414" />
+        <entry key="ENGLISH" value="1415" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
