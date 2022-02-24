@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="492" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is In Calling" />
+      <item value="Telephony Util" />
       <item value="Format string 'integral_lv' is not a valid format string so it should not be passed to String.format" />
       <item value="Do not concatenate text displayed with setText. Use resource string with placeholders." />
       <item value="Leaderboard Response" />
@@ -55,13 +57,11 @@
       <item value="on Animation Repeat" />
       <item value="allow Revert" />
       <item value="check With Expand" />
-      <item value="rl check With Expand" />
-      <item value="重新输入密码" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1446" />
-        <entry key="ENGLISH" value="1444" />
+        <entry key="ENGLISH" value="1445" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
@@ -83,6 +83,7 @@
         <entry key="PORTUGUESE" value="1" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="1" />
+        <entry key="SESOTHO" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="GREEK" value="1" />
         <entry key="ITALIAN" value="2" />
