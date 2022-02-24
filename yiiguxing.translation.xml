@@ -7,6 +7,10 @@
     <option name="newTranslationDialogY" value="492" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="This cast can never succeed" />
+      <item value="Echromium: [ERROR:aw_browser_terminator.cc(149)] Renderer process (27015) crash detected (code 11). Achromium: [FATAL:crashpad_client_linux.cc(670)] Render process (27015)'s crash wasn't handled by all associated webviews, triggering application crash. Alibc: Fatal signal 5 (SIGTRAP), code 1 (TRAP_BRKPT), fault addr 0xc946b13a in tid 25322 (mple.wanandroid), pid 25322 (mple.wanandroid)" />
+      <item value="Echromium: [ERROR:simple_index_file_posix.cc(36)] opendir datauser0com.example.wanandroidcacheWebViewDefaultHTTP CacheCode Cachewasm: No such file or directory (2) Echromium: [ERROR:simple_index_file.cc(575)] Could not reconstruct index from disk Echromium: [ERROR:simple_index_file_posix.cc(36)] opendir datauser0com.example.wanandroidcacheWebViewDefaultHTTP CacheCode Cachejs: No such file or directory (2) Echromium: [ERROR:simple_index_file.cc(575)] Could not reconstruct index from disk" />
+      <item value="crash wasn't handled by all associated webviews, triggering application crash." />
       <item value="Echromium: [ERROR:aw_browser_terminator.cc(149)] Renderer process (25153) crash detected (code 11). Achromium: [FATAL:crashpad_client_linux.cc(670)] Render process (25153)'s crash wasn't handled by all associated webviews, triggering application crash. Alibc: Fatal signal 5 (SIGTRAP), code 1 (TRAP_BRKPT), fault addr 0xc946b13a in tid 21171 (mple.wanandroid), pid 21171 (mple.wanandroid)" />
       <item value="set Renderer Priority Policy" />
       <item value="renderer Requested Priority" />
@@ -53,15 +57,11 @@
       <item value="unregisterListenerImpl sensorName:Game Rotation Vector,isWakeUpSensor:false,callingApp: com.example.wanandroid,callingPid:11161,callingUid:10699" />
       <item value="is In Calling" />
       <item value="Telephony Util" />
-      <item value="Format string 'integral_lv' is not a valid format string so it should not be passed to String.format" />
-      <item value="Do not concatenate text displayed with setText. Use resource string with placeholders." />
-      <item value="Leaderboard Response" />
-      <item value="Constraint Layout" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1486" />
-        <entry key="ENGLISH" value="1487" />
+        <entry key="CHINESE" value="1490" />
+        <entry key="ENGLISH" value="1490" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
