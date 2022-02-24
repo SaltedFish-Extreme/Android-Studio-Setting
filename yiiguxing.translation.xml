@@ -7,6 +7,18 @@
     <option name="newTranslationDialogY" value="492" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="set Renderer Priority Policy" />
+      <item value="renderer Requested Priority" />
+      <item value="renderer Priority Waived When Not Visible" />
+      <item value="渲染" />
+      <item value="ready" />
+      <item value="create Agent Web" />
+      <item value="intercept Unkown Url" />
+      <item value="set Open Other Page Ways" />
+      <item value="STRICT CHECK" />
+      <item value="set Security Type" />
+      <item value="set Main Frame Error View" />
+      <item value="set Web Chrome Client" />
       <item value="Middleware Web Chrome Base" />
       <item value="Echromium: [ERROR:aw_browser_terminator.cc(149)] Renderer process (20961) crash detected (code 11). Achromium: [FATAL:crashpad_client_linux.cc(670)] Render process (20961)'s crash wasn't handled by all associated webviews, triggering application crash. Alibc: Fatal signal 5 (SIGTRAP), code 1 (TRAP_BRKPT), fault addr 0xc946b13a in tid 14238 (mple.wanandroid), pid 14238 (mple.wanandroid)" />
       <item value="NARROW COLUMNS" />
@@ -45,23 +57,11 @@
       <item value="Leaderboard Response" />
       <item value="Constraint Layout" />
       <item value="Leaderboard Activity" />
-      <item value="积分排行榜" />
-      <item value="排行榜" />
-      <item value="排名" />
-      <item value="rank" />
-      <item value="srl Enable Footer Follow When Load Finished" />
-      <item value="Decoration" />
-      <item value="Space Item Decoration" />
-      <item value="divider" />
-      <item value="Divider" />
-      <item value="Val cannot be reassigned" />
-      <item value="'break' and 'continue' are only allowed inside a loop" />
-      <item value="Icon Preference" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1474" />
-        <entry key="ENGLISH" value="1475" />
+        <entry key="CHINESE" value="1485" />
+        <entry key="ENGLISH" value="1486" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
