@@ -7,6 +7,17 @@
     <option name="newTranslationDialogY" value="492" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="dontoptimize" />
+      <item value="dontshrink" />
+      <item value="verbose" />
+      <item value="dontpreverify" />
+      <item value="dontusemixedcaseclassnames" />
+      <item value="dontskipnonpubliclibraryclassmembers" />
+      <item value="dontskipnonpubliclibraryclasses" />
+      <item value="optimizationpasses" />
+      <item value="zip Align Enabled" />
+      <item value="jni Debuggable" />
+      <item value="debuggable" />
       <item value="'return' is not allowed here" />
       <item value="The SwipeRefreshLayout should be used whenever the user can refresh the contents of a view via a vertical swipe gesture. The activity that instantiates this view should add an OnRefreshListener to be notified whenever the swipe to refresh gesture is completed. The SwipeRefreshLayout will notify the listener each and every time the gesture is completed again; the listener is responsible for correctly determining when to actually initiate a refresh of its content. If the listener determines there should not be a refresh, it must call setRefreshing(false) to cancel any visual indication of a refresh. If an activity wishes to show just the progress animation, it should call setRefreshing(true). To disable the gesture and progress animation, call setEnabled(false) on the view. This layout should be made the parent of the view that will be refreshed as a result of the gesture and can only support one direct child. This view will also be made the target of the gesture and will be forced to match both the width and the height supplied in this layout. The SwipeRefreshLayout does not provide accessibility events; instead, a menu item must be provided to allow refresh of the content wherever this gesture is used." />
       <item value="pending review" />
@@ -46,22 +57,11 @@
       <item value="Integral List API" />
       <item value="积分" />
       <item value="item coin list" />
-      <item value="please login" />
-      <item value="my integral" />
-      <item value="tv integral" />
-      <item value="auto Size Text Type" />
-      <item value="auto Size Max Text Size" />
-      <item value="SCREEN ORIENTATION PORTRAIT" />
-      <item value="Source Locked Orientation Activity" />
-      <item value="You should not lock orientation of your activities, so that you can support a good user experience for any device or orientation" />
-      <item value="SCREEN ORIENTATION UNSPECIFIED" />
-      <item value="Integral Activity" />
-      <item value="integral" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1450" />
-        <entry key="ENGLISH" value="1449" />
+        <entry key="CHINESE" value="1461" />
+        <entry key="ENGLISH" value="1462" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
