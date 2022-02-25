@@ -7,6 +7,11 @@
     <option name="newTranslationDialogY" value="492" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Extra spacing between lines of text, as a multiplier. The value will not be applied for the last line of text." />
+      <item value="Extra spacing between lines of text. The value will not be applied for the last line of text." />
+      <item value="line Spacing Multiplier" />
+      <item value="Leave enough room for ascenders and descenders instead of using the font ascent and descent strictly. (Normally true)." />
+      <item value="line Spacing Extra" />
       <item value="text Multi Line" />
       <item value="set On Editor Action Listener" />
       <item value="Echromium: [ERROR:aw_browser_terminator.cc(149)] Renderer process (13956) crash detected (code 11). Achromium: [FATAL:crashpad_client_linux.cc(670)] Render process (13956)'s crash wasn't handled by all associated webviews, triggering application crash. Alibc: Fatal signal 5 (SIGTRAP), code 1 (TRAP_BRKPT), fault addr 0xc618413a in tid 3275 (mple.wanandroid), pid 3275 (mple.wanandroid)" />
@@ -52,16 +57,11 @@
       <item value="verbose" />
       <item value="dontpreverify" />
       <item value="dontusemixedcaseclassnames" />
-      <item value="dontskipnonpubliclibraryclassmembers" />
-      <item value="dontskipnonpubliclibraryclasses" />
-      <item value="optimizationpasses" />
-      <item value="zip Align Enabled" />
-      <item value="jni Debuggable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1498" />
-        <entry key="ENGLISH" value="1499" />
+        <entry key="CHINESE" value="1502" />
+        <entry key="ENGLISH" value="1501" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
