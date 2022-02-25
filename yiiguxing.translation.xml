@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="492" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Swipe Item Touch Listener" />
       <item value="SINGLE COLUMN" />
       <item value="Notify the host application of a change in the document title." />
       <item value="use Middleware Web Chrome" />
@@ -56,12 +57,11 @@
       <item value="The SwipeRefreshLayout should be used whenever the user can refresh the contents of a view via a vertical swipe gesture. The activity that instantiates this view should add an OnRefreshListener to be notified whenever the swipe to refresh gesture is completed. The SwipeRefreshLayout will notify the listener each and every time the gesture is completed again; the listener is responsible for correctly determining when to actually initiate a refresh of its content. If the listener determines there should not be a refresh, it must call setRefreshing(false) to cancel any visual indication of a refresh. If an activity wishes to show just the progress animation, it should call setRefreshing(true). To disable the gesture and progress animation, call setEnabled(false) on the view. This layout should be made the parent of the view that will be refreshed as a result of the gesture and can only support one direct child. This view will also be made the target of the gesture and will be forced to match both the width and the height supplied in this layout. The SwipeRefreshLayout does not provide accessibility events; instead, a menu item must be provided to allow refresh of the content wherever this gesture is used." />
       <item value="pending review" />
       <item value="待审核" />
-      <item value="audit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1492" />
-        <entry key="ENGLISH" value="1493" />
+        <entry key="CHINESE" value="1493" />
+        <entry key="ENGLISH" value="1494" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
