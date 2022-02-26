@@ -2,11 +2,17 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="244" />
-    <option name="newTranslationDialogWidth" value="316" />
+    <option name="newTranslationDialogWidth" value="312" />
     <option name="newTranslationDialogX" value="134" />
     <option name="newTranslationDialogY" value="492" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="匿名" />
+      <item value="rl anim Duration" />
+      <item value="check With Expand" />
+      <item value="allow Revert" />
+      <item value="rl allow Revert" />
+      <item value="&lt;per.goweii.reveallayout.Reveal Layout" />
       <item value="Collect URL List" />
       <item value="收藏网址列表" />
       <item value="标签" />
@@ -51,17 +57,11 @@
       <item value="set Security Type" />
       <item value="set Main Frame Error View" />
       <item value="set Web Chrome Client" />
-      <item value="Middleware Web Chrome Base" />
-      <item value="Echromium: [ERROR:aw_browser_terminator.cc(149)] Renderer process (20961) crash detected (code 11). Achromium: [FATAL:crashpad_client_linux.cc(670)] Render process (20961)'s crash wasn't handled by all associated webviews, triggering application crash. Alibc: Fatal signal 5 (SIGTRAP), code 1 (TRAP_BRKPT), fault addr 0xc946b13a in tid 14238 (mple.wanandroid), pid 14238 (mple.wanandroid)" />
-      <item value="NARROW COLUMNS" />
-      <item value="dom Storage Enabled" />
-      <item value="Echromium: [ERROR:aw_browser_terminator.cc(149)] Renderer process (15776) crash detected (code 11). Achromium: [FATAL:crashpad_client_linux.cc(670)] Render process (15776)'s crash wasn't handled by all associated webviews, triggering application crash. Alibc: Fatal signal 5 (SIGTRAP), code 1 (TRAP_BRKPT), fault addr 0xc946b13a in tid 30394 (mple.wanandroid), pid 30394 (mple.wanandroid)" />
-      <item value="uses Cleartext Traffic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1513" />
-        <entry key="ENGLISH" value="1513" />
+        <entry key="CHINESE" value="1517" />
+        <entry key="ENGLISH" value="1518" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
