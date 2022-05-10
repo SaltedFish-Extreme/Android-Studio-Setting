@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="492" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="是否初始化" />
       <item value="常量" />
       <item value="fragment auditor seal manage" />
       <item value="activity auditor main" />
@@ -56,11 +57,10 @@
       <item value="Invocation Target Exception" />
       <item value="Uncheck With Expand" />
       <item value="View Group" />
-      <item value="Dynamic Activity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1569" />
+        <entry key="CHINESE" value="1570" />
         <entry key="ENGLISH" value="1570" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
