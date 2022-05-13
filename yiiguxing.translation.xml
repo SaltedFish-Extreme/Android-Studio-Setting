@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="492" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="添加用户" />
       <item value="user register" />
       <item value="exit login" />
       <item value="账号" />
@@ -56,7 +57,6 @@
       <item value="Way Api" />
       <item value="share chapter" />
       <item value="null cannot be cast to non-null type com.example.wanAndroid.widget.view.CollectView" />
-      <item value="first Receive" />
     </histories>
     <option name="languageScores">
       <map>
