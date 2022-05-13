@@ -7,6 +7,9 @@
     <option name="newTranslationDialogY" value="492" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Universal Button Style" />
+      <item value="通用" />
+      <item value="input Style" />
       <item value="actualname" />
       <item value="添加用户" />
       <item value="user register" />
@@ -54,14 +57,11 @@
       <item value="Register" />
       <item value="弃用" />
       <item value="start Activity For Result" />
-      <item value="Wage Adapter" />
-      <item value="Way Api" />
-      <item value="share chapter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1588" />
-        <entry key="ENGLISH" value="1588" />
+        <entry key="CHINESE" value="1589" />
+        <entry key="ENGLISH" value="1590" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
