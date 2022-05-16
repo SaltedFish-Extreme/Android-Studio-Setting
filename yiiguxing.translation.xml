@@ -7,9 +7,11 @@
     <option name="newTranslationDialogY" value="880" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="rockchip" />
+      <item value="Please register the android:requestLegacyExternalStorage=&quot;true&quot; attribute in the AndroidManifest.xml file, otherwise it will cause incompatibility with the old version" />
+      <item value="Attempt to invoke virtual method 'int android.content.Context.checkCallingOrSelfPermission(java.lang.String)' on a null object reference" />
       <item value="The Google Play store has a policy that limits usage of MANAGE_EXTERNAL_STORAGE" />
       <item value="check Calling Or Self Permission" />
-      <item value="Attempt to invoke virtual method 'int android.content.Context.checkCallingOrSelfPermission(java.lang.String)' on a null object reference" />
       <item value="android.content.ActivityNotFoundException: Unable to find explicit activity class {com.wintec.smartseal.ds30offlinecom.wintec.smartseal.ds30offline.activity.TakeUserPhotoActivity}; have you declared this activity in your AndroidManifest.xml?" />
       <item value="DEFAULT KEYS DIALER" />
       <item value="DEFAULT KEYS SHORTCUT" />
@@ -55,13 +57,11 @@
       <item value="By convention, the custom view (DrawableTextView) and the declare-styleable (LimitedDrawableTextView) should have the same name (various editor features rely on this convention" />
       <item value="限定" />
       <item value="Grid View" />
-      <item value="是否初始化" />
-      <item value="常量" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1598" />
-        <entry key="ENGLISH" value="1598" />
+        <entry key="CHINESE" value="1600" />
+        <entry key="ENGLISH" value="1601" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
