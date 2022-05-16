@@ -2,11 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="244" />
-    <option name="newTranslationDialogWidth" value="328" />
-    <option name="newTranslationDialogX" value="134" />
-    <option name="newTranslationDialogY" value="492" />
+    <option name="newTranslationDialogWidth" value="352" />
+    <option name="newTranslationDialogX" value="638" />
+    <option name="newTranslationDialogY" value="880" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="The Google Play store has a policy that limits usage of MANAGE_EXTERNAL_STORAGE" />
       <item value="check Calling Or Self Permission" />
       <item value="Attempt to invoke virtual method 'int android.content.Context.checkCallingOrSelfPermission(java.lang.String)' on a null object reference" />
       <item value="android.content.ActivityNotFoundException: Unable to find explicit activity class {com.wintec.smartseal.ds30offlinecom.wintec.smartseal.ds30offline.activity.TakeUserPhotoActivity}; have you declared this activity in your AndroidManifest.xml?" />
@@ -56,11 +57,10 @@
       <item value="Grid View" />
       <item value="是否初始化" />
       <item value="常量" />
-      <item value="fragment auditor seal manage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1597" />
+        <entry key="CHINESE" value="1598" />
         <entry key="ENGLISH" value="1598" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
