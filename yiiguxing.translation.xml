@@ -7,6 +7,10 @@
     <option name="newTranslationDialogY" value="880" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Identity equality for arguments of types Int and Int is deprecated" />
+      <item value="Range" />
+      <item value="Value must be ≥ 0 but getColumnIndex can be -1" />
+      <item value="Database development, scripting and navigation tool This product adds extensive database development and maintenance capabilities to the IntelliJ IDEA development environment and related products. Along with a qualified and IDE-compliant SQL and PLSQL editor, it provides advanced database connection management, script execution support, database objects browsing, data and code editor, support for database compiler operations, method execution and debugging, database objects factory, as well as various navigation capabilities between all its components." />
       <item value="query User Name" />
       <item value="query Pass Word" />
       <item value="while compiling: username = ?" />
@@ -53,15 +57,11 @@
       <item value="User Thumbnail Model" />
       <item value="foreground Gravity" />
       <item value="用户缩略图" />
-      <item value="废弃" />
-      <item value="弧度" />
-      <item value="This declaration overrides deprecated member but not marked as deprecated itself. This deprecation won't be inherited in future releases. Please add @Deprecated annotation or suppress" />
-      <item value="The menu &quot;menu_bottom_na&quot; in menu has no declaration in the base menu folder; this can lead to crashes when the resource is queried in a configuration that does not match this qualifier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1605" />
-        <entry key="ENGLISH" value="1606" />
+        <entry key="CHINESE" value="1608" />
+        <entry key="ENGLISH" value="1607" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
