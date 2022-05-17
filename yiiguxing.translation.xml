@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="880" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="prompt" />
       <item value="error: '请选择用户' is incompatible with attribute prompt (attr) reference." />
       <item value="near &quot;username&quot;: syntax error" />
       <item value="Identity equality for arguments of types Int and Int is deprecated" />
@@ -56,12 +57,11 @@
       <item value="user actual name tip" />
       <item value="真实姓名" />
       <item value="头像" />
-      <item value="User Thumbnail Model" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1610" />
-        <entry key="ENGLISH" value="1610" />
+        <entry key="ENGLISH" value="1611" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
