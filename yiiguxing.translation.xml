@@ -7,6 +7,11 @@
     <option name="newTranslationDialogY" value="880" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="确定" />
+      <item value="cancel" />
+      <item value="ok" />
+      <item value="取消" />
+      <item value="修改" />
       <item value="Specifies the type of layer backing this view. The default value is none. Refer to {@link android.view.ViewsetLayerType(int, android.graphics.Paint)} for more information." />
       <item value="If set, specifies that this TextView has an input method. It will be a textual one unless it has otherwise been specified. For TextView, this is false by default. For EditText, it is true by default. {@deprecated Use inputType instead.}" />
       <item value="user Actual Name" />
@@ -52,16 +57,11 @@
       <item value="user register" />
       <item value="exit login" />
       <item value="账号" />
-      <item value="item Text Appearance Active" />
-      <item value="item Text Appearance Inactive" />
-      <item value="The style used for each navigation item's active indicator" />
-      <item value="item" />
-      <item value="ok and fail is not have one, is if it is collected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1617" />
-        <entry key="ENGLISH" value="1616" />
+        <entry key="CHINESE" value="1620" />
+        <entry key="ENGLISH" value="1620" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
