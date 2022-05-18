@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="880" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="civ border overlay" />
       <item value="circleimageview" />
       <item value="circyleimageview" />
       <item value="Concurrent Modification Exception" />
@@ -56,12 +57,11 @@
       <item value="device offline" />
       <item value="confirm" />
       <item value="重置" />
-      <item value="部门" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1613" />
-        <entry key="ENGLISH" value="1613" />
+        <entry key="ENGLISH" value="1614" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
