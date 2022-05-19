@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="880" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Identity equality for arguments of types Int and Int is deprecated" />
       <item value="SSL peer shut down incorrectly" />
       <item value="token null is not for an application" />
       <item value="Unable to add window" />
@@ -27,7 +28,6 @@
       <item value="prompt" />
       <item value="error: '请选择用户' is incompatible with attribute prompt (attr) reference." />
       <item value="near &quot;username&quot;: syntax error" />
-      <item value="Identity equality for arguments of types Int and Int is deprecated" />
       <item value="Range" />
       <item value="Value must be ≥ 0 but getColumnIndex can be -1" />
       <item value="Database development, scripting and navigation tool This product adds extensive database development and maintenance capabilities to the IntelliJ IDEA development environment and related products. Along with a qualified and IDE-compliant SQL and PLSQL editor, it provides advanced database connection management, script execution support, database objects browsing, data and code editor, support for database compiler operations, method execution and debugging, database objects factory, as well as various navigation capabilities between all its components." />
@@ -60,7 +60,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1623" />
+        <entry key="CHINESE" value="1624" />
         <entry key="ENGLISH" value="1624" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
