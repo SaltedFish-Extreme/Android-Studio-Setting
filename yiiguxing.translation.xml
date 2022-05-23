@@ -7,6 +7,12 @@
     <option name="newTranslationDialogY" value="545" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Should pass resolved color instead of resource id here: getResources().getColor(android.R.color.holo_red_dark)" />
+      <item value="unbound" />
+      <item value="bounded" />
+      <item value="registered bounded" />
+      <item value="已注册已绑定" />
+      <item value="已注册未绑定" />
       <item value="Conflicting declarations: private final val sealName: TextView, private final val sealName: String" />
       <item value="序列号" />
       <item value="seal serial" />
@@ -51,17 +57,11 @@
       <item value="is Checked" />
       <item value="department" />
       <item value="rockchip" />
-      <item value="Please register the android:requestLegacyExternalStorage=&quot;true&quot; attribute in the AndroidManifest.xml file, otherwise it will cause incompatibility with the old version" />
-      <item value="Attempt to invoke virtual method 'int android.content.Context.checkCallingOrSelfPermission(java.lang.String)' on a null object reference" />
-      <item value="The Google Play store has a policy that limits usage of MANAGE_EXTERNAL_STORAGE" />
-      <item value="check Calling Or Self Permission" />
-      <item value="android.content.ActivityNotFoundException: Unable to find explicit activity class {com.wintec.smartseal.ds30offlinecom.wintec.smartseal.ds30offline.activity.TakeUserPhotoActivity}; have you declared this activity in your AndroidManifest.xml?" />
-      <item value="DEFAULT KEYS DIALER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1635" />
-        <entry key="ENGLISH" value="1634" />
+        <entry key="CHINESE" value="1639" />
+        <entry key="ENGLISH" value="1639" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
