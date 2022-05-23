@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="545" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Conflicting declarations: private final val sealName: TextView, private final val sealName: String" />
       <item value="序列号" />
       <item value="seal serial" />
       <item value="对齐" />
@@ -56,11 +57,10 @@
       <item value="check Calling Or Self Permission" />
       <item value="android.content.ActivityNotFoundException: Unable to find explicit activity class {com.wintec.smartseal.ds30offlinecom.wintec.smartseal.ds30offline.activity.TakeUserPhotoActivity}; have you declared this activity in your AndroidManifest.xml?" />
       <item value="DEFAULT KEYS DIALER" />
-      <item value="DEFAULT KEYS SHORTCUT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1634" />
+        <entry key="CHINESE" value="1635" />
         <entry key="ENGLISH" value="1634" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
