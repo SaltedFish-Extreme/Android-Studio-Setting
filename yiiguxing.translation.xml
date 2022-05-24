@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="545" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="适应" />
       <item value="action Bar Nav Mode" />
       <item value="Defines whether the horizontal scrollbar track should always be drawn." />
       <item value="Defines whether to fade out scrollbars when they are not in use." />
@@ -56,12 +57,11 @@
       <item value="Specifies the type of layer backing this view. The default value is none. Refer to {@link android.view.ViewsetLayerType(int, android.graphics.Paint)} for more information." />
       <item value="If set, specifies that this TextView has an input method. It will be a textual one unless it has otherwise been specified. For TextView, this is false by default. For EditText, it is true by default. {@deprecated Use inputType instead.}" />
       <item value="user Actual Name" />
-      <item value="load Thumbnail" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1650" />
-        <entry key="ENGLISH" value="1650" />
+        <entry key="CHINESE" value="1651" />
+        <entry key="ENGLISH" value="1651" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
