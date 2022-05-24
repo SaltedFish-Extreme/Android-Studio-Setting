@@ -7,6 +7,13 @@
     <option name="newTranslationDialogY" value="545" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="item Horizontal Translation Enabled" />
+      <item value="Whether the items translate horizontally when in &quot;selected&quot; label visibility mode." />
+      <item value="Defines whether the ViewGroup will clip its children and resize (but not clip) any EdgeEffect to its padding, if padding is not zero. This property is set to true by default." />
+      <item value="device manager" />
+      <item value="manager" />
+      <item value="personal" />
+      <item value="用印" />
       <item value="label Visibility Mode" />
       <item value="LABEL VISIBILITY LABELED" />
       <item value="does not have a NavController set" />
@@ -50,18 +57,11 @@
       <item value="Concurrent Modification Exception" />
       <item value="prompt" />
       <item value="error: '请选择用户' is incompatible with attribute prompt (attr) reference." />
-      <item value="near &quot;username&quot;: syntax error" />
-      <item value="Range" />
-      <item value="Value must be ≥ 0 but getColumnIndex can be -1" />
-      <item value="Database development, scripting and navigation tool This product adds extensive database development and maintenance capabilities to the IntelliJ IDEA development environment and related products. Along with a qualified and IDE-compliant SQL and PLSQL editor, it provides advanced database connection management, script execution support, database objects browsing, data and code editor, support for database compiler operations, method execution and debugging, database objects factory, as well as various navigation capabilities between all its components." />
-      <item value="query User Name" />
-      <item value="query Pass Word" />
-      <item value="while compiling: username = ?" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1641" />
-        <entry key="ENGLISH" value="1642" />
+        <entry key="CHINESE" value="1646" />
+        <entry key="ENGLISH" value="1646" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
