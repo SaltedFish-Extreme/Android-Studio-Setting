@@ -7,6 +7,9 @@
     <option name="newTranslationDialogY" value="545" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="SYSTEM UI FLAG FULLSCREEN" />
+      <item value="SYSTEM UI FLAG IMMERSIVE STICKY" />
+      <item value="SYSTEM UI FLAG HIDE NAVIGATION" />
       <item value="item Horizontal Translation Enabled" />
       <item value="Whether the items translate horizontally when in &quot;selected&quot; label visibility mode." />
       <item value="Defines whether the ViewGroup will clip its children and resize (but not clip) any EdgeEffect to its padding, if padding is not zero. This property is set to true by default." />
@@ -54,14 +57,11 @@
       <item value="civ border overlay" />
       <item value="circleimageview" />
       <item value="circyleimageview" />
-      <item value="Concurrent Modification Exception" />
-      <item value="prompt" />
-      <item value="error: '请选择用户' is incompatible with attribute prompt (attr) reference." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1646" />
-        <entry key="ENGLISH" value="1646" />
+        <entry key="CHINESE" value="1648" />
+        <entry key="ENGLISH" value="1649" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
