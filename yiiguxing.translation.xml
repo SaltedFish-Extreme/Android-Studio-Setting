@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="527" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="set Extra Offsets" />
       <item value="内存" />
       <item value="memory situation" />
       <item value="内存情况" />
@@ -56,12 +57,11 @@
       <item value="已注册已绑定" />
       <item value="已注册未绑定" />
       <item value="Conflicting declarations: private final val sealName: TextView, private final val sealName: String" />
-      <item value="序列号" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1674" />
-        <entry key="ENGLISH" value="1671" />
+        <entry key="ENGLISH" value="1672" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
