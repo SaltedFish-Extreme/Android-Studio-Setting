@@ -2,15 +2,20 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="263" />
-    <option name="newTranslationDialogWidth" value="344" />
+    <option name="newTranslationDialogWidth" value="340" />
     <option name="newTranslationDialogX" value="840" />
     <option name="newTranslationDialogY" value="527" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="提交" />
+      <item value="Ram util" />
+      <item value="Ram Til" />
+      <item value="Ram Util" />
+      <item value="存储空间" />
+      <item value="rotation Angle" />
       <item value="avail Count" />
       <item value="get System Storage Size" />
       <item value="system Used Storage Size" />
-      <item value="存储空间" />
       <item value="获取系统可用的硬盘大小" />
       <item value="get System Avaialbe Memory Size" />
       <item value="lable" />
@@ -52,20 +57,15 @@
       <item value="Default screen margins, per the Android Design guidelines" />
       <item value="Boolean internal attribute to adjust view layout based on system windows such as the status bar. If true, adjusts the padding of this view to leave space for the system windows. Will only take effect if this view is in a non-embedded activity." />
       <item value="If true, makes the bottom edge of this view match the bottom edge of the parent. Accommodates bottom margin" />
-      <item value="window Translucent Navigation" />
-      <item value="item Text Appearance Active" />
-      <item value="The text appearance to apply to the inactive navigation item labels. Setting android:textColor in itemTextAppearanceInactive will take precedence over android:textColor in itemTextAppearanceActive. Instead, set itemTextColor with a ColorStateList to make the text color stateful." />
-      <item value="Accessing internal APIs via reflection is not supported and may not work on all devices or in the future" />
-      <item value="navigation Bar Divider Color" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1699" />
-        <entry key="ENGLISH" value="1700" />
+        <entry key="CHINESE" value="1703" />
+        <entry key="ENGLISH" value="1703" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
-        <entry key="DANISH" value="1" />
+        <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="8" />
