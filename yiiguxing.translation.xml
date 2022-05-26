@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="527" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="set Draw Values" />
+      <item value="set Use Percent Values" />
       <item value="已用内存大小" />
       <item value="系统已用内存大小" />
       <item value="system Remaining Memory Size" />
@@ -55,13 +57,11 @@
       <item value="SYSTEM UI FLAG IMMERSIVE STICKY" />
       <item value="SYSTEM UI FLAG HIDE NAVIGATION" />
       <item value="item Horizontal Translation Enabled" />
-      <item value="Whether the items translate horizontally when in &quot;selected&quot; label visibility mode." />
-      <item value="Defines whether the ViewGroup will clip its children and resize (but not clip) any EdgeEffect to its padding, if padding is not zero. This property is set to true by default." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1688" />
-        <entry key="ENGLISH" value="1688" />
+        <entry key="CHINESE" value="1689" />
+        <entry key="ENGLISH" value="1690" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
