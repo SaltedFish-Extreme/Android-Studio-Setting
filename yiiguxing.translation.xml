@@ -7,6 +7,18 @@
     <option name="newTranslationDialogY" value="527" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="WLANMAC" />
+      <item value="以太网地址" />
+      <item value="bluetooth address" />
+      <item value="version" />
+      <item value="fm setting system message" />
+      <item value="infomission" />
+      <item value="toggle display" />
+      <item value="toggle display of system information" />
+      <item value="Toggle display of system information" />
+      <item value="切换显示系统信息" />
+      <item value="系统信息" />
+      <item value="维修模式" />
       <item value="系统设置" />
       <item value="General Username" />
       <item value="普通用户" />
@@ -45,23 +57,11 @@
       <item value="selection Shift" />
       <item value="slice Space" />
       <item value="set Transparent Circle Color" />
-      <item value="内存" />
-      <item value="memory situation" />
-      <item value="内存情况" />
-      <item value="修改密码" />
-      <item value="系统通知" />
-      <item value="装上" />
-      <item value="印章" />
-      <item value="Use Chapter" />
-      <item value="Take Chapter" />
-      <item value="Take Chapter Activity" />
-      <item value="取章" />
-      <item value="Take Off" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1707" />
-        <entry key="ENGLISH" value="1708" />
+        <entry key="CHINESE" value="1717" />
+        <entry key="ENGLISH" value="1717" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
