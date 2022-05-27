@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="527" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Reflective access to mService, which is not part of the public SDK and therefore likely to change in future Android releases" />
+      <item value="Hardware Ids" />
       <item value="Attempted to finish an input event but the input event receiver has already been disposed." />
       <item value="The specified child already has a parent. You must call removeView() on the child's parent first." />
       <item value="Service com.android.email.service.EmailBroadcastProcessorService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxyProxyConnection@a41c1d8 that was originally bound here" />
@@ -55,13 +57,11 @@
       <item value="系统已用内存大小" />
       <item value="system Remaining Memory Size" />
       <item value="syste Total Memory Size" />
-      <item value="system Avaialbe Memory Size" />
-      <item value="系统剩余内存大小" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1721" />
-        <entry key="ENGLISH" value="1722" />
+        <entry key="CHINESE" value="1723" />
+        <entry key="ENGLISH" value="1723" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
