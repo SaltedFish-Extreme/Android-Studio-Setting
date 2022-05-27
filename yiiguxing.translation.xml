@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="527" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="is Mirror" />
       <item value="Reflective access to mService, which is not part of the public SDK and therefore likely to change in future Android releases" />
       <item value="Hardware Ids" />
       <item value="Attempted to finish an input event but the input event receiver has already been disposed." />
@@ -56,12 +57,11 @@
       <item value="已用内存大小" />
       <item value="系统已用内存大小" />
       <item value="system Remaining Memory Size" />
-      <item value="syste Total Memory Size" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1723" />
-        <entry key="ENGLISH" value="1723" />
+        <entry key="ENGLISH" value="1724" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
