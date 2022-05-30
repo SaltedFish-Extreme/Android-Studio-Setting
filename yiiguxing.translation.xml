@@ -7,6 +7,16 @@
     <option name="newTranslationDialogY" value="527" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="请选择文件类型" />
+      <item value="选择印章" />
+      <item value="申请" />
+      <item value="stamp" />
+      <item value="申请用印信息" />
+      <item value="拍摄" />
+      <item value="拍摄头像" />
+      <item value="拍照" />
+      <item value="use Indian information" />
+      <item value="用印人信息" />
       <item value="Set this if the view will serve as a scrolling container, meaning that it can be resized to shrink its overall window so that there will be space for an input method. If not set, the default value will be true if &quot;scrollbars&quot; has the vertical scrollbar set, else it will be false" />
       <item value="Controls whether the view's window should keep the screen on while visible" />
       <item value="Formats: enum Values: always, ifContentScrolls, never Defines over-scrolling behavior. This property is used only if the View is scrollable. Over-scrolling is the ability for the user to receive feedback when attempting to scroll beyond meaningful conten" />
@@ -47,21 +57,11 @@
       <item value="version" />
       <item value="fm setting system message" />
       <item value="infomission" />
-      <item value="toggle display" />
-      <item value="toggle display of system information" />
-      <item value="Toggle display of system information" />
-      <item value="切换显示系统信息" />
-      <item value="系统信息" />
-      <item value="维修模式" />
-      <item value="系统设置" />
-      <item value="General Username" />
-      <item value="普通用户" />
-      <item value="Instant Run" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1740" />
-        <entry key="ENGLISH" value="1737" />
+        <entry key="CHINESE" value="1749" />
+        <entry key="ENGLISH" value="1745" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
