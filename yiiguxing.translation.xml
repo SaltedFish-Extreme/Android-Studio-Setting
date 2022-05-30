@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="527" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="The character literal does not conform to the expected type (Char) -&gt; Boolean" />
       <item value="文件照片" />
       <item value="print remark" />
       <item value="print continuous" />
@@ -56,11 +57,10 @@
       <item value="system Used Storage Size" />
       <item value="获取系统可用的硬盘大小" />
       <item value="get System Avaialbe Memory Size" />
-      <item value="lable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1728" />
+        <entry key="CHINESE" value="1729" />
         <entry key="ENGLISH" value="1728" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
