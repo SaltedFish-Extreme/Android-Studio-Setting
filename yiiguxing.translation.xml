@@ -2,11 +2,20 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="263" />
-    <option name="newTranslationDialogWidth" value="328" />
+    <option name="newTranslationDialogWidth" value="324" />
     <option name="newTranslationDialogX" value="840" />
     <option name="newTranslationDialogY" value="527" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="关键页" />
+      <item value="文件关键页拍照" />
+      <item value="Set an input filter to constrain the text length to the specified number." />
+      <item value="characters number input limit" />
+      <item value="文字数量" />
+      <item value="text number input limit" />
+      <item value="character input limit" />
+      <item value="字数输入限制" />
+      <item value="用印次数" />
       <item value="请选择文件类型" />
       <item value="选择印章" />
       <item value="申请" />
@@ -35,7 +44,6 @@
       <item value="文件照片" />
       <item value="print remark" />
       <item value="print continuous" />
-      <item value="用印次数" />
       <item value="continuous print" />
       <item value="连续用印" />
       <item value="重命名" />
@@ -49,19 +57,11 @@
       <item value="Service com.android.email.service.EmailBroadcastProcessorService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxyProxyConnection@a41c1d8 that was originally bound here" />
       <item value="Avoid passing null as the view root (needed to resolve layout parameters on the inflated layout's root element)" />
       <item value="维修密码" />
-      <item value="get Customize Dialog" />
-      <item value="自定义" />
-      <item value="WLANMAC" />
-      <item value="以太网地址" />
-      <item value="bluetooth address" />
-      <item value="version" />
-      <item value="fm setting system message" />
-      <item value="infomission" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1749" />
-        <entry key="ENGLISH" value="1745" />
+        <entry key="CHINESE" value="1756" />
+        <entry key="ENGLISH" value="1752" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
