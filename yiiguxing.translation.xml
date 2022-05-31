@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="527" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Unable to start activity ComponentInfo{com.wintec.smartseal.ds30offlinecom.wintec.smartseal.ds30offline.activity.ApplySealActivity}: android.view.InflateException: Binary XML file line 352: Binary XML file line 352: Error inflating class com.wintec.smartseal.ds30offline.widget.view.ImageScrollView" />
       <item value="Do not treat position as fixed; only use immediately and call holder.getAdapterPosition() to look it up later" />
       <item value="Only show over-scroll effects if the content is large enough to meaningfully scroll." />
       <item value="Defines over-scrolling behavior. This property is used only if the View is scrollable. Over-scrolling is the ability for the user to receive feedback when attempting to scroll beyond meaningful content" />
@@ -56,12 +57,11 @@
       <item value="重命名" />
       <item value="CAMERA FACING FRONT" />
       <item value="The layout &quot;activity_logintype_face&quot; in layout has no declaration in the base layout folder; this can lead to crashes when the resource is queried in a configuration that does not match this qualifier" />
-      <item value="is Mirror" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1761" />
-        <entry key="ENGLISH" value="1754" />
+        <entry key="ENGLISH" value="1755" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
