@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="527" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="text Multi Line" />
       <item value="adjust Resize" />
       <item value="state Visible" />
       <item value="adjust Pan" />
@@ -56,12 +57,11 @@
       <item value="The character literal does not conform to the expected type (Char) -&gt; Boolean" />
       <item value="文件照片" />
       <item value="print remark" />
-      <item value="print continuous" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1764" />
-        <entry key="ENGLISH" value="1760" />
+        <entry key="ENGLISH" value="1761" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
