@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="527" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Only show over-scroll effects if the content is large enough to meaningfully scroll." />
+      <item value="Defines over-scrolling behavior. This property is used only if the View is scrollable. Over-scrolling is the ability for the user to receive feedback when attempting to scroll beyond meaningful content" />
       <item value="Relative Overlap" />
       <item value="shoot avatar" />
       <item value="Set an input filter to constrain the text length to the specified number." />
@@ -55,12 +57,10 @@
       <item value="The layout &quot;activity_logintype_face&quot; in layout has no declaration in the base layout folder; this can lead to crashes when the resource is queried in a configuration that does not match this qualifier" />
       <item value="is Mirror" />
       <item value="Reflective access to mService, which is not part of the public SDK and therefore likely to change in future Android releases" />
-      <item value="Hardware Ids" />
-      <item value="Attempted to finish an input event but the input event receiver has already been disposed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1758" />
+        <entry key="CHINESE" value="1760" />
         <entry key="ENGLISH" value="1754" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
