@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="527" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="This custom view should extend androidx.appcompat.widget.AppCompatSpinner instead" />
       <item value="float" />
       <item value="transition" />
       <item value="Custom view `RegexEditText` has setOnTouchListener called on it but does not override performClick" />
@@ -56,11 +57,10 @@
       <item value="Specifies that this view should permit nested scrolling within a compatible ancestor view." />
       <item value="checkerm" />
       <item value="animate Layout Changes" />
-      <item value="取下" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1770" />
+        <entry key="CHINESE" value="1771" />
         <entry key="ENGLISH" value="1765" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
