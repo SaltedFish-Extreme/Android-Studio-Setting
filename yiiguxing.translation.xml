@@ -7,6 +7,12 @@
     <option name="newTranslationDialogY" value="527" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="finishComposingText on inactive InputConnection" />
+      <item value="o Network Security Config specified, using platform default" />
+      <item value="Failed to find GeneratedAppGlideModule. You should include an annotationProcessor compile dependency on com.github.bumptech.glide:compiler in your application and a @GlideModule annotated AppGlideModule implementation or LibraryGlideModules will be silently ignored" />
+      <item value="Unable to add window -- token null is not for an application" />
+      <item value="View class com.github.chrisbanes.photoview.PhotoView is an AppCompat widget that can only be used with a Theme.AppCompat theme (or descendant)." />
+      <item value="Skipped 161 frames! The application may be doing too much work on its main thread." />
       <item value="Drop Down View Resource" />
       <item value="This custom view should extend androidx.appcompat.widget.AppCompatSpinner instead" />
       <item value="float" />
@@ -51,17 +57,11 @@
       <item value="拍照" />
       <item value="use Indian information" />
       <item value="用印人信息" />
-      <item value="Set this if the view will serve as a scrolling container, meaning that it can be resized to shrink its overall window so that there will be space for an input method. If not set, the default value will be true if &quot;scrollbars&quot; has the vertical scrollbar set, else it will be false" />
-      <item value="Controls whether the view's window should keep the screen on while visible" />
-      <item value="Formats: enum Values: always, ifContentScrolls, never Defines over-scrolling behavior. This property is used only if the View is scrollable. Over-scrolling is the ability for the user to receive feedback when attempting to scroll beyond meaningful conten" />
-      <item value="Binary XML file line 2: Error inflating class com.wintec.smartseal.ds30offline.widget.nested.NestedLinearLayout" />
-      <item value="Specifies that this view should permit nested scrolling within a compatible ancestor view." />
-      <item value="checkerm" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1771" />
-        <entry key="ENGLISH" value="1766" />
+        <entry key="CHINESE" value="1772" />
+        <entry key="ENGLISH" value="1773" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
