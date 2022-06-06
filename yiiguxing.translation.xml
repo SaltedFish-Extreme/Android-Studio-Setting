@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="527" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="可以删除" />
       <item value="用印次数" />
       <item value="print Time" />
       <item value="Print History Model" />
@@ -56,12 +57,11 @@
       <item value="adjust Pan" />
       <item value="拍摄照片" />
       <item value="系统设置" />
-      <item value="Only show over-scroll effects if the content is large enough to meaningfully scroll." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1794" />
-        <entry key="ENGLISH" value="1794" />
+        <entry key="CHINESE" value="1795" />
+        <entry key="ENGLISH" value="1795" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
