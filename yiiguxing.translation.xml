@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="527" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="millisecond" />
       <item value="Specifies the id of a view for which this view serves as a label for accessibility purposes. For example, a TextView before an EditText in the UI usually specifies what infomation is contained in the EditText. Hence, the TextView is a label for the EditText." />
       <item value="dt show Label" />
       <item value="dt text Bold" />
@@ -56,12 +57,11 @@
       <item value="adjust Nothing" />
       <item value="SOFT INPUT STATE ALWAYS HIDDEN" />
       <item value="to Localized Pattern" />
-      <item value="set Drop Down View Resource" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1798" />
-        <entry key="ENGLISH" value="1798" />
+        <entry key="ENGLISH" value="1799" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
