@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="527" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="activity device information" />
+      <item value="印章列表" />
       <item value="设备信息" />
       <item value="unlock" />
       <item value="@stringunlock" />
@@ -55,13 +57,11 @@
       <item value="onTouch lambda should call ViewperformClick when a click is detected" />
       <item value="between" />
       <item value="类型" />
-      <item value="vertical Scrollbar Position" />
-      <item value="get Vertical Snap Preference" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1816" />
-        <entry key="ENGLISH" value="1816" />
+        <entry key="CHINESE" value="1817" />
+        <entry key="ENGLISH" value="1818" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
