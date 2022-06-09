@@ -2,11 +2,19 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="263" />
-    <option name="newTranslationDialogWidth" value="348" />
+    <option name="newTranslationDialogWidth" value="344" />
     <option name="newTranslationDialogX" value="840" />
     <option name="newTranslationDialogY" value="527" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="设备信息" />
+      <item value="unlock" />
+      <item value="@stringunlock" />
+      <item value="解锁" />
+      <item value="change seal" />
+      <item value="Chapter change" />
+      <item value="换章" />
+      <item value="焕章" />
       <item value="可以删除" />
       <item value="Singleton List" />
       <item value="ScaleType FIT_CENTER not supported." />
@@ -49,19 +57,11 @@
       <item value="类型" />
       <item value="vertical Scrollbar Position" />
       <item value="get Vertical Snap Preference" />
-      <item value="android.view.InflateException: Binary XML file line 19: Binary XML file line 19: Error inflating class com.wintec.smartseal.ds30offline.widget.recycler.ImageListHView" />
-      <item value="Unable to start activity ComponentInfo{com.wintec.smartseal.ds30offlinecom.wintec.smartseal.ds30offline.activity.TakeFilePhotosActivity}: android.view.InflateException: Binary XML file line 19: Binary XML file line 19: Error inflating class com.wintec.smartseal.ds30offline.widget.recycler.ImageListHView" />
-      <item value="The layout &quot;dialog_confirm&quot; in layout has no declaration in the base layout folder; this can lead to crashes when the resource is queried in a configuration that does not match this qualifier" />
-      <item value="finishComposingText on inactive InputConnection" />
-      <item value="o Network Security Config specified, using platform default" />
-      <item value="Failed to find GeneratedAppGlideModule. You should include an annotationProcessor compile dependency on com.github.bumptech.glide:compiler in your application and a @GlideModule annotated AppGlideModule implementation or LibraryGlideModules will be silently ignored" />
-      <item value="Unable to add window -- token null is not for an application" />
-      <item value="View class com.github.chrisbanes.photoview.PhotoView is an AppCompat widget that can only be used with a Theme.AppCompat theme (or descendant)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1809" />
-        <entry key="ENGLISH" value="1809" />
+        <entry key="CHINESE" value="1816" />
+        <entry key="ENGLISH" value="1816" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="2" />
