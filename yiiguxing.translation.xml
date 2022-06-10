@@ -7,6 +7,9 @@
     <option name="newTranslationDialogY" value="527" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="enter Way" />
+      <item value="方式" />
+      <item value="进入" />
       <item value="OTG DEMO" />
       <item value="centericon" />
       <item value="拍照" />
@@ -54,14 +57,11 @@
       <item value="Specifies the id of a view for which this view serves as a label for accessibility purposes. For example, a TextView before an EditText in the UI usually specifies what infomation is contained in the EditText. Hence, the TextView is a label for the EditText." />
       <item value="dt show Label" />
       <item value="dt text Bold" />
-      <item value="Smart cast to 'Editable' is impossible, because 'atHistorySearchEtKey.text' is a complex expression" />
-      <item value="m Is Laid Out" />
-      <item value="Custom view `LinearLayout` has setOnTouchListener called on it but does not override performClick" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1830" />
-        <entry key="ENGLISH" value="1830" />
+        <entry key="CHINESE" value="1832" />
+        <entry key="ENGLISH" value="1833" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="3" />
