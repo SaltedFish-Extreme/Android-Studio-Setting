@@ -7,6 +7,9 @@
     <option name="newTranslationDialogY" value="527" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="no such column: finger_id (code 1): , while compiling: select username,password from user_info where finger_id like ?" />
+      <item value="no such table: device_user_info (code 1): , while compiling: select username,password from device_user_info where finger_id like ?" />
+      <item value="no such table: device_finger_info (code 1): , while compiling: select username from device_finger_info where finger_id=?" />
       <item value="null cannot be cast to non-null type kotlin.String" />
       <item value="Identity equality for arguments of types Int? and Int can be unstable because of implicit boxing" />
       <item value="DEVICE SUCCESS" />
@@ -54,14 +57,11 @@
       <item value="time" />
       <item value="用印记录" />
       <item value="reason" />
-      <item value="stamp" />
-      <item value="detail" />
-      <item value="详情" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1834" />
-        <entry key="ENGLISH" value="1835" />
+        <entry key="CHINESE" value="1837" />
+        <entry key="ENGLISH" value="1838" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="3" />
@@ -95,7 +95,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1654477928053" />
+    <option name="lastTrimTime" value="1655085037793" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
