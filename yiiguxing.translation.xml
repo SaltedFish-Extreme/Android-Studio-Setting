@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="527" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="字间距" />
       <item value="Member Visibility Can Be Private" />
       <item value="remove the item associated with the specified position of adapter" />
       <item value="IndexOutOfBoundsException: Inconsistency detected. Invalid view holder adapter positionBaseViewHolder{39906f3 position=10 id=-1, oldPos=11, pLpos:11 no parent} androidx.recyclerview.widget.RecyclerView{aae9c86 VFED..... .F....ID 0,192-800,1280 7f090239 app:idrv}, adapter:com.wintec.smartseal.ds30offline.adapter.FileTypeListAdapter@5ada947, layout:androidx.recyclerview.widget.LinearLayoutManager@86ee574, context:com.wintec.smartseal.ds30offline.activity.FileTypeActivity@d756917" />
@@ -56,11 +57,10 @@
       <item value="Missing PendingIntent mutability flag" />
       <item value="enter Way" />
       <item value="方式" />
-      <item value="进入" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1867" />
+        <entry key="CHINESE" value="1868" />
         <entry key="ENGLISH" value="1868" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
