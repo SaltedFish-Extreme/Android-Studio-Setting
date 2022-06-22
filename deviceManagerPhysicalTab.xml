@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="192.168.2.53:5555" />
+          </Key>
+        </key>
+        <name value="rockchip WINTEC_DS30" />
+        <target value="Android 7.1.1" />
+        <api value="25" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="2fe0d4eb" />
           </Key>
         </key>
@@ -19,7 +30,6 @@
             <value value="192.168.199.242:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-02-21T08:24:15.432379100Z" />
         <name value="OnePlus ONEPLUS A5000" />
         <target value="Android 10.0" />
         <api value="29" />
