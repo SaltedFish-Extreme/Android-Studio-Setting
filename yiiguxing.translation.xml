@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="527" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="This item's height is 41dp. Consider making the height of this touch target 48dp or larger. A parent container may be clipping the size of this item, which has a drawing area of 50dp x 50dp. Consider increasing the size of this item's clipping ancestor, or allowing a larger parent container to handle actions on behalf of this item." />
       <item value="If set, causes words that are longer than the view is wide to be ellipsized instead of broken in the middle. You will often also want to set scrollHorizontally or singleLine as well so that the text as a whole is also constrained to a single line instead of still allowed to be broken onto multiple lines." />
       <item value="必填" />
       <item value="display stamp" />
@@ -56,11 +57,10 @@
       <item value="存在" />
       <item value="Called when item is swiped, the view is going to be removed from the adapter." />
       <item value="Called when the swipe action is over. If you change the view on the start, you should reset is here, no matter the item has swiped or not." />
-      <item value="clear View" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1880" />
+        <entry key="CHINESE" value="1881" />
         <entry key="ENGLISH" value="1878" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
