@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="527" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="bl Read Event" />
       <item value="RIGHT BAR PREFIX" />
       <item value="授权人" />
       <item value="Type inference failed. The value of the type parameter T should be mentioned in input types (argument types, receiver type or expected type). Try to specify it explicitly." />
@@ -56,12 +57,11 @@
       <item value="Inconsistency detected. Invalid item position 11(offset:10).state:12 androidx.recyclerview.widget.RecyclerView{39906f3 VFED..... ......ID 0,192-800,1280 7f090239 app:idrv}, adapter:com.wintec.smartseal.ds30offline.adapter.FileTypeListAdapter@b382fb0, layout:androidx.recyclerview.widget.LinearLayoutManager@7941e29, context:com.wintec.smartseal.ds30offline.activity.FileTypeActivity@8ef5c9c" />
       <item value="notify Item Inserted" />
       <item value="explanation" />
-      <item value="说明" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1898" />
-        <entry key="ENGLISH" value="1897" />
+        <entry key="ENGLISH" value="1898" />
         <entry key="IRISH" value="2" />
         <entry key="BASQUE" value="3" />
         <entry key="BULGARIAN" value="3" />

@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Error" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="aaaaaaaaaaaaaaaaaaaaaaaaaaa" />
+        <option value="1111111111111111111" />
+        <option value="购物页发送扫码数据" />
         <option value="Error" />
         <option value="package:mine" />
         <option value=" E " />
