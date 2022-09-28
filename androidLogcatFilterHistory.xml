@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="程序崩溃了" />
+    <option name="mostRecentlyUsed" value="购物页发送扫码数据" />
     <option name="nonFavorites">
       <list>
+        <option value="购物页发送扫码数据" />
         <option value="程序崩溃了" />
         <option value="aaaaaaaaaaaaaaaaaaaaaaaaaaa" />
         <option value="1111111111111111111" />
-        <option value="购物页发送扫码数据" />
         <option value="Error" />
         <option value="package:mine" />
         <option value=" E " />
