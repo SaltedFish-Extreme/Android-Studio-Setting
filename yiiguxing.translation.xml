@@ -98,6 +98,16 @@
     <option name="lastTrimTime" value="1664260852769" />
   </component>
   <component name="Settings">
+    <option name="aliTranslateSettings">
+      <app-key>
+        <option name="appId" value="LTAI4FzoxNghc1U23G8kigLv" />
+      </app-key>
+    </option>
     <option name="translateDocumentation" value="true" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="29df83e482dc94c5" />
+      </youdao-translate>
+    </option>
   </component>
 </application>
