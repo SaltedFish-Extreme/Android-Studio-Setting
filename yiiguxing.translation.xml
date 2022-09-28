@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="527" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Cannot choose between the following variants of org.jetbrains.kotlin:kotlin-gradle-plugin:1.7.10:" />
       <item value="set Scale Live Show Dialog" />
       <item value="set Cursor Visible" />
       <item value="商品Input Dialog" />
@@ -56,7 +57,6 @@
       <item value="is Swipe Enabled" />
       <item value="字间距" />
       <item value="Member Visibility Can Be Private" />
-      <item value="remove the item associated with the specified position of adapter" />
     </histories>
     <option name="languageScores">
       <map>
