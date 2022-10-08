@@ -1,0 +1,11 @@
+<application>
+  <component name="AdvancedSettings">
+    <option name="settings">
+      <map>
+        <entry key="compiler.automake.allow.when.app.running" value="true" />
+        <entry key="ide.settings.move.mouse.on.default.button" value="true" />
+        <entry key="ide.tree.collapse.recursively" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
