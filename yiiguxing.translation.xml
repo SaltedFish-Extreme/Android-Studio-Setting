@@ -1,0 +1,113 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogHeight" value="249" />
+    <option name="newTranslationDialogWidth" value="344" />
+    <option name="newTranslationDialogX" value="840" />
+    <option name="newTranslationDialogY" value="527" />
+    <option name="pinTranslationDialog" value="true" />
+    <histories>
+      <item value="Error receiving broadcast Intent" />
+      <item value="com.intellij.openapi.external System.model.External System Exception:" />
+      <item value="Cannot choose between the following variants of org.jetbrains.kotlin:kotlin-gradle-plugin:1.7.10:" />
+      <item value="set Scale Live Show Dialog" />
+      <item value="set Cursor Visible" />
+      <item value="商品Input Dialog" />
+      <item value="商品" />
+      <item value="popup_商品_input" />
+      <item value="bl Read Event" />
+      <item value="RIGHT BAR PREFIX" />
+      <item value="授权人" />
+      <item value="Type inference failed. The value of the type parameter T should be mentioned in input types (argument types, receiver type or expected type). Try to specify it explicitly." />
+      <item value="包含" />
+      <item value="authoriz" />
+      <item value="authorize" />
+      <item value="授权登陆" />
+      <item value="region" />
+      <item value="Device Information Activity" />
+      <item value="Apply Replace Activity" />
+      <item value="Unexpected tokens (use ';' to separate expressions on the same line)" />
+      <item value="number letter" />
+      <item value="字母" />
+      <item value="number english" />
+      <item value="Only classes are allowed on the left hand side of a class literal" />
+      <item value="Expecting member declaration" />
+      <item value="Not Serializable Exception" />
+      <item value="This annotation is not applicable to target 'member property with delegate'" />
+      <item value="Parcelize annotations from package 'kotlinx.android.parcel' are deprecated. Change package to 'kotlinx.parcelize'" />
+      <item value="Buffer Queue Producer" />
+      <item value="必填" />
+      <item value="启用" />
+      <item value="配置项名称" />
+      <item value="suspension Of Timing" />
+      <item value="This item's height is 41dp. Consider making the height of this touch target 48dp or larger. A parent container may be clipping the size of this item, which has a drawing area of 50dp x 50dp. Consider increasing the size of this item's clipping ancestor, or allowing a larger parent container to handle actions on behalf of this item." />
+      <item value="If set, causes words that are longer than the view is wide to be ellipsized instead of broken in the middle. You will often also want to set scrollHorizontally or singleLine as well so that the text as a whole is also constrained to a single line instead of still allowed to be broken onto multiple lines." />
+      <item value="display stamp" />
+      <item value="请选择要显示的申请用印项" />
+      <item value="m Button Panel Side Layout" />
+      <item value="View Spacing Left" />
+      <item value="Set the view to display in the dialog, specifying the spacing to appear around that view. This method has no effect if called after {@link show()}. @param view The view to show in the content area of the dialog @param viewSpacingLeft Extra space to appear to the left of {@code view} @param viewSpacingTop Extra space to appear above {@code view} @param viewSpacingRight Extra space to appear to the right of {@code view} @param viewSpacingBottom Extra space to appear below {@code view}" />
+      <item value="Set a list of items to be displayed in the dialog as the content, you will be notified of the selected item via the supplied listener. The list will have a check mark displayed to the right of the text for each checked item. Clicking on an item in the list will not dismiss the dialog. Clicking on a button will dismiss the dialog. @param items the text of the items to be displayed in the list. @param checkedItems specifies which items are checked. It should be null in which case no items are checked. If non null it must be exactly the same length as the array of items. @param listener notified when an item on the list is clicked. The dialog will not be dismissed when an item is clicked. It will only be dismissed if clicked on a button, if no buttons are supplied it's up to the user to dismiss the dialog. @return This Builder object to allow for chaining of calls to set methods" />
+      <item value="配置项" />
+      <item value="print continuous" />
+      <item value="连续" />
+      <item value="password reset" />
+      <item value="管理员账号是否修改密码" />
+      <item value="重置管理员密码" />
+      <item value="java.lang.IndexOutOfBoundsException: Inconsistency detected. Invalid view holder adapter positionBaseViewHolder{441c5f9 position=2 id=-1, oldPos=3, pLpos:3 scrap [attachedScrap] tmpDetached no parent} androidx.recyclerview.widget.RecyclerView{1dcb6aa VFED..... ......I. 0,192-800,1280 7f090239 app:idrv}, adapter:com.wintec.smartseal.ds30offline.adapter.FileTypeListAdapter@c1dc29b, layout:androidx.recyclerview.widget.LinearLayoutManager@8d94638, context:com.wintec.smartseal.ds30offline.activity.FileTypeActivity@cadb694" />
+      <item value="An operation is not implemented: Not yet implemented" />
+      <item value="is Swipe Enabled" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1900" />
+        <entry key="ENGLISH" value="1900" />
+        <entry key="IRISH" value="2" />
+        <entry key="BASQUE" value="3" />
+        <entry key="BULGARIAN" value="3" />
+        <entry key="DANISH" value="2" />
+        <entry key="GERMAN" value="2" />
+        <entry key="RUSSIAN" value="1" />
+        <entry key="FRENCH" value="8" />
+        <entry key="FILIPINO" value="1" />
+        <entry key="HAITIAN_CREOLE" value="1" />
+        <entry key="DUTCH" value="3" />
+        <entry key="CZECH" value="1" />
+        <entry key="CROATIAN" value="1" />
+        <entry key="LATIN" value="1" />
+        <entry key="LATVIAN" value="2" />
+        <entry key="LUXEMBOURGISH" value="1" />
+        <entry key="ROMANIAN" value="5" />
+        <entry key="MARATHI" value="4" />
+        <entry key="BENGALI" value="2" />
+        <entry key="NORWEGIAN" value="4" />
+        <entry key="PORTUGUESE" value="1" />
+        <entry key="JAPANESE" value="1" />
+        <entry key="SWEDISH" value="1" />
+        <entry key="SESOTHO" value="1" />
+        <entry key="SPANISH" value="3" />
+        <entry key="GREEK" value="1" />
+        <entry key="ITALIAN" value="2" />
+        <entry key="HINDI" value="1" />
+        <entry key="INDONESIAN" value="1" />
+        <entry key="VIETNAMESE" value="4" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1664260852769" />
+  </component>
+  <component name="Settings">
+    <option name="aliTranslateSettings">
+      <app-key>
+        <option name="appId" value="LTAI4FzoxNghc1U23G8kigLv" />
+      </app-key>
+    </option>
+    <option name="translateDocumentation" value="true" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="29df83e482dc94c5" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>
