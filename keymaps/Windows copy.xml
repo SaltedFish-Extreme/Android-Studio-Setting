@@ -42,6 +42,9 @@
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
+  <action id="com.zxy.idea.plugin.fvbi.support.FindViewByIdGenerateAction">
+    <keyboard-shortcut first-keystroke="shift ctrl windows" />
+  </action>
   <action id="me.majiajie.FindViewForAndroid.GenerateFindView">
     <keyboard-shortcut first-keystroke="shift ctrl windows" />
   </action>
