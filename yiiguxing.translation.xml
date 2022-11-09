@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="User Profile Bean" />
+      <item value="Parcel: unable to marshal value cn.crrc.common.bean.response.DccDetainDetailBeanDelayDtoDTODelayApplyFileListDTO@76e8199" />
       <item value="failed to decrypt safe contents entry: javax.crypto.BadPaddingException: Given final block not properly padded. Such issues can arise if a bad key is used during decryption." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>
