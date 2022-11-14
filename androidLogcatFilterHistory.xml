@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="name" />
+    <option name="mostRecentlyUsed" value="1145141919810" />
     <option name="nonFavorites">
       <list>
+        <option value="1145141919810" />
         <option value="name" />
         <option value="Main扫码" />
         <option value="购物页发送扫码数据" />
