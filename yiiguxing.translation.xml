@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Alphabet" />
       <item value="This declaration is in a preview state and can be changed in a backwards-incompatible manner with a best-effort migration. Its usage should be marked with '@kotlinx.coroutines.FlowPreview' or '@OptIn(kotlinx.coroutines.FlowPreview::class)' if you accept the drawback of relying on preview API" />
       <item value="Accepts the given collector and emits values into it. This method can be used along with SAM-conversion of FlowCollector: myFlow.collect { value -&gt; println(&quot;Collected value&quot;) } Method inheritance To ensure the context preservation property, it is not recommended implementing this method directly. Instead, AbstractFlow can be used as the base type to properly ensure flow's properties. All default flow implementations ensure context preservation and exception transparency properties on a best-effort basis and throw IllegalStateException if a violation was detected." />
       <item value="Cannot call this method while RecyclerView is computing a layout or scrolling androidx.recyclerview.widget.RecyclerView{560948 VFED..... ......I. 0,0-0,0 7f0a023f app:idgrid_rv}, adapter:cn.crrc.imos.mainfragments.home.HomeFragmentGridRvAdapter@12613e1, layout:androidx.recyclerview.widget.GridLayoutManager@84b3506, context:cn.crrc.imos.mian.MainActivity@ffdb9cb" />
@@ -15,7 +16,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="ENGLISH" value="13" />
       </map>
     </option>
   </component>
