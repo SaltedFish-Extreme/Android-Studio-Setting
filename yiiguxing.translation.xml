@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Specifies that this view should permit nested scrolling within a compatible ancestor view." />
+      <item value="Defines over-scrolling behavior. This property is used only if the View is scrollable. Over-scrolling is the ability for the user to receive feedback when attempting to scroll beyond meaningful content." />
+      <item value="Set this if the view will serve as a scrolling container, meaning that it can be resized to shrink its overall window so that there will be space for an input method. If not set, the default value will be true if &quot;scrollbars&quot; has the vertical scrollbar set, else it will be false." />
+      <item value="Consider replacing android:layout_alignParentRight with android:layout_alignParentEnd=&quot;true&quot; to better support right-to-left layouts" />
+      <item value="查看" />
       <item value="Alphabet" />
       <item value="This declaration is in a preview state and can be changed in a backwards-incompatible manner with a best-effort migration. Its usage should be marked with '@kotlinx.coroutines.FlowPreview' or '@OptIn(kotlinx.coroutines.FlowPreview::class)' if you accept the drawback of relying on preview API" />
       <item value="Accepts the given collector and emits values into it. This method can be used along with SAM-conversion of FlowCollector: myFlow.collect { value -&gt; println(&quot;Collected value&quot;) } Method inheritance To ensure the context preservation property, it is not recommended implementing this method directly. Instead, AbstractFlow can be used as the base type to properly ensure flow's properties. All default flow implementations ensure context preservation and exception transparency properties on a best-effort basis and throw IllegalStateException if a violation was detected." />
@@ -15,8 +20,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="14" />
       </map>
     </option>
   </component>
