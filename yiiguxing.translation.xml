@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogX" value="814" />
+    <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="This custom view should extend androidx.appcompat.widget.AppCompatTextView instead" />
       <item value="Specifies that this view should permit nested scrolling within a compatible ancestor view." />
       <item value="Defines over-scrolling behavior. This property is used only if the View is scrollable. Over-scrolling is the ability for the user to receive feedback when attempting to scroll beyond meaningful content." />
       <item value="Set this if the view will serve as a scrolling container, meaning that it can be resized to shrink its overall window so that there will be space for an input method. If not set, the default value will be true if &quot;scrollbars&quot; has the vertical scrollbar set, else it will be false." />
@@ -20,7 +24,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="18" />
+        <entry key="CHINESE" value="19" />
         <entry key="ENGLISH" value="14" />
       </map>
     </option>
