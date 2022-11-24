@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="Missing accessibility label: provide either a view with an android:labelFor that references this view or provide an android:hint" />
       <item value="This custom view should extend androidx.appcompat.widget.AppCompatTextView instead" />
       <item value="Specifies that this view should permit nested scrolling within a compatible ancestor view." />
       <item value="Defines over-scrolling behavior. This property is used only if the View is scrollable. Over-scrolling is the ability for the user to receive feedback when attempting to scroll beyond meaningful content." />
@@ -24,7 +25,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="19" />
+        <entry key="CHINESE" value="20" />
         <entry key="ENGLISH" value="14" />
       </map>
     </option>
