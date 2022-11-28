@@ -4,6 +4,19 @@
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="539" />
     <histories>
+      <item value="surfaceColor color will be changing gradually from primary to surface" />
+      <item value="surfaceColor will be updated gradually from one color to the other" />
+      <item value="If the message is expanded, we display all its content otherwise we only display the first line" />
+      <item value="We toggle the isExpanded variable when we click on this Column" />
+      <item value="We keep track if the message is expanded or not in this" />
+      <item value="is Expanded" />
+      <item value="fill Max Size" />
+      <item value="Previews are also interactive after enabling the experimental setting" />
+      <item value="Compose Previews are great to check quickly how a composable layout looks like" />
+      <item value="I didn't know you can now run the emulator directly from Android Studio" />
+      <item value="Writing Kotlin for UI seems so natural, Compose where have you been all my life?" />
+      <item value="Searching for alternatives to XML layouts..." />
+      <item value="Have you tried writing build.gradle with KTS?" />
       <item value="Add a vertical space between the author and message texts" />
       <item value="Add a horizontal space between the image and the column" />
       <item value="Clip image to be shaped as a circle" />
@@ -40,8 +53,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="48" />
       </map>
     </option>
   </component>
