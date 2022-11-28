@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
-    <option name="newTranslationDialogX" value="814" />
-    <option name="newTranslationDialogY" value="469" />
+    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogX" value="432" />
+    <option name="newTranslationDialogY" value="539" />
     <histories>
+      <item value="Composable functions with non-default parameters are not supported in Preview unless they are annotated with @PreviewParameter." />
       <item value="The following line ensures that the Material Icons font is included with your application, so that you can use the icons in the material Icons class." />
       <item value="This trailing comma makes auto-formatting nicer for build methods." />
       <item value="Column is also a layout widget. It takes a list of children and arranges them vertically. By default, it sizes itself to fit its children horizontally, and tries to be as tall as its parent. Invoke &quot;debug painting&quot; (press &quot;p&quot; in the console, choose the &quot;Toggle Debug Paint&quot; action from the Flutter Inspector in Android Studio, or the &quot;Toggle Debug Paint&quot; command in Visual Studio Code) to see the wireframe for each widget. Column has various properties to control how it sizes itself and how it positions its children. Here we use mainAxisAlignment to center the children vertically; the main axis here is the vertical axis because Columns are vertical (the cross axis would be horizontal)." />
@@ -35,7 +36,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="25" />
+        <entry key="CHINESE" value="26" />
         <entry key="ENGLISH" value="26" />
       </map>
     </option>
