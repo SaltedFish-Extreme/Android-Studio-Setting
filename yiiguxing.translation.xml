@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="539" />
     <histories>
+      <item value="Unresolved reference: CenterHorizontally" />
+      <item value="This state should be hoisted" />
       <item value="Don't copy over" />
       <item value="Redundant label can be removed" />
       <item value="animation" />
@@ -52,12 +54,11 @@
       <item value="D:gradlecachesmodules-2files-2.1org.jetbrains.kotlinkotlin-stdlib1.6.2111ef67f1900634fd951bad28c53ec957fabbe5b8kotlin-stdlib-1.6.21.jar!META-INFkotlin-stdlib.kotlin_module: Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.6.0, expected version is 1.4.0." />
       <item value="User Profile Bean" />
       <item value="Parcel: unable to marshal value cn.crrc.common.bean.response.DccDetainDetailBeanDelayDtoDTODelayApplyFileListDTO@76e8199" />
-      <item value="failed to decrypt safe contents entry: javax.crypto.BadPaddingException: Given final block not properly padded. Such issues can arise if a bad key is used during decryption." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="CHINESE" value="51" />
+        <entry key="ENGLISH" value="51" />
       </map>
     </option>
   </component>
