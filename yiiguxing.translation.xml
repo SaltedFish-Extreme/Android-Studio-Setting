@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="539" />
     <histories>
+      <item value="Redundant label can be removed" />
       <item value="animation" />
       <item value="surfaceColor color will be changing gradually from primary to surface" />
       <item value="surfaceColor will be updated gradually from one color to the other" />
@@ -54,7 +55,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="48" />
+        <entry key="CHINESE" value="49" />
         <entry key="ENGLISH" value="49" />
       </map>
     </option>
