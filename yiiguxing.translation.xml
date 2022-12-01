@@ -92,6 +92,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="470" />
     <histories>
+      <item value="Manifest merger failed : uses-sdk:minSdkVersion 24 cannot be smaller than version 25 declared in library [androidx.wear.compose:compose-material:1.1.0-rc01]" />
+      <item value="Manifest merger failed : uses-sdk:minSdkVersion 24 cannot be smaller than version 25 declared in library [androidx.wear.compose:compose-material:1.0.0-alpha19]" />
       <item value="This material API is experimental and is likely to change or to be removed in the future." />
       <item value="Update 32.2.0: Lua's Prey The Kuva was poured, the lamps were lit, and the ritual of Continuity began. The 51st Warframe, VORUNA, is here! Four beasts, one heart. Voruna's loyal wolf pack, Dynar, Lycath, Raksh, and Ulfrun makes for a deadly combination of strength and stealth." />
       <item value="Dynamic color is available on Android 12+" />
@@ -107,8 +109,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="15" />
       </map>
     </option>
   </component>
