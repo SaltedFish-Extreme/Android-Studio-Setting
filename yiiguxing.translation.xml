@@ -92,6 +92,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="470" />
     <histories>
+      <item value="Well, I found that upgrading all the packages introduced in the project to the latest version will have Card components and properties, but the corresponding compilation SDK needs to be upgraded to 33, and the minimum adaptation SDK needs to be 25" />
+      <item value="好了，我发现把项目中引入的所有包都升级到最新版就有Card组件和属性了，但是相应的编译SDK要升级到33，最低适配的SDK也要25才行" />
       <item value="renovate" />
       <item value="inversions" />
       <item value="quick yoga" />
@@ -113,8 +115,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="19" />
+        <entry key="CHINESE" value="19" />
+        <entry key="ENGLISH" value="20" />
       </map>
     </option>
   </component>
