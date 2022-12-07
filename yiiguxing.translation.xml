@@ -92,6 +92,9 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="470" />
     <histories>
+      <item value="IllegalArgumentException: androidx.compose.runtime.snapshots.SnapshotStateList@d18f697 cannot be saved using the current SaveableStateRegistry. The default implementation only supports types which can be stored inside the Bundle. Please consider implementing a custom Saver for this class and pass it to rememberSaveable()." />
+      <item value="Conflicting overloads: public fun WellnessTaskItem(taskName: String, onClose: () -&gt; Unit, modifier: Modifier = ...): Unit defined in com.example.basicstatecodelab in file WaterCounter.kt, public fun WellnessTaskItem(taskName: String, onClose: () -&gt; Unit, modifier: Modifier = ...): Unit defined in com.example.basicstatecodelab in file WellnessTaskItem.kt" />
+      <item value="Modifier parameter should be the first optional parameter" />
       <item value="Cannot infer a type for this parameter. Please specify it explicitly." />
       <item value="Have you taken your 15 minute walk today?" />
       <item value="Changes to count are now tracked by Compos" />
@@ -131,8 +134,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="CHINESE" value="35" />
+        <entry key="ENGLISH" value="34" />
       </map>
     </option>
   </component>
