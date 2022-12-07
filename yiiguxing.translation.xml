@@ -92,6 +92,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="470" />
     <histories>
+      <item value="Have you taken your 15 minute walk today?" />
       <item value="Changes to count are now tracked by Compos" />
       <item value="Creating a state object during composition without using remember" />
       <item value="Interface MutableState does not have constructors" />
@@ -130,7 +131,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="32" />
+        <entry key="ENGLISH" value="33" />
       </map>
     </option>
   </component>
