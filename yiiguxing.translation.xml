@@ -92,6 +92,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="470" />
     <histories>
+      <item value="&quot;Hard coded colors don't respond to theme changes :(&quot;" />
       <item value="In the Project tool window, select the files you want to compare and choose Compare Files, or press Ctrl+D. Alternatively, select one file, choose Compare With from its context menu, and select a file that is outside your project. If you are comparing two files and want to add a third file to the comparison, right-click either left or right panel, select Switch to Three-Side Viewer, and load the required file by clicking Select file." />
       <item value="IllegalArgumentException: androidx.compose.runtime.snapshots.SnapshotStateList@d18f697 cannot be saved using the current SaveableStateRegistry. The default implementation only supports types which can be stored inside the Bundle. Please consider implementing a custom Saver for this class and pass it to rememberSaveable()." />
       <item value="Conflicting overloads: public fun WellnessTaskItem(taskName: String, onClose: () -&gt; Unit, modifier: Modifier = ...): Unit defined in com.example.basicstatecodelab in file WaterCounter.kt, public fun WellnessTaskItem(taskName: String, onClose: () -&gt; Unit, modifier: Modifier = ...): Unit defined in com.example.basicstatecodelab in file WellnessTaskItem.kt" />
@@ -136,7 +137,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="35" />
+        <entry key="ENGLISH" value="36" />
       </map>
     </option>
   </component>
