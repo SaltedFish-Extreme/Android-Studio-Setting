@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="539" />
     <histories>
+      <item value="Assertion Error" />
       <item value="Merge remote-tracking branch 'origintianjin' into tianjin-dev" />
       <item value="Unresolved reference: CenterHorizontally" />
       <item value="This state should be hoisted" />
@@ -53,17 +54,16 @@
       <item value="I have a question that, how to post these sensitive news? R u in China. In my opinion, if u r in China, u should git the info to your own server outside Mainland, then git the info from outside to github. All git transfer must be https. Am I right?" />
       <item value="D:gradlecachestransforms-2files-2.10a20ec77ce1c7059350ffcf45d4d2037jetified-BRV-1.3.83jarsclasses.jar!META-INFbrv_release.kotlin_module: Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.6.0, expected version is 1.4.0." />
       <item value="D:gradlecachesmodules-2files-2.1org.jetbrains.kotlinkotlin-stdlib1.6.2111ef67f1900634fd951bad28c53ec957fabbe5b8kotlin-stdlib-1.6.21.jar!META-INFkotlin-stdlib.kotlin_module: Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.6.0, expected version is 1.4.0." />
-      <item value="User Profile Bean" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="53" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1669599380971" />
+    <option name="lastTrimTime" value="1670840756801" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
