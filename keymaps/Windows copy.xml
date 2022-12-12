@@ -2,10 +2,6 @@
   <action id="$EditorTranslateAction">
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
-  <action id="$Redo">
-    <keyboard-shortcut first-keystroke="shift alt back_space" />
-    <keyboard-shortcut first-keystroke="shift alt z" />
-  </action>
   <action id="ActivateLogcatToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
@@ -50,5 +46,8 @@
   </action>
   <action id="编辑EditorTranslateAction">
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
+  </action>
+  <action id="编辑器Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
   </action>
 </keymap>
