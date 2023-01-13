@@ -75,7 +75,7 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1672457906690" />
+    <option name="lastTrimTime" value="1673590824669" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -91,6 +91,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="470" />
     <histories>
+      <item value="Compose View" />
       <item value="Android" />
       <item value="phone my garden" />
       <item value="phone plant list" />
@@ -142,8 +143,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="46" />
+        <entry key="ENGLISH" value="47" />
       </map>
     </option>
   </component>
