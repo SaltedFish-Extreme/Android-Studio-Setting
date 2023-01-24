@@ -1,6 +1,7 @@
 <application>
   <component name="RainbowSettings">
     <option name="bigFilesLinesThreshold" value="3000" />
+    <option name="customIndentGuides" value="true" />
     <option name="enableRainbowVariablesBySemanticHighlighting" value="true" />
     <option name="numberOfColors" value="10" />
     <option name="rainbowifyTagNameInXML" value="true" />
