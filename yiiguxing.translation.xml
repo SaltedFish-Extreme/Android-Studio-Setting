@@ -91,6 +91,7 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="617" />
     <histories>
+      <item value="The message should slide down from the top on appearance and slide up on disappearance." />
       <item value="compose-theme-adapter is deprecated. The API has moved to accompanistthemeadaptermaterial. For more information, please visit https:google.github.ioaccompanistthemeadapter-material" />
       <item value="Cannot debug application from module WanAndroid.app.main on device oneplus-gm1910-192.168.199.206:5555. This application does not have the 'debuggable' attribute enabled in its manifest. If you have manually set it in the manifest, then remove it and let the IDE automatically assign it. If you are using Gradle, make sure that your current variant is debuggable." />
       <item value="FROM HTML MODE COMPACT" />
@@ -140,12 +141,11 @@
       <item value="Dynamic color is available on Android 12+" />
       <item value="Response Throwable" />
       <item value="set Id" />
-      <item value="get Work Oder Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="53" />
       </map>
     </option>
   </component>
