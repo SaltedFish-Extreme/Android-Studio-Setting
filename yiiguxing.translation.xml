@@ -91,6 +91,8 @@
     <option name="newTranslationDialogX" value="610" />
     <option name="newTranslationDialogY" value="705" />
     <histories>
+      <item value="Frame time is 0.129994 ms in the future! Check that graphics HAL is generating vsync timestamps using the correct timebase." />
+      <item value="Returning from awaitPointerEventScope may cause some input events to be dropped" />
       <item value="Prior agent invocations in this VM: 10" />
       <item value="A simple extension to make indentation more readable" />
       <item value=" Existing trial license for Android WiFiADB 2021.3 is expired" />
@@ -139,13 +141,11 @@
       <item value="inversions" />
       <item value="quick yoga" />
       <item value="Basic Layouts in Compose Codelab" />
-      <item value="Manifest merger failed : uses-sdk:minSdkVersion 24 cannot be smaller than version 25 declared in library [androidx.wear.compose:compose-material:1.1.0-rc01]" />
-      <item value="Manifest merger failed : uses-sdk:minSdkVersion 24 cannot be smaller than version 25 declared in library [androidx.wear.compose:compose-material:1.0.0-alpha19]" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="56" />
       </map>
     </option>
   </component>
