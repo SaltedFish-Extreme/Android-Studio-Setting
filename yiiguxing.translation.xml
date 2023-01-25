@@ -92,6 +92,7 @@
     <option name="newTranslationDialogY" value="705" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Bad credentials" />
       <item value="suggested Destinations" />
       <item value="to Destination Change" />
       <item value="to Destination Changed" />
@@ -141,11 +142,10 @@
       <item value="Content Scale.Crop" />
       <item value="Crop" />
       <item value="Material Theme" />
-      <item value="Implement composable here" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
+        <entry key="CHINESE" value="63" />
         <entry key="ENGLISH" value="63" />
       </map>
     </option>
