@@ -92,6 +92,7 @@
     <option name="newTranslationDialogY" value="705" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="initial Text" />
       <item value="Bad credentials" />
       <item value="suggested Destinations" />
       <item value="to Destination Change" />
@@ -141,12 +142,11 @@
       <item value="h3 is the third largest headline, reserved for short, important text or numerals. For headlines, you can choose an expressive font, such as a display, handwritten, or script style. These unconventional font designs have details and intricacy that help attract the eye." />
       <item value="Content Scale.Crop" />
       <item value="Crop" />
-      <item value="Material Theme" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="63" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="ENGLISH" value="64" />
       </map>
     </option>
   </component>
