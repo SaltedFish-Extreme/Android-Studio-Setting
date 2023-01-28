@@ -1,0 +1,5 @@
+<application>
+  <component name="License Server">
+    <option name="patchAgentPath" value="-javaagent:C:\Users\zhong\jetbra\ja-netfilter.jar" />
+  </component>
+</application>
