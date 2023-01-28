@@ -92,6 +92,7 @@
     <option name="newTranslationDialogY" value="705" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="com.intellij.diagnostic.PluginException: com.nasller.license.action.LicenseServerAction (LicenseServerAction): group with id &quot;RegistrationActions&quot; isn't registered; action will be added to the &quot;Other&quot; group (module=PluginDescriptor(name=License Server, id=com.nasller.license, descriptorPath=plugin.xml, path=~\AppData\Roaming\Google\AndroidStudio2022.1\plugins\LicenseServer, version=1.0.0, package=null, isBundled=false))" />
       <item value="The MapView lifecycle is handled by this composable. As the MapView also needs to be updated with input from Compose UI, those updates are encapsulated into the MapViewContainer composable. In this way, when an update to the MapView happens, this composable won't recompose and the MapView won't need to be recreated." />
       <item value="initial Text" />
       <item value="Bad credentials" />
@@ -141,11 +142,10 @@
       <item value="vertical Scroll" />
       <item value="Home Section" />
       <item value="h3 is the third largest headline, reserved for short, important text or numerals. For headlines, you can choose an expressive font, such as a display, handwritten, or script style. These unconventional font designs have details and intricacy that help attract the eye." />
-      <item value="Content Scale.Crop" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="64" />
+        <entry key="CHINESE" value="65" />
         <entry key="ENGLISH" value="65" />
       </map>
     </option>
