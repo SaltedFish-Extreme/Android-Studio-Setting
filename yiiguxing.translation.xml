@@ -92,6 +92,7 @@
     <option name="newTranslationDialogY" value="705" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="App Config" />
       <item value="Type 'TypeVariable(T)' has no method 'getValue(Nothing?, KProperty&lt;&gt;)' and thus it cannot serve as a delegate" />
       <item value="You’re making changes in a project you don’t have write access to. We’ve created a fork of this project for you to commit your proposed changes to. Submitting a change will write it to a new branch in your fork, so you can send a pull request." />
       <item value="com.intellij.diagnostic.PluginException: com.nasller.license.action.LicenseServerAction (LicenseServerAction): group with id &quot;RegistrationActions&quot; isn't registered; action will be added to the &quot;Other&quot; group (module=PluginDescriptor(name=License Server, id=com.nasller.license, descriptorPath=plugin.xml, path=~\AppData\Roaming\Google\AndroidStudio2022.1\plugins\LicenseServer, version=1.0.0, package=null, isBundled=false))" />
@@ -141,7 +142,6 @@
       <item value="IllegalArgumentException: Only VectorDrawables and rasterized asset types are supported ex. PNG, JPG" />
       <item value="Scaffold" />
       <item value="remember Scroll State" />
-      <item value="vertical Scroll" />
     </histories>
     <option name="languageScores">
       <map>
