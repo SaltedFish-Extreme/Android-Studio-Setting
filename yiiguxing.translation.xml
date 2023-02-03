@@ -75,7 +75,7 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1670291568028" />
+    <option name="lastTrimTime" value="1674524946997" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -85,15 +85,50 @@
     </option>
     <option name="primaryLanguage" value="CHINESE" />
     <option name="translateDocumentation" value="true" />
-    <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="598" />
-    <option name="newTranslationDialogX" value="815" />
-    <option name="newTranslationDialogY" value="470" />
+    <option name="newTranslationDialogWidth" value="792" />
+    <option name="newTranslationDialogX" value="610" />
+    <option name="newTranslationDialogY" value="705" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="color will be adjusted for elevation" />
-      <item value="&quot;Hard coded colors don't respond to theme changes :(&quot;" />
+      <item value="Type 'TypeVariable(T)' has no method 'getValue(Nothing?, KProperty&lt;&gt;)' and thus it cannot serve as a delegate" />
+      <item value="You’re making changes in a project you don’t have write access to. We’ve created a fork of this project for you to commit your proposed changes to. Submitting a change will write it to a new branch in your fork, so you can send a pull request." />
+      <item value="com.intellij.diagnostic.PluginException: com.nasller.license.action.LicenseServerAction (LicenseServerAction): group with id &quot;RegistrationActions&quot; isn't registered; action will be added to the &quot;Other&quot; group (module=PluginDescriptor(name=License Server, id=com.nasller.license, descriptorPath=plugin.xml, path=~\AppData\Roaming\Google\AndroidStudio2022.1\plugins\LicenseServer, version=1.0.0, package=null, isBundled=false))" />
+      <item value="The MapView lifecycle is handled by this composable. As the MapView also needs to be updated with input from Compose UI, those updates are encapsulated into the MapViewContainer composable. In this way, when an update to the MapView happens, this composable won't recompose and the MapView won't need to be recreated." />
+      <item value="initial Text" />
+      <item value="Bad credentials" />
+      <item value="suggested Destinations" />
+      <item value="to Destination Change" />
+      <item value="to Destination Changed" />
+      <item value="Codelab: collectAsState step - consume stream of data from the ViewModel" />
+      <item value="Soft Ref LRU Policy MS Per MB" />
+      <item value="Reserved Code Cache Size" />
+      <item value="remember Image Painter" />
+      <item value="Frame time is 0.129994 ms in the future! Check that graphics HAL is generating vsync timestamps using the correct timebase." />
+      <item value="Returning from awaitPointerEventScope may cause some input events to be dropped" />
+      <item value="Prior agent invocations in this VM: 10" />
+      <item value="A simple extension to make indentation more readable" />
+      <item value=" Existing trial license for Android WiFiADB 2021.3 is expired" />
+      <item value="Error fetching licenses for PWIFIADB xianyu zhizun: Existing trial license for Android WiFiADB 2021.3 is expired" />
+      <item value="Error fetching licenses for PWIFIADB xianyuzhizun: Existing trial license for Android WiFiADB 2021.3 is expired" />
+      <item value="The message should slide down from the top on appearance and slide up on disappearance." />
+      <item value="compose-theme-adapter is deprecated. The API has moved to accompanistthemeadaptermaterial. For more information, please visit https:google.github.ioaccompanistthemeadapter-material" />
+      <item value="Cannot debug application from module WanAndroid.app.main on device oneplus-gm1910-192.168.199.206:5555. This application does not have the 'debuggable' attribute enabled in its manifest. If you have manually set it in the manifest, then remove it and let the IDE automatically assign it. If you are using Gradle, make sure that your current variant is debuggable." />
+      <item value="FROM HTML MODE COMPACT" />
+      <item value="String plurals and their related prefix suffix strings" />
+      <item value="Experimental Compose Ui Api" />
+      <item value="watering Interval" />
+      <item value="Electric Eel" />
+      <item value="Compose View" />
+      <item value="Android" />
+      <item value="phone my garden" />
+      <item value="phone plant list" />
+      <item value="foundation" />
+      <item value="Multiple dependency bring these files in. Exclude them to enable our test APK to build (has no effect on our AARs)" />
+      <item value="build Features" />
+      <item value="sunflower" />
+      <item value="Updating to 3.4.0 leads to dependency conflicts" />
       <item value="In the Project tool window, select the files you want to compare and choose Compare Files, or press Ctrl+D. Alternatively, select one file, choose Compare With from its context menu, and select a file that is outside your project. If you are comparing two files and want to add a third file to the comparison, right-click either left or right panel, select Switch to Three-Side Viewer, and load the required file by clicking Select file." />
       <item value="IllegalArgumentException: androidx.compose.runtime.snapshots.SnapshotStateList@d18f697 cannot be saved using the current SaveableStateRegistry. The default implementation only supports types which can be stored inside the Bundle. Please consider implementing a custom Saver for this class and pass it to rememberSaveable()." />
       <item value="Conflicting overloads: public fun WellnessTaskItem(taskName: String, onClose: () -&gt; Unit, modifier: Modifier = ...): Unit defined in com.example.basicstatecodelab in file WaterCounter.kt, public fun WellnessTaskItem(taskName: String, onClose: () -&gt; Unit, modifier: Modifier = ...): Unit defined in com.example.basicstatecodelab in file WellnessTaskItem.kt" />
@@ -107,38 +142,11 @@
       <item value="Scaffold" />
       <item value="remember Scroll State" />
       <item value="vertical Scroll" />
-      <item value="Home Section" />
-      <item value="h3 is the third largest headline, reserved for short, important text or numerals. For headlines, you can choose an expressive font, such as a display, handwritten, or script style. These unconventional font designs have details and intricacy that help attract the eye." />
-      <item value="Content Scale.Crop" />
-      <item value="Crop" />
-      <item value="Material Theme" />
-      <item value="Implement composable here" />
-      <item value="Modifiers" />
-      <item value="Well, I found that upgrading all the packages introduced in the project to the latest version will have Card components and properties, but the corresponding compilation SDK needs to be upgraded to 33, and the minimum adaptation SDK needs to be 25" />
-      <item value="好了，我发现把项目中引入的所有包都升级到最新版就有Card组件和属性了，但是相应的编译SDK要升级到33，最低适配的SDK也要25才行" />
-      <item value="renovate" />
-      <item value="inversions" />
-      <item value="quick yoga" />
-      <item value="Basic Layouts in Compose Codelab" />
-      <item value="Manifest merger failed : uses-sdk:minSdkVersion 24 cannot be smaller than version 25 declared in library [androidx.wear.compose:compose-material:1.1.0-rc01]" />
-      <item value="Manifest merger failed : uses-sdk:minSdkVersion 24 cannot be smaller than version 25 declared in library [androidx.wear.compose:compose-material:1.0.0-alpha19]" />
-      <item value="This material API is experimental and is likely to change or to be removed in the future." />
-      <item value="Update 32.2.0: Lua's Prey The Kuva was poured, the lamps were lit, and the ritual of Continuity began. The 51st Warframe, VORUNA, is here! Four beasts, one heart. Voruna's loyal wolf pack, Dynar, Lycath, Raksh, and Ulfrun makes for a deadly combination of strength and stealth." />
-      <item value="Dynamic color is available on Android 12+" />
-      <item value="Response Throwable" />
-      <item value="set Id" />
-      <item value="get Work Oder Id" />
-      <item value="on Success" />
-      <item value="dcc Board Clear" />
-      <item value="Attempt to invoke virtual method 'boolean java.lang.String.isEmpty()' on a null object reference" />
-      <item value="get Root" />
-      <item value="please choose" />
-      <item value="power Add Adapter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="CHINESE" value="66" />
+        <entry key="ENGLISH" value="66" />
       </map>
     </option>
   </component>
