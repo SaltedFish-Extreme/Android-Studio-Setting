@@ -75,7 +75,7 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1674969259797" />
+    <option name="lastTrimTime" value="1675568272434" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -93,6 +93,9 @@
     <option name="newTranslationDialogY" value="592" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Single Account Screen" />
+      <item value="Single Account" />
+      <item value="navigate Single Top To" />
       <item value="Exception:Value" />
       <item value="List contains no element matching the predicate." />
       <item value="VfsDataFileAlreadyCreatedException: File already created: fileId=354612; nameId=3407148(Project_Default.xml); parentId=360524; existingData={}; parent.name=inspectionProfiles; parent.children=modStamp: 2000632; children: [&quot;Project_Default.xml&quot;; nameId: 3407148; id: 354612 (unknown)]" />
@@ -140,14 +143,11 @@
       <item value="Cannot infer a type for this parameter. Please specify it explicitly." />
       <item value="Have you taken your 15 minute walk today?" />
       <item value="Changes to count are now tracked by Compos" />
-      <item value="Creating a state object during composition without using remember" />
-      <item value="Interface MutableState does not have constructors" />
-      <item value="IllegalArgumentException: Only VectorDrawables and rasterized asset types are supported ex. PNG, JPG" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="69" />
       </map>
     </option>
   </component>
