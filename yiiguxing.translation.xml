@@ -75,7 +75,7 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1676021368150" />
+    <option name="lastTrimTime" value="1676856999089" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -85,6 +85,7 @@
     </option>
     <option name="primaryLanguage" value="CHINESE" />
     <option name="translateDocumentation" value="true" />
+    <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
