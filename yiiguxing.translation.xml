@@ -75,7 +75,7 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1675436123738" />
+    <option name="lastTrimTime" value="1676021368150" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -87,12 +87,25 @@
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="792" />
-    <option name="newTranslationDialogX" value="610" />
-    <option name="newTranslationDialogY" value="705" />
+    <option name="newTranslationDialogHeight" value="256" />
+    <option name="newTranslationDialogWidth" value="790" />
+    <option name="newTranslationDialogX" value="942" />
+    <option name="newTranslationDialogY" value="592" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="App Config" />
+      <item value="Functions which invoke @Composable functions must be marked with the @Composable annotation" />
+      <item value="merge Descendants" />
+      <item value="create Compose Rule" />
+      <item value="rally" />
+      <item value="scheme" />
+      <item value="adjust Resize" />
+      <item value="window Soft Input Mode" />
+      <item value="navigate Single Top To" />
+      <item value="Single Account Screen" />
+      <item value="Single Account" />
+      <item value="Exception:Value" />
+      <item value="List contains no element matching the predicate." />
+      <item value="VfsDataFileAlreadyCreatedException: File already created: fileId=354612; nameId=3407148(Project_Default.xml); parentId=360524; existingData={}; parent.name=inspectionProfiles; parent.children=modStamp: 2000632; children: [&quot;Project_Default.xml&quot;; nameId: 3407148; id: 354612 (unknown)]" />
       <item value="Type 'TypeVariable(T)' has no method 'getValue(Nothing?, KProperty&lt;&gt;)' and thus it cannot serve as a delegate" />
       <item value="You’re making changes in a project you don’t have write access to. We’ve created a fork of this project for you to commit your proposed changes to. Submitting a change will write it to a new branch in your fork, so you can send a pull request." />
       <item value="com.intellij.diagnostic.PluginException: com.nasller.license.action.LicenseServerAction (LicenseServerAction): group with id &quot;RegistrationActions&quot; isn't registered; action will be added to the &quot;Other&quot; group (module=PluginDescriptor(name=License Server, id=com.nasller.license, descriptorPath=plugin.xml, path=~\AppData\Roaming\Google\AndroidStudio2022.1\plugins\LicenseServer, version=1.0.0, package=null, isBundled=false))" />
@@ -130,23 +143,11 @@
       <item value="build Features" />
       <item value="sunflower" />
       <item value="Updating to 3.4.0 leads to dependency conflicts" />
-      <item value="In the Project tool window, select the files you want to compare and choose Compare Files, or press Ctrl+D. Alternatively, select one file, choose Compare With from its context menu, and select a file that is outside your project. If you are comparing two files and want to add a third file to the comparison, right-click either left or right panel, select Switch to Three-Side Viewer, and load the required file by clicking Select file." />
-      <item value="IllegalArgumentException: androidx.compose.runtime.snapshots.SnapshotStateList@d18f697 cannot be saved using the current SaveableStateRegistry. The default implementation only supports types which can be stored inside the Bundle. Please consider implementing a custom Saver for this class and pass it to rememberSaveable()." />
-      <item value="Conflicting overloads: public fun WellnessTaskItem(taskName: String, onClose: () -&gt; Unit, modifier: Modifier = ...): Unit defined in com.example.basicstatecodelab in file WaterCounter.kt, public fun WellnessTaskItem(taskName: String, onClose: () -&gt; Unit, modifier: Modifier = ...): Unit defined in com.example.basicstatecodelab in file WellnessTaskItem.kt" />
-      <item value="Modifier parameter should be the first optional parameter" />
-      <item value="Cannot infer a type for this parameter. Please specify it explicitly." />
-      <item value="Have you taken your 15 minute walk today?" />
-      <item value="Changes to count are now tracked by Compos" />
-      <item value="Creating a state object during composition without using remember" />
-      <item value="Interface MutableState does not have constructors" />
-      <item value="IllegalArgumentException: Only VectorDrawables and rasterized asset types are supported ex. PNG, JPG" />
-      <item value="Scaffold" />
-      <item value="remember Scroll State" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="CHINESE" value="78" />
+        <entry key="ENGLISH" value="78" />
       </map>
     </option>
   </component>
