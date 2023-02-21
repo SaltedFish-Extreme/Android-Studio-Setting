@@ -94,6 +94,8 @@
     <option name="newTranslationDialogY" value="592" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="set Debug Mode" />
+      <item value="open Activity Duration Track" />
       <item value="enable Aapt 2" />
       <item value="java.lang.NoSuchMethodError: No static method metafactory(LjavalanginvokeMethodHandlesLookup;LjavalangString;LjavalanginvokeMethodType;LjavalanginvokeMethodType;LjavalanginvokeMethodHandle;LjavalanginvokeMethodType;)LjavalanginvokeCallSite; in class LjavalanginvokeLambdaMetafactory; or its super classes (declaration of 'java.lang.invoke.LambdaMetafactory' appears in apexcom.android.artjavalibcore-oj.jar)" />
       <item value="Duplicate class com.google.gson.ExclusionStrategy found in modules gson-2.2.2.jar (gson-2.2.2.jar) and gson-2.8.6.jar (com.google.code.gson:gson:2.8.6)" />
@@ -142,13 +144,11 @@
       <item value="Error fetching licenses for PWIFIADB xianyu zhizun: Existing trial license for Android WiFiADB 2021.3 is expired" />
       <item value="Error fetching licenses for PWIFIADB xianyuzhizun: Existing trial license for Android WiFiADB 2021.3 is expired" />
       <item value="The message should slide down from the top on appearance and slide up on disappearance." />
-      <item value="compose-theme-adapter is deprecated. The API has moved to accompanistthemeadaptermaterial. For more information, please visit https:google.github.ioaccompanistthemeadapter-material" />
-      <item value="Cannot debug application from module WanAndroid.app.main on device oneplus-gm1910-192.168.199.206:5555. This application does not have the 'debuggable' attribute enabled in its manifest. If you have manually set it in the manifest, then remove it and let the IDE automatically assign it. If you are using Gradle, make sure that your current variant is debuggable." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="91" />
-        <entry key="ENGLISH" value="92" />
+        <entry key="CHINESE" value="93" />
+        <entry key="ENGLISH" value="94" />
       </map>
     </option>
   </component>
