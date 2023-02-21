@@ -94,6 +94,9 @@
     <option name="newTranslationDialogY" value="592" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="The following project options are deprecated and have been removed:" />
+      <item value="double-quoted" />
+      <item value="double" />
       <item value="Bezier" />
       <item value="TRIGGER CONTROL MODE CLIENT CONTROL" />
       <item value="Material Theme" />
@@ -141,14 +144,11 @@
       <item value="FROM HTML MODE COMPACT" />
       <item value="String plurals and their related prefix suffix strings" />
       <item value="Experimental Compose Ui Api" />
-      <item value="watering Interval" />
-      <item value="Electric Eel" />
-      <item value="Compose View" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="86" />
+        <entry key="CHINESE" value="88" />
+        <entry key="ENGLISH" value="89" />
       </map>
     </option>
   </component>
