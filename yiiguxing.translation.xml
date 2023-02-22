@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="592" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Inv Work" />
       <item value="set Debug Mode" />
       <item value="open Activity Duration Track" />
       <item value="enable Aapt 2" />
@@ -143,12 +144,11 @@
       <item value=" Existing trial license for Android WiFiADB 2021.3 is expired" />
       <item value="Error fetching licenses for PWIFIADB xianyu zhizun: Existing trial license for Android WiFiADB 2021.3 is expired" />
       <item value="Error fetching licenses for PWIFIADB xianyuzhizun: Existing trial license for Android WiFiADB 2021.3 is expired" />
-      <item value="The message should slide down from the top on appearance and slide up on disappearance." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
-        <entry key="ENGLISH" value="94" />
+        <entry key="CHINESE" value="95" />
+        <entry key="ENGLISH" value="96" />
       </map>
     </option>
   </component>
