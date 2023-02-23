@@ -94,6 +94,9 @@
     <option name="newTranslationDialogY" value="566" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="codelabs" />
+      <item value="Square Device" />
+      <item value="Square" />
       <item value="Reusable Components" />
       <item value="Start Only Text Composables" />
       <item value="If you are using Compose Navigation, use the Wear OS version (NOT the androidx.navigation:navigation-compose version), that is, uncomment the line below. implementation &quot;androidx.wear.compose:compose-navigation:wear_compose_version&quot;" />
@@ -141,15 +144,13 @@
       <item value="com.intellij.diagnostic.PluginException: com.nasller.license.action.LicenseServerAction (LicenseServerAction): group with id &quot;RegistrationActions&quot; isn't registered; action will be added to the &quot;Other&quot; group (module=PluginDescriptor(name=License Server, id=com.nasller.license, descriptorPath=plugin.xml, path=~\AppData\Roaming\Google\AndroidStudio2022.1\plugins\LicenseServer, version=1.0.0, package=null, isBundled=false))" />
       <item value="The MapView lifecycle is handled by this composable. As the MapView also needs to be updated with input from Compose UI, those updates are encapsulated into the MapViewContainer composable. In this way, when an update to the MapView happens, this composable won't recompose and the MapView won't need to be recreated." />
       <item value="initial Text" />
-      <item value="Bad credentials" />
-      <item value="suggested Destinations" />
-      <item value="to Destination Change" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="105" />
-        <entry key="ENGLISH" value="106" />
+        <entry key="CHINESE" value="108" />
+        <entry key="ENGLISH" value="108" />
         <entry key="GALICIAN" value="1" />
+        <entry key="LATVIAN" value="1" />
       </map>
     </option>
   </component>
