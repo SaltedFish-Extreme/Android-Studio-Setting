@@ -94,6 +94,8 @@
     <option name="newTranslationDialogY" value="566" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Reusable Components" />
+      <item value="Start Only Text Composables" />
       <item value="If you are using Compose Navigation, use the Wear OS version (NOT the androidx.navigation:navigation-compose version), that is, uncomment the line below. implementation &quot;androidx.wear.compose:compose-navigation:wear_compose_version&quot;" />
       <item value="Foundation is additive, so you can use the mobile version in your Wear OS app" />
       <item value="Foundation is additive, so you can use the mobile version in your Wear OS app." />
@@ -142,13 +144,11 @@
       <item value="Bad credentials" />
       <item value="suggested Destinations" />
       <item value="to Destination Change" />
-      <item value="to Destination Changed" />
-      <item value="Codelab: collectAsState step - consume stream of data from the ViewModel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
-        <entry key="ENGLISH" value="104" />
+        <entry key="CHINESE" value="105" />
+        <entry key="ENGLISH" value="106" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
