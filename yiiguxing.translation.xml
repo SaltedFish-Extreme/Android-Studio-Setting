@@ -89,11 +89,13 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="788" />
+    <option name="newTranslationDialogWidth" value="786" />
     <option name="newTranslationDialogX" value="609" />
     <option name="newTranslationDialogY" value="566" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="paid" />
+      <item value="Purchased" />
       <item value="The specified message queue synchronization barrier token has not been posted or has already been removed" />
       <item value="Preview apiLevel must be set to an integer between 28 and 33" />
       <item value="WEAR PREVIEW DEVICE WIDTH DP" />
@@ -142,13 +144,11 @@
       <item value="navigate Single Top To" />
       <item value="Single Account Screen" />
       <item value="Single Account" />
-      <item value="Exception:Value" />
-      <item value="List contains no element matching the predicate." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="112" />
-        <entry key="ENGLISH" value="113" />
+        <entry key="CHINESE" value="114" />
+        <entry key="ENGLISH" value="114" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATVIAN" value="1" />
       </map>
