@@ -75,7 +75,7 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1676856999089" />
+    <option name="lastTrimTime" value="1677460680621" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="566" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Drag Image View" />
       <item value="paid" />
       <item value="Purchased" />
       <item value="The specified message queue synchronization barrier token has not been posted or has already been removed" />
@@ -143,12 +144,11 @@
       <item value="window Soft Input Mode" />
       <item value="navigate Single Top To" />
       <item value="Single Account Screen" />
-      <item value="Single Account" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="114" />
-        <entry key="ENGLISH" value="114" />
+        <entry key="ENGLISH" value="115" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATVIAN" value="1" />
       </map>
