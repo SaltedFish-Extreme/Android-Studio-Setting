@@ -36,6 +36,13 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="SVN Disconnect">
+          <value>
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="cn.yiiguxing.plugin.translate">
           <value>
             <PluginData>
