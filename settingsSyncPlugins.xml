@@ -68,6 +68,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.axter.plugin.IDsCreate">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.java" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.dengzii.plugin.adb">
           <value>
             <PluginData>
@@ -185,6 +197,7 @@
                   <option value="org.jetbrains.plugins.gradle" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
