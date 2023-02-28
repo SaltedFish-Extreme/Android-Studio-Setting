@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="566" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="storageemulated0downloadapp-wyeth.apk: open failed: EEXIST (File exists)" />
       <item value="java.io.IOException: Cleartext HTTP traffic to 101.132.141.149 not permitted" />
       <item value="not permitted" />
       <item value="This plugin add SVN disconnect action to VCS menu. This action perform disconnect project from SVN and clean project from svn specific folders (.svn) Getting started Run action \&quot;SVN disconnect\&quot; from VCS menu. Subversion VCS should be disabled in all modules." />
@@ -143,12 +144,11 @@
       <item value="create Compose Rule" />
       <item value="rally" />
       <item value="scheme" />
-      <item value="adjust Resize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="116" />
-        <entry key="ENGLISH" value="117" />
+        <entry key="CHINESE" value="117" />
+        <entry key="ENGLISH" value="118" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATVIAN" value="1" />
       </map>
