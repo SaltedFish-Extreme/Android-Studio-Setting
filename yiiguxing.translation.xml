@@ -85,7 +85,6 @@
     </option>
     <option name="primaryLanguage" value="CHINESE" />
     <option name="translateDocumentation" value="true" />
-    <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
@@ -94,6 +93,10 @@
     <option name="newTranslationDialogY" value="566" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="bingoogolapple" />
+      <item value="material" />
+      <item value="support" />
+      <item value="junit" />
       <item value="java.lang.RuntimeException: Unable to instantiate activity ComponentInfo{com.tt.wms_appcom.tt.wms_app.DaoHuoActivity}: java.lang.NullPointerException: Attempt to invoke virtual method 'android.content.ContentResolver android.content.Context.getContentResolver()' on a null object reference" />
       <item value="Classifier 'ArticleResponse' does not have a companion object, and thus must be initialized here" />
       <item value="We recommend using a newer Android Gradle plugin to use compileSdk = 33 This Android Gradle plugin (7.2.1) was tested up to compileSdk = 32" />
@@ -140,15 +143,11 @@
       <item value="btn menu" />
       <item value="text title" />
       <item value="java.lang.RuntimeException: Unable to get provider android.support.v4.content.FileProvider: java.lang.ClassNotFoundException: Didn't find class &quot;android.support.v4.content.FileProvider&quot; on path: DexPathList[[zip file &quot;dataapp~~0TzY_hgfK6heNAQYtYSH3Q==com.tt.wms_app-ppwaGD8mog8UvDQh9CrfYg==base.apk&quot;],nativeLibraryDirectories=[dataapp~~0TzY_hgfK6heNAQYtYSH3Q==com.tt.wms_app-ppwaGD8mog8UvDQh9CrfYg==libarm64, systemlib64, systemsystem_extlib64]]" />
-      <item value="The specified Android SDK Build Tools version (28.0.0) is ignored, as it is below the minimum supported version (28.0.3) for Android Gradle Plugin 3.2.1." />
-      <item value="extension-level" />
-      <item value="Functions which invoke @Composable functions must be marked with the @Composable annotation" />
-      <item value="merge Descendants" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="119" />
-        <entry key="ENGLISH" value="120" />
+        <entry key="CHINESE" value="122" />
+        <entry key="ENGLISH" value="123" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATVIAN" value="1" />
       </map>
