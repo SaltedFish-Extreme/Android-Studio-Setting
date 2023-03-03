@@ -93,6 +93,8 @@
     <option name="newTranslationDialogY" value="566" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="default Config" />
+      <item value="test Instrumentation Runner" />
       <item value="debuggable" />
       <item value="minify Enabled" />
       <item value="The option 'android.enableAapt2' is deprecated. The current default is 'true'. It has been removed from the current version of the Android Gradle plugin. This property has no effect, AAPT2 is now always used." />
@@ -141,13 +143,11 @@
       <item value="double-quoted" />
       <item value="double" />
       <item value="Bezier" />
-      <item value="TRIGGER CONTROL MODE CLIENT CONTROL" />
-      <item value="Material Theme" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="125" />
-        <entry key="ENGLISH" value="126" />
+        <entry key="CHINESE" value="126" />
+        <entry key="ENGLISH" value="127" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATVIAN" value="1" />
       </map>
