@@ -88,11 +88,12 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="786" />
-    <option name="newTranslationDialogX" value="609" />
-    <option name="newTranslationDialogY" value="566" />
+    <option name="newTranslationDialogWidth" value="784" />
+    <option name="newTranslationDialogX" value="233" />
+    <option name="newTranslationDialogY" value="767" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="扫码" />
       <item value="nullable" />
       <item value="Invoke-customs are only supported starting with Android O (--min-api 26)" />
       <item value="stdlib" />
@@ -142,7 +143,6 @@
       <item value="To finish setting up Crashlytics and see initial data in the Crashlytics dashboard of the Firebase console, you need to force a test crash. Add code to your app that you can use to force a test crash. You can use the following code in your app's MainActivity to add a button to your app that, when pressed, causes a crash. The button is labeled &quot;Test Crash&quot;." />
       <item value="Add Firebase Crashlytics to your app to help you track, prioritize, and fix stability issues that erode your app quality" />
       <item value="Visit the complete Crashlytics getting started documentation to learn more about Crashlytics. Crashlytics automatically starts collecting crash reports, but you can also customize your Firebase Crashlytics crash reports by adding opt-in reporting, logs, keys, and even tracking of non-fatal errors." />
-      <item value="iscanlce" />
     </histories>
     <option name="languageScores">
       <map>
