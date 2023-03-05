@@ -93,6 +93,7 @@
     <option name="newTranslationDialogY" value="767" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Expecting a class body" />
       <item value="ensure Active" />
       <item value="com.google.gson.internal.LinkedTreeMap cannot be cast to com.example.wanAndroid.logic.model.base.ApiPagerResponse" />
       <item value="This declaration overrides deprecated member but not marked as deprecated itself. This deprecation won't be inherited in future releases. Please add @Deprecated annotation or suppress. See https:youtrack.jetbrains.comissueKT-47902 for details" />
@@ -142,11 +143,10 @@
       <item value="If you are using Compose Navigation, use the Wear OS version (NOT the androidx.navigation:navigation-compose version), that is, uncomment the line below. implementation &quot;androidx.wear.compose:compose-navigation:wear_compose_version&quot;" />
       <item value="Foundation is additive, so you can use the mobile version in your Wear OS app" />
       <item value="Foundation is additive, so you can use the mobile version in your Wear OS app." />
-      <item value="Compose for Wear OS Dependencies" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="140" />
+        <entry key="CHINESE" value="141" />
         <entry key="ENGLISH" value="141" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATVIAN" value="1" />
