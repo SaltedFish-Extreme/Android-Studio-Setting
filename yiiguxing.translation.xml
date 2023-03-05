@@ -75,7 +75,7 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1676021368150" />
+    <option name="lastTrimTime" value="1677460680621" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -88,66 +88,68 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="790" />
-    <option name="newTranslationDialogX" value="942" />
-    <option name="newTranslationDialogY" value="592" />
+    <option name="newTranslationDialogWidth" value="784" />
+    <option name="newTranslationDialogX" value="233" />
+    <option name="newTranslationDialogY" value="767" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="Functions which invoke @Composable functions must be marked with the @Composable annotation" />
-      <item value="merge Descendants" />
-      <item value="create Compose Rule" />
-      <item value="rally" />
-      <item value="scheme" />
-      <item value="adjust Resize" />
-      <item value="window Soft Input Mode" />
-      <item value="navigate Single Top To" />
-      <item value="Single Account Screen" />
-      <item value="Single Account" />
-      <item value="Exception:Value" />
-      <item value="List contains no element matching the predicate." />
-      <item value="VfsDataFileAlreadyCreatedException: File already created: fileId=354612; nameId=3407148(Project_Default.xml); parentId=360524; existingData={}; parent.name=inspectionProfiles; parent.children=modStamp: 2000632; children: [&quot;Project_Default.xml&quot;; nameId: 3407148; id: 354612 (unknown)]" />
-      <item value="Type 'TypeVariable(T)' has no method 'getValue(Nothing?, KProperty&lt;&gt;)' and thus it cannot serve as a delegate" />
-      <item value="You’re making changes in a project you don’t have write access to. We’ve created a fork of this project for you to commit your proposed changes to. Submitting a change will write it to a new branch in your fork, so you can send a pull request." />
-      <item value="com.intellij.diagnostic.PluginException: com.nasller.license.action.LicenseServerAction (LicenseServerAction): group with id &quot;RegistrationActions&quot; isn't registered; action will be added to the &quot;Other&quot; group (module=PluginDescriptor(name=License Server, id=com.nasller.license, descriptorPath=plugin.xml, path=~\AppData\Roaming\Google\AndroidStudio2022.1\plugins\LicenseServer, version=1.0.0, package=null, isBundled=false))" />
-      <item value="The MapView lifecycle is handled by this composable. As the MapView also needs to be updated with input from Compose UI, those updates are encapsulated into the MapViewContainer composable. In this way, when an update to the MapView happens, this composable won't recompose and the MapView won't need to be recreated." />
-      <item value="initial Text" />
-      <item value="Bad credentials" />
-      <item value="suggested Destinations" />
-      <item value="to Destination Change" />
-      <item value="to Destination Changed" />
-      <item value="Codelab: collectAsState step - consume stream of data from the ViewModel" />
-      <item value="Soft Ref LRU Policy MS Per MB" />
-      <item value="Reserved Code Cache Size" />
-      <item value="remember Image Painter" />
-      <item value="Frame time is 0.129994 ms in the future! Check that graphics HAL is generating vsync timestamps using the correct timebase." />
-      <item value="Returning from awaitPointerEventScope may cause some input events to be dropped" />
-      <item value="Prior agent invocations in this VM: 10" />
-      <item value="A simple extension to make indentation more readable" />
-      <item value=" Existing trial license for Android WiFiADB 2021.3 is expired" />
-      <item value="Error fetching licenses for PWIFIADB xianyu zhizun: Existing trial license for Android WiFiADB 2021.3 is expired" />
-      <item value="Error fetching licenses for PWIFIADB xianyuzhizun: Existing trial license for Android WiFiADB 2021.3 is expired" />
-      <item value="The message should slide down from the top on appearance and slide up on disappearance." />
-      <item value="compose-theme-adapter is deprecated. The API has moved to accompanistthemeadaptermaterial. For more information, please visit https:google.github.ioaccompanistthemeadapter-material" />
-      <item value="Cannot debug application from module WanAndroid.app.main on device oneplus-gm1910-192.168.199.206:5555. This application does not have the 'debuggable' attribute enabled in its manifest. If you have manually set it in the manifest, then remove it and let the IDE automatically assign it. If you are using Gradle, make sure that your current variant is debuggable." />
-      <item value="FROM HTML MODE COMPACT" />
-      <item value="String plurals and their related prefix suffix strings" />
-      <item value="Experimental Compose Ui Api" />
-      <item value="watering Interval" />
-      <item value="Electric Eel" />
-      <item value="Compose View" />
-      <item value="Android" />
-      <item value="phone my garden" />
-      <item value="phone plant list" />
-      <item value="foundation" />
-      <item value="Multiple dependency bring these files in. Exclude them to enable our test APK to build (has no effect on our AARs)" />
-      <item value="build Features" />
-      <item value="sunflower" />
-      <item value="Updating to 3.4.0 leads to dependency conflicts" />
+      <item value="Version 28 (intended for Android Pie and below) is the last version of the legacy support library, so we recommend that you migrate to AndroidX libraries when using Android Q and moving forward. The IDE can help with this: Refactor &gt; Migrate to AndroidX..." />
+      <item value="扫码" />
+      <item value="nullable" />
+      <item value="Invoke-customs are only supported starting with Android O (--min-api 26)" />
+      <item value="stdlib" />
+      <item value="NoClassDefFoundError: Failed resolution of: LkotlinjvminternalIntrinsics;" />
+      <item value="unique" />
+      <item value="while" />
+      <item value="条码" />
+      <item value="二维码" />
+      <item value="JCenter Maven repository is no longer receiving updates: newer library versions may be available elsewhere" />
+      <item value="Expected a color resource id (R.color.) but received an RGB integer" />
+      <item value="default Config" />
+      <item value="test Instrumentation Runner" />
+      <item value="debuggable" />
+      <item value="minify Enabled" />
+      <item value="The option 'android.enableAapt2' is deprecated. The current default is 'true'. It has been removed from the current version of the Android Gradle plugin. This property has no effect, AAPT2 is now always used." />
+      <item value="bingoogolapple" />
+      <item value="material" />
+      <item value="support" />
+      <item value="junit" />
+      <item value="java.lang.RuntimeException: Unable to instantiate activity ComponentInfo{com.tt.wms_appcom.tt.wms_app.DaoHuoActivity}: java.lang.NullPointerException: Attempt to invoke virtual method 'android.content.ContentResolver android.content.Context.getContentResolver()' on a null object reference" />
+      <item value="Classifier 'ArticleResponse' does not have a companion object, and thus must be initialized here" />
+      <item value="We recommend using a newer Android Gradle plugin to use compileSdk = 33 This Android Gradle plugin (7.2.1) was tested up to compileSdk = 32" />
+      <item value="storageemulated0downloadapp-wyeth.apk: open failed: EEXIST (File exists)" />
+      <item value="java.io.IOException: Cleartext HTTP traffic to 101.132.141.149 not permitted" />
+      <item value="not permitted" />
+      <item value="This plugin add SVN disconnect action to VCS menu. This action perform disconnect project from SVN and clean project from svn specific folders (.svn) Getting started Run action \&quot;SVN disconnect\&quot; from VCS menu. Subversion VCS should be disabled in all modules." />
+      <item value="Drag Image View" />
+      <item value="paid" />
+      <item value="Purchased" />
+      <item value="The specified message queue synchronization barrier token has not been posted or has already been removed" />
+      <item value="Preview apiLevel must be set to an integer between 28 and 33" />
+      <item value="WEAR PREVIEW DEVICE WIDTH DP" />
+      <item value="Chip" />
+      <item value="Toggle Chip" />
+      <item value="Self Improvement" />
+      <item value="codelabs" />
+      <item value="Square Device" />
+      <item value="Square" />
+      <item value="Reusable Components" />
+      <item value="Start Only Text Composables" />
+      <item value="If you are using Compose Navigation, use the Wear OS version (NOT the androidx.navigation:navigation-compose version), that is, uncomment the line below. implementation &quot;androidx.wear.compose:compose-navigation:wear_compose_version&quot;" />
+      <item value="Foundation is additive, so you can use the mobile version in your Wear OS app" />
+      <item value="Foundation is additive, so you can use the mobile version in your Wear OS app." />
+      <item value="Compose for Wear OS Dependencies" />
+      <item value="General Compose dependencies" />
+      <item value="Review Dependencies" />
+      <item value="To finish setting up Crashlytics and see initial data in the Crashlytics dashboard of the Firebase console, you need to force a test crash. Add code to your app that you can use to force a test crash. You can use the following code in your app's MainActivity to add a button to your app that, when pressed, causes a crash. The button is labeled &quot;Test Crash&quot;." />
+      <item value="Add Firebase Crashlytics to your app to help you track, prioritize, and fix stability issues that erode your app quality" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="78" />
-        <entry key="ENGLISH" value="78" />
+        <entry key="CHINESE" value="138" />
+        <entry key="ENGLISH" value="138" />
+        <entry key="GALICIAN" value="1" />
+        <entry key="LATVIAN" value="1" />
       </map>
     </option>
   </component>
