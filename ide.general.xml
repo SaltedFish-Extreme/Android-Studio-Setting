@@ -13,6 +13,7 @@
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="ide.text.editor.with.preview.show.floating.toolbar" value="false" />
     <entry key="ide.tree.collapse.recursively" value="false" />
+    <entry key="nasller.license.server.port" value="55123" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
