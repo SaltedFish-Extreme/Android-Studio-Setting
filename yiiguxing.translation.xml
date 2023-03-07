@@ -93,6 +93,7 @@
     <option name="newTranslationDialogY" value="767" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 8.0" />
       <item value="'compileDebugJavaWithJavac' task (current target is 1.8) and 'kaptGenerateStubsDebugKotlin' task (current target is 11) jvm target compatibility should be set to the same Java version." />
       <item value="excludes" />
       <item value="failure occurred while executing com.android.build.gradle.internal.tasks.MergeJavaResWorkAction &gt; 2 files found with path 'META-INFcore_release.kotlin_module' from inputs: - D:\Gradle\caches\transforms-2\files-2.1\e6906b716192c7f7c681c985a2618e45\jetified-litepal.jar" />
@@ -142,12 +143,11 @@
       <item value="Self Improvement" />
       <item value="codelabs" />
       <item value="Square Device" />
-      <item value="Square" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="145" />
-        <entry key="ENGLISH" value="146" />
+        <entry key="CHINESE" value="146" />
+        <entry key="ENGLISH" value="147" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATVIAN" value="1" />
       </map>
