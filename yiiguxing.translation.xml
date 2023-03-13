@@ -93,6 +93,7 @@
     <option name="newTranslationDialogY" value="767" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Avoid passing null as the view root (needed to resolve layout parameters on the inflated layout's root element)" />
       <item value="clean" />
       <item value="ACTION DECODE DATA" />
       <item value="Call requires API level 18 (current min is 17): android.os.StrictMode.VmPolicy.BuilderdetectFileUriExposure" />
@@ -142,11 +143,10 @@
       <item value="We recommend using a newer Android Gradle plugin to use compileSdk = 33 This Android Gradle plugin (7.2.1) was tested up to compileSdk = 32" />
       <item value="storageemulated0downloadapp-wyeth.apk: open failed: EEXIST (File exists)" />
       <item value="java.io.IOException: Cleartext HTTP traffic to 101.132.141.149 not permitted" />
-      <item value="not permitted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="160" />
+        <entry key="CHINESE" value="161" />
         <entry key="ENGLISH" value="161" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATVIAN" value="1" />
