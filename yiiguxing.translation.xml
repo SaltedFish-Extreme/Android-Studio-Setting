@@ -93,6 +93,7 @@
     <option name="newTranslationDialogY" value="767" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Calls the specified function [block] with `this` value as its argument and returns its result." />
       <item value="uses-sdk:minSdkVersion 16 cannot be smaller than version 19 declared in library [com.github.liangjingkanji:Channel:1.1.5] D:\Gradle\caches\transforms-3\40c456df5af48c850b1f45b3c5dd244b\transformed\jetified-Channel-1.1.5\AndroidManifest.xml as the library might be using APIs not available in 16 Suggestion: use a compatible library with a minSdk of at most 16, or increase this project's minSdk version to at least 19, or use tools:overrideLibrary=&quot;com.drake.channel&quot; to force usage (may lead to runtime failures)" />
       <item value="is Adjust Mode" />
       <item value="Unable to start activity ComponentInfo{com.tt.wms_appcom.tt.wms_app.ScanCodeActivity}: java.lang.ClassCastException: net.lucode.hackware.magicindicator.MagicIndicator cannot be cast to net.lucode.hackware.magicindicator.buildins.commonnavigator.abs.IPagerIndicator" />
@@ -142,12 +143,11 @@
       <item value="bingoogolapple" />
       <item value="material" />
       <item value="support" />
-      <item value="junit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="166" />
-        <entry key="ENGLISH" value="167" />
+        <entry key="CHINESE" value="167" />
+        <entry key="ENGLISH" value="168" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATVIAN" value="1" />
       </map>
