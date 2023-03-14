@@ -88,11 +88,14 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="782" />
+    <option name="newTranslationDialogWidth" value="1010" />
     <option name="newTranslationDialogX" value="233" />
     <option name="newTranslationDialogY" value="767" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Buttons in button bars should be borderless; use style=&quot;?android:attrbuttonBarButtonStyle&quot; (and ?android:attrbuttonBarStyle on the parent)" />
+      <item value="submit" />
+      <item value="提交" />
       <item value="Viewpager" />
       <item value="View Pager" />
       <item value="Calls the specified function [block] with `this` value as its argument and returns its result." />
@@ -140,14 +143,11 @@
       <item value="default Config" />
       <item value="test Instrumentation Runner" />
       <item value="debuggable" />
-      <item value="minify Enabled" />
-      <item value="The option 'android.enableAapt2' is deprecated. The current default is 'true'. It has been removed from the current version of the Android Gradle plugin. This property has no effect, AAPT2 is now always used." />
-      <item value="bingoogolapple" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="169" />
-        <entry key="ENGLISH" value="169" />
+        <entry key="CHINESE" value="170" />
+        <entry key="ENGLISH" value="170" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATVIAN" value="1" />
       </map>
