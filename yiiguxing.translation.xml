@@ -93,6 +93,8 @@
     <option name="newTranslationDialogY" value="767" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Couldn't find meta-data for provider with authority com.tt.wms_app.provider" />
+      <item value="You haven't initialized the configuration yet" />
       <item value="Restricted Api" />
       <item value="Val cannot be reassigned" />
       <item value="When targeting Android 13 or higher, posting a permission requires holding the POST_NOTIFICATIONS permission" />
@@ -141,13 +143,11 @@
       <item value="lint Vital Analyze Release" />
       <item value="Expecting a class body" />
       <item value="ensure Active" />
-      <item value="com.google.gson.internal.LinkedTreeMap cannot be cast to com.example.wanAndroid.logic.model.base.ApiPagerResponse" />
-      <item value="This declaration overrides deprecated member but not marked as deprecated itself. This deprecation won't be inherited in future releases. Please add @Deprecated annotation or suppress. See https:youtrack.jetbrains.comissueKT-47902 for details" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="180" />
-        <entry key="ENGLISH" value="179" />
+        <entry key="ENGLISH" value="181" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LATVIAN" value="1" />
