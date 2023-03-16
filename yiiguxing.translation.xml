@@ -88,11 +88,12 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="1010" />
+    <option name="newTranslationDialogWidth" value="1008" />
     <option name="newTranslationDialogX" value="233" />
     <option name="newTranslationDialogY" value="767" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="When targeting Android 13 or higher, posting a permission requires holding the POST_NOTIFICATIONS permission" />
       <item value="'getLifecycle' in 'AppCompatDialog' is final and cannot be overridden" />
       <item value="Review" />
       <item value="date" />
@@ -142,11 +143,10 @@
       <item value="This declaration overrides deprecated member but not marked as deprecated itself. This deprecation won't be inherited in future releases. Please add @Deprecated annotation or suppress. See https:youtrack.jetbrains.comissueKT-47902 for details" />
       <item value="Type argument is not within its bounds: should be subtype of 'NavDestination'" />
       <item value="Version 28 (intended for Android Pie and below) is the last version of the legacy support library, so we recommend that you migrate to AndroidX libraries when using Android Q and moving forward. The IDE can help with this: Refactor &gt; Migrate to AndroidX..." />
-      <item value="扫码" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
+        <entry key="CHINESE" value="179" />
         <entry key="ENGLISH" value="178" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
