@@ -88,11 +88,17 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="1008" />
+    <option name="newTranslationDialogWidth" value="1006" />
     <option name="newTranslationDialogX" value="233" />
     <option name="newTranslationDialogY" value="767" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="复核" />
+      <item value="复核Review" />
+      <item value="复核Rei" />
+      <item value="复核Reiv" />
+      <item value="复核Re" />
+      <item value="复合" />
       <item value="Couldn't find meta-data for provider with authority com.tt.wms_app.provider" />
       <item value="You haven't initialized the configuration yet" />
       <item value="Restricted Api" />
@@ -137,12 +143,6 @@
       <item value="Access denied finding property &quot;vendor.perf.gestureflingboost.enable&quot;" />
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 8.0" />
       <item value="'compileDebugJavaWithJavac' task (current target is 1.8) and 'kaptGenerateStubsDebugKotlin' task (current target is 11) jvm target compatibility should be set to the same Java version." />
-      <item value="excludes" />
-      <item value="failure occurred while executing com.android.build.gradle.internal.tasks.MergeJavaResWorkAction &gt; 2 files found with path 'META-INFcore_release.kotlin_module' from inputs: - D:\Gradle\caches\transforms-2\files-2.1\e6906b716192c7f7c681c985a2618e45\jetified-litepal.jar" />
-      <item value="A problem was found with the configuration of task ':app:checkDebugManifest' (type 'CheckManifest'). - In plugin 'com.android.build.gradle.api.AndroidBasePlugin' type 'com.android.build.gradle.internal.tasks.CheckManifest' property 'manifest' has @Input annotation used on property of type 'File'." />
-      <item value="lint Vital Analyze Release" />
-      <item value="Expecting a class body" />
-      <item value="ensure Active" />
     </histories>
     <option name="languageScores">
       <map>
