@@ -93,15 +93,16 @@
     <option name="newTranslationDialogY" value="767" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="serial Num" />
+      <item value="pallet Code" />
+      <item value="序列号" />
       <item value="material" />
       <item value="托盘码" />
       <item value="action Search" />
       <item value="This item may not have a label readable by screen readers." />
-      <item value="serial Num" />
       <item value="commodity Code" />
       <item value="数量" />
       <item value="商品编码" />
-      <item value="序列号" />
       <item value="复核" />
       <item value="复核Review" />
       <item value="复核Rei" />
@@ -142,12 +143,11 @@
       <item value="ACTION DECODE DATA" />
       <item value="Call requires API level 18 (current min is 17): android.os.StrictMode.VmPolicy.BuilderdetectFileUriExposure" />
       <item value="Check Box Preference" />
-      <item value="Preference Screen" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="186" />
-        <entry key="ENGLISH" value="187" />
+        <entry key="CHINESE" value="188" />
+        <entry key="ENGLISH" value="189" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LATVIAN" value="1" />
