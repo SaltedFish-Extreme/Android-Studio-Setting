@@ -88,11 +88,12 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="1006" />
-    <option name="newTranslationDialogX" value="233" />
-    <option name="newTranslationDialogY" value="767" />
+    <option name="newTranslationDialogWidth" value="1004" />
+    <option name="newTranslationDialogX" value="102" />
+    <option name="newTranslationDialogY" value="792" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="com.intellij.serviceContainer.AlreadyDisposedException: Cannot create com.intellij.workspaceModel.ide.WorkspaceModel because container is already disposed (container=Project(name=ikea_wms_app_2021, containerState=DISPOSE_COMPLETED, componentStore=D:\AndroidStudioProjects\boyolwms) (disposed))" />
       <item value="android" />
       <item value="原始" />
       <item value="origin" />
@@ -142,11 +143,10 @@
       <item value="Unable to start activity ComponentInfo{com.tt.wms_appcom.tt.wms_app.ScanCodeActivity}: java.lang.ClassCastException: net.lucode.hackware.magicindicator.MagicIndicator cannot be cast to net.lucode.hackware.magicindicator.buildins.commonnavigator.abs.IPagerIndicator" />
       <item value="Unable to start activity ComponentInfo{com.tt.wms_appcom.tt.wms_app.MainActivity}: java.lang.IllegalStateException: You need to use a Theme.AppCompat theme (or descendant) with this activity." />
       <item value="Standard animations for a full-screen window or activity." />
-      <item value="Avoid passing null as the view root (needed to resolve layout parameters on the inflated layout's root element)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="191" />
+        <entry key="CHINESE" value="192" />
         <entry key="ENGLISH" value="192" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
