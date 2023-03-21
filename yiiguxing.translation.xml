@@ -88,11 +88,24 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="1004" />
+    <option name="newTranslationDialogWidth" value="1002" />
     <option name="newTranslationDialogX" value="102" />
     <option name="newTranslationDialogY" value="792" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Consecutive Scroller" />
+      <item value="Locked Orientation Activity" />
+      <item value="Indicates that it is okay for this activity to be put in multi-window mode. Intended for a multi-window device where there can be multiple activities of various sizes on the screen at the same time. The default value is false for applications with targetSdkVersion lesser than {@link android.os.Build.VERSION_CODESN} and true otherwise. Setting this flag to false lets the system know that the app may not be tested or optimized for multi-window environment. The system may still put such activity in multi-window with compatibility mode applied. It also does not guarantee that there will be no other apps in multi-window visible on screen (e.g. picture-in-picture) or on other displays. Therefore, this flag cannot be used to assure an exclusive resource access. NOTE: A task's root activity value is applied to all additional activities launched in the task. That is if the root activity of a task is resizeable then the system will treat all other activities in the task as resizeable and will not if the root activity isn't resizeable. NOTE: The value of {@link android.R.attrscreenOrientation} is ignored for resizeable activities when in multi-window mode." />
+      <item value="resizeable Activity" />
+      <item value="supports Rtl" />
+      <item value="uses Cleartext Traffic" />
+      <item value="queries" />
+      <item value="GET CONTENT" />
+      <item value="The attribute android:allowBackup is deprecated from Android 12 and higher and may be removed in future versions. Consider adding the attribute android:dataExtractionRules specifying an @xml resource which configures cloud backups and device transfers on Android 12 and higher." />
+      <item value="Sample backup rules file; uncomment and customize as necessary. See https:developer.android.comguidetopicsdataautobackup for details. Note: This file is ignored for devices older that API 31 See https:developer.android.comaboutversions12backup-restore" />
+      <item value="Use &lt;include&gt; and &lt;exclude&gt; to control what is backed up." />
+      <item value="Sample data extraction rules file; uncomment and customize as necessary. See https:developer.android.comaboutversions12backup-restorexml-changes for details." />
+      <item value="data Extraction Rules" />
       <item value="Could not resolve all files for configuration ':app:debugRuntimeClasspath'. &gt; Failed to transform disklrucache-4.15.1.jar (com.github.bumptech.glide:disklrucache:4.15.1) to match attributes {artifactType=enumerated-runtime-classes, org.gradle.category=library, org.gradle.libraryelements=jar, org.gradle.status=release, org.gradle.usage=java-runtime}. &gt; Could not find disklrucache-4.15.1.jar (com.github.bumptech.glide:disklrucache:4.15.1). Searched in the following locations:" />
       <item value="official" />
       <item value="dependency Resolution Management" />
@@ -130,24 +143,11 @@
       <item value="Review" />
       <item value="date" />
       <item value="移动" />
-      <item value="adapter" />
-      <item value="select" />
-      <item value="Inquire" />
-      <item value="查询" />
-      <item value="动态" />
-      <item value="合计" />
-      <item value="当前日期" />
-      <item value="导出" />
-      <item value="export" />
-      <item value="Buttons in button bars should be borderless; use style=&quot;?android:attrbuttonBarButtonStyle&quot; (and ?android:attrbuttonBarStyle on the parent)" />
-      <item value="submit" />
-      <item value="提交" />
-      <item value="Viewpager" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="198" />
-        <entry key="ENGLISH" value="199" />
+        <entry key="CHINESE" value="210" />
+        <entry key="ENGLISH" value="211" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LATVIAN" value="1" />
