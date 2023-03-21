@@ -93,6 +93,8 @@
     <option name="newTranslationDialogY" value="792" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="legacy" />
+      <item value="support" />
       <item value="com.intellij.serviceContainer.AlreadyDisposedException: Cannot create com.intellij.workspaceModel.ide.WorkspaceModel because container is already disposed (container=Project(name=ikea_wms_app_2021, containerState=DISPOSE_COMPLETED, componentStore=D:\AndroidStudioProjects\boyolwms) (disposed))" />
       <item value="android" />
       <item value="原始" />
@@ -141,13 +143,11 @@
       <item value="uses-sdk:minSdkVersion 16 cannot be smaller than version 19 declared in library [com.github.liangjingkanji:Channel:1.1.5] D:\Gradle\caches\transforms-3\40c456df5af48c850b1f45b3c5dd244b\transformed\jetified-Channel-1.1.5\AndroidManifest.xml as the library might be using APIs not available in 16 Suggestion: use a compatible library with a minSdk of at most 16, or increase this project's minSdk version to at least 19, or use tools:overrideLibrary=&quot;com.drake.channel&quot; to force usage (may lead to runtime failures)" />
       <item value="is Adjust Mode" />
       <item value="Unable to start activity ComponentInfo{com.tt.wms_appcom.tt.wms_app.ScanCodeActivity}: java.lang.ClassCastException: net.lucode.hackware.magicindicator.MagicIndicator cannot be cast to net.lucode.hackware.magicindicator.buildins.commonnavigator.abs.IPagerIndicator" />
-      <item value="Unable to start activity ComponentInfo{com.tt.wms_appcom.tt.wms_app.MainActivity}: java.lang.IllegalStateException: You need to use a Theme.AppCompat theme (or descendant) with this activity." />
-      <item value="Standard animations for a full-screen window or activity." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="192" />
-        <entry key="ENGLISH" value="192" />
+        <entry key="CHINESE" value="193" />
+        <entry key="ENGLISH" value="194" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LATVIAN" value="1" />
