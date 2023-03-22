@@ -93,6 +93,8 @@
     <option name="newTranslationDialogY" value="792" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="item Number" />
+      <item value="serial Number" />
       <item value="camera photos" />
       <item value="Failed to resolve: DialogManager:widget_option_list:unspecified" />
       <item value="compile Sdk" />
@@ -141,13 +143,11 @@
       <item value="Couldn't find meta-data for provider with authority com.tt.wms_app.provider" />
       <item value="You haven't initialized the configuration yet" />
       <item value="Restricted Api" />
-      <item value="Val cannot be reassigned" />
-      <item value="When targeting Android 13 or higher, posting a permission requires holding the POST_NOTIFICATIONS permission" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="214" />
-        <entry key="ENGLISH" value="215" />
+        <entry key="CHINESE" value="216" />
+        <entry key="ENGLISH" value="217" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LATVIAN" value="1" />
