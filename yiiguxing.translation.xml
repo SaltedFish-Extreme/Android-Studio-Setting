@@ -93,6 +93,10 @@
     <option name="newTranslationDialogY" value="792" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="browser" />
+      <item value="browse" />
+      <item value="FLAG GRANT READ URI PERMISSION" />
+      <item value="FLAG GRANT WRITE URI PERMISSION" />
       <item value="The application should not provide its own launch screen" />
       <item value="item Number" />
       <item value="serial Number" />
@@ -139,15 +143,11 @@
       <item value="复核Review" />
       <item value="复核Rei" />
       <item value="复核Reiv" />
-      <item value="复核Re" />
-      <item value="复合" />
-      <item value="Couldn't find meta-data for provider with authority com.tt.wms_app.provider" />
-      <item value="You haven't initialized the configuration yet" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="217" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="CHINESE" value="220" />
+        <entry key="ENGLISH" value="221" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LATVIAN" value="1" />
