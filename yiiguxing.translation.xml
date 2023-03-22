@@ -93,6 +93,7 @@
     <option name="newTranslationDialogY" value="792" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="The application should not provide its own launch screen" />
       <item value="item Number" />
       <item value="serial Number" />
       <item value="camera photos" />
@@ -142,11 +143,10 @@
       <item value="复合" />
       <item value="Couldn't find meta-data for provider with authority com.tt.wms_app.provider" />
       <item value="You haven't initialized the configuration yet" />
-      <item value="Restricted Api" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="216" />
+        <entry key="CHINESE" value="217" />
         <entry key="ENGLISH" value="217" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
