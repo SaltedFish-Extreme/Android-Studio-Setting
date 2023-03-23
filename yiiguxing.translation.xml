@@ -93,6 +93,7 @@
     <option name="newTranslationDialogY" value="792" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Hi, are you still able to reproduce this? I took a look at maven central and it looks like the files are present: https: Glide's upload script does occasionally fail to upload an artifact, but I'm not seeing that this time." />
       <item value="You should not lock orientation of your activities, so that you can support a good user experience for any device or orientation" />
       <item value="UI MODE NIGHT UNDEFINED" />
       <item value="The item's text contrast ratio is 3.41. This ratio is based on an estimated foreground color of FF4444 and an estimated background color of FFFFFF. Consider increasing this item's text contrast ratio to 4.50 or greater." />
@@ -142,12 +143,11 @@
       <item value="This item may not have a label readable by screen readers." />
       <item value="commodity Code" />
       <item value="数量" />
-      <item value="商品编码" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="223" />
-        <entry key="ENGLISH" value="223" />
+        <entry key="ENGLISH" value="224" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LATVIAN" value="1" />
