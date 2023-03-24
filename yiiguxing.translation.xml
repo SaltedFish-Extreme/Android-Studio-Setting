@@ -93,9 +93,9 @@
     <option name="newTranslationDialogY" value="792" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="This declaration overrides deprecated member but not marked as deprecated itself. This deprecation won't be inherited in future releases. Please add @Deprecated annotation or suppress. See https:youtrack.jetbrains.comissueKT-47902 for details" />
       <item value="Overrides deprecated member in 'androidx.navigation.fragment.NavHostFragment'. Use {@link onCreateNavController(NavController)}" />
       <item value="Overrides deprecated member in 'androidx.navigation.fragment.NavHostFragment'" />
-      <item value="This declaration overrides deprecated member but not marked as deprecated itself. This deprecation won't be inherited in future releases. Please add @Deprecated annotation or suppress. See https:youtrack.jetbrains.comissueKT-47902 for details" />
       <item value="Already have a pending vsync event. There should only be one at a time." />
       <item value="support adaptive color gamut feature!" />
       <item value="The specified message queue synchronization barrier token has not been posted or has already been removed" />
@@ -146,7 +146,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="233" />
+        <entry key="CHINESE" value="234" />
         <entry key="ENGLISH" value="231" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
