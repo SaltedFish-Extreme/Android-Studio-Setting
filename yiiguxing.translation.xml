@@ -93,6 +93,8 @@
     <option name="newTranslationDialogY" value="792" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Bridge" />
+      <item value="Specifies that this view should permit nested scrolling within a compatible ancestor view" />
       <item value="Nested Scrolling Parent" />
       <item value="Exception raised during rendering: Could not find string resource matching value 0x7F14FFFE (resolved name: layoutlib) in current configuration. Or the resolved value was not of type layout as expected" />
       <item value="Exception raised during rendering: Could not find string resource matching value 0x7F14FFFE (resolved name: layoutlib) in current configuration. Or the resolved value was not of type layout as expected. (Details)" />
@@ -141,13 +143,11 @@
       <item value="Locked Orientation Activity" />
       <item value="Indicates that it is okay for this activity to be put in multi-window mode. Intended for a multi-window device where there can be multiple activities of various sizes on the screen at the same time. The default value is false for applications with targetSdkVersion lesser than {@link android.os.Build.VERSION_CODESN} and true otherwise. Setting this flag to false lets the system know that the app may not be tested or optimized for multi-window environment. The system may still put such activity in multi-window with compatibility mode applied. It also does not guarantee that there will be no other apps in multi-window visible on screen (e.g. picture-in-picture) or on other displays. Therefore, this flag cannot be used to assure an exclusive resource access. NOTE: A task's root activity value is applied to all additional activities launched in the task. That is if the root activity of a task is resizeable then the system will treat all other activities in the task as resizeable and will not if the root activity isn't resizeable. NOTE: The value of {@link android.R.attrscreenOrientation} is ignored for resizeable activities when in multi-window mode." />
       <item value="resizeable Activity" />
-      <item value="supports Rtl" />
-      <item value="uses Cleartext Traffic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="248" />
-        <entry key="ENGLISH" value="246" />
+        <entry key="CHINESE" value="249" />
+        <entry key="ENGLISH" value="247" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LATVIAN" value="1" />
