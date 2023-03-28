@@ -88,11 +88,15 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="1000" />
+    <option name="newTranslationDialogWidth" value="998" />
     <option name="newTranslationDialogX" value="102" />
     <option name="newTranslationDialogY" value="792" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Restricted Api" />
+      <item value="set Show Hide Animation Enabled" />
+      <item value="ActionBar.setShowHideAnimationEnabled can only be called from within the same library group prefix (referenced groupId=androidx.appcompat with prefix androidx from groupId=Smile)" />
+      <item value="Should use getSupportActionBar instead of getActionBar name" />
       <item value="Unable to start activity ComponentInfo{com.example.wanandroidcom.example.wanAndroid.ui.activity.WebActivity}: java.lang.IllegalStateException: This Activity already has an action bar supplied by the window decor. Do not request Window.FEATURE_SUPPORT_ACTION_BAR and set windowActionBar to false in your theme to use a Toolbar instead." />
       <item value="Bridge" />
       <item value="Specifies that this view should permit nested scrolling within a compatible ancestor view" />
@@ -139,15 +143,11 @@
       <item value="camera photos" />
       <item value="Failed to resolve: DialogManager:widget_option_list:unspecified" />
       <item value="compile Sdk" />
-      <item value="Data Extraction Rules" />
-      <item value="Consecutive Scroller" />
-      <item value="Locked Orientation Activity" />
-      <item value="Indicates that it is okay for this activity to be put in multi-window mode. Intended for a multi-window device where there can be multiple activities of various sizes on the screen at the same time. The default value is false for applications with targetSdkVersion lesser than {@link android.os.Build.VERSION_CODESN} and true otherwise. Setting this flag to false lets the system know that the app may not be tested or optimized for multi-window environment. The system may still put such activity in multi-window with compatibility mode applied. It also does not guarantee that there will be no other apps in multi-window visible on screen (e.g. picture-in-picture) or on other displays. Therefore, this flag cannot be used to assure an exclusive resource access. NOTE: A task's root activity value is applied to all additional activities launched in the task. That is if the root activity of a task is resizeable then the system will treat all other activities in the task as resizeable and will not if the root activity isn't resizeable. NOTE: The value of {@link android.R.attrscreenOrientation} is ignored for resizeable activities when in multi-window mode." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="249" />
-        <entry key="ENGLISH" value="248" />
+        <entry key="CHINESE" value="251" />
+        <entry key="ENGLISH" value="250" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LATVIAN" value="1" />
