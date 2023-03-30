@@ -93,6 +93,17 @@
     <option name="newTranslationDialogY" value="792" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Warehouse Receipt Temporary List Adapter" />
+      <item value="仓库收货暂存列表" />
+      <item value="Warehouse Receipt Temporary Fragment" />
+      <item value="fragment warehouse temporary storage receipt" />
+      <item value="Warehouse Temporary Storage Receipt" />
+      <item value="仓库暂存收货" />
+      <item value="暂存收货" />
+      <item value="fragment dialog storehouse temporary receipt" />
+      <item value="仓库" />
+      <item value="storehouse" />
+      <item value="store staging" />
       <item value="收货货位" />
       <item value="Serializable" />
       <item value="item Number" />
@@ -132,22 +143,11 @@
       <item value="Have you created the publish closure? Missing userOrg." />
       <item value="Defines whether this view reacts to click events." />
       <item value="clip Bounds" />
-      <item value="Unable to start activity ComponentInfo{com.example.wanandroidcom.example.wanAndroid.ui.activity.MainActivity}: java.lang.IllegalStateException: Navigator com.example.wanAndroid.widget.navigation.CustomNavigator@8fa26e1 is replacing an already attached com.example.wanAndroid.widget.navigation.CustomNavigator@2a910dc" />
-      <item value="Overrides deprecated member in 'androidx.navigation.fragment.NavHostFragment'. Use {@link onCreateNavController(NavController)}" />
-      <item value="Overrides deprecated member in 'androidx.navigation.fragment.NavHostFragment'" />
-      <item value="Already have a pending vsync event. There should only be one at a time." />
-      <item value="support adaptive color gamut feature!" />
-      <item value="The specified message queue synchronization barrier token has not been posted or has already been removed" />
-      <item value="WaitForGcToComplete blocked RunEmptyCheckpoint on ProfileSaver for 30.148ms" />
-      <item value="Source Locked Orientation Activity" />
-      <item value="launch" />
-      <item value="bg launcher" />
-      <item value="Hi, are you still able to reproduce this? I took a look at maven central and it looks like the files are present: https: Glide's upload script does occasionally fail to upload an artifact, but I'm not seeing that this time." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="263" />
-        <entry key="ENGLISH" value="263" />
+        <entry key="CHINESE" value="273" />
+        <entry key="ENGLISH" value="274" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LATVIAN" value="1" />
