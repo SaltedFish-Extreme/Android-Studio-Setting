@@ -93,6 +93,7 @@
     <option name="newTranslationDialogY" value="792" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="包含" />
       <item value="Application com.tt.wms_app is waiting for the debugger on port 8100..." />
       <item value="Call requires API level 33 (current min is 19): android.os.BundlegetParcelableArrayList" />
       <item value="物料编码" />
@@ -142,12 +143,11 @@
       <item value="You should not lock orientation of your activities, so that you can support a good user experience for any device or orientation" />
       <item value="UI MODE NIGHT UNDEFINED" />
       <item value="The item's text contrast ratio is 3.41. This ratio is based on an estimated foreground color of FF4444 and an estimated background color of FFFFFF. Consider increasing this item's text contrast ratio to 4.50 or greater." />
-      <item value="Timber" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="257" />
-        <entry key="ENGLISH" value="257" />
+        <entry key="CHINESE" value="259" />
+        <entry key="ENGLISH" value="259" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LATVIAN" value="1" />
