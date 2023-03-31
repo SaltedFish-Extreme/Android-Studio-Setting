@@ -93,6 +93,7 @@
     <option name="newTranslationDialogY" value="792" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="指南针" />
       <item value="lottie loop" />
       <item value="on Animation Repeat" />
       <item value="Staging" />
@@ -131,7 +132,6 @@
       <item value="Nested Scrolling Parent" />
       <item value="Exception raised during rendering: Could not find string resource matching value 0x7F14FFFE (resolved name: layoutlib) in current configuration. Or the resolved value was not of type layout as expected" />
       <item value="Exception raised during rendering: Could not find string resource matching value 0x7F14FFFE (resolved name: layoutlib) in current configuration. Or the resolved value was not of type layout as expected. (Details)" />
-      <item value="指南针" />
       <item value="quality" />
       <item value="It looks like you are trying to substitute a version variable, but using single quotes ('). For Groovy string interpolation you must use double quotes (&quot;)." />
       <item value="0" />
@@ -146,7 +146,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="276" />
+        <entry key="CHINESE" value="277" />
         <entry key="ENGLISH" value="277" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
