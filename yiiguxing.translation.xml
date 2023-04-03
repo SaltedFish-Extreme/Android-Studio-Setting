@@ -93,8 +93,11 @@
     <option name="newTranslationDialogY" value="792" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="Attribute usesCleartextTraffic is only used in API level 23 and higher (current min is 19)" />
+      <item value="Cleartext HTTP traffic to 101.132.141.149 not permitted" />
+      <item value="JPUSH MESSAGE" />
+      <item value="Installation failed due to: 'Failed to commit install session 2138979027 with command cmd package install-commit 2138979027. Error: INSTALL_FAILED_DUPLICATE_PERMISSION: Package com.tt.wms_huishi_app_2021 attempting to redeclare permission com.by.assembly.permission.JPUSH_MESSAGE already owned by com.tt.wms_app'" />
       <item value="uses Cleartext Traffic" />
+      <item value="Attribute usesCleartextTraffic is only used in API level 23 and higher (current min is 19)" />
       <item value=": Cleartext HTTP traffic to 101.132.141.149 not permitted" />
       <item value="Lottie doesn't support layer effects. If you are using them for fills, strokes, trim paths etc. then try adding them directly as contents in your shape. Found: []" />
       <item value="Unreachable code" />
@@ -140,14 +143,11 @@
       <item value="Unable to start activity ComponentInfo{com.example.wanandroidcom.example.wanAndroid.ui.activity.WebActivity}: java.lang.IllegalStateException: This Activity already has an action bar supplied by the window decor. Do not request Window.FEATURE_SUPPORT_ACTION_BAR and set windowActionBar to false in your theme to use a Toolbar instead." />
       <item value="Bridge" />
       <item value="Specifies that this view should permit nested scrolling within a compatible ancestor view" />
-      <item value="Nested Scrolling Parent" />
-      <item value="Exception raised during rendering: Could not find string resource matching value 0x7F14FFFE (resolved name: layoutlib) in current configuration. Or the resolved value was not of type layout as expected" />
-      <item value="Exception raised during rendering: Could not find string resource matching value 0x7F14FFFE (resolved name: layoutlib) in current configuration. Or the resolved value was not of type layout as expected. (Details)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="287" />
-        <entry key="ENGLISH" value="287" />
+        <entry key="CHINESE" value="290" />
+        <entry key="ENGLISH" value="291" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LATVIAN" value="1" />
