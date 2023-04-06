@@ -88,11 +88,13 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="998" />
+    <option name="newTranslationDialogWidth" value="996" />
     <option name="newTranslationDialogX" value="102" />
     <option name="newTranslationDialogY" value="792" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Using internal inset dimension resource navigation_bar_height is not supported" />
+      <item value="Material Toolbar" />
       <item value="prepareKotlinBuildScriptModel UP-TO-DATE" />
       <item value="Could not resolve all dependencies for configuration ':app:debugRuntimeClasspath'. Could not determine artifacts for androidx.vectordrawable:vectordrawable-animated:1.0.0: Skipped due to earlier error" />
       <item value="Skipped due to earlier error" />
@@ -141,12 +143,10 @@
       <item value="托盘码" />
       <item value="物料编码" />
       <item value="包含" />
-      <item value="Application com.tt.wms_app is waiting for the debugger on port 8100..." />
-      <item value="Call requires API level 33 (current min is 19): android.os.BundlegetParcelableArrayList" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="303" />
+        <entry key="CHINESE" value="305" />
         <entry key="ENGLISH" value="304" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
