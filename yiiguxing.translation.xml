@@ -93,6 +93,7 @@
     <option name="newTranslationDialogY" value="792" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="消息" />
       <item value="fill Enabled" />
       <item value="Using internal inset dimension resource navigation_bar_height is not supported" />
       <item value="Material Toolbar" />
@@ -142,12 +143,11 @@
       <item value="Serializable" />
       <item value="item Number" />
       <item value="托盘码" />
-      <item value="物料编码" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="305" />
-        <entry key="ENGLISH" value="305" />
+        <entry key="CHINESE" value="307" />
+        <entry key="ENGLISH" value="307" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LATVIAN" value="1" />
