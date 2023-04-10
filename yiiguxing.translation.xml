@@ -93,6 +93,8 @@
     <option name="newTranslationDialogY" value="792" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="circle" />
+      <item value="圆形按钮禁用状态颜色" />
       <item value="material Theme Overlay" />
       <item value="生动" />
       <item value="Unexpected resource reference type; expected value of type @color" />
@@ -141,13 +143,11 @@
       <item value="仓库暂存收货" />
       <item value="暂存收货" />
       <item value="fragment dialog storehouse temporary receipt" />
-      <item value="仓库" />
-      <item value="storehouse" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="311" />
-        <entry key="ENGLISH" value="310" />
+        <entry key="CHINESE" value="312" />
+        <entry key="ENGLISH" value="312" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LATVIAN" value="1" />
