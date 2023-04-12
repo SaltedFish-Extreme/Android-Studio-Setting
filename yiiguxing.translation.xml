@@ -93,6 +93,9 @@
     <option name="newTranslationDialogY" value="792" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="handle Bottom Nav Scale Animator" />
+      <item value="handle With Animator Set" />
+      <item value="Reselected" />
       <item value="java.lang.IllegalArgumentException: Navigation actiondestination 1 cannot be found from the current destination Destination(com.example.smile:idhome_page) label=HomeFragment class=com.example.smile.ui.fragment.HomeFragment" />
       <item value="Expecting member declaration" />
       <item value="Index Out Of Bounds Exception" />
@@ -140,14 +143,11 @@
       <item value=": Cleartext HTTP traffic to 101.132.141.149 not permitted" />
       <item value="Lottie doesn't support layer effects. If you are using them for fills, strokes, trim paths etc. then try adding them directly as contents in your shape. Found: []" />
       <item value="Unreachable code" />
-      <item value="lottie loop" />
-      <item value="lottie default Font File Extension" />
-      <item value="lottie render Mode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="326" />
-        <entry key="ENGLISH" value="327" />
+        <entry key="CHINESE" value="329" />
+        <entry key="ENGLISH" value="330" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LATVIAN" value="1" />
