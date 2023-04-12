@@ -93,6 +93,7 @@
     <option name="newTranslationDialogY" value="792" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="java.lang.IllegalArgumentException: Navigation actiondestination 1 cannot be found from the current destination Destination(com.example.smile:idhome_page) label=HomeFragment class=com.example.smile.ui.fragment.HomeFragment" />
       <item value="Expecting member declaration" />
       <item value="Index Out Of Bounds Exception" />
       <item value="java.lang.NullPointerException: Attempt to invoke interface method 'android.view.MenuItem android.view.MenuItem.setIcon(android.graphics.drawable.Drawable)' on a null object reference" />
@@ -142,12 +143,11 @@
       <item value="lottie loop" />
       <item value="lottie default Font File Extension" />
       <item value="lottie render Mode" />
-      <item value="hardware" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="326" />
-        <entry key="ENGLISH" value="326" />
+        <entry key="ENGLISH" value="327" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LATVIAN" value="1" />
