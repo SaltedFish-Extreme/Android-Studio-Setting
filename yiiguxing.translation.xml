@@ -93,6 +93,7 @@
     <option name="newTranslationDialogY" value="792" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="IllegalArgumentException: Navigation actiondestination 1 cannot be found from the current destination Destination(com.example.smile:idhome_page) label=HomeFragment class=com.example.smile.ui.fragment.HomeFragment" />
       <item value="Information" />
       <item value="消息" />
       <item value="划一划" />
@@ -142,12 +143,11 @@
       <item value="指南针" />
       <item value="on Animation Repeat" />
       <item value="Staging" />
-      <item value="Warehouse Receipt Temporary List Adapter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="319" />
-        <entry key="ENGLISH" value="320" />
+        <entry key="CHINESE" value="320" />
+        <entry key="ENGLISH" value="321" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LATVIAN" value="1" />
