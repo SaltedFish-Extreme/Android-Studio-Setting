@@ -93,6 +93,7 @@
     <option name="newTranslationDialogY" value="792" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Index Out Of Bounds Exception" />
       <item value="java.lang.NullPointerException: Attempt to invoke interface method 'android.view.MenuItem android.view.MenuItem.setIcon(android.graphics.drawable.Drawable)' on a null object reference" />
       <item value="Interface Function does not have constructors" />
       <item value="Unable to start activity ComponentInfo{com.example.smilecom.example.smile.ui.activity.MainActivity}: java.lang.IllegalArgumentException: Maximum number of items supported by BottomNavigationView is 5. Limit can be checked with BottomNavigationViewgetMaxItemCount()" />
@@ -142,12 +143,11 @@
       <item value="lottie render Mode" />
       <item value="hardware" />
       <item value="lottie fallback Res" />
-      <item value="没有网络" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="324" />
-        <entry key="ENGLISH" value="325" />
+        <entry key="CHINESE" value="325" />
+        <entry key="ENGLISH" value="326" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LATVIAN" value="1" />
