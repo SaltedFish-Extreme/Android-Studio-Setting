@@ -93,6 +93,13 @@
     <option name="newTranslationDialogY" value="784" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="dontskipnonpubliclibraryclasses" />
+      <item value="dontskipnonpubliclibraryclassmembers" />
+      <item value="dontpreverify" />
+      <item value="Flag ignored by R8" />
+      <item value="Application classes that will be serializeddeserialized over Gson" />
+      <item value="Caused by: [CIRCULAR REFERENCE: com.android.tools.r8.utils.b: Missing class org.bouncycastle.jsse.BCSSLParameters (referenced from: void okhttp3.internal.platform.BouncyCastlePlatform.configureTlsExtensions(javax.net.ssl.SSLSocket, java.lang.String, java.util.List) and 1 other context)" />
+      <item value="AGPBI: {&quot;kind&quot;:&quot;error&quot;,&quot;text&quot;:&quot;Missing classes detected while running R8. Please add the missing classes or apply additional keep rules that are generated in D:\\AndroidStudioProjects\\Smile\\app\\build\\outputs\\mapping\\release\\missing_rules.txt.&quot;,&quot;sources&quot;:[{}]} AGPBI: {&quot;kind&quot;:&quot;error&quot;,&quot;text&quot;:&quot;Missing class org.bouncycastle.jsse.BCSSLParameters (referenced from: void okhttp3.internal.platform.BouncyCastlePlatform.configureTlsExtensions(javax.net.ssl.SSLSocket, java.lang.String, java.util.List) and 1 other context)\r\nMissing class org.bouncycastle.jsse.BCSSLSocket (referenced from: void okhttp3.internal.platform.BouncyCastlePlatform.configureTlsExtensions(javax.net.ssl.SSLSocket, java.lang.String, java.util.List) and 5 other contexts)\r\nMissing class org.bouncycastle.jsse.provider.BouncyCastleJsseProvider (referenced from: void okhttp3.internal.platform.BouncyCastlePlatform.&lt;init&gt;())\r\nMissing class org.conscrypt.ConscryptVersion (referenced from: boolean okhttp3.internal.platform.ConscryptPlatformCompanion.atLeastVersion(int, int, int))\r\nMissing class org.conscrypt.Conscrypt (referenced from: boolean okhttp3.internal.platform.ConscryptPlatformCompanion.atLeastVersion(int, int, int) and 4 other contexts)\r\nMissing class org.conscrypt.ConscryptHostnameVerifier (referenced from: okhttp3.internal.platform.ConscryptPlatformDisabledHostnameVerifier)\r\nMissing class org.openjsse.javax.net.ssl.SSLParameters (referenced from: void okhttp3.internal.platform.OpenJSSEPlatform.configureTlsExtensions(javax.net.ssl.SSLSocket, java.lang.String, java.util.List))\r\nMissing class org.openjsse.javax.net.ssl.SSLSocket (referenced from: void okhttp3.internal.platform.OpenJSSEPlatform.configureTlsExtensions(javax.net.ssl.SSLSocket, java.lang.String, java.util.List) and 1 other context)\r\nMissing class org.openjsse.net.ssl.OpenJSSE (referenced from: void okhttp3.internal.platform.OpenJSSEPlatform.&lt;init&gt;())&quot;,&quot;sources&quot;:[{}],&quot;tool&quot;:&quot;R8&quot;} Missing classes detected while running R8. Please add the missing classes or apply additional keep rules that are generated in D:\AndroidStudioProjects\Smile\app\build\outputs\mapping\release\missing_rules.txt." />
       <item value="'compileDebugJavaWithJavac' task (current target is 1.8) and 'kaptGenerateStubsDebugKotlin' task (current target is 17) jvm target compatibility should be set to the same Java version. Consider using JVM toolchain" />
       <item value="noinspection" />
       <item value="Missing x86 and x86_64 ABI support for ChromeOS" />
@@ -136,18 +143,11 @@
       <item value="Using internal inset dimension resource navigation_bar_height is not supported" />
       <item value="Material Toolbar" />
       <item value="prepareKotlinBuildScriptModel UP-TO-DATE" />
-      <item value="Could not resolve all dependencies for configuration ':app:debugRuntimeClasspath'. Could not determine artifacts for androidx.vectordrawable:vectordrawable-animated:1.0.0: Skipped due to earlier error" />
-      <item value="Skipped due to earlier error" />
-      <item value="&lt;item name=&quot;colorAccent&quot;&gt;@colordeep_sky_blue&lt;item&gt;" />
-      <item value="dynamic color" />
-      <item value="Unable to start activity ComponentInfo{com.example.smilecom.example.smile.ui.activity.MainActivity}: java.lang.NullPointerException: menuView.getChildAt(i).f…ewById(android.R.id.icon) must not be null" />
-      <item value="State identifier indicating that the object is currently checked. See {@link android.R.attrstate_checkable} for an additional identifier that can indicate if any object may ever display a check, regardless of whether state_checked is currently set" />
-      <item value="android.graphics.drawable.StateListDrawable StateListDrawable}, set when a view (or one of its parents) is currently selected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="339" />
-        <entry key="ENGLISH" value="340" />
+        <entry key="CHINESE" value="345" />
+        <entry key="ENGLISH" value="346" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LATVIAN" value="1" />
