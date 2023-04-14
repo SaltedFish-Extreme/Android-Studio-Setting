@@ -93,6 +93,10 @@
     <option name="newTranslationDialogY" value="784" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="'compileDebugJavaWithJavac' task (current target is 1.8) and 'kaptGenerateStubsDebugKotlin' task (current target is 17) jvm target compatibility should be set to the same Java version. Consider using JVM toolchain" />
+      <item value="noinspection" />
+      <item value="Missing x86 and x86_64 ABI support for ChromeOS" />
+      <item value="Could not find method disable() for arguments [HardcodedText] on BuildTypeAgpDecorated_Decorated{name=lintOptions, debuggable=false, testCoverageEnabled=false, jniDebuggable=false, pseudoLocalesEnabled=false, renderscriptDebuggable=false, renderscriptOptimLevel=3, minifyEnabled=false, zipAlignEnabled=true, signingConfig=null, embedMicroApp=true, mBuildConfigFields={}, mResValues={}, mProguardFiles=[], mConsumerProguardFiles=[], mManifestPlaceholders={}} of type com.android.build.gradle.internal.dsl.BuildTypeAgpDecorated." />
       <item value="Themed app icons and dynamic color Compose Tracing Physical Devices Mirroring App Quality Insights Window Updates to the New Project and New Module wizards Network Inspector traffic interception Auto-connnect to foreground process in Layout Inspector Updates to App Quality Insights Build Analyzer task categories One-click automated profileable build and run New settings plugin Breaking changes: R class defaults Breaking changes: build feature default values changed Lint support for SDK extensions IntelliJ IDEA 2022.2 platform update Android Studio bundled with JDK 17 JDK 17 required to run AGP 8.0" />
       <item value="REQUEST INSTALL PACKAGES" />
       <item value="set Force Download" />
@@ -139,15 +143,11 @@
       <item value="Unable to start activity ComponentInfo{com.example.smilecom.example.smile.ui.activity.MainActivity}: java.lang.NullPointerException: menuView.getChildAt(i).f…ewById(android.R.id.icon) must not be null" />
       <item value="State identifier indicating that the object is currently checked. See {@link android.R.attrstate_checkable} for an additional identifier that can indicate if any object may ever display a check, regardless of whether state_checked is currently set" />
       <item value="android.graphics.drawable.StateListDrawable StateListDrawable}, set when a view (or one of its parents) is currently selected" />
-      <item value="PROFILE" />
-      <item value="raw" />
-      <item value="design bottom navigation active text size" />
-      <item value="lottie clip To Composition Bounds" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="337" />
-        <entry key="ENGLISH" value="337" />
+        <entry key="CHINESE" value="339" />
+        <entry key="ENGLISH" value="340" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LATVIAN" value="1" />
