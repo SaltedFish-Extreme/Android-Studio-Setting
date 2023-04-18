@@ -93,6 +93,7 @@
     <option name="newTranslationDialogY" value="784" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="notify Data Set Changed" />
       <item value="Job StandaloneCoroutine{Cancelling}@52925d8 is already complete or completing, but is being completed with CompletedExceptionally[java.lang.RuntimeException: Parcelable encountered IOException writing serializable object (name = kotlinx.coroutines.CoroutinesInternalError)]" />
       <item value="取消收藏" />
       <item value="Active Indicator" />
@@ -142,12 +143,11 @@
       <item value="circle" />
       <item value="圆形按钮禁用状态颜色" />
       <item value="material Theme Overlay" />
-      <item value="生动" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="351" />
-        <entry key="ENGLISH" value="352" />
+        <entry key="CHINESE" value="352" />
+        <entry key="ENGLISH" value="353" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LATVIAN" value="1" />
