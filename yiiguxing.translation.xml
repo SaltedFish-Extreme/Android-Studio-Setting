@@ -93,6 +93,9 @@
     <option name="newTranslationDialogY" value="784" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Coordinator Layout" />
+      <item value="src Compat" />
+      <item value="The id of an anchor view that this view should position relative to" />
       <item value="Your build is currently configured to use Java 17.0.6 and Gradle 5.1.1." />
       <item value="info" />
       <item value="消息" />
@@ -140,14 +143,11 @@
       <item value="Index Out Of Bounds Exception" />
       <item value="java.lang.NullPointerException: Attempt to invoke interface method 'android.view.MenuItem android.view.MenuItem.setIcon(android.graphics.drawable.Drawable)' on a null object reference" />
       <item value="Interface Function does not have constructors" />
-      <item value="Unable to start activity ComponentInfo{com.example.smilecom.example.smile.ui.activity.MainActivity}: java.lang.IllegalArgumentException: Maximum number of items supported by BottomNavigationView is 5. Limit can be checked with BottomNavigationViewgetMaxItemCount()" />
-      <item value="information" />
-      <item value="IllegalArgumentException: Navigation actiondestination 1 cannot be found from the current destination Destination(com.example.smile:idhome_page) label=HomeFragment class=com.example.smile.ui.fragment.HomeFragment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="360" />
-        <entry key="ENGLISH" value="361" />
+        <entry key="CHINESE" value="362" />
+        <entry key="ENGLISH" value="363" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LATVIAN" value="1" />
