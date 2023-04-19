@@ -93,6 +93,7 @@
     <option name="newTranslationDialogY" value="784" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Your build is currently configured to use Java 17.0.6 and Gradle 5.1.1." />
       <item value="info" />
       <item value="消息" />
       <item value="消息页" />
@@ -142,12 +143,11 @@
       <item value="Unable to start activity ComponentInfo{com.example.smilecom.example.smile.ui.activity.MainActivity}: java.lang.IllegalArgumentException: Maximum number of items supported by BottomNavigationView is 5. Limit can be checked with BottomNavigationViewgetMaxItemCount()" />
       <item value="information" />
       <item value="IllegalArgumentException: Navigation actiondestination 1 cannot be found from the current destination Destination(com.example.smile:idhome_page) label=HomeFragment class=com.example.smile.ui.fragment.HomeFragment" />
-      <item value="Information" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="359" />
-        <entry key="ENGLISH" value="360" />
+        <entry key="CHINESE" value="360" />
+        <entry key="ENGLISH" value="361" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LATVIAN" value="1" />
