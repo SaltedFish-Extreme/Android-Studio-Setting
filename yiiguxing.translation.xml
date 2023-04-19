@@ -93,6 +93,16 @@
     <option name="newTranslationDialogY" value="784" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="info" />
+      <item value="消息" />
+      <item value="消息页" />
+      <item value="Information Fragment" />
+      <item value="划一划" />
+      <item value="Evenly" />
+      <item value="头像" />
+      <item value="Profile Fragment" />
+      <item value="警告" />
+      <item value="提示" />
       <item value="shape Corner Family" />
       <item value="notify Data Set Changed" />
       <item value="Job StandaloneCoroutine{Cancelling}@52925d8 is already complete or completing, but is being completed with CompletedExceptionally[java.lang.RuntimeException: Parcelable encountered IOException writing serializable object (name = kotlinx.coroutines.CoroutinesInternalError)]" />
@@ -133,21 +143,11 @@
       <item value="information" />
       <item value="IllegalArgumentException: Navigation actiondestination 1 cannot be found from the current destination Destination(com.example.smile:idhome_page) label=HomeFragment class=com.example.smile.ui.fragment.HomeFragment" />
       <item value="Information" />
-      <item value="消息" />
-      <item value="划一划" />
-      <item value="发布" />
-      <item value="comp page" />
-      <item value="Compass Fragment" />
-      <item value="style" />
-      <item value="item Ripple Color" />
-      <item value="circle" />
-      <item value="圆形按钮禁用状态颜色" />
-      <item value="material Theme Overlay" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="353" />
-        <entry key="ENGLISH" value="354" />
+        <entry key="CHINESE" value="359" />
+        <entry key="ENGLISH" value="360" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LATVIAN" value="1" />
