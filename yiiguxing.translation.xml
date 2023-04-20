@@ -93,6 +93,7 @@
     <option name="newTranslationDialogY" value="784" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="This item may not have a label readable by screen readers." />
       <item value="Coordinator Layout" />
       <item value="src Compat" />
       <item value="The id of an anchor view that this view should position relative to" />
@@ -142,11 +143,10 @@
       <item value="Expecting member declaration" />
       <item value="Index Out Of Bounds Exception" />
       <item value="java.lang.NullPointerException: Attempt to invoke interface method 'android.view.MenuItem android.view.MenuItem.setIcon(android.graphics.drawable.Drawable)' on a null object reference" />
-      <item value="Interface Function does not have constructors" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="362" />
+        <entry key="CHINESE" value="363" />
         <entry key="ENGLISH" value="363" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
