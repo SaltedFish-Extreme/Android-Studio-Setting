@@ -93,6 +93,7 @@
     <option name="newTranslationDialogY" value="784" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="kotlinx.serialization.MissingFieldException: Fields [latitudeLongitude, videoSize] are required for type with serial name 'com.example.smile.model.JokeConentModel.Joke', but they were missing" />
       <item value="段子" />
       <item value="获取验证码" />
       <item value="Const 'val' should not have a delegate" />
@@ -142,12 +143,11 @@
       <item value="Themed app icons and dynamic color Compose Tracing Physical Devices Mirroring App Quality Insights Window Updates to the New Project and New Module wizards Network Inspector traffic interception Auto-connnect to foreground process in Layout Inspector Updates to App Quality Insights Build Analyzer task categories One-click automated profileable build and run New settings plugin Breaking changes: R class defaults Breaking changes: build feature default values changed Lint support for SDK extensions IntelliJ IDEA 2022.2 platform update Android Studio bundled with JDK 17 JDK 17 required to run AGP 8.0" />
       <item value="REQUEST INSTALL PACKAGES" />
       <item value="set Force Download" />
-      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.smilecom.example.smile.ui.activity.MainActivity}: android.view.InflateException: Binary XML file line 49 in com.example.smile:layoutactivity_main: Binary XML file line 49 in com.example.smile:layoutactivity_main: Error inflating class com.ittianyu.bottomnavigationviewex.BottomNavigationViewEx" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="373" />
-        <entry key="ENGLISH" value="371" />
+        <entry key="ENGLISH" value="372" />
         <entry key="GALICIAN" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="LATIN" value="1" />
