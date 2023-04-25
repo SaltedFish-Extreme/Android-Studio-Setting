@@ -93,6 +93,10 @@
     <option name="newTranslationDialogY" value="784" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="warehouse receipt temporary" />
+      <item value="pallet Staging Models" />
+      <item value="staging Pallet List" />
+      <item value="暂存托盘列表" />
       <item value="暂存托盘" />
       <item value="暂存" />
       <item value="Whole Pallet Storage Temporary List Adapter" />
@@ -139,15 +143,11 @@
       <item value="notify Data Set Changed" />
       <item value="Job StandaloneCoroutine{Cancelling}@52925d8 is already complete or completing, but is being completed with CompletedExceptionally[java.lang.RuntimeException: Parcelable encountered IOException writing serializable object (name = kotlinx.coroutines.CoroutinesInternalError)]" />
       <item value="取消收藏" />
-      <item value="Active Indicator" />
-      <item value="cut" />
-      <item value="compat Shadow" />
-      <item value="compat Shadow Enabled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="380" />
-        <entry key="ENGLISH" value="380" />
+        <entry key="CHINESE" value="384" />
+        <entry key="ENGLISH" value="385" />
         <entry key="GALICIAN" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="LATIN" value="1" />
