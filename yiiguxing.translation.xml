@@ -93,6 +93,7 @@
     <option name="newTranslationDialogY" value="784" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="persistent" />
       <item value="Only one class may appear in a supertype list" />
       <item value="托盘暂存列表托盘码" />
       <item value="目标库位" />
@@ -142,12 +143,11 @@
       <item value="划一划" />
       <item value="Evenly" />
       <item value="头像" />
-      <item value="Profile Fragment" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="391" />
-        <entry key="ENGLISH" value="390" />
+        <entry key="ENGLISH" value="391" />
         <entry key="GALICIAN" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="LATIN" value="1" />
