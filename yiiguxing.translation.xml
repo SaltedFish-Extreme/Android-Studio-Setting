@@ -93,6 +93,10 @@
     <option name="newTranslationDialogY" value="784" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="transform" />
+      <item value="initialize" />
+      <item value="restore" />
+      <item value="Expression 'boundingRects' of type '(Mutable)List&lt;Rect!&gt;' cannot be invoked as a function. The function 'invoke()' is not found" />
       <item value="获取设备圆角半径" />
       <item value="display Metrics" />
       <item value="屏幕工具类" />
@@ -139,15 +143,11 @@
       <item value="Const 'val' should not have a delegate" />
       <item value="序列号" />
       <item value="get Serail" />
-      <item value="Conflicting overloads: public final fun getVersionCode(): Int defined in com.example.smile.app.AppConfig, public final fun getVersionCode(): Int defined in com.example.smile.app.AppConfig" />
-      <item value="A problem occurred evaluating project ':jiguang'. &gt; Build was configured to prefer settings repositories over project repositories but repository 'flatDir' was added by build file 'jiguang\build.gradle'" />
-      <item value="&gt; Could not create an instance of type com.android.build.api.variant.impl.LibraryVariantBuilderImpl. &gt; Namespace not specified. Please specify a namespace in the module's build.gradle file like so:" />
-      <item value="This declaration overrides deprecated member but not marked as deprecated itself. This deprecation won't be inherited in future releases. Please add" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="400" />
-        <entry key="ENGLISH" value="400" />
+        <entry key="CHINESE" value="403" />
+        <entry key="ENGLISH" value="404" />
         <entry key="GALICIAN" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="LATIN" value="1" />
