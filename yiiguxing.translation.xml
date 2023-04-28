@@ -93,6 +93,10 @@
     <option name="newTranslationDialogY" value="784" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="学习和工作" />
+      <item value="键盘" />
+      <item value="const val" />
+      <item value="Joke Content Model" />
       <item value="dontskipnonpubliclibraryclasses" />
       <item value="dontskipnonpubliclibraryclassmembers" />
       <item value="dontpreverify" />
@@ -139,15 +143,11 @@
       <item value="Coordinator Layout" />
       <item value="src Compat" />
       <item value="The id of an anchor view that this view should position relative to" />
-      <item value="Your build is currently configured to use Java 17.0.6 and Gradle 5.1.1." />
-      <item value="info" />
-      <item value="消息" />
-      <item value="消息页" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="393" />
-        <entry key="ENGLISH" value="394" />
+        <entry key="CHINESE" value="396" />
+        <entry key="ENGLISH" value="396" />
         <entry key="GALICIAN" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="LATIN" value="1" />
