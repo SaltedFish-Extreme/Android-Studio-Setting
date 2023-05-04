@@ -94,6 +94,10 @@
     <option name="newTranslationDialogY" value="784" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="推荐片段" />
+      <item value="推荐" />
+      <item value="关注" />
+      <item value="Follow Fragment" />
       <item value="require View" />
       <item value="Get the root view for the fragment's layout (the one returned by onCreateView)." />
       <item value="layout anchor Gravity" />
@@ -140,15 +144,11 @@
       <item value="ECB encryption mode should not be used" />
       <item value="parsing key" />
       <item value="AES解析密钥" />
-      <item value="java.security.InvalidKeyException: Unsupported key size: 306 bytes" />
-      <item value=".MissingFieldException: Fields [latitudeLongitude, videoSize] are required for type with serial name 'com.example.smile.model.JokeConentModel.Joke', but they were missing" />
-      <item value="kotlinx.serialization.MissingFieldException: Fields [latitudeLongitude, videoSize] are required for type with serial name 'com.example.smile.model.JokeConentModel.Joke', but they were missing" />
-      <item value="段子" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="406" />
-        <entry key="ENGLISH" value="406" />
+        <entry key="CHINESE" value="408" />
+        <entry key="ENGLISH" value="408" />
         <entry key="GALICIAN" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="LATIN" value="1" />
