@@ -93,12 +93,18 @@
     <option name="newTranslationDialogY" value="784" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="推荐" />
+      <item value="首页推荐" />
+      <item value="趣图" />
+      <item value="plaintext" />
+      <item value="Plain" />
+      <item value="纯文本" />
+      <item value="纯文本&#10;" />
       <item value="plain text" />
       <item value="纯文" />
       <item value="纯" />
       <item value="新鲜" />
       <item value="推荐片段" />
-      <item value="推荐" />
       <item value="关注" />
       <item value="Follow Fragment" />
       <item value="require View" />
@@ -137,17 +143,11 @@
       <item value="暂存托盘列表" />
       <item value="暂存托盘" />
       <item value="暂存" />
-      <item value="Whole Pallet Storage Temporary List Adapter" />
-      <item value="整托移库" />
-      <item value="Temporary List" />
-      <item value="整拖移库暂存" />
-      <item value="整托移库暂存" />
-      <item value="Direct Move TP" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="414" />
-        <entry key="ENGLISH" value="415" />
+        <entry key="CHINESE" value="420" />
+        <entry key="ENGLISH" value="420" />
         <entry key="GALICIAN" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="LATIN" value="1" />
