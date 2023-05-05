@@ -85,6 +85,7 @@
     </option>
     <option name="primaryLanguage" value="CHINESE" />
     <option name="translateDocumentation" value="true" />
+    <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
@@ -93,6 +94,8 @@
     <option name="newTranslationDialogY" value="784" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="is Visible" />
+      <item value="viewpager Toolbar" />
       <item value="View Pager 2" />
       <item value="BEHAVIOR RESUME ONLY CURRENT FRAGMENT" />
       <item value="推荐" />
@@ -141,13 +144,11 @@
       <item value="staging Pallet List" />
       <item value="upload Whole Pallet Staging Data" />
       <item value="warehouse receipt temporary" />
-      <item value="pallet Staging Models" />
-      <item value="暂存托盘列表" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="421" />
-        <entry key="ENGLISH" value="422" />
+        <entry key="CHINESE" value="423" />
+        <entry key="ENGLISH" value="424" />
         <entry key="GALICIAN" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="LATIN" value="1" />
