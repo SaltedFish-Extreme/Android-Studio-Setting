@@ -75,7 +75,7 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1683171474088" />
+    <option name="lastTrimTime" value="1683610992186" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -86,6 +86,7 @@
     <option name="primaryLanguage" value="CHINESE" />
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
     <option name="translateDocumentation" value="true" />
+    <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
@@ -94,10 +95,11 @@
     <option name="newTranslationDialogY" value="784" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="签名" />
+      <item value="头像" />
       <item value="avatar" />
       <item value="&lt;com.example.smile.widget.view.PressAlphaTextView android:id=&quot;@+iditem_article_author&quot; android:layout_width=&quot;wrap_content&quot; android:layout_height=&quot;wrap_content&quot; android:layout_toEndOf=&quot;@idheader_image&quot; android:textColor=&quot;@colorcolor_article_author&quot; android:textSize=&quot;@dimensp_13&quot; tools:text=&quot;咸鱼至尊&quot; &gt;" />
       <item value="header image" />
-      <item value="头像" />
       <item value="Shapeable Image View" />
       <item value="Collect View" />
       <item value="The color &quot;color_article_chapter&quot; in values-night has no declaration in the base values folder; this can lead to crashes when the resource is queried in" />
@@ -143,12 +145,11 @@
       <item value="键盘" />
       <item value="const val" />
       <item value="Joke Content Model" />
-      <item value="dontskipnonpubliclibraryclasses" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="429" />
-        <entry key="ENGLISH" value="430" />
+        <entry key="CHINESE" value="431" />
+        <entry key="ENGLISH" value="431" />
         <entry key="GALICIAN" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="LATIN" value="1" />
