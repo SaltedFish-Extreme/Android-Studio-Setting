@@ -95,6 +95,7 @@
     <option name="newTranslationDialogY" value="784" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="max Ems" />
       <item value="card Corner Radius" />
       <item value="签名" />
       <item value="头像" />
@@ -144,12 +145,11 @@
       <item value="Attribute maxAspectRatio is only used in API level 26 and higher (current min is 24)" />
       <item value="学习和工作" />
       <item value="键盘" />
-      <item value="const val" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="431" />
-        <entry key="ENGLISH" value="432" />
+        <entry key="CHINESE" value="432" />
+        <entry key="ENGLISH" value="433" />
         <entry key="GALICIAN" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="LATIN" value="1" />
