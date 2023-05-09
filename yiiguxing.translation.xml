@@ -84,6 +84,7 @@
       </app-key>
     </option>
     <option name="primaryLanguage" value="CHINESE" />
+    <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.States">
@@ -93,6 +94,11 @@
     <option name="newTranslationDialogY" value="784" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="&lt;com.example.smile.widget.view.PressAlphaTextView android:id=&quot;@+iditem_article_author&quot; android:layout_width=&quot;wrap_content&quot; android:layout_height=&quot;wrap_content&quot; android:layout_toEndOf=&quot;@idheader_image&quot; android:textColor=&quot;@colorcolor_article_author&quot; android:textSize=&quot;@dimensp_13&quot; tools:text=&quot;咸鱼至尊&quot; &gt;" />
+      <item value="header image" />
+      <item value="avatar" />
+      <item value="头像" />
+      <item value="Shapeable Image View" />
       <item value="Collect View" />
       <item value="The color &quot;color_article_chapter&quot; in values-night has no declaration in the base values folder; this can lead to crashes when the resource is queried in" />
       <item value="token" />
@@ -138,16 +144,11 @@
       <item value="const val" />
       <item value="Joke Content Model" />
       <item value="dontskipnonpubliclibraryclasses" />
-      <item value="dontskipnonpubliclibraryclassmembers" />
-      <item value="dontpreverify" />
-      <item value="Flag ignored by R8" />
-      <item value="persistent" />
-      <item value="Only one class may appear in a supertype list" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="428" />
-        <entry key="ENGLISH" value="428" />
+        <entry key="CHINESE" value="429" />
+        <entry key="ENGLISH" value="430" />
         <entry key="GALICIAN" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="LATIN" value="1" />
