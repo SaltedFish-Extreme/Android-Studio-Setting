@@ -94,9 +94,9 @@
     <option name="newTranslationDialogY" value="784" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="avatar" />
       <item value="&lt;com.example.smile.widget.view.PressAlphaTextView android:id=&quot;@+iditem_article_author&quot; android:layout_width=&quot;wrap_content&quot; android:layout_height=&quot;wrap_content&quot; android:layout_toEndOf=&quot;@idheader_image&quot; android:textColor=&quot;@colorcolor_article_author&quot; android:textSize=&quot;@dimensp_13&quot; tools:text=&quot;咸鱼至尊&quot; &gt;" />
       <item value="header image" />
-      <item value="avatar" />
       <item value="头像" />
       <item value="Shapeable Image View" />
       <item value="Collect View" />
