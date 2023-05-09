@@ -95,6 +95,7 @@
     <option name="newTranslationDialogY" value="784" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="card Corner Radius" />
       <item value="签名" />
       <item value="头像" />
       <item value="avatar" />
@@ -144,12 +145,11 @@
       <item value="学习和工作" />
       <item value="键盘" />
       <item value="const val" />
-      <item value="Joke Content Model" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="431" />
-        <entry key="ENGLISH" value="431" />
+        <entry key="ENGLISH" value="432" />
         <entry key="GALICIAN" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="LATIN" value="1" />
