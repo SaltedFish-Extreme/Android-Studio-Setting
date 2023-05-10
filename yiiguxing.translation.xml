@@ -95,6 +95,11 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="comment" />
+      <item value="评论" />
+      <item value="论" />
+      <item value="sum" />
+      <item value="reveal" />
       <item value="开心" />
       <item value="This GridLayout view is unnecessary (no children, no background, no id, no style)" />
       <item value="图片" />
@@ -140,16 +145,11 @@
       <item value="纯文本" />
       <item value="纯文本&#10;" />
       <item value="plain text" />
-      <item value="纯文" />
-      <item value="纯" />
-      <item value="新鲜" />
-      <item value="推荐片段" />
-      <item value="Follow Fragment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="447" />
-        <entry key="ENGLISH" value="441" />
+        <entry key="CHINESE" value="449" />
+        <entry key="ENGLISH" value="446" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
