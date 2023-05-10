@@ -95,6 +95,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="位置" />
       <item value="The opacity of a path stroke, as a value between 0 (completely transparent) and 1 (completely opaque)" />
       <item value="stroke" />
       <item value="stroke Alpha" />
@@ -144,12 +145,11 @@
       <item value="推荐" />
       <item value="首页推荐" />
       <item value="趣图" />
-      <item value="plaintext" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="451" />
-        <entry key="ENGLISH" value="449" />
+        <entry key="CHINESE" value="452" />
+        <entry key="ENGLISH" value="450" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
