@@ -95,6 +95,7 @@
     <option name="newTranslationDialogY" value="784" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="图片" />
       <item value="已关注" />
       <item value="关注" />
       <item value="The image's contrast ratio is 1.94. This ratio is based on an estimated foreground color of 4AC7E3 and an estimated background color of FFFBFE. Consider increasing this ratio to 3.00 or greater." />
@@ -144,12 +145,11 @@
       <item value="Follow Fragment" />
       <item value="require View" />
       <item value="Get the root view for the fragment's layout (the one returned by onCreateView)." />
-      <item value="layout anchor Gravity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="445" />
-        <entry key="ENGLISH" value="440" />
+        <entry key="CHINESE" value="446" />
+        <entry key="ENGLISH" value="441" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
