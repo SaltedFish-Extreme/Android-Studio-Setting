@@ -95,6 +95,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="昵称" />
       <item value="Drawable Transition Options" />
       <item value="Not enough information to infer type variable R" />
       <item value="No value passed for parameter 'notNullAction'" />
@@ -144,12 +145,11 @@
       <item value="Missing class com.download.library.DownloadTaskDownloadTaskStatus (referenced from: void com.download.library.DownloadStatusListener.onDownloadStatusChanged(com.download.library.Extra, int) and 1 other context)" />
       <item value="Missing classes detected while running R8. Please add the missing classes or apply additional keep rules that are generated in D:\AndroidStudioProjects\WanAndroid\app\build\outputs\mapping\release\missing_rules.txt." />
       <item value="set On Menu Item Click Listener" />
-      <item value="is Visible" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="455" />
-        <entry key="ENGLISH" value="455" />
+        <entry key="CHINESE" value="456" />
+        <entry key="ENGLISH" value="456" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
