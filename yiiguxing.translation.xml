@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="This item may not have a label readable by screen readers." />
       <item value="No value passed for parameter 'value'" />
       <item value="Simple Adapter" />
       <item value="Expecting an index element" />
@@ -132,7 +133,6 @@
       <item value="appbar scrolling view behavior" />
       <item value="How to display the lack of a name" />
       <item value="Bottom navigation bar is not recommended for breakpoints &gt;= 600dp, which affects 3 preview configurations. Material Design recommends replacing bottom navigation bar with navigation rail or navigation drawer for breakpoints &gt;= 600dp." />
-      <item value="This item may not have a label readable by screen readers." />
       <item value="base z depth of the view." />
       <item value="省略号" />
       <item value="max Ems" />
@@ -147,7 +147,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="461" />
+        <entry key="CHINESE" value="462" />
         <entry key="ENGLISH" value="460" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
