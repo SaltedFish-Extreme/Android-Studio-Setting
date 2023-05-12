@@ -94,6 +94,10 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="is Empty" />
+      <item value="show Content" />
+      <item value="reveal happy" />
+      <item value="placeholder" />
       <item value="Cannot call this method while RecyclerView is computing a layout or scrolling androidx.recyclerview.widget.RecyclerView{5fce6c VFED..... ........ 0,0-1080,1798 7f0901e9 app:idrv}, adapter:com.example.smile.ui.adapter.JokeContentAdapter@563b0e, layout:androidx.recyclerview.widget" />
       <item value="This item may not have a label readable by screen readers." />
       <item value="No value passed for parameter 'value'" />
@@ -140,10 +144,6 @@
       <item value="card Corner Radius" />
       <item value="签名" />
       <item value="头像" />
-      <item value="avatar" />
-      <item value="&lt;com.example.smile.widget.view.PressAlphaTextView android:id=&quot;@+iditem_article_author&quot; android:layout_width=&quot;wrap_content&quot; android:layout_height=&quot;wrap_content&quot; android:layout_toEndOf=&quot;@idheader_image&quot; android:textColor=&quot;@colorcolor_article_author&quot; android:textSize=&quot;@dimensp_13&quot; tools:text=&quot;咸鱼至尊&quot; &gt;" />
-      <item value="header image" />
-      <item value="Shapeable Image View" />
     </histories>
     <option name="languageScores">
       <map>
