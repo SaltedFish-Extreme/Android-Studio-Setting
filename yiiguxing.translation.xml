@@ -95,6 +95,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="页码" />
       <item value="is Empty" />
       <item value="show Content" />
       <item value="reveal happy" />
@@ -144,12 +145,11 @@
       <item value="max Ems" />
       <item value="card Corner Radius" />
       <item value="签名" />
-      <item value="头像" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="462" />
-        <entry key="ENGLISH" value="461" />
+        <entry key="CHINESE" value="463" />
+        <entry key="ENGLISH" value="462" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
