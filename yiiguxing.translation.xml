@@ -95,6 +95,8 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="override fun" />
+      <item value="abstract" />
       <item value="lifecycle Owner" />
       <item value="@layoutitem_save_picture does not contain a declaration with id save_picture" />
       <item value="Avoid passing null as the view root (needed to resolve layout parameters on the inflated layout's root element)" />
@@ -143,13 +145,11 @@
       <item value="com.huantansheng.easyphotos.ui.widget.PressedTextView-9 can overlap @idhot if @stringconcern grows due to localized text expansion" />
       <item value="appbar scrolling view behavior" />
       <item value="How to display the lack of a name" />
-      <item value="Bottom navigation bar is not recommended for breakpoints &gt;= 600dp, which affects 3 preview configurations. Material Design recommends replacing bottom navigation bar with navigation rail or navigation drawer for breakpoints &gt;= 600dp." />
-      <item value="base z depth of the view." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="466" />
-        <entry key="ENGLISH" value="464" />
+        <entry key="ENGLISH" value="466" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
