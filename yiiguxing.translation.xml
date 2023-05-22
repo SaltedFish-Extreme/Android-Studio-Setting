@@ -95,6 +95,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="装饰" />
       <item value="Home Follow API" />
       <item value="Home Focus API" />
       <item value="Home Follow Fragment" />
@@ -144,11 +145,10 @@
       <item value="comment" />
       <item value="评论" />
       <item value="论" />
-      <item value="sum" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="477" />
+        <entry key="CHINESE" value="478" />
         <entry key="ENGLISH" value="478" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
