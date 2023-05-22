@@ -95,6 +95,11 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Home Focus API" />
+      <item value="首页关注API" />
+      <item value="Home Watch API" />
+      <item value="Home Recommend API" />
+      <item value="关注列表" />
       <item value="layout" />
       <item value="override fun" />
       <item value="abstract" />
@@ -140,16 +145,11 @@
       <item value="The image's contrast ratio is 1.94. This ratio is based on an estimated foreground color of 4AC7E3 and an estimated background color of FFFBFE. Consider increasing this ratio to 3.00 or greater." />
       <item value="The item's text contrast ratio is 3.41. This ratio is based on an estimated foreground color of FF4444 and an estimated background color of FFFFFF. Consider increasing this item's text contrast ratio to 4.50 or greater." />
       <item value="Consider modifying the LayoutParams to allow for text expansion." />
-      <item value="The image's contrast ratio is 2.75. This ratio is based on an estimated foreground color of 9C9C9C and an estimated background color of FFFFFF. Consider increasing this ratio to 3.00 or greater." />
-      <item value="concern" />
-      <item value="logout" />
-      <item value="com.huantansheng.easyphotos.ui.widget.PressedTextView-9 can overlap @idhot if @stringconcern grows due to localized text expansion" />
-      <item value="appbar scrolling view behavior" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="466" />
-        <entry key="ENGLISH" value="467" />
+        <entry key="CHINESE" value="469" />
+        <entry key="ENGLISH" value="470" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
