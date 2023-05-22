@@ -95,6 +95,13 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="fragment message" />
+      <item value="Profile Fragment" />
+      <item value="example" />
+      <item value="message page" />
+      <item value="info page" />
+      <item value="profile page" />
+      <item value="Cogwheels" />
       <item value="Home Focus API" />
       <item value="首页关注API" />
       <item value="Home Watch API" />
@@ -138,18 +145,11 @@
       <item value="sum" />
       <item value="reveal" />
       <item value="开心" />
-      <item value="This GridLayout view is unnecessary (no children, no background, no id, no style)" />
-      <item value="图片" />
-      <item value="已关注" />
-      <item value="关注" />
-      <item value="The image's contrast ratio is 1.94. This ratio is based on an estimated foreground color of 4AC7E3 and an estimated background color of FFFBFE. Consider increasing this ratio to 3.00 or greater." />
-      <item value="The item's text contrast ratio is 3.41. This ratio is based on an estimated foreground color of FF4444 and an estimated background color of FFFFFF. Consider increasing this item's text contrast ratio to 4.50 or greater." />
-      <item value="Consider modifying the LayoutParams to allow for text expansion." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="469" />
-        <entry key="ENGLISH" value="470" />
+        <entry key="CHINESE" value="474" />
+        <entry key="ENGLISH" value="475" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
