@@ -95,6 +95,9 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Home Follow API" />
+      <item value="Home Focus API" />
+      <item value="Home Follow Fragment" />
       <item value="fragment message" />
       <item value="Profile Fragment" />
       <item value="example" />
@@ -102,7 +105,6 @@
       <item value="info page" />
       <item value="profile page" />
       <item value="Cogwheels" />
-      <item value="Home Focus API" />
       <item value="首页关注API" />
       <item value="Home Watch API" />
       <item value="Home Recommend API" />
@@ -143,13 +145,11 @@
       <item value="评论" />
       <item value="论" />
       <item value="sum" />
-      <item value="reveal" />
-      <item value="开心" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="474" />
-        <entry key="ENGLISH" value="475" />
+        <entry key="CHINESE" value="477" />
+        <entry key="ENGLISH" value="478" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
