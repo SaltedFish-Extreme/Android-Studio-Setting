@@ -95,6 +95,10 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="concern" />
+      <item value="follow" />
+      <item value="w" />
+      <item value="followed" />
       <item value="follower" />
       <item value="粉丝数量" />
       <item value="item recommend follow not" />
@@ -141,21 +145,18 @@
       <item value="Drawable Transition Options" />
       <item value="Not enough information to infer type variable R" />
       <item value="No value passed for parameter 'notNullAction'" />
-      <item value="shape stroke Color" />
-      <item value="shape solid Color" />
-      <item value="shape shadow Color" />
-      <item value="位置" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="484" />
-        <entry key="ENGLISH" value="485" />
+        <entry key="CHINESE" value="487" />
+        <entry key="ENGLISH" value="488" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="JAPANESE" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LATVIAN" value="1" />
+        <entry key="POLISH" value="1" />
       </map>
     </option>
   </component>
