@@ -95,6 +95,12 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="follower" />
+      <item value="粉丝数量" />
+      <item value="item recommend follow not" />
+      <item value="未登录" />
+      <item value="关注" />
+      <item value="推荐" />
       <item value="Uninstall hasn't detected folder of IntelliJ IDEA installation. Probablyuninstall.exe was moved from the installation folder." />
       <item value="装饰" />
       <item value="Home Follow API" />
@@ -139,17 +145,11 @@
       <item value="shape solid Color" />
       <item value="shape shadow Color" />
       <item value="位置" />
-      <item value="The opacity of a path stroke, as a value between 0 (completely transparent) and 1 (completely opaque)" />
-      <item value="stroke" />
-      <item value="stroke Alpha" />
-      <item value="收藏" />
-      <item value="comment" />
-      <item value="评论" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="478" />
-        <entry key="ENGLISH" value="479" />
+        <entry key="CHINESE" value="484" />
+        <entry key="ENGLISH" value="485" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
