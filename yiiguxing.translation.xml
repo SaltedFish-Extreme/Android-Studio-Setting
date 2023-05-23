@@ -95,6 +95,8 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Recommend Follow User" />
+      <item value="推荐关注用户" />
       <item value="concern" />
       <item value="follow" />
       <item value="w" />
@@ -143,12 +145,10 @@
       <item value="Drawable Text View" />
       <item value="昵称" />
       <item value="Drawable Transition Options" />
-      <item value="Not enough information to infer type variable R" />
-      <item value="No value passed for parameter 'notNullAction'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="487" />
+        <entry key="CHINESE" value="489" />
         <entry key="ENGLISH" value="488" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
