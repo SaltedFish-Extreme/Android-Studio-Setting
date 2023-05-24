@@ -95,6 +95,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="间距" />
       <item value="recommend user" />
       <item value="推荐" />
       <item value="Refer users" />
@@ -144,11 +145,10 @@
       <item value="is Empty" />
       <item value="show Content" />
       <item value="reveal happy" />
-      <item value="placeholder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="498" />
+        <entry key="CHINESE" value="499" />
         <entry key="ENGLISH" value="499" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
