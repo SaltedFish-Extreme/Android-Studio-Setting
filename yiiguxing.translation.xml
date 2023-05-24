@@ -95,6 +95,11 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="recommend user" />
+      <item value="推荐" />
+      <item value="Refer users" />
+      <item value="Refer" />
+      <item value="推荐用户" />
       <item value="Unable to start activity ComponentInfo{com.example.smilecom.example.smile.ui.activity.MainActivity}: androidx.fragment.app.FragmentInstantiationException: Unable to instantiate fragment com.example.smile.ui.fragment.HomeChildFragment: could not find Fragment constructor" />
       <item value="Unable to instantiate fragment com.example.smile.ui.fragment.HomeChildFragment: could not find Fragment constructor" />
       <item value="已登录" />
@@ -112,7 +117,6 @@
       <item value="粉丝数量" />
       <item value="item recommend follow not" />
       <item value="关注" />
-      <item value="推荐" />
       <item value="Uninstall hasn't detected folder of IntelliJ IDEA installation. Probablyuninstall.exe was moved from the installation folder." />
       <item value="装饰" />
       <item value="Home Follow API" />
@@ -141,15 +145,11 @@
       <item value="show Content" />
       <item value="reveal happy" />
       <item value="placeholder" />
-      <item value="Cannot call this method while RecyclerView is computing a layout or scrolling androidx.recyclerview.widget.RecyclerView{5fce6c VFED..... ........ 0,0-1080,1798 7f0901e9 app:idrv}, adapter:com.example.smile.ui.adapter.JokeContentAdapter@563b0e, layout:androidx.recyclerview.widget" />
-      <item value="This item may not have a label readable by screen readers." />
-      <item value="No value passed for parameter 'value'" />
-      <item value="Simple Adapter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="495" />
-        <entry key="ENGLISH" value="496" />
+        <entry key="CHINESE" value="498" />
+        <entry key="ENGLISH" value="499" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
