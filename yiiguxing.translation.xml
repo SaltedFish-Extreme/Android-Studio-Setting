@@ -95,8 +95,11 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="未登录" />
       <item value="已登录" />
+      <item value="已经" />
+      <item value="not login" />
+      <item value="fragment home follow not login" />
+      <item value="未登录" />
       <item value="Recommend Follow User" />
       <item value="推荐关注用户" />
       <item value="concern" />
@@ -142,14 +145,11 @@
       <item value="Simple Adapter" />
       <item value="Expecting an index element" />
       <item value="String" />
-      <item value="get View" />
-      <item value="Drawable Text View" />
-      <item value="昵称" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="491" />
-        <entry key="ENGLISH" value="490" />
+        <entry key="CHINESE" value="494" />
+        <entry key="ENGLISH" value="494" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
