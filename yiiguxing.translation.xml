@@ -95,6 +95,8 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="未登录" />
+      <item value="已登录" />
       <item value="Recommend Follow User" />
       <item value="推荐关注用户" />
       <item value="concern" />
@@ -104,7 +106,6 @@
       <item value="follower" />
       <item value="粉丝数量" />
       <item value="item recommend follow not" />
-      <item value="未登录" />
       <item value="关注" />
       <item value="推荐" />
       <item value="Uninstall hasn't detected folder of IntelliJ IDEA installation. Probablyuninstall.exe was moved from the installation folder." />
@@ -144,12 +145,11 @@
       <item value="get View" />
       <item value="Drawable Text View" />
       <item value="昵称" />
-      <item value="Drawable Transition Options" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="489" />
-        <entry key="ENGLISH" value="488" />
+        <entry key="CHINESE" value="491" />
+        <entry key="ENGLISH" value="490" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
