@@ -95,6 +95,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="srl Enable Header Translation Content" />
       <item value="Multiple substitutions specified in non-positional format of string resource stringpage_num. Did you mean to add the formatted=&quot;false&quot; attribute?" />
       <item value="Failed to transform" />
       <item value="dialog images preview" />
@@ -144,12 +145,11 @@
       <item value="abstract" />
       <item value="lifecycle Owner" />
       <item value="@layoutitem_save_picture does not contain a declaration with id save_picture" />
-      <item value="Avoid passing null as the view root (needed to resolve layout parameters on the inflated layout's root element)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="503" />
-        <entry key="ENGLISH" value="504" />
+        <entry key="CHINESE" value="504" />
+        <entry key="ENGLISH" value="505" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
