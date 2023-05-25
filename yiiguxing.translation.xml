@@ -95,6 +95,9 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="dialog images preview" />
+      <item value="brower" />
+      <item value="预览" />
       <item value="间距" />
       <item value="recommend user" />
       <item value="推荐" />
@@ -142,14 +145,11 @@
       <item value="Avoid passing null as the view root (needed to resolve layout parameters on the inflated layout's root element)" />
       <item value="弹窗填充" />
       <item value="页码" />
-      <item value="is Empty" />
-      <item value="show Content" />
-      <item value="reveal happy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="499" />
-        <entry key="ENGLISH" value="499" />
+        <entry key="CHINESE" value="501" />
+        <entry key="ENGLISH" value="502" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
