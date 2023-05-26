@@ -95,6 +95,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="dialog images brower" />
       <item value="joke Content Data" />
       <item value="srl Enable Header Translation Content" />
       <item value="Multiple substitutions specified in non-positional format of string resource stringpage_num. Did you mean to add the formatted=&quot;false&quot; attribute?" />
@@ -144,12 +145,11 @@
       <item value="layout" />
       <item value="override fun" />
       <item value="abstract" />
-      <item value="lifecycle Owner" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="505" />
-        <entry key="ENGLISH" value="506" />
+        <entry key="CHINESE" value="506" />
+        <entry key="ENGLISH" value="507" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
