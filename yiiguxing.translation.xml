@@ -95,6 +95,8 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="淡灰白色" />
+      <item value="搜索框" />
       <item value="Do not treat position as fixed; only use immediately and call holder.getAdapterPosition() to look it up later" />
       <item value="Called when a view created by this holder has been attached to a window." />
       <item value="dialog images brower" />
@@ -143,13 +145,11 @@
       <item value="首页关注API" />
       <item value="Home Watch API" />
       <item value="Home Recommend API" />
-      <item value="关注列表" />
-      <item value="layout" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="509" />
-        <entry key="ENGLISH" value="508" />
+        <entry key="CHINESE" value="511" />
+        <entry key="ENGLISH" value="510" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
