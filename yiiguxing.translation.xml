@@ -90,11 +90,15 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="986" />
-    <option name="newTranslationDialogX" value="291" />
-    <option name="newTranslationDialogY" value="627" />
+    <option name="newTranslationDialogWidth" value="984" />
+    <option name="newTranslationDialogX" value="426" />
+    <option name="newTranslationDialogY" value="628" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Connection reset" />
+      <item value="Http Failure Exception" />
+      <item value="com.drake.net.exception.Http Failure Exception" />
+      <item value="Review LogCat for details, occurred exception: HttpFailureException" />
       <item value="关闭页面" />
       <item value="历史" />
       <item value="淡灰白色" />
@@ -141,15 +145,11 @@
       <item value="Profile Fragment" />
       <item value="example" />
       <item value="message page" />
-      <item value="info page" />
-      <item value="profile page" />
-      <item value="Cogwheels" />
-      <item value="首页关注API" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="513" />
-        <entry key="ENGLISH" value="512" />
+        <entry key="CHINESE" value="514" />
+        <entry key="ENGLISH" value="515" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
