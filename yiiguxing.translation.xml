@@ -95,6 +95,7 @@
     <option name="newTranslationDialogY" value="628" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="块" />
       <item value="Connection reset" />
       <item value="Http Failure Exception" />
       <item value="com.drake.net.exception.Http Failure Exception" />
@@ -144,7 +145,6 @@
       <item value="fragment message" />
       <item value="Profile Fragment" />
       <item value="example" />
-      <item value="message page" />
     </histories>
     <option name="languageScores">
       <map>
