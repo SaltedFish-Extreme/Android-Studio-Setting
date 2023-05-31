@@ -39,6 +39,10 @@
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
+  <action id="com.wuyr.google_library_query.QueryAction">
+    <keyboard-shortcut first-keystroke="ctrl alt q" />
+    <keyboard-shortcut first-keystroke="ctrl alt quote" />
+  </action>
   <action id="com.zxy.idea.plugin.fvbi.support.FindViewByIdGenerateAction">
     <keyboard-shortcut first-keystroke="shift ctrl windows" />
   </action>
