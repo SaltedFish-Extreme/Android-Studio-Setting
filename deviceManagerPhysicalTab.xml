@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="0b7ef937" />
+          </Key>
+        </key>
+        <name value="OnePlus GM1910" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="MF2CG120B03I217111" />
           </Key>
         </key>
@@ -44,17 +55,6 @@
         <name value="OnePlus ONEPLUS A5000" />
         <target value="Android 10.0" />
         <api value="androidversion:29:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="0b7ef937" />
-          </Key>
-        </key>
-        <name value="OnePlus GM1910" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
