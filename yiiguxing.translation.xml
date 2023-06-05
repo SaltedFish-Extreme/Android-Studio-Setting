@@ -90,11 +90,12 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="984" />
+    <option name="newTranslationDialogWidth" value="982" />
     <option name="newTranslationDialogX" value="426" />
     <option name="newTranslationDialogY" value="628" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="No value passed for parameter 'activity'" />
       <item value="SIZE ORIGINAL" />
       <item value="There's a cycle in the delegation calls chain" />
       <item value="Primary constructor call expected" />
@@ -144,11 +145,10 @@
       <item value="concern" />
       <item value="follow" />
       <item value="w" />
-      <item value="followed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="526" />
+        <entry key="CHINESE" value="527" />
         <entry key="ENGLISH" value="525" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
