@@ -95,6 +95,7 @@
     <option name="newTranslationDialogY" value="628" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="The integer literal does not conform to the expected type Int?" />
       <item value="Do not treat position as fixed; only use immediately and call holder.getAdapterPosition() to look it up later" />
       <item value="swipe Back Direction" />
       <item value="No value passed for parameter 'activity'" />
@@ -144,11 +145,10 @@
       <item value="Recommend Follow User" />
       <item value="推荐关注用户" />
       <item value="concern" />
-      <item value="follow" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="528" />
+        <entry key="CHINESE" value="529" />
         <entry key="ENGLISH" value="526" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
