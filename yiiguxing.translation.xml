@@ -90,11 +90,12 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="982" />
+    <option name="newTranslationDialogWidth" value="980" />
     <option name="newTranslationDialogX" value="426" />
     <option name="newTranslationDialogY" value="628" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Do not treat position as fixed; only use immediately and call holder.getAdapterPosition() to look it up later" />
       <item value="swipe Back Direction" />
       <item value="No value passed for parameter 'activity'" />
       <item value="SIZE ORIGINAL" />
@@ -118,7 +119,6 @@
       <item value="历史" />
       <item value="淡灰白色" />
       <item value="搜索框" />
-      <item value="Do not treat position as fixed; only use immediately and call holder.getAdapterPosition() to look it up later" />
       <item value="Called when a view created by this holder has been attached to a window." />
       <item value="dialog images brower" />
       <item value="joke Content Data" />
@@ -148,7 +148,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="527" />
+        <entry key="CHINESE" value="528" />
         <entry key="ENGLISH" value="526" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
