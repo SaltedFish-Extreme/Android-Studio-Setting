@@ -95,6 +95,7 @@
     <option name="newTranslationDialogY" value="711" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="reverse Layout" />
       <item value="scopeNetLife { val hotData = Post&lt;List&lt;String&gt;&gt;(NetApi.HomeHotSearchAPI).await() }" />
       <item value="unsafe.configuration-cache" />
       <item value="org.gradle.unsafe.configuration-cache" />
@@ -144,12 +145,11 @@
       <item value="Refer users" />
       <item value="Refer" />
       <item value="推荐用户" />
-      <item value="Unable to start activity ComponentInfo{com.example.smilecom.example.smile.ui.activity.MainActivity}: androidx.fragment.app.FragmentInstantiationException: Unable to instantiate fragment com.example.smile.ui.fragment.HomeChildFragment: could not find Fragment constructor" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="534" />
-        <entry key="ENGLISH" value="532" />
+        <entry key="ENGLISH" value="533" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
