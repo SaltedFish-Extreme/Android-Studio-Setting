@@ -86,7 +86,6 @@
     <option name="primaryLanguage" value="CHINESE" />
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
     <option name="translateDocumentation" value="true" />
-    <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
