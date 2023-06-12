@@ -94,6 +94,8 @@
     <option name="newTranslationDialogY" value="711" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Right Draw Edit Text" />
+      <item value="on Drawable Right Click Listener" />
       <item value="Add a text changed listener to this TextView using the provided actions" />
       <item value="Reveal View Dislike" />
       <item value="不喜欢" />
@@ -142,13 +144,11 @@
       <item value="srl Enable Header Translation Content" />
       <item value="Multiple substitutions specified in non-positional format of string resource stringpage_num. Did you mean to add the formatted=&quot;false&quot; attribute?" />
       <item value="Failed to transform" />
-      <item value="dialog images preview" />
-      <item value="brower" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="538" />
-        <entry key="ENGLISH" value="539" />
+        <entry key="CHINESE" value="540" />
+        <entry key="ENGLISH" value="541" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
