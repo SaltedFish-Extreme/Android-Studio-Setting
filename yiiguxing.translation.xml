@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="711" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Add a text changed listener to this TextView using the provided actions" />
       <item value="Reveal View Dislike" />
       <item value="不喜欢" />
       <item value="喜欢" />
@@ -143,12 +144,11 @@
       <item value="Failed to transform" />
       <item value="dialog images preview" />
       <item value="brower" />
-      <item value="预览" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="537" />
-        <entry key="ENGLISH" value="538" />
+        <entry key="CHINESE" value="538" />
+        <entry key="ENGLISH" value="539" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
