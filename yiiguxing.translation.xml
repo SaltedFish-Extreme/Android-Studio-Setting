@@ -75,7 +75,7 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1685927987954" />
+    <option name="lastTrimTime" value="1686533351131" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="711" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Edit Text" />
       <item value="set On Debounced Item Click" />
       <item value="Restore our favorite pop-tart-rainbow friend in Android Studio" />
       <item value="reverse Layout" />
@@ -143,12 +144,11 @@
       <item value="间距" />
       <item value="recommend user" />
       <item value="推荐" />
-      <item value="Refer users" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="534" />
-        <entry key="ENGLISH" value="535" />
+        <entry key="CHINESE" value="535" />
+        <entry key="ENGLISH" value="536" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
