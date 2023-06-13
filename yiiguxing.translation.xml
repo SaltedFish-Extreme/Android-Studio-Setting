@@ -94,6 +94,9 @@
     <option name="newTranslationDialogY" value="711" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="搜索框" />
+      <item value="搜索栏" />
+      <item value="Multiple Gradle daemons might be spawned because the Gradle JDK and JAVA_HOME locations are different. Project 'Smile' is using the following JDK location when running Gradle: 'D:AndroidAndroid Studiojbr' The system environment variable JAVA_HOME is: 'D:\jdk-20.0.1' If you dont need to use different paths (or if JAVA_HOME is undefined), youcan avoid spawning multiple daemons by setting JAVA_HOME and the JDK locationto the same path." />
       <item value="取消搜索" />
       <item value="搜索完成" />
       <item value="Right Draw Edit Text" />
@@ -139,16 +142,13 @@
       <item value="关闭页面" />
       <item value="历史" />
       <item value="淡灰白色" />
-      <item value="搜索框" />
       <item value="Called when a view created by this holder has been attached to a window." />
       <item value="dialog images brower" />
-      <item value="joke Content Data" />
-      <item value="srl Enable Header Translation Content" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="542" />
-        <entry key="ENGLISH" value="542" />
+        <entry key="CHINESE" value="545" />
+        <entry key="ENGLISH" value="544" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
