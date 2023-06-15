@@ -94,6 +94,8 @@
     <option name="newTranslationDialogY" value="711" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="search Content" />
+      <item value="加载数据" />
       <item value="Parcel File Descriptor Rewinder Internal Rewinder" />
       <item value="Suppress Lint" />
       <item value="notify Data Set Changed" />
@@ -142,13 +144,11 @@
       <item value="solid Color" />
       <item value="块" />
       <item value="Connection reset" />
-      <item value="Http Failure Exception" />
-      <item value="com.drake.net.exception.Http Failure Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="548" />
-        <entry key="ENGLISH" value="549" />
+        <entry key="CHINESE" value="549" />
+        <entry key="ENGLISH" value="550" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
