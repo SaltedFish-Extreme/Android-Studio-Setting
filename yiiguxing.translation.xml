@@ -89,11 +89,12 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="974" />
-    <option name="newTranslationDialogX" value="315" />
-    <option name="newTranslationDialogY" value="711" />
+    <option name="newTranslationDialogWidth" value="972" />
+    <option name="newTranslationDialogX" value="91" />
+    <option name="newTranslationDialogY" value="691" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="The expression is unused" />
       <item value="search Content" />
       <item value="加载数据" />
       <item value="Parcel File Descriptor Rewinder Internal Rewinder" />
@@ -143,11 +144,10 @@
       <item value="stroke Color" />
       <item value="solid Color" />
       <item value="块" />
-      <item value="Connection reset" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="549" />
+        <entry key="CHINESE" value="550" />
         <entry key="ENGLISH" value="550" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
