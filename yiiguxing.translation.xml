@@ -75,7 +75,7 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1687164699244" />
+    <option name="lastTrimTime" value="1687681267234" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="691" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Could not resolve all files for configuration ':app:debugRuntimeClasspath'. &gt; Failed to transform BaseRecyclerViewAdapterHelper-3.0.14.aar (io.github.cymchad:BaseRecyclerViewAdapterHelper:3.0.14) to match attributes {artifactType=android-jni, org.gradle.category=library, org.gradle.libraryelements=jar, org.gradle.status=release, org.gradle.usage=java-runtime}." />
       <item value="renderscript" />
       <item value="non Transitive R Class" />
       <item value="non Final Res Ids" />
@@ -143,12 +144,11 @@
       <item value="Primary constructor call expected" />
       <item value="Request Options" />
       <item value="m Clip Circle" />
-      <item value="Alpha In" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="560" />
-        <entry key="ENGLISH" value="561" />
+        <entry key="CHINESE" value="561" />
+        <entry key="ENGLISH" value="562" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
