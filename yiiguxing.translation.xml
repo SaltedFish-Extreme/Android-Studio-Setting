@@ -94,6 +94,22 @@
     <option name="newTranslationDialogY" value="691" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="log in register" />
+      <item value="setup" />
+      <item value="设置" />
+      <item value="赏个好评" />
+      <item value="意见反馈" />
+      <item value="分享好友" />
+      <item value="审核失败" />
+      <item value="under review" />
+      <item value="审核中" />
+      <item value="客服" />
+      <item value="帖子" />
+      <item value="评论" />
+      <item value="点赞" />
+      <item value="收藏" />
+      <item value="乐豆" />
+      <item value="关注" />
       <item value="signature" />
       <item value="签名" />
       <item value="登录注册" />
@@ -128,27 +144,11 @@
       <item value="搜索栏" />
       <item value="Multiple Gradle daemons might be spawned because the Gradle JDK and JAVA_HOME locations are different. Project 'Smile' is using the following JDK location when running Gradle: 'D:AndroidAndroid Studiojbr' The system environment variable JAVA_HOME is: 'D:\jdk-20.0.1' If you dont need to use different paths (or if JAVA_HOME is undefined), youcan avoid spawning multiple daemons by setting JAVA_HOME and the JDK locationto the same path." />
       <item value="取消搜索" />
-      <item value="搜索完成" />
-      <item value="Right Draw Edit Text" />
-      <item value="on Drawable Right Click Listener" />
-      <item value="Add a text changed listener to this TextView using the provided actions" />
-      <item value="Reveal View Dislike" />
-      <item value="不喜欢" />
-      <item value="喜欢" />
-      <item value="Edit Text" />
-      <item value="set On Debounced Item Click" />
-      <item value="Restore our favorite pop-tart-rainbow friend in Android Studio" />
-      <item value="reverse Layout" />
-      <item value="scopeNetLife { val hotData = Post&lt;List&lt;String&gt;&gt;(NetApi.HomeHotSearchAPI).await() }" />
-      <item value="unsafe.configuration-cache" />
-      <item value="org.gradle.unsafe.configuration-cache" />
-      <item value="cache" />
-      <item value="configuration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="574" />
-        <entry key="ENGLISH" value="574" />
+        <entry key="CHINESE" value="589" />
+        <entry key="ENGLISH" value="590" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
