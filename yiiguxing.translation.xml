@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="691" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="followed" />
       <item value="log in register" />
       <item value="setup" />
       <item value="设置" />
@@ -143,12 +144,11 @@
       <item value="搜索框" />
       <item value="搜索栏" />
       <item value="Multiple Gradle daemons might be spawned because the Gradle JDK and JAVA_HOME locations are different. Project 'Smile' is using the following JDK location when running Gradle: 'D:AndroidAndroid Studiojbr' The system environment variable JAVA_HOME is: 'D:\jdk-20.0.1' If you dont need to use different paths (or if JAVA_HOME is undefined), youcan avoid spawning multiple daemons by setting JAVA_HOME and the JDK locationto the same path." />
-      <item value="取消搜索" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="589" />
-        <entry key="ENGLISH" value="590" />
+        <entry key="CHINESE" value="590" />
+        <entry key="ENGLISH" value="591" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
