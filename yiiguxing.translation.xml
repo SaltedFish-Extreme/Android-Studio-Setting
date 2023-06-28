@@ -89,11 +89,15 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="972" />
+    <option name="newTranslationDialogWidth" value="970" />
     <option name="newTranslationDialogX" value="91" />
     <option name="newTranslationDialogY" value="691" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="signature" />
+      <item value="签名" />
+      <item value="登录注册" />
+      <item value="百分比" />
       <item value="当前发运号" />
       <item value="waybill num" />
       <item value="Waybill Number" />
@@ -140,15 +144,11 @@
       <item value="org.gradle.unsafe.configuration-cache" />
       <item value="cache" />
       <item value="configuration" />
-      <item value="Some project dependencies require Jetifier Your project’s gradle.properties file includes 'android.enableJetifier=true'. This flag is needed to enable AndroidX for libraries that don’t support it natively. Learn more . This check found 3 declared dependencies that require legacy support libraries. Removing Jetifier could reduce project build time. To disable Jetifier you need to upgrade them to versions that do not require legacy support libraries or find alternatives. Run this check again to include recent changes to project files." />
-      <item value="Your project’s gradle.properties file includes 'android.enableJetifier=true'. This flag is needed to enable AndroidX for libraries that don’t support it natively. Learn more ." />
-      <item value="This check found 3 declared dependencies that require legacy support libraries. Removing Jetifier could reduce project build time. To disable Jetifier you need to upgrade them to versions that do not require legacy support libraries or find alternatives. Run this check again to include recent changes to project files" />
-      <item value="Do not use @Nullable in Kotlin; the nullability is determined by the Kotlin type Int not ending with ? which declares it not nullable, contradicting the" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="570" />
-        <entry key="ENGLISH" value="570" />
+        <entry key="CHINESE" value="574" />
+        <entry key="ENGLISH" value="574" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
