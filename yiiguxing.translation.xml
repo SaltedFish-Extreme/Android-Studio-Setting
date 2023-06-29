@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="691" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="day on night" />
       <item value="通知" />
       <item value="评论" />
       <item value="帖子" />
@@ -143,12 +144,11 @@
       <item value="Custom view `LinearLayout` has setOnTouchListener called on it but does not override performClick" />
       <item value="Clickable View Accessibility" />
       <item value="搜索框" />
-      <item value="搜索栏" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="592" />
-        <entry key="ENGLISH" value="592" />
+        <entry key="ENGLISH" value="593" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
