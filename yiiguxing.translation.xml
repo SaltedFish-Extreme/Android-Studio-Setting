@@ -89,11 +89,13 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="968" />
+    <option name="newTranslationDialogWidth" value="966" />
     <option name="newTranslationDialogX" value="91" />
     <option name="newTranslationDialogY" value="691" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="社区公约" />
+      <item value="客服" />
       <item value="day on night" />
       <item value="通知" />
       <item value="评论" />
@@ -108,7 +110,6 @@
       <item value="审核失败" />
       <item value="under review" />
       <item value="审核中" />
-      <item value="客服" />
       <item value="点赞" />
       <item value="收藏" />
       <item value="乐豆" />
@@ -143,11 +144,10 @@
       <item value="边缘" />
       <item value="Custom view `LinearLayout` has setOnTouchListener called on it but does not override performClick" />
       <item value="Clickable View Accessibility" />
-      <item value="搜索框" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="592" />
+        <entry key="CHINESE" value="593" />
         <entry key="ENGLISH" value="593" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
