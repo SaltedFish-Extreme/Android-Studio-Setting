@@ -89,11 +89,12 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="966" />
+    <option name="newTranslationDialogWidth" value="964" />
     <option name="newTranslationDialogX" value="91" />
     <option name="newTranslationDialogY" value="691" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="审核中" />
       <item value="社区公约" />
       <item value="客服" />
       <item value="day on night" />
@@ -109,7 +110,6 @@
       <item value="分享好友" />
       <item value="审核失败" />
       <item value="under review" />
-      <item value="审核中" />
       <item value="点赞" />
       <item value="收藏" />
       <item value="乐豆" />
