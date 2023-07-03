@@ -89,11 +89,22 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="962" />
+    <option name="newTranslationDialogWidth" value="956" />
     <option name="newTranslationDialogX" value="91" />
     <option name="newTranslationDialogY" value="690" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="评论" />
+      <item value="discuss" />
+      <item value="review" />
+      <item value="关注" />
+      <item value="收藏" />
+      <item value="赞" />
+      <item value="thumbs up" />
+      <item value="thumbsup" />
+      <item value="Thumbs up" />
+      <item value="praise" />
+      <item value="点赞" />
       <item value="社区公约" />
       <item value="客服" />
       <item value="我的客服" />
@@ -101,7 +112,6 @@
       <item value="审核中" />
       <item value="day on night" />
       <item value="通知" />
-      <item value="评论" />
       <item value="帖子" />
       <item value="followed" />
       <item value="log in register" />
@@ -111,10 +121,7 @@
       <item value="意见反馈" />
       <item value="分享好友" />
       <item value="under review" />
-      <item value="点赞" />
-      <item value="收藏" />
       <item value="乐豆" />
-      <item value="关注" />
       <item value="signature" />
       <item value="签名" />
       <item value="登录注册" />
@@ -137,18 +144,11 @@
       <item value="android.non Final Result Is=false" />
       <item value="android.non Final Res Ids=false" />
       <item value="The expression is unused" />
-      <item value="search Content" />
-      <item value="加载数据" />
-      <item value="Parcel File Descriptor Rewinder Internal Rewinder" />
-      <item value="Suppress Lint" />
-      <item value="notify Data Set Changed" />
-      <item value="边缘" />
-      <item value="Custom view `LinearLayout` has setOnTouchListener called on it but does not override performClick" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="597" />
-        <entry key="ENGLISH" value="597" />
+        <entry key="CHINESE" value="612" />
+        <entry key="ENGLISH" value="612" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
