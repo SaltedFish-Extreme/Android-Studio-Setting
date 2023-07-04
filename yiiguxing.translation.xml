@@ -94,6 +94,8 @@
     <option name="newTranslationDialogY" value="690" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="社区公约" />
+      <item value="Community Convention Activity" />
       <item value="评论" />
       <item value="discuss" />
       <item value="review" />
@@ -105,7 +107,6 @@
       <item value="Thumbs up" />
       <item value="praise" />
       <item value="点赞" />
-      <item value="社区公约" />
       <item value="客服" />
       <item value="我的客服" />
       <item value="审核失败" />
@@ -143,12 +144,11 @@
       <item value="obsolete" />
       <item value="android.non Final Result Is=false" />
       <item value="android.non Final Res Ids=false" />
-      <item value="The expression is unused" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="612" />
-        <entry key="ENGLISH" value="612" />
+        <entry key="CHINESE" value="613" />
+        <entry key="ENGLISH" value="613" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
