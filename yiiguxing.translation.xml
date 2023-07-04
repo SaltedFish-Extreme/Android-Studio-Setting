@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="690" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="TitleBar has already been defined in this folder" />
       <item value="社区公约" />
       <item value="Community Convention Activity" />
       <item value="评论" />
@@ -143,11 +144,10 @@
       <item value="buildconfig" />
       <item value="obsolete" />
       <item value="android.non Final Result Is=false" />
-      <item value="android.non Final Res Ids=false" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="613" />
+        <entry key="CHINESE" value="614" />
         <entry key="ENGLISH" value="613" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
