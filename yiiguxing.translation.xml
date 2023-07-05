@@ -94,6 +94,8 @@
     <option name="newTranslationDialogY" value="690" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="号码" />
+      <item value="客服" />
       <item value="As of Android 11, this method no longer returns information about all apps; see https:g.codevpackagevisibility for details" />
       <item value="检测应用安装" />
       <item value="TitleBar has already been defined in this folder" />
@@ -110,7 +112,6 @@
       <item value="Thumbs up" />
       <item value="praise" />
       <item value="点赞" />
-      <item value="客服" />
       <item value="我的客服" />
       <item value="审核失败" />
       <item value="审核中" />
@@ -143,12 +144,11 @@
       <item value="renderscript" />
       <item value="non Transitive R Class" />
       <item value="non Final Res Ids" />
-      <item value="buildconfig" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="615" />
-        <entry key="ENGLISH" value="613" />
+        <entry key="CHINESE" value="618" />
+        <entry key="ENGLISH" value="616" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
