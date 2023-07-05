@@ -89,11 +89,13 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="956" />
+    <option name="newTranslationDialogWidth" value="954" />
     <option name="newTranslationDialogX" value="91" />
     <option name="newTranslationDialogY" value="690" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="As of Android 11, this method no longer returns information about all apps; see https:g.codevpackagevisibility for details" />
+      <item value="检测应用安装" />
       <item value="TitleBar has already been defined in this folder" />
       <item value="社区公约" />
       <item value="Community Convention Activity" />
@@ -142,12 +144,10 @@
       <item value="non Transitive R Class" />
       <item value="non Final Res Ids" />
       <item value="buildconfig" />
-      <item value="obsolete" />
-      <item value="android.non Final Result Is=false" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="614" />
+        <entry key="CHINESE" value="615" />
         <entry key="ENGLISH" value="613" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
