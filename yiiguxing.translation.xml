@@ -89,11 +89,13 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="954" />
+    <option name="newTranslationDialogWidth" value="952" />
     <option name="newTranslationDialogX" value="91" />
     <option name="newTranslationDialogY" value="690" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="锚点" />
+      <item value="瞄点" />
       <item value="号码" />
       <item value="客服" />
       <item value="As of Android 11, this method no longer returns information about all apps; see https:g.codevpackagevisibility for details" />
@@ -142,13 +144,11 @@
       <item value="二维码" />
       <item value="Could not resolve all files for configuration ':app:debugRuntimeClasspath'. &gt; Failed to transform BaseRecyclerViewAdapterHelper-3.0.14.aar (io.github.cymchad:BaseRecyclerViewAdapterHelper:3.0.14) to match attributes {artifactType=android-jni, org.gradle.category=library, org.gradle.libraryelements=jar, org.gradle.status=release, org.gradle.usage=java-runtime}." />
       <item value="renderscript" />
-      <item value="non Transitive R Class" />
-      <item value="non Final Res Ids" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="618" />
-        <entry key="ENGLISH" value="616" />
+        <entry key="CHINESE" value="620" />
+        <entry key="ENGLISH" value="618" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
