@@ -94,6 +94,9 @@
     <option name="newTranslationDialogY" value="690" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="赞" />
+      <item value="点赞" />
+      <item value="经验" />
       <item value="louis" />
       <item value="fading Edge" />
       <item value="锚点" />
@@ -110,12 +113,10 @@
       <item value="review" />
       <item value="关注" />
       <item value="收藏" />
-      <item value="赞" />
       <item value="thumbs up" />
       <item value="thumbsup" />
       <item value="Thumbs up" />
       <item value="praise" />
-      <item value="点赞" />
       <item value="我的客服" />
       <item value="审核失败" />
       <item value="审核中" />
@@ -143,12 +144,11 @@
       <item value="shipment Num" />
       <item value="shipment num" />
       <item value="条形码" />
-      <item value="二维码" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="620" />
-        <entry key="ENGLISH" value="620" />
+        <entry key="CHINESE" value="623" />
+        <entry key="ENGLISH" value="623" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
