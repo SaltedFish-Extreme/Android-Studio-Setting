@@ -94,6 +94,8 @@
     <option name="newTranslationDialogY" value="822" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="协议" />
+      <item value="login protocol reminder" />
       <item value="协议提醒" />
       <item value="用户服务协议" />
       <item value="隐私政策" />
@@ -142,13 +144,11 @@
       <item value="day on night" />
       <item value="通知" />
       <item value="帖子" />
-      <item value="followed" />
-      <item value="log in register" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="638" />
-        <entry key="ENGLISH" value="638" />
+        <entry key="CHINESE" value="639" />
+        <entry key="ENGLISH" value="639" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
