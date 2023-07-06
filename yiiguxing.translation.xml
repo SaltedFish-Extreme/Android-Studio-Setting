@@ -89,11 +89,19 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="950" />
+    <option name="newTranslationDialogWidth" value="948" />
     <option name="newTranslationDialogX" value="-249" />
-    <option name="newTranslationDialogY" value="1031" />
+    <option name="newTranslationDialogY" value="822" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="获取验证码" />
+      <item value="验证码错误" />
+      <item value="账号或密码错误" />
+      <item value="Phone number format incorrect" />
+      <item value="手机号格式不正确" />
+      <item value="密码登录" />
+      <item value="密码登陆" />
+      <item value="验证码登陆" />
       <item value="closure" />
       <item value="ic closure" />
       <item value="关闭" />
@@ -136,19 +144,11 @@
       <item value="setup" />
       <item value="设置" />
       <item value="赏个好评" />
-      <item value="意见反馈" />
-      <item value="分享好友" />
-      <item value="under review" />
-      <item value="乐豆" />
-      <item value="signature" />
-      <item value="签名" />
-      <item value="登录注册" />
-      <item value="百分比" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="629" />
-        <entry key="ENGLISH" value="630" />
+        <entry key="CHINESE" value="635" />
+        <entry key="ENGLISH" value="635" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
