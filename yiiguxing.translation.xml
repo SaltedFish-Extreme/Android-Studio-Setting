@@ -75,7 +75,7 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1688117234150" />
+    <option name="lastTrimTime" value="1688610964948" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -89,11 +89,12 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="952" />
-    <option name="newTranslationDialogX" value="91" />
-    <option name="newTranslationDialogY" value="690" />
+    <option name="newTranslationDialogWidth" value="950" />
+    <option name="newTranslationDialogX" value="-249" />
+    <option name="newTranslationDialogY" value="1031" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="指定" />
       <item value="对其" />
       <item value="锚点" />
       <item value="输入" />
@@ -143,7 +144,6 @@
       <item value="Waybill Number" />
       <item value="运单号" />
       <item value="发运号" />
-      <item value="shipment Num" />
     </histories>
     <option name="languageScores">
       <map>
