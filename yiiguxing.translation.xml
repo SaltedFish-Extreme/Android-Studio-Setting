@@ -94,6 +94,8 @@
     <option name="newTranslationDialogY" value="1031" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Speci User Info Model" />
+      <item value="speci User Info Model" />
       <item value="指定" />
       <item value="对其" />
       <item value="锚点" />
@@ -142,13 +144,11 @@
       <item value="当前发运号" />
       <item value="waybill num" />
       <item value="Waybill Number" />
-      <item value="运单号" />
-      <item value="发运号" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="626" />
-        <entry key="ENGLISH" value="626" />
+        <entry key="CHINESE" value="627" />
+        <entry key="ENGLISH" value="628" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
