@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="822" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Represents the results from a single regular expression match." />
       <item value="用户服务协议" />
       <item value="Announcement Activity" />
       <item value="community Convention" />
@@ -143,12 +144,11 @@
       <item value="评论" />
       <item value="discuss" />
       <item value="review" />
-      <item value="关注" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="650" />
-        <entry key="ENGLISH" value="650" />
+        <entry key="ENGLISH" value="651" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
