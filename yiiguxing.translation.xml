@@ -94,6 +94,14 @@
     <option name="newTranslationDialogY" value="822" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="验证码发送成功" />
+      <item value="我要反馈" />
+      <item value="联系客服" />
+      <item value="forget password" />
+      <item value="忘记密码" />
+      <item value="取消" />
+      <item value="encounter problems" />
+      <item value="遇到问题" />
       <item value="协议" />
       <item value="login protocol reminder" />
       <item value="协议提醒" />
@@ -136,19 +144,11 @@
       <item value="收藏" />
       <item value="thumbs up" />
       <item value="thumbsup" />
-      <item value="Thumbs up" />
-      <item value="praise" />
-      <item value="我的客服" />
-      <item value="审核失败" />
-      <item value="审核中" />
-      <item value="day on night" />
-      <item value="通知" />
-      <item value="帖子" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="639" />
-        <entry key="ENGLISH" value="639" />
+        <entry key="CHINESE" value="646" />
+        <entry key="ENGLISH" value="646" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
