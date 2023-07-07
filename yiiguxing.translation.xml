@@ -94,6 +94,8 @@
     <option name="newTranslationDialogY" value="822" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="community Convention" />
+      <item value="公告" />
       <item value="隐私政策" />
       <item value="验证码发送成功" />
       <item value="我要反馈" />
@@ -142,13 +144,11 @@
       <item value="review" />
       <item value="关注" />
       <item value="收藏" />
-      <item value="thumbs up" />
-      <item value="thumbsup" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="647" />
-        <entry key="ENGLISH" value="647" />
+        <entry key="CHINESE" value="648" />
+        <entry key="ENGLISH" value="649" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
