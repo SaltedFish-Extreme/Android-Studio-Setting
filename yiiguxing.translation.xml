@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="822" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="home Menu Convert List To Model List" />
       <item value="Use of this function is discouraged because resource reflection makes it harder to perform build optimizations and compile-time verification of code." />
       <item value="convert arrays into objects collection" />
       <item value="convert arrays into collection" />
@@ -143,12 +144,11 @@
       <item value="客服" />
       <item value="As of Android 11, this method no longer returns information about all apps; see https:g.codevpackagevisibility for details" />
       <item value="检测应用安装" />
-      <item value="TitleBar has already been defined in this folder" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="655" />
-        <entry key="ENGLISH" value="654" />
+        <entry key="ENGLISH" value="655" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
