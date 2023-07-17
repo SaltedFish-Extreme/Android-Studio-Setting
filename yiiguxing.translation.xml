@@ -94,6 +94,8 @@
     <option name="newTranslationDialogY" value="822" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Possible solutions: 1. Add an input or output annotation. 2. Mark it as @Internal." />
+      <item value="回单" />
       <item value="num Columns" />
       <item value="home Menu Convert List To Model List" />
       <item value="Use of this function is discouraged because resource reflection makes it harder to perform build optimizations and compile-time verification of code." />
@@ -142,13 +144,11 @@
       <item value="fading Edge" />
       <item value="瞄点" />
       <item value="号码" />
-      <item value="客服" />
-      <item value="As of Android 11, this method no longer returns information about all apps; see https:g.codevpackagevisibility for details" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="655" />
-        <entry key="ENGLISH" value="656" />
+        <entry key="CHINESE" value="656" />
+        <entry key="ENGLISH" value="657" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
