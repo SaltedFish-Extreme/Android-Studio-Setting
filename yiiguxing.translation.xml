@@ -94,6 +94,9 @@
     <option name="newTranslationDialogY" value="822" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="服务协议提醒颜色" />
+      <item value="隐私政策提醒颜色" />
+      <item value="layout anchor Gravity" />
       <item value="Failed to apply plugin 'kotlin-kapt'. &gt; Extension with name 'kotlin' does not exist. Currently registered extension names: [ext, base, defaultArtifacts, sourceSets, reporting, java, javaToolchains, buildOutputs, android, aspectjx, kapt" />
       <item value="show Receipt Photo Dialog" />
       <item value="Malformed URL Exception" />
@@ -141,14 +144,11 @@
       <item value="closure" />
       <item value="ic closure" />
       <item value="关闭" />
-      <item value="Speci User Info Model" />
-      <item value="speci User Info Model" />
-      <item value="指定" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="665" />
-        <entry key="ENGLISH" value="666" />
+        <entry key="CHINESE" value="668" />
+        <entry key="ENGLISH" value="668" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
