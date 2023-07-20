@@ -94,6 +94,8 @@
     <option name="newTranslationDialogY" value="822" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Button Style" />
+      <item value="background Dim Enabled" />
       <item value="占位" />
       <item value="Just plain old text. Corresponds to {@link android.text.InputTypeTYPE_CLASS_TEXT} | {@link android.text.InputTypeTYPE_TEXT_VARIATION_NORMAL" />
       <item value="隐藏密码" />
@@ -142,13 +144,11 @@
       <item value="协议提醒" />
       <item value="获取验证码" />
       <item value="验证码错误" />
-      <item value="账号或密码错误" />
-      <item value="Phone number format incorrect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="672" />
-        <entry key="ENGLISH" value="672" />
+        <entry key="CHINESE" value="673" />
+        <entry key="ENGLISH" value="674" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
