@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="822" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="空白页" />
       <item value="Button Style" />
       <item value="background Dim Enabled" />
       <item value="占位" />
@@ -143,11 +144,10 @@
       <item value="login protocol reminder" />
       <item value="协议提醒" />
       <item value="获取验证码" />
-      <item value="验证码错误" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="673" />
+        <entry key="CHINESE" value="674" />
         <entry key="ENGLISH" value="674" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
