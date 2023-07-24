@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="822" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="layout srl Background Color" />
       <item value="to login" />
       <item value="去登陆" />
       <item value="tologin" />
@@ -143,12 +144,11 @@
       <item value="联系客服" />
       <item value="forget password" />
       <item value="忘记密码" />
-      <item value="取消" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="678" />
-        <entry key="ENGLISH" value="679" />
+        <entry key="CHINESE" value="679" />
+        <entry key="ENGLISH" value="680" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
