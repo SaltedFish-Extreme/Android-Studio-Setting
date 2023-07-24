@@ -94,6 +94,9 @@
     <option name="newTranslationDialogY" value="822" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="to login" />
+      <item value="去登陆" />
+      <item value="tologin" />
       <item value="activity reset password" />
       <item value="contact customer service" />
       <item value="Em.example.smil: Invalid ID 0x00000001." />
@@ -141,17 +144,15 @@
       <item value="forget password" />
       <item value="忘记密码" />
       <item value="取消" />
-      <item value="encounter problems" />
-      <item value="遇到问题" />
-      <item value="协议" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="676" />
-        <entry key="ENGLISH" value="677" />
+        <entry key="CHINESE" value="678" />
+        <entry key="ENGLISH" value="679" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
+        <entry key="INDONESIAN" value="1" />
         <entry key="JAPANESE" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LATVIAN" value="1" />
