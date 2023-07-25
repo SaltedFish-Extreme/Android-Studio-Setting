@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="822" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Parameters must have type annotation" />
       <item value="验证码格式错误" />
       <item value="手机号格式错误" />
       <item value="Smart cast to 'Editable' is impossible, because 'inputPhone.text' is a complex expression" />
@@ -143,11 +144,10 @@
       <item value="community Convention" />
       <item value="公告" />
       <item value="隐私政策" />
-      <item value="验证码发送成功" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="684" />
+        <entry key="CHINESE" value="685" />
         <entry key="ENGLISH" value="684" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
