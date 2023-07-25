@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="822" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Smart cast to 'Editable' is impossible, because 'inputPhone.text' is a complex expression" />
       <item value="re enter password" />
       <item value="layout srl Background Color" />
       <item value="to login" />
@@ -143,11 +144,10 @@
       <item value="验证码发送成功" />
       <item value="我要反馈" />
       <item value="联系客服" />
-      <item value="forget password" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="680" />
+        <entry key="CHINESE" value="681" />
         <entry key="ENGLISH" value="681" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
