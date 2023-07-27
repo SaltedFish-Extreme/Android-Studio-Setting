@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="759" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="load Animation" />
       <item value="Use Live Edit to update composables in real time New UI theme Support for Grammatical Inflection API Automatic per-app language support New API support for Compose Animation Preview View and manage processes in the Device Explorer New Android SDK Upgrade Assistant Support for Gradle Version Catalogs Enhanced diagnostic tools and bug reporting Make Selected Modules toolbar button Download info during sync Android Lint contains bytecode targeting JVM 17 Native library compression setting moved to DSL" />
       <item value="坐标" />
       <item value="Caused by: org.jetbrains.kotlin.gradle.tasks.CompilationErrorException: Compilation error. See log for more details" />
@@ -143,12 +144,11 @@
       <item value="Use of this function is discouraged because resource reflection makes it harder to perform build optimizations and compile-time verification of code." />
       <item value="convert arrays into objects collection" />
       <item value="convert arrays into collection" />
-      <item value="两个数组转成一个对象集合" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="691" />
-        <entry key="ENGLISH" value="687" />
+        <entry key="ENGLISH" value="688" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
