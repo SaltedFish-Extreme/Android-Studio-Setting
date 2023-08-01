@@ -89,11 +89,15 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="946" />
+    <option name="newTranslationDialogWidth" value="942" />
     <option name="newTranslationDialogX" value="-163" />
     <option name="newTranslationDialogY" value="759" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="联系方式" />
+      <item value="supplementary pictures" />
+      <item value="补充图片" />
+      <item value="描述问题" />
       <item value="The project is using an incompatible version (AGP 8.1.0) of the Android Gradle plugin. Latest supported version is AGP 8.0.2" />
       <item value="Feedback Activity" />
       <item value="load Animation" />
@@ -140,15 +144,11 @@
       <item value="Mark it as @Internal." />
       <item value="Add an input or output annotation." />
       <item value="Possible solutions: 1. Add an input or output annotation. 2. Mark it as @Internal." />
-      <item value="回单" />
-      <item value="num Columns" />
-      <item value="home Menu Convert List To Model List" />
-      <item value="Use of this function is discouraged because resource reflection makes it harder to perform build optimizations and compile-time verification of code." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="691" />
-        <entry key="ENGLISH" value="690" />
+        <entry key="CHINESE" value="695" />
+        <entry key="ENGLISH" value="693" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
