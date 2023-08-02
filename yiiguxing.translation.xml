@@ -94,10 +94,12 @@
     <option name="newTranslationDialogY" value="759" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="photo List" />
+      <item value="Upload Picture Adapter" />
+      <item value="上传添加图片适配器" />
       <item value="provider" />
       <item value="request Show Keyboard Shortcuts" />
       <item value="feedback Contact Info" />
-      <item value="photo List" />
       <item value="删除成功" />
       <item value="Photo" />
       <item value="set Dimmed Behind" />
@@ -142,13 +144,11 @@
       <item value="隐私政策提醒颜色" />
       <item value="layout anchor Gravity" />
       <item value="Failed to apply plugin 'kotlin-kapt'. &gt; Extension with name 'kotlin' does not exist. Currently registered extension names: [ext, base, defaultArtifacts, sourceSets, reporting, java, javaToolchains, buildOutputs, android, aspectjx, kapt" />
-      <item value="show Receipt Photo Dialog" />
-      <item value="Malformed URL Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="699" />
-        <entry key="ENGLISH" value="700" />
+        <entry key="CHINESE" value="702" />
+        <entry key="ENGLISH" value="703" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
