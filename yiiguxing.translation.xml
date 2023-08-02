@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="759" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Supertypes of the following classes cannot be resolved. Please make sure you have the required dependencies in the classpath: class com.example.smile.ui.adapter.UploadPictureAdapter, unresolved supertypes: Adapter&lt;MainVH&gt; Adding -Xextended-compiler-checks argument might provide additional information." />
       <item value="联系方式" />
       <item value="supplementary pictures" />
       <item value="补充图片" />
@@ -143,12 +144,11 @@
       <item value="In plugin 'com.android.build.gradle.api.AndroidBasePlugin' type 'com.android.build.gradle.tasks.CompatibleScreensManifest' property 'outputScope' is missing an input or output annotation." />
       <item value="Mark it as @Internal." />
       <item value="Add an input or output annotation." />
-      <item value="Possible solutions: 1. Add an input or output annotation. 2. Mark it as @Internal." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="695" />
-        <entry key="ENGLISH" value="693" />
+        <entry key="ENGLISH" value="694" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
