@@ -89,11 +89,12 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="942" />
+    <option name="newTranslationDialogWidth" value="940" />
     <option name="newTranslationDialogX" value="-163" />
     <option name="newTranslationDialogY" value="759" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="删除成功" />
       <item value="Photo" />
       <item value="set Dimmed Behind" />
       <item value="Supertypes of the following classes cannot be resolved. Please make sure you have the required dependencies in the classpath: class com.example.smile.ui.adapter.UploadPictureAdapter, unresolved supertypes: Adapter&lt;MainVH&gt; Adding -Xextended-compiler-checks argument might provide additional information." />
@@ -143,7 +144,6 @@
       <item value="The minCompileSdk (33) specified in a dependency's AAR metadata (META-INFcomandroidbuildgradleaar-metadata.properties) is greater than this module's compileSdkVersion (android-30). Dependency: androidx.appcompat:appcompat-resources:1.6.1. AAR metadata file: D:\Gradle\caches\transforms-3\a28bfbbb6191015c7ec6fa215b186c81\transformed\appcompat-resources-1.6.1\META-INF\com\android\build\gradle\aar-metadata.properties." />
       <item value="Version 28 (intended for Android Pie and below) is the last version of the legacy support library, so we recommend that you migrate to AndroidX libraries when using Android Q and moving forward. The IDE can help with this: Refactor &gt; Migrate to AndroidX.." />
       <item value="cruncher Enabled" />
-      <item value="In plugin 'com.android.build.gradle.api.AndroidBasePlugin' type 'com.android.build.gradle.tasks.CompatibleScreensManifest' property 'outputScope' is missing an input or output annotation." />
     </histories>
     <option name="languageScores">
       <map>
