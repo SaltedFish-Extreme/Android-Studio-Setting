@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="759" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="provider" />
       <item value="request Show Keyboard Shortcuts" />
       <item value="feedback Contact Info" />
       <item value="photo List" />
@@ -143,12 +144,11 @@
       <item value="Failed to apply plugin 'kotlin-kapt'. &gt; Extension with name 'kotlin' does not exist. Currently registered extension names: [ext, base, defaultArtifacts, sourceSets, reporting, java, javaToolchains, buildOutputs, android, aspectjx, kapt" />
       <item value="show Receipt Photo Dialog" />
       <item value="Malformed URL Exception" />
-      <item value="A failure occurred while executing com.android.build.gradle.internal.tasks.MergeJavaResWorkAction &gt; 2 files found with path 'META-INFandroidx.appcompat_appcompat.version' from inputs:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="698" />
-        <entry key="ENGLISH" value="699" />
+        <entry key="CHINESE" value="699" />
+        <entry key="ENGLISH" value="700" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
