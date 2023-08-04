@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="759" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Could not initialize class com.android.sdklib.repository.AndroidSdkHandler" />
       <item value="key doesn't match with scope" />
       <item value="upload failed" />
       <item value="upload success" />
@@ -143,12 +144,11 @@
       <item value="activity reset password" />
       <item value="contact customer service" />
       <item value="Em.example.smil: Invalid ID 0x00000001." />
-      <item value="空白页" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="713" />
-        <entry key="ENGLISH" value="714" />
+        <entry key="CHINESE" value="714" />
+        <entry key="ENGLISH" value="715" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
