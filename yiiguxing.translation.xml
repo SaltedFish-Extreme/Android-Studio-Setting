@@ -89,11 +89,13 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="940" />
+    <option name="newTranslationDialogWidth" value="938" />
     <option name="newTranslationDialogX" value="-163" />
     <option name="newTranslationDialogY" value="759" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Serializer has not been found for type 'Any'. To use context serializer as fallback, explicitly annotate type or property with @Contextual" />
+      <item value="Serializer has not been found for type 'Any?'. To use context serializer as fallback, explicitly annotate type or property with @Contextual" />
       <item value="咸鱼空间" />
       <item value="salted-fish-scope" />
       <item value="意见反馈" />
@@ -142,12 +144,10 @@
       <item value="re enter password" />
       <item value="layout srl Background Color" />
       <item value="to login" />
-      <item value="去登陆" />
-      <item value="tologin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="718" />
+        <entry key="CHINESE" value="720" />
         <entry key="ENGLISH" value="718" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
