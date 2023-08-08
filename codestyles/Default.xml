@@ -26,7 +26,7 @@
       <emptyLine />
     </value>
   </option>
-  <option name="RIGHT_MARGIN" value="130" />
+  <option name="RIGHT_MARGIN" value="140" />
   <option name="ENABLE_SECOND_REFORMAT" value="true" />
   <JavaCodeStyleSettings>
     <option name="FIELD_NAME_PREFIX" value="m" />
