@@ -89,11 +89,13 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="938" />
-    <option name="newTranslationDialogX" value="-163" />
-    <option name="newTranslationDialogY" value="759" />
+    <option name="newTranslationDialogWidth" value="936" />
+    <option name="newTranslationDialogX" value="167" />
+    <option name="newTranslationDialogY" value="743" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="This declaration overrides deprecated member but not marked as deprecated itself. This deprecation won't be inherited in future releases. Please add" />
+      <item value="'onActivityResult(Int, Int, Intent?): Unit' is deprecated. Overrides deprecated member in 'androidx.activity.ComponentActivity'. Deprecated in Java" />
       <item value="Data class must have at least one primary constructor parameter" />
       <item value="Serializer has not been found for type 'Nullable'. To use context serializer as fallback, explicitly annotate type or property with @Contextual" />
       <item value="Serializer for class 'Any' is not found. Please ensure that class is marked as '@Serializable' and that the serialization compiler plugin is applied." />
@@ -142,12 +144,10 @@
       <item value="'onClick' is an interface so it cannot be local. Try to use anonymous object or abstract class instead" />
       <item value="Return the view used as the content of the popup window." />
       <item value="复制成功" />
-      <item value="Parameters must have type annotation" />
-      <item value="验证码格式错误" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="722" />
+        <entry key="CHINESE" value="724" />
         <entry key="ENGLISH" value="721" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
