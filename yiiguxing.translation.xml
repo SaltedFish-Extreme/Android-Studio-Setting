@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="759" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="com.tencent.qqmini.sdk.MiniSDK.startMiniApp [class android.content.Context, class java.lang.String, int, int]" />
       <item value="Serializer has not been found for type 'Any'. To use context serializer as fallback, explicitly annotate type or property with @Contextual" />
       <item value="Serializer has not been found for type 'Any?'. To use context serializer as fallback, explicitly annotate type or property with @Contextual" />
       <item value="咸鱼空间" />
@@ -143,12 +144,11 @@
       <item value="Smart cast to 'Editable' is impossible, because 'inputPhone.text' is a complex expression" />
       <item value="re enter password" />
       <item value="layout srl Background Color" />
-      <item value="to login" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="720" />
-        <entry key="ENGLISH" value="718" />
+        <entry key="ENGLISH" value="719" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
