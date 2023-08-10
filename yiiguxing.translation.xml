@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="743" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Multiple substitutions specified in non-positional format of string resource stringpage_num. Did you mean to add the formatted=&quot;false&quot; attribute?" />
       <item value="FATAL EXCEPTION: main" />
       <item value="IllegalArgumentException: Illegal value type com.example.smile.ui.activity.MainActivity for key &quot;activity&quot;" />
       <item value="This declaration overrides deprecated member but not marked as deprecated itself. This deprecation won't be inherited in future releases. Please add" />
@@ -143,12 +144,11 @@
       <item value="坐标" />
       <item value="Caused by: org.jetbrains.kotlin.gradle.tasks.CompilationErrorException: Compilation error. See log for more details" />
       <item value="'onClicwqqwk' is an interface so it cannot be local. Try to use anonymous object or abstract class instead" />
-      <item value="'onClick' is an interface so it cannot be local. Try to use anonymous object or abstract class instead" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="724" />
-        <entry key="ENGLISH" value="723" />
+        <entry key="ENGLISH" value="724" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
