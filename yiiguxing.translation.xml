@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="743" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Photo" />
       <item value="Multiple substitutions specified in non-positional format of string resource stringpage_num. Did you mean to add the formatted=&quot;false&quot; attribute?" />
       <item value="FATAL EXCEPTION: main" />
       <item value="IllegalArgumentException: Illegal value type com.example.smile.ui.activity.MainActivity for key &quot;activity&quot;" />
@@ -130,7 +131,6 @@
       <item value="request Show Keyboard Shortcuts" />
       <item value="feedback Contact Info" />
       <item value="删除成功" />
-      <item value="Photo" />
       <item value="set Dimmed Behind" />
       <item value="Supertypes of the following classes cannot be resolved. Please make sure you have the required dependencies in the classpath: class com.example.smile.ui.adapter.UploadPictureAdapter, unresolved supertypes: Adapter&lt;MainVH&gt; Adding -Xextended-compiler-checks argument might provide additional information." />
       <item value="联系方式" />
@@ -148,7 +148,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="724" />
-        <entry key="ENGLISH" value="724" />
+        <entry key="ENGLISH" value="725" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
