@@ -89,11 +89,24 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="936" />
+    <option name="newTranslationDialogWidth" value="928" />
     <option name="newTranslationDialogX" value="167" />
     <option name="newTranslationDialogY" value="743" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Setting Sub Title Style" />
+      <item value="logout" />
+      <item value="评分" />
+      <item value="清除缓存" />
+      <item value="检查更新" />
+      <item value="其他设置" />
+      <item value="流量加载图片" />
+      <item value="数据网络加载图片" />
+      <item value="视频自动播放" />
+      <item value="已开启" />
+      <item value="未开启" />
+      <item value="推送开关" />
+      <item value="通用" />
       <item value="账号安全" />
       <item value="用户信息" />
       <item value="用户相关" />
@@ -131,24 +144,11 @@
       <item value="车牌号" />
       <item value="photo List" />
       <item value="Upload Picture Adapter" />
-      <item value="上传添加图片适配器" />
-      <item value="provider" />
-      <item value="request Show Keyboard Shortcuts" />
-      <item value="feedback Contact Info" />
-      <item value="删除成功" />
-      <item value="set Dimmed Behind" />
-      <item value="Supertypes of the following classes cannot be resolved. Please make sure you have the required dependencies in the classpath: class com.example.smile.ui.adapter.UploadPictureAdapter, unresolved supertypes: Adapter&lt;MainVH&gt; Adding -Xextended-compiler-checks argument might provide additional information." />
-      <item value="联系方式" />
-      <item value="supplementary pictures" />
-      <item value="补充图片" />
-      <item value="描述问题" />
-      <item value="The project is using an incompatible version (AGP 8.1.0) of the Android Gradle plugin. Latest supported version is AGP 8.0.2" />
-      <item value="Feedback Activity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="729" />
-        <entry key="ENGLISH" value="729" />
+        <entry key="CHINESE" value="738" />
+        <entry key="ENGLISH" value="739" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
