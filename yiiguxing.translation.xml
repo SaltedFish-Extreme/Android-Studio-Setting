@@ -94,6 +94,9 @@
     <option name="newTranslationDialogY" value="743" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="账号安全" />
+      <item value="用户信息" />
+      <item value="用户相关" />
       <item value="设置页面" />
       <item value="判断登录操作" />
       <item value="Photo" />
@@ -141,14 +144,11 @@
       <item value="描述问题" />
       <item value="The project is using an incompatible version (AGP 8.1.0) of the Android Gradle plugin. Latest supported version is AGP 8.0.2" />
       <item value="Feedback Activity" />
-      <item value="load Animation" />
-      <item value="Use Live Edit to update composables in real time New UI theme Support for Grammatical Inflection API Automatic per-app language support New API support for Compose Animation Preview View and manage processes in the Device Explorer New Android SDK Upgrade Assistant Support for Gradle Version Catalogs Enhanced diagnostic tools and bug reporting Make Selected Modules toolbar button Download info during sync Android Lint contains bytecode targeting JVM 17 Native library compression setting moved to DSL" />
-      <item value="坐标" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="726" />
-        <entry key="ENGLISH" value="726" />
+        <entry key="CHINESE" value="729" />
+        <entry key="ENGLISH" value="729" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
