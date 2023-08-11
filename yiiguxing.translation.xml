@@ -94,6 +94,9 @@
     <option name="newTranslationDialogY" value="743" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Login Or No" />
+      <item value="loginorno" />
+      <item value="是否登录" />
       <item value="Setting Sub Title Style" />
       <item value="logout" />
       <item value="评分" />
@@ -141,14 +144,11 @@
       <item value="Unsupported Operation Exception" />
       <item value="plate number" />
       <item value="number plate" />
-      <item value="车牌号" />
-      <item value="photo List" />
-      <item value="Upload Picture Adapter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="738" />
-        <entry key="ENGLISH" value="739" />
+        <entry key="CHINESE" value="739" />
+        <entry key="ENGLISH" value="740" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
@@ -157,6 +157,7 @@
         <entry key="LATIN" value="1" />
         <entry key="LATVIAN" value="1" />
         <entry key="POLISH" value="1" />
+        <entry key="RUSSIAN" value="1" />
       </map>
     </option>
   </component>
