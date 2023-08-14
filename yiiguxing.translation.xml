@@ -89,11 +89,15 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="928" />
+    <option name="newTranslationDialogWidth" value="926" />
     <option name="newTranslationDialogX" value="167" />
     <option name="newTranslationDialogY" value="743" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="提示语" />
+      <item value="签名" />
+      <item value="关注" />
+      <item value="已关注" />
       <item value="Login Or No" />
       <item value="loginorno" />
       <item value="是否登录" />
@@ -140,15 +144,11 @@
       <item value="七牛云" />
       <item value="java.lang.UnsupportedOperationException: Failed to resolve attribute at index 0: TypedValue{t=0x2d=0x7f040108 a=-1}" />
       <item value="DecorView setVisiblity: visibility = 0, Parent = android.view.ViewRootImpl@c714f31, this = DecorView@3fdc79f[MainActivity]" />
-      <item value="Failed to resolve attribute at index 0: TypedValue{t=0x2d=0x7f040108 a=-1}" />
-      <item value="Unsupported Operation Exception" />
-      <item value="plate number" />
-      <item value="number plate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="739" />
-        <entry key="ENGLISH" value="740" />
+        <entry key="CHINESE" value="742" />
+        <entry key="ENGLISH" value="742" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
