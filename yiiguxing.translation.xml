@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="743" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Resource IDs will be non-final by default in Android Gradle Plugin version 8.0, avoid using them in const fields" />
       <item value="提示语" />
       <item value="签名" />
       <item value="关注" />
@@ -143,11 +144,10 @@
       <item value="上传失败" />
       <item value="七牛云" />
       <item value="java.lang.UnsupportedOperationException: Failed to resolve attribute at index 0: TypedValue{t=0x2d=0x7f040108 a=-1}" />
-      <item value="DecorView setVisiblity: visibility = 0, Parent = android.view.ViewRootImpl@c714f31, this = DecorView@3fdc79f[MainActivity]" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="742" />
+        <entry key="CHINESE" value="743" />
         <entry key="ENGLISH" value="742" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
