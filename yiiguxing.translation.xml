@@ -89,11 +89,17 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="926" />
+    <option name="newTranslationDialogWidth" value="920" />
     <option name="newTranslationDialogX" value="167" />
     <option name="newTranslationDialogY" value="743" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="请扫描收货单号" />
+      <item value="收货单号" />
+      <item value="收货单" />
+      <item value="扩折号" />
+      <item value="括折号" />
+      <item value="Dtc Delivery Note Activity" />
       <item value="请稍候" />
       <item value="dismiss" />
       <item value="set Dimmed Behind" />
@@ -138,17 +144,11 @@
       <item value="Serializer has not been found for type 'Any?'. To use context serializer as fallback, explicitly annotate type or property with @Contextual" />
       <item value="咸鱼空间" />
       <item value="salted-fish-scope" />
-      <item value="意见反馈" />
-      <item value="Could not initialize class com.android.sdklib.repository.AndroidSdkHandler" />
-      <item value="key doesn't match with scope" />
-      <item value="upload failed" />
-      <item value="upload success" />
-      <item value="上传成功" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="744" />
-        <entry key="ENGLISH" value="744" />
+        <entry key="CHINESE" value="747" />
+        <entry key="ENGLISH" value="747" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
