@@ -94,6 +94,9 @@
     <option name="newTranslationDialogY" value="743" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Suspicious size: this will make the view invisible, should be used with layout_weight" />
+      <item value="总已收总应收" />
+      <item value="收货" />
       <item value="请扫描收货单号" />
       <item value="收货单号" />
       <item value="收货单" />
@@ -141,14 +144,11 @@
       <item value="JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: JSON input: null" />
       <item value="com.tencent.qqmini.sdk.MiniSDK.startMiniApp [class android.content.Context, class java.lang.String, int, int]" />
       <item value="Serializer has not been found for type 'Any'. To use context serializer as fallback, explicitly annotate type or property with @Contextual" />
-      <item value="Serializer has not been found for type 'Any?'. To use context serializer as fallback, explicitly annotate type or property with @Contextual" />
-      <item value="咸鱼空间" />
-      <item value="salted-fish-scope" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="747" />
-        <entry key="ENGLISH" value="747" />
+        <entry key="CHINESE" value="750" />
+        <entry key="ENGLISH" value="749" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
