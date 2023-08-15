@@ -94,11 +94,17 @@
     <option name="newTranslationDialogY" value="743" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="收货" />
+      <item value="收货数量" />
+      <item value="收获数量" />
+      <item value="收货单号" />
+      <item value="单号" />
+      <item value="总应收" />
+      <item value="total Received Num" />
+      <item value="总已收" />
       <item value="Suspicious size: this will make the view invisible, should be used with layout_weight" />
       <item value="总已收总应收" />
-      <item value="收货" />
       <item value="请扫描收货单号" />
-      <item value="收货单号" />
       <item value="收货单" />
       <item value="扩折号" />
       <item value="括折号" />
@@ -138,17 +144,11 @@
       <item value="IllegalArgumentException: Illegal value type com.example.smile.ui.activity.MainActivity for key &quot;activity&quot;" />
       <item value="This declaration overrides deprecated member but not marked as deprecated itself. This deprecation won't be inherited in future releases. Please add" />
       <item value="'onActivityResult(Int, Int, Intent?): Unit' is deprecated. Overrides deprecated member in 'androidx.activity.ComponentActivity'. Deprecated in Java" />
-      <item value="Data class must have at least one primary constructor parameter" />
-      <item value="Serializer has not been found for type 'Nullable'. To use context serializer as fallback, explicitly annotate type or property with @Contextual" />
-      <item value="Serializer for class 'Any' is not found. Please ensure that class is marked as '@Serializable' and that the serialization compiler plugin is applied." />
-      <item value="JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: JSON input: null" />
-      <item value="com.tencent.qqmini.sdk.MiniSDK.startMiniApp [class android.content.Context, class java.lang.String, int, int]" />
-      <item value="Serializer has not been found for type 'Any'. To use context serializer as fallback, explicitly annotate type or property with @Contextual" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="750" />
-        <entry key="ENGLISH" value="749" />
+        <entry key="CHINESE" value="758" />
+        <entry key="ENGLISH" value="758" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
