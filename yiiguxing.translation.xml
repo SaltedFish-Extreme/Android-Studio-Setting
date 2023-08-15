@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="743" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="请稍候" />
       <item value="dismiss" />
       <item value="set Dimmed Behind" />
       <item value="Resource IDs will be non-final by default in Android Gradle Plugin version 8.0, avoid using them in const fields" />
@@ -143,11 +144,10 @@
       <item value="upload failed" />
       <item value="upload success" />
       <item value="上传成功" />
-      <item value="上传失败" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="743" />
+        <entry key="CHINESE" value="744" />
         <entry key="ENGLISH" value="744" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
