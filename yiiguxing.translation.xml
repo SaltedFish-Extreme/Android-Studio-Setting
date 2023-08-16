@@ -94,6 +94,10 @@
     <option name="newTranslationDialogY" value="743" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="实收数量" />
+      <item value="生产批次" />
+      <item value="产品编码" />
+      <item value="扫描箱码或罐码后带出" />
       <item value="扫描箱码或罐码" />
       <item value="请扫描箱码或罐码" />
       <item value="true" />
@@ -140,15 +144,11 @@
       <item value="其他设置" />
       <item value="流量加载图片" />
       <item value="数据网络加载图片" />
-      <item value="视频自动播放" />
-      <item value="已开启" />
-      <item value="未开启" />
-      <item value="推送开关" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="768" />
-        <entry key="ENGLISH" value="768" />
+        <entry key="CHINESE" value="773" />
+        <entry key="ENGLISH" value="773" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
