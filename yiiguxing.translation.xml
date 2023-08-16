@@ -94,6 +94,8 @@
     <option name="newTranslationDialogY" value="743" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="扫码收货" />
+      <item value="自动提交" />
       <item value="实收数量" />
       <item value="生产批次" />
       <item value="产品编码" />
@@ -102,7 +104,6 @@
       <item value="请扫描箱码或罐码" />
       <item value="true" />
       <item value="确认" />
-      <item value="扫码收货" />
       <item value="物料编码" />
       <item value="收货列表" />
       <item value="收货单号" />
@@ -143,12 +144,11 @@
       <item value="检查更新" />
       <item value="其他设置" />
       <item value="流量加载图片" />
-      <item value="数据网络加载图片" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="773" />
-        <entry key="ENGLISH" value="773" />
+        <entry key="CHINESE" value="775" />
+        <entry key="ENGLISH" value="775" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
