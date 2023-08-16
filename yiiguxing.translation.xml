@@ -89,11 +89,14 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="920" />
+    <option name="newTranslationDialogWidth" value="918" />
     <option name="newTranslationDialogX" value="167" />
     <option name="newTranslationDialogY" value="743" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="收货单号" />
+      <item value="收货列表" />
+      <item value="Delivery Note List" />
       <item value="搜索框" />
       <item value="冒号" />
       <item value="'lifecycle' in 'AppCompatDialog' is final and cannot be overridden" />
@@ -101,7 +104,6 @@
       <item value="收货" />
       <item value="收货数量" />
       <item value="收获数量" />
-      <item value="收货单号" />
       <item value="单号" />
       <item value="总应收" />
       <item value="total Received Num" />
@@ -142,13 +144,11 @@
       <item value="用户相关" />
       <item value="设置页面" />
       <item value="判断登录操作" />
-      <item value="Photo" />
-      <item value="Multiple substitutions specified in non-positional format of string resource stringpage_num. Did you mean to add the formatted=&quot;false&quot; attribute?" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="762" />
-        <entry key="ENGLISH" value="761" />
+        <entry key="CHINESE" value="763" />
+        <entry key="ENGLISH" value="763" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
