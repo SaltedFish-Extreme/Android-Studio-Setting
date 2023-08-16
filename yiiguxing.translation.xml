@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="743" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="确认" />
       <item value="扫码收货" />
       <item value="物料编码" />
       <item value="收货列表" />
@@ -143,12 +144,11 @@
       <item value="通用" />
       <item value="账号安全" />
       <item value="用户信息" />
-      <item value="用户相关" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="765" />
-        <entry key="ENGLISH" value="765" />
+        <entry key="CHINESE" value="766" />
+        <entry key="ENGLISH" value="766" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
