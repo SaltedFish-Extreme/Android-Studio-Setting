@@ -88,12 +88,15 @@
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="916" />
+    <option name="newTranslationDialogHeight" value="260" />
+    <option name="newTranslationDialogWidth" value="914" />
     <option name="newTranslationDialogX" value="167" />
     <option name="newTranslationDialogY" value="743" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="确认收货" />
+      <item value="产品编码" />
+      <item value="箱码罐码" />
       <item value="Expecting a class body" />
       <item value="Conflicting declarations: public final val Data: List&lt;DtcScanReceiptBackModel.Data&gt;, public final data class Data" />
       <item value="返回" />
@@ -108,7 +111,6 @@
       <item value="自动提交" />
       <item value="实收数量" />
       <item value="生产批次" />
-      <item value="产品编码" />
       <item value="扫描箱码或罐码后带出" />
       <item value="扫描箱码或罐码" />
       <item value="请扫描箱码或罐码" />
@@ -142,13 +144,11 @@
       <item value="签名" />
       <item value="关注" />
       <item value="已关注" />
-      <item value="Login Or No" />
-      <item value="loginorno" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="784" />
-        <entry key="ENGLISH" value="782" />
+        <entry key="CHINESE" value="787" />
+        <entry key="ENGLISH" value="785" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
