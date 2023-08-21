@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="743" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="The operation cannot be completed because the DbContext has been disposed" />
       <item value="The operation cannot be completed because the DbContext has been disposed." />
       <item value="disabled Algorithms" />
       <item value="确认收货" />
@@ -143,12 +144,11 @@
       <item value="set Dimmed Behind" />
       <item value="Resource IDs will be non-final by default in Android Gradle Plugin version 8.0, avoid using them in const fields" />
       <item value="提示语" />
-      <item value="签名" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="787" />
-        <entry key="ENGLISH" value="788" />
+        <entry key="CHINESE" value="790" />
+        <entry key="ENGLISH" value="791" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
