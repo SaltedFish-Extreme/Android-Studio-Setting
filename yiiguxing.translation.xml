@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="518" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="DTC收货单列表页面" />
       <item value="出库列表" />
       <item value="出库单列表" />
       <item value="Delivery Note List" />
@@ -143,12 +144,11 @@
       <item value="总已收" />
       <item value="Suspicious size: this will make the view invisible, should be used with layout_weight" />
       <item value="总已收总应收" />
-      <item value="请扫描收货单号" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="799" />
-        <entry key="ENGLISH" value="799" />
+        <entry key="CHINESE" value="800" />
+        <entry key="ENGLISH" value="800" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
