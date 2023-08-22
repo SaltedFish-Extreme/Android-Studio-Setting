@@ -94,6 +94,22 @@
     <option name="newTranslationDialogY" value="518" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="详情" />
+      <item value="should scan" />
+      <item value="scan should" />
+      <item value="应该扫的码" />
+      <item value="应扫码" />
+      <item value="scannable" />
+      <item value="应扫" />
+      <item value="已扫码" />
+      <item value="出库单" />
+      <item value="出库" />
+      <item value="outbound" />
+      <item value="Delivery" />
+      <item value="出库单号" />
+      <item value="outbound no colon" />
+      <item value="out bound no colon" />
+      <item value="out bound order" />
       <item value="DTC收货单列表页面" />
       <item value="出库列表" />
       <item value="出库单列表" />
@@ -128,29 +144,14 @@
       <item value="生产批次" />
       <item value="扫描箱码或罐码后带出" />
       <item value="扫描箱码或罐码" />
-      <item value="请扫描箱码或罐码" />
-      <item value="true" />
-      <item value="确认" />
-      <item value="物料编码" />
-      <item value="搜索框" />
-      <item value="冒号" />
-      <item value="'lifecycle' in 'AppCompatDialog' is final and cannot be overridden" />
-      <item value="'lifecycle' hides member of supertype 'AppCompatDialog' and needs 'override' modifier" />
-      <item value="收货" />
-      <item value="收货数量" />
-      <item value="收获数量" />
-      <item value="总应收" />
-      <item value="total Received Num" />
-      <item value="总已收" />
-      <item value="Suspicious size: this will make the view invisible, should be used with layout_weight" />
-      <item value="总已收总应收" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="800" />
-        <entry key="ENGLISH" value="800" />
+        <entry key="CHINESE" value="813" />
+        <entry key="ENGLISH" value="813" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
+        <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="JAPANESE" value="1" />
