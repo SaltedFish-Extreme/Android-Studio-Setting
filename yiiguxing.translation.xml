@@ -89,11 +89,13 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="914" />
-    <option name="newTranslationDialogX" value="167" />
-    <option name="newTranslationDialogY" value="743" />
+    <option name="newTranslationDialogWidth" value="912" />
+    <option name="newTranslationDialogX" value="350" />
+    <option name="newTranslationDialogY" value="518" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="android:editable is deprecated: Use inputType instead" />
+      <item value="UnsupportedOperationException: Failed to resolve attribute at index 0: TypedValue{t=0x2d=0x7f040108 a=-1}" />
       <item value="取字符串" />
       <item value="The operation cannot be completed because the DbContext has been disposed" />
       <item value="The operation cannot be completed because the DbContext has been disposed." />
@@ -142,13 +144,11 @@
       <item value="Dtc Delivery Note Activity" />
       <item value="请稍候" />
       <item value="dismiss" />
-      <item value="set Dimmed Behind" />
-      <item value="Resource IDs will be non-final by default in Android Gradle Plugin version 8.0, avoid using them in const fields" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="791" />
-        <entry key="ENGLISH" value="791" />
+        <entry key="CHINESE" value="792" />
+        <entry key="ENGLISH" value="792" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
