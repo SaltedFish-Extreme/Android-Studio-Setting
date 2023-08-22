@@ -89,11 +89,14 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="912" />
+    <option name="newTranslationDialogWidth" value="910" />
     <option name="newTranslationDialogX" value="350" />
     <option name="newTranslationDialogY" value="518" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="take String By Big Parentheses" />
+      <item value="take String By Big Parantheses" />
+      <item value="大括号" />
       <item value="android:editable is deprecated: Use inputType instead" />
       <item value="UnsupportedOperationException: Failed to resolve attribute at index 0: TypedValue{t=0x2d=0x7f040108 a=-1}" />
       <item value="取字符串" />
@@ -141,14 +144,11 @@
       <item value="收货单" />
       <item value="扩折号" />
       <item value="括折号" />
-      <item value="Dtc Delivery Note Activity" />
-      <item value="请稍候" />
-      <item value="dismiss" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="792" />
-        <entry key="ENGLISH" value="792" />
+        <entry key="CHINESE" value="794" />
+        <entry key="ENGLISH" value="794" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HINDI" value="1" />
