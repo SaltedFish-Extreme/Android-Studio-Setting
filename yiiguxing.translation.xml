@@ -94,6 +94,9 @@
     <option name="newTranslationDialogY" value="518" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="用户服务协议" />
+      <item value="privacy Policy Title" />
+      <item value="services Agreement Title" />
       <item value="生产批次" />
       <item value="Scan Receipt" />
       <item value="出库数量" />
@@ -141,14 +144,11 @@
       <item value="箱码罐码" />
       <item value="Expecting a class body" />
       <item value="Conflicting declarations: public final val Data: List&lt;DtcScanReceiptBackModel.Data&gt;, public final data class Data" />
-      <item value="返回" />
-      <item value="单子号" />
-      <item value="Bill" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="823" />
-        <entry key="ENGLISH" value="823" />
+        <entry key="CHINESE" value="825" />
+        <entry key="ENGLISH" value="825" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
