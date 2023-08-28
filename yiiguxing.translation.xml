@@ -89,11 +89,12 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="906" />
+    <option name="newTranslationDialogWidth" value="904" />
     <option name="newTranslationDialogX" value="350" />
     <option name="newTranslationDialogY" value="518" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="描述" />
       <item value="create Notification For Normal" />
       <item value="POST NOTIFICATIONS" />
       <item value="When targeting Android 13 or higher, posting a permission requires holding the POST_NOTIFICATIONS permission" />
@@ -143,7 +144,6 @@
       <item value="The operation cannot be completed because the DbContext has been disposed" />
       <item value="The operation cannot be completed because the DbContext has been disposed." />
       <item value="disabled Algorithms" />
-      <item value="确认收货" />
     </histories>
     <option name="languageScores">
       <map>
