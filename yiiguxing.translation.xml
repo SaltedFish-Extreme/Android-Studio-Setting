@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="518" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="create Notification For Normal" />
       <item value="POST NOTIFICATIONS" />
       <item value="When targeting Android 13 or higher, posting a permission requires holding the POST_NOTIFICATIONS permission" />
       <item value="Must be one of: NotificationManager.IMPORTANCE_UNSPECIFIED, NotificationManager.IMPORTANCE_NONE, NotificationManager" />
@@ -143,12 +144,11 @@
       <item value="The operation cannot be completed because the DbContext has been disposed." />
       <item value="disabled Algorithms" />
       <item value="确认收货" />
-      <item value="产品编码" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="827" />
-        <entry key="ENGLISH" value="826" />
+        <entry key="ENGLISH" value="827" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
