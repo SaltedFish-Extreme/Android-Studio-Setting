@@ -75,7 +75,7 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1692583620408" />
+    <option name="lastTrimTime" value="1693187932996" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -89,11 +89,14 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="910" />
+    <option name="newTranslationDialogWidth" value="906" />
     <option name="newTranslationDialogX" value="350" />
     <option name="newTranslationDialogY" value="518" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="POST NOTIFICATIONS" />
+      <item value="When targeting Android 13 or higher, posting a permission requires holding the POST_NOTIFICATIONS permission" />
+      <item value="Must be one of: NotificationManager.IMPORTANCE_UNSPECIFIED, NotificationManager.IMPORTANCE_NONE, NotificationManager" />
       <item value="用户服务协议" />
       <item value="privacy Policy Title" />
       <item value="services Agreement Title" />
@@ -141,14 +144,11 @@
       <item value="disabled Algorithms" />
       <item value="确认收货" />
       <item value="产品编码" />
-      <item value="箱码罐码" />
-      <item value="Expecting a class body" />
-      <item value="Conflicting declarations: public final val Data: List&lt;DtcScanReceiptBackModel.Data&gt;, public final data class Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="825" />
-        <entry key="ENGLISH" value="825" />
+        <entry key="CHINESE" value="827" />
+        <entry key="ENGLISH" value="826" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
