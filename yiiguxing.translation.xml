@@ -94,6 +94,8 @@
     <option name="newTranslationDialogY" value="518" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="原始" />
+      <item value="视频" />
       <item value="描述" />
       <item value="create Notification For Normal" />
       <item value="POST NOTIFICATIONS" />
@@ -142,13 +144,11 @@
       <item value="UnsupportedOperationException: Failed to resolve attribute at index 0: TypedValue{t=0x2d=0x7f040108 a=-1}" />
       <item value="取字符串" />
       <item value="The operation cannot be completed because the DbContext has been disposed" />
-      <item value="The operation cannot be completed because the DbContext has been disposed." />
-      <item value="disabled Algorithms" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="827" />
-        <entry key="ENGLISH" value="827" />
+        <entry key="CHINESE" value="829" />
+        <entry key="ENGLISH" value="829" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
