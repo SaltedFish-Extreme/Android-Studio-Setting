@@ -94,6 +94,9 @@
     <option name="newTranslationDialogY" value="518" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="flag Bit" />
+      <item value="标志位" />
+      <item value="java.lang.IllegalArgumentException: com.example.imdemo: Targeting S+ (version 31 and above) requires that one of FLAG_IMMUTABLE or FLAG_MUTABLE be specified when creating a PendingIntent. Strongly consider using FLAG_IMMUTABLE, only use FLAG_MUTABLE if some functionality depends on the PendingIntent being mutable, e.g. if it needs to be used with inline replies or bubbles." />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.smilecom.example.smile.ui.activity.NotificationVideoActivity}: java.lang.NullPointerException: null cannot be cast to non-null type com.example.smile.model.NotificationVideoModel" />
       <item value="Property getter or setter expected" />
       <item value="This type is final, so it cannot be inherited from" />
@@ -141,14 +144,11 @@
       <item value="出库列表" />
       <item value="出库单列表" />
       <item value="Delivery Note List" />
-      <item value="收货列表" />
-      <item value="收货单列表" />
-      <item value="take String By Big Parentheses" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="833" />
-        <entry key="ENGLISH" value="833" />
+        <entry key="CHINESE" value="834" />
+        <entry key="ENGLISH" value="835" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
