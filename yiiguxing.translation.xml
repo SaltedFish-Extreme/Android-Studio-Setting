@@ -75,7 +75,7 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1693187932996" />
+    <option name="lastTrimTime" value="1693794808779" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -94,6 +94,8 @@
     <option name="newTranslationDialogY" value="518" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="landscape" />
+      <item value="portrait" />
       <item value="原始" />
       <item value="视频" />
       <item value="描述" />
@@ -142,13 +144,11 @@
       <item value="大括号" />
       <item value="android:editable is deprecated: Use inputType instead" />
       <item value="UnsupportedOperationException: Failed to resolve attribute at index 0: TypedValue{t=0x2d=0x7f040108 a=-1}" />
-      <item value="取字符串" />
-      <item value="The operation cannot be completed because the DbContext has been disposed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="829" />
-        <entry key="ENGLISH" value="829" />
+        <entry key="CHINESE" value="830" />
+        <entry key="ENGLISH" value="831" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
