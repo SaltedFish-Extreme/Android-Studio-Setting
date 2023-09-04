@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="518" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.smilecom.example.smile.ui.activity.NotificationVideoActivity}: java.lang.NullPointerException: null cannot be cast to non-null type com.example.smile.model.NotificationVideoModel" />
       <item value="Property getter or setter expected" />
       <item value="This type is final, so it cannot be inherited from" />
       <item value="Serializable" />
@@ -143,12 +144,11 @@
       <item value="收货列表" />
       <item value="收货单列表" />
       <item value="take String By Big Parentheses" />
-      <item value="take String By Big Parantheses" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="833" />
-        <entry key="ENGLISH" value="832" />
+        <entry key="ENGLISH" value="833" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
