@@ -94,6 +94,8 @@
     <option name="newTranslationDialogY" value="518" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="This type is final, so it cannot be inherited from" />
+      <item value="Serializable" />
       <item value="landscape" />
       <item value="portrait" />
       <item value="原始" />
@@ -142,13 +144,11 @@
       <item value="take String By Big Parentheses" />
       <item value="take String By Big Parantheses" />
       <item value="大括号" />
-      <item value="android:editable is deprecated: Use inputType instead" />
-      <item value="UnsupportedOperationException: Failed to resolve attribute at index 0: TypedValue{t=0x2d=0x7f040108 a=-1}" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="830" />
-        <entry key="ENGLISH" value="831" />
+        <entry key="CHINESE" value="832" />
+        <entry key="ENGLISH" value="832" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
