@@ -89,11 +89,15 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="904" />
+    <option name="newTranslationDialogWidth" value="902" />
     <option name="newTranslationDialogX" value="350" />
     <option name="newTranslationDialogY" value="518" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="对勾" />
+      <item value="check mark" />
+      <item value="对号" />
+      <item value="加号" />
       <item value="评论" />
       <item value="flag Bit" />
       <item value="标志位" />
@@ -140,15 +144,11 @@
       <item value="出库单号" />
       <item value="outbound no colon" />
       <item value="out bound no colon" />
-      <item value="out bound order" />
-      <item value="DTC收货单列表页面" />
-      <item value="出库列表" />
-      <item value="出库单列表" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="834" />
-        <entry key="ENGLISH" value="835" />
+        <entry key="CHINESE" value="836" />
+        <entry key="ENGLISH" value="837" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
