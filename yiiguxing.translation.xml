@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="518" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="video author" />
       <item value="百分比" />
       <item value="对勾" />
       <item value="check mark" />
@@ -143,12 +144,11 @@
       <item value="outbound" />
       <item value="Delivery" />
       <item value="出库单号" />
-      <item value="outbound no colon" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="837" />
-        <entry key="ENGLISH" value="837" />
+        <entry key="ENGLISH" value="838" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
