@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="518" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Wrong argument type for formatting argument '1' in at: conversion is 'd', received String (argument 2 in method call)" />
       <item value="Format string 'at' is not a valid format string so it should not be passed to String.format" />
       <item value="@" />
       <item value="video author" />
@@ -143,11 +144,10 @@
       <item value="已扫码" />
       <item value="出库单" />
       <item value="出库" />
-      <item value="outbound" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="839" />
+        <entry key="CHINESE" value="840" />
         <entry key="ENGLISH" value="839" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
