@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Deprecated" />
       <item value="comment Num" />
       <item value="get Drawable" />
       <item value="apply" />
@@ -143,12 +144,11 @@
       <item value="product Code" />
       <item value="product Code List" />
       <item value="详情" />
-      <item value="should scan" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="843" />
-        <entry key="ENGLISH" value="843" />
+        <entry key="ENGLISH" value="844" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
