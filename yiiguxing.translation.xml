@@ -94,6 +94,9 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="apply" />
+      <item value="click No Repeat" />
+      <item value="show" />
       <item value="Do not concatenate text displayed with setText. Use resource string with placeholders." />
       <item value="shape stroke Gradient Color" />
       <item value="Invalid resource reference - missing" />
@@ -141,14 +144,11 @@
       <item value="should scan" />
       <item value="scan should" />
       <item value="应该扫的码" />
-      <item value="应扫码" />
-      <item value="scannable" />
-      <item value="应扫" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="843" />
-        <entry key="ENGLISH" value="840" />
+        <entry key="ENGLISH" value="842" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
