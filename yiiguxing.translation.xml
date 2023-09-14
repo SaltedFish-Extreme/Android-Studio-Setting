@@ -94,6 +94,9 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="com.drake.net.exception.Convert Exception" />
+      <item value="Missing type parameter." />
+      <item value="printmapping" />
       <item value="set Check With Expand" />
       <item value="取消点赞" />
       <item value="点赞" />
@@ -141,14 +144,11 @@
       <item value="出库数量" />
       <item value="出库扫码" />
       <item value="收货扫码" />
-      <item value="scan code out warehouse" />
-      <item value="扫码出库" />
-      <item value="扫码收货" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="846" />
-        <entry key="ENGLISH" value="847" />
+        <entry key="CHINESE" value="849" />
+        <entry key="ENGLISH" value="850" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
