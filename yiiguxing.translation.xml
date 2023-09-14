@@ -94,6 +94,8 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="You are strongly encouraged to update your project to use a newer" />
+      <item value="This Android Gradle plugin (8.0.2) was tested up to compileSdk = 33." />
       <item value="Speci User Info Model" />
       <item value="com.drake.net.exception.Convert Exception" />
       <item value="Missing type parameter." />
@@ -142,13 +144,11 @@
       <item value="services Agreement Title" />
       <item value="生产批次" />
       <item value="Scan Receipt" />
-      <item value="出库数量" />
-      <item value="出库扫码" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="850" />
-        <entry key="ENGLISH" value="851" />
+        <entry key="CHINESE" value="852" />
+        <entry key="ENGLISH" value="853" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
