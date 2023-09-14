@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="set Check With Expand" />
       <item value="取消点赞" />
       <item value="点赞" />
       <item value="Sets a drawable as the content of this ImageView." />
@@ -143,12 +144,11 @@
       <item value="scan code out warehouse" />
       <item value="扫码出库" />
       <item value="扫码收货" />
-      <item value="bill Number" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="846" />
-        <entry key="ENGLISH" value="846" />
+        <entry key="ENGLISH" value="847" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
