@@ -94,6 +94,8 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="取消点赞" />
+      <item value="点赞" />
       <item value="Sets a drawable as the content of this ImageView." />
       <item value="Deprecated" />
       <item value="comment Num" />
@@ -142,13 +144,11 @@
       <item value="扫码出库" />
       <item value="扫码收货" />
       <item value="bill Number" />
-      <item value="product Code" />
-      <item value="product Code List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="844" />
-        <entry key="ENGLISH" value="844" />
+        <entry key="CHINESE" value="846" />
+        <entry key="ENGLISH" value="846" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
