@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Assignments are not expressions, and only expressions are allowed in this context" />
       <item value="commit" />
       <item value="scan for automatic submission" />
       <item value="扫描自动提交" />
@@ -143,11 +144,10 @@
       <item value="create Notification For Normal" />
       <item value="POST NOTIFICATIONS" />
       <item value="When targeting Android 13 or higher, posting a permission requires holding the POST_NOTIFICATIONS permission" />
-      <item value="Must be one of: NotificationManager.IMPORTANCE_UNSPECIFIED, NotificationManager.IMPORTANCE_NONE, NotificationManager" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="857" />
+        <entry key="CHINESE" value="858" />
         <entry key="ENGLISH" value="858" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
