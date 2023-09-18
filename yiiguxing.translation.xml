@@ -94,6 +94,9 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Returns a typed array containing all of the elements of this collection. Allocates an array of runtime type T having its size equal to the size of this collection and populates the array with the elements of this collection" />
+      <item value="set On Click Listener" />
+      <item value="Do not place Android context classes in static fields; this is a memory leak" />
       <item value="scan to take out" />
       <item value="扫码后带出" />
       <item value="outbound" />
@@ -141,14 +144,11 @@
       <item value="This type is final, so it cannot be inherited from" />
       <item value="Serializable" />
       <item value="landscape" />
-      <item value="portrait" />
-      <item value="原始" />
-      <item value="视频" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="862" />
-        <entry key="ENGLISH" value="862" />
+        <entry key="CHINESE" value="864" />
+        <entry key="ENGLISH" value="863" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
