@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Linear Layout Manager" />
       <item value="Focus" />
       <item value="Focus Or Cancel Joke API" />
       <item value="关注" />
@@ -143,12 +144,11 @@
       <item value="评论" />
       <item value="flag Bit" />
       <item value="标志位" />
-      <item value="java.lang.IllegalArgumentException: com.example.imdemo: Targeting S+ (version 31 and above) requires that one of FLAG_IMMUTABLE or FLAG_MUTABLE be specified when creating a PendingIntent. Strongly consider using FLAG_IMMUTABLE, only use FLAG_MUTABLE if some functionality depends on the PendingIntent being mutable, e.g. if it needs to be used with inline replies or bubbles." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="867" />
-        <entry key="ENGLISH" value="868" />
+        <entry key="CHINESE" value="868" />
+        <entry key="ENGLISH" value="869" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
