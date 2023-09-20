@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="遇到问题" />
       <item value="Linear Layout Manager" />
       <item value="Focus" />
       <item value="Focus Or Cancel Joke API" />
@@ -143,11 +144,10 @@
       <item value="加号" />
       <item value="评论" />
       <item value="flag Bit" />
-      <item value="标志位" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="868" />
+        <entry key="CHINESE" value="869" />
         <entry key="ENGLISH" value="869" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
