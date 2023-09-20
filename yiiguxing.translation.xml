@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="is not valid" />
       <item value="Parse login response failed" />
       <item value="[Processor] Library 'C:\Users\zhong\.gradle\caches\modules-2\files-2.1\me.jessyan\autosize\1.2.1\a44df9822e0cb91242358f070ef813714fd81c05\autosize-1.2.1.aar' contains references to both AndroidX and old support library. This seems like the library is partially migrated. Jetifier will try to rewrite the library anyway." />
       <item value="回复" />
@@ -143,12 +144,11 @@
       <item value="video author" />
       <item value="百分比" />
       <item value="对勾" />
-      <item value="check mark" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="873" />
-        <entry key="ENGLISH" value="874" />
+        <entry key="CHINESE" value="874" />
+        <entry key="ENGLISH" value="875" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
