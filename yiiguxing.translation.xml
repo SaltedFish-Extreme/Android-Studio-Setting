@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="回复" />
       <item value="评论" />
       <item value="遇到问题" />
       <item value="Linear Layout Manager" />
@@ -143,12 +144,11 @@
       <item value="check mark" />
       <item value="对号" />
       <item value="加号" />
-      <item value="flag Bit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="871" />
-        <entry key="ENGLISH" value="871" />
+        <entry key="CHINESE" value="872" />
+        <entry key="ENGLISH" value="872" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
