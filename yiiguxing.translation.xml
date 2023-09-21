@@ -94,6 +94,10 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="input box" />
+      <item value="发送" />
+      <item value="shape stroke Color" />
+      <item value="shape solid Color" />
       <item value="is not valid" />
       <item value="Parse login response failed" />
       <item value="[Processor] Library 'C:\Users\zhong\.gradle\caches\modules-2\files-2.1\me.jessyan\autosize\1.2.1\a44df9822e0cb91242358f070ef813714fd81c05\autosize-1.2.1.aar' contains references to both AndroidX and old support library. This seems like the library is partially migrated. Jetifier will try to rewrite the library anyway." />
@@ -140,15 +144,11 @@
       <item value="Invalid resource reference - missing" />
       <item value="Wrong argument type for formatting argument '1' in at: conversion is 'd', received String (argument 2 in method call)" />
       <item value="Format string 'at' is not a valid format string so it should not be passed to String.format" />
-      <item value="@" />
-      <item value="video author" />
-      <item value="百分比" />
-      <item value="对勾" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="874" />
-        <entry key="ENGLISH" value="875" />
+        <entry key="CHINESE" value="877" />
+        <entry key="ENGLISH" value="878" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
