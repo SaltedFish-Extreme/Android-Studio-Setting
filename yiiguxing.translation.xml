@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Android Gradle plugin requires Java 11 to run. You are currently using Java 1.8." />
       <item value="Also, the maximum recommended compile SDK version for Android Gradle plugin 7.4.2 is 33." />
       <item value="What went wrong: Execution failed for task ':app:compileDemoDebugJavaWithJavac'. &gt; superclass access check failed: class butterknife.compiler.ButterKnifeProcessorRScanner (in unnamed module @0x53a8f10) cannot access class com.sun.tools.javac.tree.TreeScanner (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.tree to unnamed module @0x53a8f10" />
       <item value="[Processor] Library 'D:\Gradle\caches\modules-2\files-2.1\me.jessyan\autosize\1.2.1\a44df9822e0cb91242358f070ef813714fd81c05\autosize-1.2.1.aar' contains references to both AndroidX and old support library. This seems like the library is partially migrated. Jetifier will try to rewrite the library anyway." />
@@ -143,12 +144,11 @@
       <item value="scan for automatic submission" />
       <item value="扫描自动提交" />
       <item value="本次数量" />
-      <item value="序列号" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="896" />
-        <entry key="ENGLISH" value="897" />
+        <entry key="CHINESE" value="897" />
+        <entry key="ENGLISH" value="898" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
