@@ -94,6 +94,11 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="What went wrong: Execution failed for task ':app:compileDemoDebugJavaWithJavac'. &gt; superclass access check failed: class butterknife.compiler.ButterKnifeProcessorRScanner (in unnamed module @0x53a8f10) cannot access class com.sun.tools.javac.tree.TreeScanner (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.tree to unnamed module @0x53a8f10" />
+      <item value="[Processor] Library 'D:\Gradle\caches\modules-2\files-2.1\me.jessyan\autosize\1.2.1\a44df9822e0cb91242358f070ef813714fd81c05\autosize-1.2.1.aar' contains references to both AndroidX and old support library. This seems like the library is partially migrated. Jetifier will try to rewrite the library anyway." />
+      <item value="Required by: project : &gt; No matching variant of com.android.tools.build:gradle:7.4.2 was found. The consumer was configured to find a runtime of a library compatible with Java 8, packaged as a jar, and its dependencies declared externally, as well as attribute 'org.gradle.plugin.api-version' with value '7.5' but:" />
+      <item value="Address already in use: Cannot bind" />
+      <item value="compileSdkVersion is not specified." />
       <item value="定制收货" />
       <item value="标准收货" />
       <item value="收货" />
@@ -139,16 +144,11 @@
       <item value="本次数量" />
       <item value="序列号" />
       <item value="You are strongly encouraged to update your project to use a newer" />
-      <item value="This Android Gradle plugin (8.0.2) was tested up to compileSdk = 33." />
-      <item value="Speci User Info Model" />
-      <item value="com.drake.net.exception.Convert Exception" />
-      <item value="Missing type parameter." />
-      <item value="printmapping" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="891" />
-        <entry key="ENGLISH" value="891" />
+        <entry key="CHINESE" value="895" />
+        <entry key="ENGLISH" value="896" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
