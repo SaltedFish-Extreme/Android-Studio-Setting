@@ -94,6 +94,12 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Format string 'receipt_num' is not a valid format string so it should not be passed to String.format" />
+      <item value="qty Received" />
+      <item value="customer Order No" />
+      <item value="商品条码" />
+      <item value="商品编码" />
+      <item value="客户单号" />
       <item value="标准品收货明细列表" />
       <item value="The number of times to repeat the marquee animation. Only applied if the TextView has marquee enabled" />
       <item value="marquee Repeat Limit" />
@@ -138,17 +144,11 @@
       <item value="关注" />
       <item value="attention" />
       <item value="Serial Name" />
-      <item value="Returns a typed array containing all of the elements of this collection. Allocates an array of runtime type T having its size equal to the size of this collection and populates the array with the elements of this collection" />
-      <item value="set On Click Listener" />
-      <item value="Do not place Android context classes in static fields; this is a memory leak" />
-      <item value="scan to take out" />
-      <item value="扫码后带出" />
-      <item value="outbound" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="901" />
-        <entry key="ENGLISH" value="901" />
+        <entry key="CHINESE" value="906" />
+        <entry key="ENGLISH" value="906" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
