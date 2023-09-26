@@ -94,6 +94,9 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="标准品收货明细列表" />
+      <item value="The number of times to repeat the marquee animation. Only applied if the TextView has marquee enabled" />
+      <item value="marquee Repeat Limit" />
       <item value="启用虚拟托盘" />
       <item value="btn complete" />
       <item value="标准品收货列表" />
@@ -141,14 +144,11 @@
       <item value="scan to take out" />
       <item value="扫码后带出" />
       <item value="outbound" />
-      <item value="无单号出库" />
-      <item value="Assignments are not expressions, and only expressions are allowed in this context" />
-      <item value="commit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="899" />
-        <entry key="ENGLISH" value="899" />
+        <entry key="CHINESE" value="901" />
+        <entry key="ENGLISH" value="901" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
