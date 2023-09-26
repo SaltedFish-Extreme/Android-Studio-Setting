@@ -89,11 +89,13 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="894" />
+    <option name="newTranslationDialogWidth" value="892" />
     <option name="newTranslationDialogX" value="248" />
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="btn complete" />
+      <item value="标准品收货列表" />
       <item value="Android Gradle plugin requires Java 11 to run. You are currently using Java 1.8." />
       <item value="Also, the maximum recommended compile SDK version for Android Gradle plugin 7.4.2 is 33." />
       <item value="What went wrong: Execution failed for task ':app:compileDemoDebugJavaWithJavac'. &gt; superclass access check failed: class butterknife.compiler.ButterKnifeProcessorRScanner (in unnamed module @0x53a8f10) cannot access class com.sun.tools.javac.tree.TreeScanner (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.tree to unnamed module @0x53a8f10" />
@@ -142,13 +144,11 @@
       <item value="Assignments are not expressions, and only expressions are allowed in this context" />
       <item value="commit" />
       <item value="scan for automatic submission" />
-      <item value="扫描自动提交" />
-      <item value="本次数量" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="897" />
-        <entry key="ENGLISH" value="898" />
+        <entry key="CHINESE" value="898" />
+        <entry key="ENGLISH" value="899" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
