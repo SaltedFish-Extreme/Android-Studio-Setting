@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Response Exception" />
       <item value="Format string 'receipt_num' is not a valid format string so it should not be passed to String.format" />
       <item value="qty Received" />
       <item value="customer Order No" />
@@ -143,12 +144,11 @@
       <item value="Focus" />
       <item value="关注" />
       <item value="attention" />
-      <item value="Serial Name" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="906" />
-        <entry key="ENGLISH" value="906" />
+        <entry key="ENGLISH" value="907" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
