@@ -89,11 +89,16 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="892" />
+    <option name="newTranslationDialogWidth" value="890" />
     <option name="newTranslationDialogX" value="248" />
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="实收数量" />
+      <item value="库存状态" />
+      <item value="暂存区" />
+      <item value="托盘号" />
+      <item value="商品编码" />
       <item value="信息" />
       <item value="Unable to add window -- token null is not valid; is your activity running?" />
       <item value="收货成功" />
@@ -103,7 +108,6 @@
       <item value="qty Received" />
       <item value="customer Order No" />
       <item value="商品条码" />
-      <item value="商品编码" />
       <item value="客户单号" />
       <item value="标准品收货明细列表" />
       <item value="The number of times to repeat the marquee animation. Only applied if the TextView has marquee enabled" />
@@ -140,15 +144,11 @@
       <item value="shape solid Color" />
       <item value="is not valid" />
       <item value="Parse login response failed" />
-      <item value="[Processor] Library 'C:\Users\zhong\.gradle\caches\modules-2\files-2.1\me.jessyan\autosize\1.2.1\a44df9822e0cb91242358f070ef813714fd81c05\autosize-1.2.1.aar' contains references to both AndroidX and old support library. This seems like the library is partially migrated. Jetifier will try to rewrite the library anyway." />
-      <item value="回复" />
-      <item value="评论" />
-      <item value="遇到问题" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="909" />
-        <entry key="ENGLISH" value="910" />
+        <entry key="CHINESE" value="915" />
+        <entry key="ENGLISH" value="914" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
