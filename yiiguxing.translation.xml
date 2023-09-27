@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="收货成功" />
       <item value="hostname Verifier" />
       <item value="Response Exception" />
       <item value="Format string 'receipt_num' is not a valid format string so it should not be passed to String.format" />
@@ -143,11 +144,10 @@
       <item value="遇到问题" />
       <item value="Linear Layout Manager" />
       <item value="Focus" />
-      <item value="关注" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="908" />
+        <entry key="CHINESE" value="909" />
         <entry key="ENGLISH" value="909" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
