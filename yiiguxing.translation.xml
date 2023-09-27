@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="token null is not valid; is your activity running?" />
       <item value="实收数量" />
       <item value="库存状态" />
       <item value="暂存区" />
@@ -143,12 +144,11 @@
       <item value="shape stroke Color" />
       <item value="shape solid Color" />
       <item value="is not valid" />
-      <item value="Parse login response failed" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="915" />
-        <entry key="ENGLISH" value="914" />
+        <entry key="ENGLISH" value="915" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
