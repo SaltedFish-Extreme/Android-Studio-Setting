@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="仓库号" />
       <item value="托盘码" />
       <item value="上架" />
       <item value="Request Standard Receipt Commit Request" />
@@ -143,12 +144,11 @@
       <item value="User Focus" />
       <item value="Joke Comment List API" />
       <item value="段子评论列表" />
-      <item value="Like Or Cancel Joke API" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="921" />
-        <entry key="ENGLISH" value="921" />
+        <entry key="CHINESE" value="922" />
+        <entry key="ENGLISH" value="922" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
