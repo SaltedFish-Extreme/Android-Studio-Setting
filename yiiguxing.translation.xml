@@ -89,11 +89,13 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="890" />
+    <option name="newTranslationDialogWidth" value="888" />
     <option name="newTranslationDialogX" value="248" />
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Buttons in button bars should be borderless; use style=&quot;?android:attrbuttonBarButtonStyle&quot; (and ?android:attrbuttonBarStyle on the" />
+      <item value="上架" />
       <item value="token null is not valid; is your activity running?" />
       <item value="实收数量" />
       <item value="库存状态" />
@@ -142,13 +144,11 @@
       <item value="input box" />
       <item value="发送" />
       <item value="shape stroke Color" />
-      <item value="shape solid Color" />
-      <item value="is not valid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="915" />
-        <entry key="ENGLISH" value="915" />
+        <entry key="CHINESE" value="917" />
+        <entry key="ENGLISH" value="916" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
