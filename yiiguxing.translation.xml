@@ -94,6 +94,15 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="non Transitive R Class" />
+      <item value="non Final Res Ids" />
+      <item value="D:Gradlecachesmodules-2files-2.1org.jetbrains.kotlinkotlin-stdlib-common1.8.21d749cd5ae25da36d06e5028785038e24f9d37976kotlin-stdlib-common-1.8.21.jar!META-INFkotlin-stdlib-common.kotlin_module: Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.8.0, expected version is 1.6.0." />
+      <item value="expected version is 1.6.0." />
+      <item value="include Compile Classpath" />
+      <item value="Execution optimizations have been disabled for task ':app:kaptGenerateStubsDemoDebugKotlin' to ensure correctness due to the following reasons: - Gradle detected a problem with the following location: 'D:\AndroidStudioProjects\uwmsapp\app\src\main\java'. Reason: Task ':app:kaptGenerateStubsDemoDebugKotlin' uses this output of task ':app:greendao' without declaring an explicit or implicit dependency. This can lead to incorrect results being produced, depending on what order the tasks are executed. Please refer to https:docs.gradle.org7.5userguidevalidation_problems.htmlimplicit_dependency for more details about this problem." />
+      <item value="Expiring Daemon because JVM heap space is exhausted" />
+      <item value="Execution failed for task ':app:minifyDemoReleaseWithR8'. &gt; com.android.tools.r8.CompilationFailedException: Compilation failed to complete" />
+      <item value="The binary version of its metadata is 1.8.0, expected version is 1.6.0." />
       <item value="use tools:overrideLibrary=&quot;com.drake.brv&quot; to force usage (may lead to runtime failures)" />
       <item value="public val KProperty0&lt;&gt;.isInitialized: Boolean defined in kotlin" />
       <item value="商品编码" />
@@ -135,20 +144,11 @@
       <item value="Also, the maximum recommended compile SDK version for Android Gradle plugin 7.4.2 is 33." />
       <item value="What went wrong: Execution failed for task ':app:compileDemoDebugJavaWithJavac'. &gt; superclass access check failed: class butterknife.compiler.ButterKnifeProcessorRScanner (in unnamed module @0x53a8f10) cannot access class com.sun.tools.javac.tree.TreeScanner (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.tree to unnamed module @0x53a8f10" />
       <item value="[Processor] Library 'D:\Gradle\caches\modules-2\files-2.1\me.jessyan\autosize\1.2.1\a44df9822e0cb91242358f070ef813714fd81c05\autosize-1.2.1.aar' contains references to both AndroidX and old support library. This seems like the library is partially migrated. Jetifier will try to rewrite the library anyway." />
-      <item value="Required by: project : &gt; No matching variant of com.android.tools.build:gradle:7.4.2 was found. The consumer was configured to find a runtime of a library compatible with Java 8, packaged as a jar, and its dependencies declared externally, as well as attribute 'org.gradle.plugin.api-version' with value '7.5' but:" />
-      <item value="Address already in use: Cannot bind" />
-      <item value="compileSdkVersion is not specified." />
-      <item value="定制收货" />
-      <item value="标准收货" />
-      <item value="收货" />
-      <item value="java.lang.ClassCastException: com.js.uwmsapp.bean.BaseCurrencyBean cannot be cast to com.js.uwmsapp.bean.PdaVersionsBean" />
-      <item value="Installation failed due to: 'Failed to commit install session 1828266874 with command cmd package install-commit 1828266874. Error: INSTALL_FAILED_CONFLICTING_PROVIDER: Package couldn't be installed in dataappcom.js.uwmsapp-t9ZieFW2r4Wp8l33iQ3IIA==: Can't install because provider name com.js.uwmsapp.demo.fileprovider (in package com.js.uwmsapp) is already used by com.js.uwmsapp.demo'" />
-      <item value="A problem occurred evaluating project ':app'. &gt; Could not get unknown property 'release' for SigningConfig container of type org.gradle.api.internal.FactoryNamedDomainObjectContainer." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="927" />
-        <entry key="ENGLISH" value="927" />
+        <entry key="CHINESE" value="935" />
+        <entry key="ENGLISH" value="936" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
