@@ -94,6 +94,8 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="商品编码" />
+      <item value="商品条码" />
       <item value="标准品上架" />
       <item value="标准品上架数据模型" />
       <item value="Standard Product Shelf Model" />
@@ -112,7 +114,6 @@
       <item value="库存状态" />
       <item value="暂存区" />
       <item value="托盘号" />
-      <item value="商品编码" />
       <item value="信息" />
       <item value="Unable to add window -- token null is not valid; is your activity running?" />
       <item value="收货成功" />
@@ -121,7 +122,6 @@
       <item value="Format string 'receipt_num' is not a valid format string so it should not be passed to String.format" />
       <item value="qty Received" />
       <item value="customer Order No" />
-      <item value="商品条码" />
       <item value="客户单号" />
       <item value="标准品收货明细列表" />
       <item value="The number of times to repeat the marquee animation. Only applied if the TextView has marquee enabled" />
@@ -147,8 +147,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="924" />
-        <entry key="ENGLISH" value="924" />
+        <entry key="CHINESE" value="926" />
+        <entry key="ENGLISH" value="926" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
