@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="标准品上架" />
       <item value="标准品上架数据模型" />
       <item value="Standard Product Shelf Model" />
       <item value="标准品上架数据" />
@@ -143,12 +144,11 @@
       <item value="A problem occurred evaluating project ':app'. &gt; Could not get unknown property 'release' for SigningConfig container of type org.gradle.api.internal.FactoryNamedDomainObjectContainer." />
       <item value="What went wrong: Execution failed for task ':app:processProdReleaseMainManifest'. &gt; Manifest merger failed : android:exported needs to be explicitly specified for element &lt;activitycom.js.uwmsapp.activity.LoginActivity&gt;. Apps targeting Android 12 and higher are required to specify an explicit value for `android:exported` when the corresponding component has an intent filter defined. See https:developer.android.comguidetopicsmanifestactivity-elementexported for details." />
       <item value="Execution failed for task ':app:lintVitalProdRelease'. &gt; Lint found fatal errors while assembling a release target. Fix the issues identified by lint, or create a baseline to see only new errors: ``` android { lint { baseline = file(&quot;lint-baseline.xml&quot;) } } ``` For more details, see https:developer.android.comstudiowritelintsnapshot D:\AndroidStudioProjects\uwms\app\build.gradle:9: Error: Google Play requires that apps target API level 31 or higher. [ExpiredTargetSdkVersion] targetSdkVersion 30 ~~~~~~~~~~~~~~~~~~~ Explanation for issues of type &quot;ExpiredTargetSdkVersion&quot;: As of the second half of 2018, Google Play requires that new apps and app updates target API level 26 or higher. Configuring your app to target a recent API level ensures that users benefit from significant security and performance improvements, while still allowing your app to run on older Android versions (down to the minSdkVersion)." />
-      <item value="The apk for your currently selected variant cannot be signed. Please specify a signing configuration for this variant (prod-release)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="923" />
-        <entry key="ENGLISH" value="923" />
+        <entry key="CHINESE" value="924" />
+        <entry key="ENGLISH" value="924" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
