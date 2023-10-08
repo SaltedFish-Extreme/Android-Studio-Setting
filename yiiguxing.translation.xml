@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="scansound True Or False" />
       <item value="A problem occurred evaluating root project 'uwmsapp'. &gt; Could not set unknown property 'kotlin_version' for object of type org.gradle.api.internal.initialization.DefaultScriptHandler." />
       <item value="Cannot inline bytecode built with JVM target 1.8 into bytecode that is being built with JVM target 1.6. Please specify proper '-jvm-target' option" />
       <item value="javaCompileOptions { annotationProcessorOptions { includeCompileClasspath = true } }" />
@@ -143,12 +144,11 @@
       <item value="启用虚拟托盘" />
       <item value="btn complete" />
       <item value="标准品收货列表" />
-      <item value="Android Gradle plugin requires Java 11 to run. You are currently using Java 1.8." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="937" />
-        <entry key="ENGLISH" value="938" />
+        <entry key="CHINESE" value="938" />
+        <entry key="ENGLISH" value="939" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
