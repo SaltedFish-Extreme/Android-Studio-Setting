@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="自动收货" />
       <item value="Package com.js.uwmsapp.demo signatures do not match previously installed version; ignoring!" />
       <item value="intermediates" />
       <item value="open Activity For Result" />
@@ -143,11 +144,10 @@
       <item value="qty Received" />
       <item value="customer Order No" />
       <item value="客户单号" />
-      <item value="标准品收货明细列表" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="942" />
+        <entry key="CHINESE" value="943" />
         <entry key="ENGLISH" value="943" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
