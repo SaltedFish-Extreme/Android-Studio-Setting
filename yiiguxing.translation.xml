@@ -94,6 +94,10 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Not targeting the latest versions of Android; compatibility modes apply. Consider testing and updating this version. Consult the android.os.Build" />
+      <item value="Not targeting the latest versions of Android; compatibility modes apply. Consider testing and updating this version. Consult the android.os.Build.VERSION_CODES javadoc for details." />
+      <item value="We recommend using a newer Android Gradle plugin to use compileSdk = 34 This Android Gradle plugin (8.0.2) was tested up to compileSdk = 33. You are strongly encouraged to update your project to use a newer Android Gradle plugin that has been tested with compileSdk = 34. If you are already using the latest version of the Android Gradle plugin, you may need to wait until a newer version with support for compileSdk = 34 is available. To suppress this warning, addupdate android.suppressUnsupportedCompileSdk=34 to this project's gradle.properties." />
+      <item value="We recommend using a newer Android Gradle plugin to use compileSdk = 34 This Android Gradle plugin (8.0.2) was tested up to compileSdk = 33. You are strongly encouraged to update your project to use a newer Android Gradle plugin that has been tested with compileSdk = 34. If you are already using the latest version of the Android Gradle plugin, you may need to wait until a newer version with support for compileSdk = 34 is available." />
       <item value="自动收货" />
       <item value="Package com.js.uwmsapp.demo signatures do not match previously installed version; ignoring!" />
       <item value="intermediates" />
@@ -140,15 +144,11 @@
       <item value="收货成功" />
       <item value="hostname Verifier" />
       <item value="Response Exception" />
-      <item value="Format string 'receipt_num' is not a valid format string so it should not be passed to String.format" />
-      <item value="qty Received" />
-      <item value="customer Order No" />
-      <item value="客户单号" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="943" />
-        <entry key="ENGLISH" value="943" />
+        <entry key="CHINESE" value="946" />
+        <entry key="ENGLISH" value="945" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
