@@ -94,10 +94,10 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Not targeting the latest versions of Android; compatibility modes apply. Consider testing and updating this version. Consult the android.os.Build" />
       <item value="UPSIDE DOWN CAKE" />
       <item value="Call requires API level 34 (current min is 24): android.app.ActivityoverrideActivityTransition" />
       <item value="D:\Gradle\caches\transforms-3\752 af 424 ac 17521 b 1 aec 5 bbe 01284950\transformed\jetified-gifdecoder-5.0.0-rc 01\Android Manifest.xml" />
-      <item value="Not targeting the latest versions of Android; compatibility modes apply. Consider testing and updating this version. Consult the android.os.Build" />
       <item value="Not targeting the latest versions of Android; compatibility modes apply. Consider testing and updating this version. Consult the android.os.Build.VERSION_CODES javadoc for details." />
       <item value="We recommend using a newer Android Gradle plugin to use compileSdk = 34 This Android Gradle plugin (8.0.2) was tested up to compileSdk = 33. You are strongly encouraged to update your project to use a newer Android Gradle plugin that has been tested with compileSdk = 34. If you are already using the latest version of the Android Gradle plugin, you may need to wait until a newer version with support for compileSdk = 34 is available. To suppress this warning, addupdate android.suppressUnsupportedCompileSdk=34 to this project's gradle.properties." />
       <item value="We recommend using a newer Android Gradle plugin to use compileSdk = 34 This Android Gradle plugin (8.0.2) was tested up to compileSdk = 33. You are strongly encouraged to update your project to use a newer Android Gradle plugin that has been tested with compileSdk = 34. If you are already using the latest version of the Android Gradle plugin, you may need to wait until a newer version with support for compileSdk = 34 is available." />
@@ -147,7 +147,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="947" />
+        <entry key="CHINESE" value="948" />
         <entry key="ENGLISH" value="947" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
