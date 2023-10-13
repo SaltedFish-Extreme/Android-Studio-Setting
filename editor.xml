@@ -64,7 +64,6 @@
       </kotlin.KotlinReferencesTypeHintsProvider>
       <kotlin.kotlin.lambdas.hints>
         <Settings>
-          <option name="implicitReceiversAndParams" value="false" />
           <option name="returnExpressions" value="false" />
         </Settings>
       </kotlin.kotlin.lambdas.hints>
