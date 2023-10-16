@@ -94,6 +94,8 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Added support for RustRover and the new Rust plugin. DeepL Translator now supports Ukrainian and Korean. Compatible with 2023.3. Bug fixes." />
+      <item value="Added support for RustRover and the new Rust plugin. DeepL Translator now supports Ukrainian and Korean. Compatible with 2023.3. Bug fixes. 添加了对 RustRover 和新 Rust 插件的支持 DeepL 翻译现已支持乌克兰语和韩语 兼容 IDE 2023.3 版本 Bug 修复" />
       <item value="org.gradle.api.tasks.TaskExecutionException: Execution failed for task" />
       <item value="Supertypes of the following classes cannot be resolved. Please make sure you have the required dependencies in the classpath: class com.example.smile.widget.view.DrawableRightTextView, unresolved supertypes: DrawableTextView Adding -Xextended-compiler-checks argument might provide additional information." />
       <item value="Custom view DrawableRightTextView overrides onTouchEvent but not performClick" />
@@ -142,13 +144,11 @@
       <item value="Buttons in button bars should be borderless; use style=&quot;?android:attrbuttonBarButtonStyle&quot; (and ?android:attrbuttonBarStyle on the" />
       <item value="token null is not valid; is your activity running?" />
       <item value="实收数量" />
-      <item value="库存状态" />
-      <item value="暂存区" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="949" />
-        <entry key="ENGLISH" value="949" />
+        <entry key="CHINESE" value="951" />
+        <entry key="ENGLISH" value="950" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
