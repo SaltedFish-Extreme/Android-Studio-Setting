@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="first Scan Barcode" />
       <item value="progress Drawable" />
       <item value="progress" />
       <item value="Drawable" />
@@ -143,12 +144,11 @@
       <item value="托盘码" />
       <item value="上架" />
       <item value="Request Standard Receipt Commit Request" />
-      <item value="SUBMIT" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="955" />
-        <entry key="ENGLISH" value="953" />
+        <entry key="ENGLISH" value="954" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
