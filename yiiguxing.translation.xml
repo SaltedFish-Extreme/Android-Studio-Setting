@@ -94,6 +94,9 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="progress Drawable" />
+      <item value="progress" />
+      <item value="Drawable" />
       <item value="Smart cast to 'Editable' is impossible, because 'inputBox.text' is a complex expression" />
       <item value="评论段子" />
       <item value="Format string 'reply_user' is not a valid format string so it should not be passed to String.format" />
@@ -141,14 +144,11 @@
       <item value="上架" />
       <item value="Request Standard Receipt Commit Request" />
       <item value="SUBMIT" />
-      <item value="COMMIT" />
-      <item value="提交" />
-      <item value="Standard Receipt Commit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="954" />
-        <entry key="ENGLISH" value="951" />
+        <entry key="CHINESE" value="955" />
+        <entry key="ENGLISH" value="953" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
