@@ -94,6 +94,9 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="重新扫描" />
+      <item value="不一致" />
+      <item value="单号" />
       <item value="Incompatible types: Boolean and String" />
       <item value="missing Delimiter Value" />
       <item value="输入" />
@@ -141,14 +144,11 @@
       <item value="商品编码" />
       <item value="商品条码" />
       <item value="标准品上架" />
-      <item value="标准品上架数据模型" />
-      <item value="Standard Product Shelf Model" />
-      <item value="标准品上架数据" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="959" />
-        <entry key="ENGLISH" value="956" />
+        <entry key="CHINESE" value="963" />
+        <entry key="ENGLISH" value="960" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
