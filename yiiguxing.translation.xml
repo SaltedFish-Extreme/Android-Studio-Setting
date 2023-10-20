@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="scansound True Or False" />
       <item value="重新扫描" />
       <item value="不一致" />
       <item value="单号" />
@@ -126,7 +127,6 @@
       <item value="open Activity For Result" />
       <item value="过期" />
       <item value="Request does not contain KType" />
-      <item value="scansound True Or False" />
       <item value="A problem occurred evaluating root project 'uwmsapp'. &gt; Could not set unknown property 'kotlin_version' for object of type org.gradle.api.internal.initialization.DefaultScriptHandler." />
       <item value="Cannot inline bytecode built with JVM target 1.8 into bytecode that is being built with JVM target 1.6. Please specify proper '-jvm-target' option" />
       <item value="javaCompileOptions { annotationProcessorOptions { includeCompileClasspath = true } }" />
@@ -148,7 +148,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="963" />
-        <entry key="ENGLISH" value="960" />
+        <entry key="ENGLISH" value="961" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
