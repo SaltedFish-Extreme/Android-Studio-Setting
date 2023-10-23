@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="No adapter attached; skipping layout" />
       <item value="scansound True Or False" />
       <item value="重新扫描" />
       <item value="不一致" />
@@ -143,12 +144,11 @@
       <item value="public val KProperty0&lt;&gt;.isInitialized: Boolean defined in kotlin" />
       <item value="商品编码" />
       <item value="商品条码" />
-      <item value="标准品上架" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="963" />
-        <entry key="ENGLISH" value="961" />
+        <entry key="ENGLISH" value="962" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
