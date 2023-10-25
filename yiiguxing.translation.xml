@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="dislike" />
       <item value="Toaster.show" />
       <item value="关注成功" />
       <item value="主评论" />
@@ -143,11 +144,10 @@
       <item value="expected version is 1.6.0." />
       <item value="include Compile Classpath" />
       <item value="Execution optimizations have been disabled for task ':app:kaptGenerateStubsDemoDebugKotlin' to ensure correctness due to the following reasons: - Gradle detected a problem with the following location: 'D:\AndroidStudioProjects\uwmsapp\app\src\main\java'. Reason: Task ':app:kaptGenerateStubsDemoDebugKotlin' uses this output of task ':app:greendao' without declaring an explicit or implicit dependency. This can lead to incorrect results being produced, depending on what order the tasks are executed. Please refer to https:docs.gradle.org7.5userguidevalidation_problems.htmlimplicit_dependency for more details about this problem." />
-      <item value="Expiring Daemon because JVM heap space is exhausted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="968" />
+        <entry key="CHINESE" value="969" />
         <entry key="ENGLISH" value="967" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
