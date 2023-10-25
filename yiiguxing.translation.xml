@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="主评论" />
       <item value="pressed Scale" />
       <item value="support adaptive color gamut feature" />
       <item value="回复" />
@@ -143,12 +144,11 @@
       <item value="Expiring Daemon because JVM heap space is exhausted" />
       <item value="Execution failed for task ':app:minifyDemoReleaseWithR8'. &gt; com.android.tools.r8.CompilationFailedException: Compilation failed to complete" />
       <item value="The binary version of its metadata is 1.8.0, expected version is 1.6.0." />
-      <item value="use tools:overrideLibrary=&quot;com.drake.brv&quot; to force usage (may lead to runtime failures)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="964" />
-        <entry key="ENGLISH" value="964" />
+        <entry key="CHINESE" value="965" />
+        <entry key="ENGLISH" value="965" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
