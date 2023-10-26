@@ -3,7 +3,7 @@
     <option name="customScope" value="所有位置" />
     <option name="defaultScopeName" value="所有位置" />
     <option name="SEARCH_SCOPE" value="所有位置" />
-    <option name="FILE_MASK" value="*.kt" />
+    <option name="FILE_MASK" value="*adapter.kt" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -12,5 +12,6 @@
     <mask>*.gradle</mask>
     <mask>*.java</mask>
     <mask>*.kt</mask>
+    <mask>*adapter.kt</mask>
   </component>
 </application>
