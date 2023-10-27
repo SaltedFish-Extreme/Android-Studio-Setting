@@ -94,6 +94,9 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="已收数量" />
+      <item value="实收数量" />
+      <item value="应收数量" />
       <item value="开口笑APP，仿内涵段子使用段子乐开放接口开发的APP" />
       <item value="attention State" />
       <item value="dislike" />
@@ -141,14 +144,11 @@
       <item value="Cannot inline bytecode built with JVM target 1.8 into bytecode that is being built with JVM target 1.6. Please specify proper '-jvm-target' option" />
       <item value="javaCompileOptions { annotationProcessorOptions { includeCompileClasspath = true } }" />
       <item value="non Transitive R Class" />
-      <item value="non Final Res Ids" />
-      <item value="D:Gradlecachesmodules-2files-2.1org.jetbrains.kotlinkotlin-stdlib-common1.8.21d749cd5ae25da36d06e5028785038e24f9d37976kotlin-stdlib-common-1.8.21.jar!META-INFkotlin-stdlib-common.kotlin_module: Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.8.0, expected version is 1.6.0." />
-      <item value="expected version is 1.6.0." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="972" />
-        <entry key="ENGLISH" value="969" />
+        <entry key="CHINESE" value="975" />
+        <entry key="ENGLISH" value="972" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
