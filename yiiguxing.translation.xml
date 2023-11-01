@@ -94,6 +94,9 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="achartengine" />
+      <item value="Cannot resolve corresponding JNI function Java_com_tt_wms_1app_qrscan_qrdecode_DecodeEntry_decodeFromJNI." />
+      <item value="java.lang.UnsatisfiedLinkError: No implementation found for java.lang.String com.tt.wms_app.qrscan.qrdecode.DecodeEntry.decodeFromJNI(int, byte[], int, int, int, int, int, int) (tried Java_com_tt_wms_1app_qrscan_qrdecode_DecodeEntry_decodeFromJNI and Java_com_tt_wms_1app_qrscan_qrdecode_DecodeEntry_decodeFromJNI__I_3BIIIIII)" />
       <item value="[CXX1300] CMake '3.22.1' was not found in SDK, PATH, or by cmake.dir property. [CXX1301] - CMake '3.10.2' found in SDK did not satisfy requested version." />
       <item value="A problem occurred evaluating project ':app'. &gt; Could not find method ndk() for arguments [build_4o2mqnqjr4izx204e7e9njdj9_run_closure1_closure6@1c11a982] on extension 'android' of type com.android.build.gradle.internal.dsl.BaseAppModuleExtension." />
       <item value="com.oneplus.account.personalize.provider.open" />
@@ -141,14 +144,11 @@
       <item value="Package com.js.uwmsapp.demo signatures do not match previously installed version; ignoring!" />
       <item value="intermediates" />
       <item value="open Activity For Result" />
-      <item value="过期" />
-      <item value="Request does not contain KType" />
-      <item value="A problem occurred evaluating root project 'uwmsapp'. &gt; Could not set unknown property 'kotlin_version' for object of type org.gradle.api.internal.initialization.DefaultScriptHandler." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="976" />
-        <entry key="ENGLISH" value="974" />
+        <entry key="CHINESE" value="977" />
+        <entry key="ENGLISH" value="976" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
