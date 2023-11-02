@@ -94,6 +94,10 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="评论" />
+      <item value="自定义底部弹出对话框(段子" />
+      <item value="分享" />
+      <item value="享" />
       <item value="achartengine" />
       <item value="Cannot resolve corresponding JNI function Java_com_tt_wms_1app_qrscan_qrdecode_DecodeEntry_decodeFromJNI." />
       <item value="java.lang.UnsatisfiedLinkError: No implementation found for java.lang.String com.tt.wms_app.qrscan.qrdecode.DecodeEntry.decodeFromJNI(int, byte[], int, int, int, int, int, int) (tried Java_com_tt_wms_1app_qrscan_qrdecode_DecodeEntry_decodeFromJNI and Java_com_tt_wms_1app_qrscan_qrdecode_DecodeEntry_decodeFromJNI__I_3BIIIIII)" />
@@ -140,15 +144,11 @@
       <item value="Not targeting the latest versions of Android; compatibility modes apply. Consider testing and updating this version. Consult the android.os.Build.VERSION_CODES javadoc for details." />
       <item value="We recommend using a newer Android Gradle plugin to use compileSdk = 34 This Android Gradle plugin (8.0.2) was tested up to compileSdk = 33. You are strongly encouraged to update your project to use a newer Android Gradle plugin that has been tested with compileSdk = 34. If you are already using the latest version of the Android Gradle plugin, you may need to wait until a newer version with support for compileSdk = 34 is available. To suppress this warning, addupdate android.suppressUnsupportedCompileSdk=34 to this project's gradle.properties." />
       <item value="We recommend using a newer Android Gradle plugin to use compileSdk = 34 This Android Gradle plugin (8.0.2) was tested up to compileSdk = 33. You are strongly encouraged to update your project to use a newer Android Gradle plugin that has been tested with compileSdk = 34. If you are already using the latest version of the Android Gradle plugin, you may need to wait until a newer version with support for compileSdk = 34 is available." />
-      <item value="自动收货" />
-      <item value="Package com.js.uwmsapp.demo signatures do not match previously installed version; ignoring!" />
-      <item value="intermediates" />
-      <item value="open Activity For Result" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="977" />
-        <entry key="ENGLISH" value="976" />
+        <entry key="CHINESE" value="981" />
+        <entry key="ENGLISH" value="980" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
