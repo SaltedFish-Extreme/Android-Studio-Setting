@@ -94,6 +94,8 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Text to display." />
+      <item value="repository" />
       <item value="aliyun" />
       <item value="This FrameLayout layout or its LinearLayout parent is unnecessary" />
       <item value="attention" />
@@ -142,13 +144,11 @@
       <item value="评论段子" />
       <item value="Format string 'reply_user' is not a valid format string so it should not be passed to String.format" />
       <item value="Added support for RustRover and the new Rust plugin. DeepL Translator now supports Ukrainian and Korean. Compatible with 2023.3. Bug fixes." />
-      <item value="Added support for RustRover and the new Rust plugin. DeepL Translator now supports Ukrainian and Korean. Compatible with 2023.3. Bug fixes. 添加了对 RustRover 和新 Rust 插件的支持 DeepL 翻译现已支持乌克兰语和韩语 兼容 IDE 2023.3 版本 Bug 修复" />
-      <item value="org.gradle.api.tasks.TaskExecutionException: Execution failed for task" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="988" />
-        <entry key="ENGLISH" value="986" />
+        <entry key="CHINESE" value="989" />
+        <entry key="ENGLISH" value="988" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
