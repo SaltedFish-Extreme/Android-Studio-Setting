@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="aliyun" />
       <item value="This FrameLayout layout or its LinearLayout parent is unnecessary" />
       <item value="attention" />
       <item value="关注" />
@@ -143,7 +144,6 @@
       <item value="Added support for RustRover and the new Rust plugin. DeepL Translator now supports Ukrainian and Korean. Compatible with 2023.3. Bug fixes." />
       <item value="Added support for RustRover and the new Rust plugin. DeepL Translator now supports Ukrainian and Korean. Compatible with 2023.3. Bug fixes. 添加了对 RustRover 和新 Rust 插件的支持 DeepL 翻译现已支持乌克兰语和韩语 兼容 IDE 2023.3 版本 Bug 修复" />
       <item value="org.gradle.api.tasks.TaskExecutionException: Execution failed for task" />
-      <item value="Supertypes of the following classes cannot be resolved. Please make sure you have the required dependencies in the classpath: class com.example.smile.widget.view.DrawableRightTextView, unresolved supertypes: DrawableTextView Adding -Xextended-compiler-checks argument might provide additional information." />
     </histories>
     <option name="languageScores">
       <map>
