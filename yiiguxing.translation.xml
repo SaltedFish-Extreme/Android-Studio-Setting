@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Image Or No" />
       <item value="点击标题右侧图标关闭弹窗" />
       <item value="右侧按下关闭" />
       <item value="详情" />
@@ -143,12 +144,11 @@
       <item value="评论段子" />
       <item value="Format string 'reply_user' is not a valid format string so it should not be passed to String.format" />
       <item value="Added support for RustRover and the new Rust plugin. DeepL Translator now supports Ukrainian and Korean. Compatible with 2023.3. Bug fixes." />
-      <item value="Added support for RustRover and the new Rust plugin. DeepL Translator now supports Ukrainian and Korean. Compatible with 2023.3. Bug fixes. 添加了对 RustRover 和新 Rust 插件的支持 DeepL 翻译现已支持乌克兰语和韩语 兼容 IDE 2023.3 版本 Bug 修复" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="992" />
-        <entry key="ENGLISH" value="990" />
+        <entry key="ENGLISH" value="991" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
