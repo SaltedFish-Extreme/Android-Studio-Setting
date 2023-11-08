@@ -75,7 +75,7 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1699259777399" />
+    <option name="lastTrimTime" value="1698645118296" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -94,16 +94,16 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="Image Or No" />
-      <item value="点击标题右侧图标关闭弹窗" />
-      <item value="右侧按下关闭" />
-      <item value="详情" />
-      <item value="举报" />
+      <item value="Text to display." />
+      <item value="repository" />
+      <item value="aliyun" />
       <item value="This FrameLayout layout or its LinearLayout parent is unnecessary" />
       <item value="attention" />
       <item value="关注" />
       <item value="收藏" />
+      <item value="详情" />
       <item value="复制" />
+      <item value="举报" />
       <item value="关闭" />
       <item value="评论" />
       <item value="自定义底部弹出对话框(段子" />
@@ -147,8 +147,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="992" />
-        <entry key="ENGLISH" value="991" />
+        <entry key="CHINESE" value="989" />
+        <entry key="ENGLISH" value="988" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
