@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Interrupted Exception" />
       <item value="'compileReleaseJavaWithJavac' task (current target is 17) and 'compileReleaseKotlin' task (current target is 11) jvm target compatibility should be set to the same Java version." />
       <item value="closure" />
       <item value="favorite" />
@@ -143,12 +144,11 @@
       <item value="first Scan Barcode" />
       <item value="progress Drawable" />
       <item value="progress" />
-      <item value="Drawable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="992" />
-        <entry key="ENGLISH" value="993" />
+        <entry key="CHINESE" value="993" />
+        <entry key="ENGLISH" value="994" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
