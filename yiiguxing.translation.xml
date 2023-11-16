@@ -94,6 +94,7 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="权限" />
       <item value="RELATIVE PATH" />
       <item value="Interrupted Exception" />
       <item value="'compileReleaseJavaWithJavac' task (current target is 17) and 'compileReleaseKotlin' task (current target is 11) jvm target compatibility should be set to the same Java version." />
@@ -143,11 +144,10 @@
       <item value="输入" />
       <item value="还原" />
       <item value="first Scan Barcode" />
-      <item value="progress Drawable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="994" />
+        <entry key="CHINESE" value="995" />
         <entry key="ENGLISH" value="995" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
