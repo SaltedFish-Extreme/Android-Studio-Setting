@@ -95,6 +95,9 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="renderscript" />
+      <item value="non Transitive R Class" />
+      <item value="non Final Res Ids" />
       <item value="We recommend using a newer Android Gradle plugin to use compileSdk = 34 This Android Gradle plugin (8.0.2) was tested up to compileSdk = 33. You are strongly encouraged to update your project to use a newer Android Gradle plugin that has been tested with compileSdk = 34. If you are already using the latest version of the Android Gradle plugin, you may need to wait until a newer version with support for compileSdk = 34 is available. To suppress this warning, addupdate android.suppressUnsupportedCompileSdk=34 to this project's gradle.properties." />
       <item value="Dependency 'androidx.activity:activity:1.8.0' requires libraries and applications that depend on it to compile against version 34 or later of the Android APIs." />
       <item value="Cancels this scope, including its job and all its children with an optional cancellation [cause]. A cause can be used to specify an error message or to provide other details on a cancellation reason for debugging purposes. Throws [IllegalStateException] if the scope does not have a job in it." />
@@ -142,14 +145,11 @@
       <item value="No adapter attached; skipping layout" />
       <item value="scansound True Or False" />
       <item value="重新扫描" />
-      <item value="不一致" />
-      <item value="单号" />
-      <item value="Incompatible types: Boolean and String" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="998" />
-        <entry key="ENGLISH" value="999" />
+        <entry key="CHINESE" value="1002" />
+        <entry key="ENGLISH" value="1003" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
