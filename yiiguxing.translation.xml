@@ -95,6 +95,7 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Dependency 'androidx.activity:activity:1.8.0' requires libraries and applications that depend on it to compile against version 34 or later of the Android APIs." />
       <item value="Cancels this scope, including its job and all its children with an optional cancellation [cause]. A cause can be used to specify an error message or to provide other details on a cancellation reason for debugging purposes. Throws [IllegalStateException] if the scope does not have a job in it." />
       <item value="Joke Collect State API" />
       <item value="权限" />
@@ -144,12 +145,11 @@
       <item value="单号" />
       <item value="Incompatible types: Boolean and String" />
       <item value="missing Delimiter Value" />
-      <item value="输入" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="996" />
-        <entry key="ENGLISH" value="997" />
+        <entry key="CHINESE" value="997" />
+        <entry key="ENGLISH" value="998" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
