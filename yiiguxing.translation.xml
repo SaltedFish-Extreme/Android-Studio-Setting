@@ -95,6 +95,7 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="java.io.IOException: Cleartext HTTP traffic to ikea.boyol.cn not permitted" />
       <item value="non Final Res Ids" />
       <item value="non Transitive R Class" />
       <item value="renderscript" />
@@ -144,12 +145,11 @@
       <item value="Toaster.show" />
       <item value="关注成功" />
       <item value="主评论" />
-      <item value="pressed Scale" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1009" />
-        <entry key="ENGLISH" value="1010" />
+        <entry key="CHINESE" value="1010" />
+        <entry key="ENGLISH" value="1011" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
