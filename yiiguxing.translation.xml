@@ -95,7 +95,12 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="mobile Net Loading Pictures Or No" />
+      <item value="mobile Net Loading Pictures" />
+      <item value="TRANSPORT CELLULAR" />
+      <item value="TRANSPORT ETHERNET" />
       <item value="数据网络加载图片" />
+      <item value="traffic Loading Pictures" />
       <item value="traffic Loading Pictures Or No" />
       <item value="震动开关" />
       <item value="推送开关" />
@@ -140,16 +145,11 @@
       <item value="关闭" />
       <item value="评论" />
       <item value="自定义底部弹出对话框(段子" />
-      <item value="分享" />
-      <item value="享" />
-      <item value="achartengine" />
-      <item value="Cannot resolve corresponding JNI function Java_com_tt_wms_1app_qrscan_qrdecode_DecodeEntry_decodeFromJNI." />
-      <item value="java.lang.UnsatisfiedLinkError: No implementation found for java.lang.String com.tt.wms_app.qrscan.qrdecode.DecodeEntry.decodeFromJNI(int, byte[], int, int, int, int, int, int) (tried Java_com_tt_wms_1app_qrscan_qrdecode_DecodeEntry_decodeFromJNI and Java_com_tt_wms_1app_qrscan_qrdecode_DecodeEntry_decodeFromJNI__I_3BIIIIII)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1021" />
-        <entry key="ENGLISH" value="1021" />
+        <entry key="CHINESE" value="1025" />
+        <entry key="ENGLISH" value="1026" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
