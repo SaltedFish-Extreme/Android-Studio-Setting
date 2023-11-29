@@ -95,6 +95,7 @@
     <option name="newTranslationDialogY" value="733" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="auth status is exceed limit." />
       <item value="mobile Net Loading Pictures Or No" />
       <item value="mobile Net Loading Pictures" />
       <item value="TRANSPORT CELLULAR" />
@@ -144,12 +145,11 @@
       <item value="举报" />
       <item value="关闭" />
       <item value="评论" />
-      <item value="自定义底部弹出对话框(段子" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1025" />
-        <entry key="ENGLISH" value="1026" />
+        <entry key="CHINESE" value="1026" />
+        <entry key="ENGLISH" value="1027" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
