@@ -90,11 +90,15 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="872" />
-    <option name="newTranslationDialogX" value="248" />
-    <option name="newTranslationDialogY" value="733" />
+    <option name="newTranslationDialogWidth" value="870" />
+    <option name="newTranslationDialogX" value="379" />
+    <option name="newTranslationDialogY" value="750" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="图片" />
+      <item value="mobileNet Using" />
+      <item value="mobile Net Using" />
+      <item value="数据流量" />
       <item value="auth status is exceed limit." />
       <item value="mobile Net Loading Pictures Or No" />
       <item value="mobile Net Loading Pictures" />
@@ -141,15 +145,11 @@
       <item value="关注" />
       <item value="收藏" />
       <item value="详情" />
-      <item value="复制" />
-      <item value="举报" />
-      <item value="关闭" />
-      <item value="评论" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1026" />
-        <entry key="ENGLISH" value="1027" />
+        <entry key="CHINESE" value="1029" />
+        <entry key="ENGLISH" value="1029" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
