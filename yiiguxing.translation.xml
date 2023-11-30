@@ -95,10 +95,10 @@
     <option name="newTranslationDialogY" value="750" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="数据流量" />
       <item value="图片" />
       <item value="mobileNet Using" />
       <item value="mobile Net Using" />
-      <item value="数据流量" />
       <item value="auth status is exceed limit." />
       <item value="mobile Net Loading Pictures Or No" />
       <item value="mobile Net Loading Pictures" />
@@ -148,8 +148,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1029" />
-        <entry key="ENGLISH" value="1029" />
+        <entry key="CHINESE" value="1030" />
+        <entry key="ENGLISH" value="1030" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
