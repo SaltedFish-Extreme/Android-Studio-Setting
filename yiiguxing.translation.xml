@@ -95,6 +95,7 @@
     <option name="newTranslationDialogY" value="750" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="项目地址" />
       <item value="Linear Item Decoration" />
       <item value="跳转通知设置" />
       <item value="数据流量" />
@@ -144,11 +145,10 @@
       <item value="repository" />
       <item value="aliyun" />
       <item value="This FrameLayout layout or its LinearLayout parent is unnecessary" />
-      <item value="关注" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1031" />
+        <entry key="CHINESE" value="1032" />
         <entry key="ENGLISH" value="1032" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
