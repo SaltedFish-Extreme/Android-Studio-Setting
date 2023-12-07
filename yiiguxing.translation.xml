@@ -90,11 +90,26 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="870" />
+    <option name="newTranslationDialogWidth" value="866" />
     <option name="newTranslationDialogX" value="379" />
     <option name="newTranslationDialogY" value="750" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="提示" />
+      <item value="已绑定" />
+      <item value="未绑定" />
+      <item value="绑定邀请码" />
+      <item value="我的邀请码" />
+      <item value="woman" />
+      <item value="birthday" />
+      <item value="生日" />
+      <item value="性别" />
+      <item value="signature" />
+      <item value="签名" />
+      <item value="昵称" />
+      <item value="avatar" />
+      <item value="portrait" />
+      <item value="landscape" />
       <item value="barcode Type" />
       <item value="项目地址" />
       <item value="Linear Item Decoration" />
@@ -130,26 +145,11 @@
       <item value="buildfeatures" />
       <item value="android.defaults.buildfeatures.buildconfig" />
       <item value="android.defaults.buildfeatures.buildconfig=true" />
-      <item value="We recommend using a newer Android Gradle plugin to use compileSdk = 34 This Android Gradle plugin (8.0.2) was tested up to compileSdk = 33. You are strongly encouraged to update your project to use a newer Android Gradle plugin that has been tested with compileSdk = 34. If you are already using the latest version of the Android Gradle plugin, you may need to wait until a newer version with support for compileSdk = 34 is available. To suppress this warning, addupdate android.suppressUnsupportedCompileSdk=34 to this project's gradle.properties." />
-      <item value="Dependency 'androidx.activity:activity:1.8.0' requires libraries and applications that depend on it to compile against version 34 or later of the Android APIs." />
-      <item value="Cancels this scope, including its job and all its children with an optional cancellation [cause]. A cause can be used to specify an error message or to provide other details on a cancellation reason for debugging purposes. Throws [IllegalStateException] if the scope does not have a job in it." />
-      <item value="Joke Collect State API" />
-      <item value="权限" />
-      <item value="RELATIVE PATH" />
-      <item value="Interrupted Exception" />
-      <item value="'compileReleaseJavaWithJavac' task (current target is 17) and 'compileReleaseKotlin' task (current target is 11) jvm target compatibility should be set to the same Java version." />
-      <item value="closure" />
-      <item value="favorite" />
-      <item value="attention" />
-      <item value="已收藏" />
-      <item value="Text to display." />
-      <item value="repository" />
-      <item value="aliyun" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1032" />
-        <entry key="ENGLISH" value="1033" />
+        <entry key="CHINESE" value="1047" />
+        <entry key="ENGLISH" value="1047" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
