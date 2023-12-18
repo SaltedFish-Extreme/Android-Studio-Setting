@@ -95,6 +95,7 @@
     <option name="newTranslationDialogY" value="750" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="rectangle dialog" />
       <item value="item" />
       <item value="is Scroll Container" />
       <item value="invited Code" />
@@ -144,12 +145,11 @@
       <item value="Insecure Base Configuration" />
       <item value="Const 'val' initializer should be a constant value" />
       <item value="java.io.IOException: Cleartext HTTP traffic to ikea.boyol.cn not permitted" />
-      <item value="non Final Res Ids" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1053" />
-        <entry key="ENGLISH" value="1054" />
+        <entry key="CHINESE" value="1054" />
+        <entry key="ENGLISH" value="1055" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
