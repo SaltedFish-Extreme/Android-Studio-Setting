@@ -95,6 +95,8 @@
     <option name="newTranslationDialogY" value="750" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="日期时间选择弹窗" />
+      <item value="日期时间选择器弹窗" />
       <item value="STYLE NO FRAME" />
       <item value="STYLE NO INPUT" />
       <item value="rectangle dialog" />
@@ -143,13 +145,11 @@
       <item value="obsolete" />
       <item value="&quot;official" />
       <item value="Caused by: org.jetbrains.kotlin.gradle.tasks.CompilationErrorException: Compilation error. See log for more details" />
-      <item value="Android resource linking failed D:\AndroidStudioProjects\EsteeLauderWarehouse\app\build\intermediates\packaged_manifests\debug\AndroidManifest.xml:29: error: resource styleTheme.EsteeLauderWarehouse (aka com.example.esteelauderwarehouse:styleTheme.EsteeLauderWarehouse) not found. error: failed processing manifest." />
-      <item value="Insecure Base Configuration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1056" />
-        <entry key="ENGLISH" value="1057" />
+        <entry key="CHINESE" value="1058" />
+        <entry key="ENGLISH" value="1058" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
