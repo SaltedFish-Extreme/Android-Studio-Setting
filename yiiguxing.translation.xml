@@ -90,11 +90,17 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="866" />
+    <option name="newTranslationDialogWidth" value="864" />
     <option name="newTranslationDialogX" value="379" />
     <option name="newTranslationDialogY" value="750" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Option View" />
+      <item value="单选多选选择器" />
+      <item value="选择器" />
+      <item value="未知性别" />
+      <item value="女性" />
+      <item value="male" />
       <item value="selector" />
       <item value="日期时间选择弹窗" />
       <item value="日期时间选择器弹窗" />
@@ -139,17 +145,11 @@
       <item value="数据网络加载图片" />
       <item value="traffic Loading Pictures" />
       <item value="traffic Loading Pictures Or No" />
-      <item value="震动开关" />
-      <item value="推送开关" />
-      <item value="URL FETCH CONFIRM HISTORY" />
-      <item value="Estee Lauder" />
-      <item value="obsolete" />
-      <item value="&quot;official" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1058" />
-        <entry key="ENGLISH" value="1059" />
+        <entry key="CHINESE" value="1060" />
+        <entry key="ENGLISH" value="1061" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
