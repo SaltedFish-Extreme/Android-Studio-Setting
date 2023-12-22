@@ -95,6 +95,8 @@
     <option name="newTranslationDialogY" value="750" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="show Gender Option Dialog" />
+      <item value="性别" />
       <item value="Option View" />
       <item value="单选多选选择器" />
       <item value="选择器" />
@@ -122,7 +124,6 @@
       <item value="woman" />
       <item value="birthday" />
       <item value="生日" />
-      <item value="性别" />
       <item value="signature" />
       <item value="签名" />
       <item value="昵称" />
@@ -144,12 +145,11 @@
       <item value="TRANSPORT ETHERNET" />
       <item value="数据网络加载图片" />
       <item value="traffic Loading Pictures" />
-      <item value="traffic Loading Pictures Or No" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1060" />
-        <entry key="ENGLISH" value="1061" />
+        <entry key="CHINESE" value="1061" />
+        <entry key="ENGLISH" value="1062" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
