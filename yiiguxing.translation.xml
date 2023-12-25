@@ -95,6 +95,8 @@
     <option name="newTranslationDialogY" value="750" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="长度" />
+      <item value="fading Edge Length" />
       <item value="adjust View Bounds" />
       <item value="blocks Descendants" />
       <item value="descendant Focusability" />
@@ -143,13 +145,11 @@
       <item value="landscape" />
       <item value="barcode Type" />
       <item value="项目地址" />
-      <item value="Linear Item Decoration" />
-      <item value="跳转通知设置" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1075" />
-        <entry key="ENGLISH" value="1076" />
+        <entry key="CHINESE" value="1077" />
+        <entry key="ENGLISH" value="1077" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
