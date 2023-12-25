@@ -95,8 +95,12 @@
     <option name="newTranslationDialogY" value="750" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="MODE CHECK NONE" />
+      <item value="adjust View Bounds" />
+      <item value="blocks Descendants" />
+      <item value="descendant Focusability" />
       <item value="columns" />
+      <item value="is Check Single" />
+      <item value="MODE CHECK NONE" />
       <item value="LAYOUT ITEM HORIZONTAL" />
       <item value="is Check Trigger By Item View" />
       <item value="is Check Allow Nothing" />
@@ -141,15 +145,11 @@
       <item value="项目地址" />
       <item value="Linear Item Decoration" />
       <item value="跳转通知设置" />
-      <item value="数据流量" />
-      <item value="图片" />
-      <item value="mobileNet Using" />
-      <item value="mobile Net Using" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1070" />
-        <entry key="ENGLISH" value="1071" />
+        <entry key="CHINESE" value="1075" />
+        <entry key="ENGLISH" value="1076" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
