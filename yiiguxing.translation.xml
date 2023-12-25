@@ -95,6 +95,9 @@
     <option name="newTranslationDialogY" value="750" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="is Check Allow Nothing" />
+      <item value="set Show Check Box" />
+      <item value="is Check Show" />
       <item value="长度" />
       <item value="fading Edge Length" />
       <item value="adjust View Bounds" />
@@ -105,7 +108,6 @@
       <item value="MODE CHECK NONE" />
       <item value="LAYOUT ITEM HORIZONTAL" />
       <item value="is Check Trigger By Item View" />
-      <item value="is Check Allow Nothing" />
       <item value="gender Option Data List" />
       <item value="选择性别" />
       <item value="show Gender Option Dialog" />
@@ -143,13 +145,11 @@
       <item value="avatar" />
       <item value="portrait" />
       <item value="landscape" />
-      <item value="barcode Type" />
-      <item value="项目地址" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1077" />
-        <entry key="ENGLISH" value="1077" />
+        <entry key="CHINESE" value="1079" />
+        <entry key="ENGLISH" value="1080" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
