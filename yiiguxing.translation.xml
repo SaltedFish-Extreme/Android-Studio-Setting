@@ -75,7 +75,7 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1702864118198" />
+    <option name="lastTrimTime" value="1703467958714" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -95,6 +95,13 @@
     <option name="newTranslationDialogY" value="750" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="MODE CHECK NONE" />
+      <item value="columns" />
+      <item value="LAYOUT ITEM HORIZONTAL" />
+      <item value="is Check Trigger By Item View" />
+      <item value="is Check Allow Nothing" />
+      <item value="gender Option Data List" />
+      <item value="选择性别" />
       <item value="show Gender Option Dialog" />
       <item value="性别" />
       <item value="Option View" />
@@ -138,18 +145,11 @@
       <item value="图片" />
       <item value="mobileNet Using" />
       <item value="mobile Net Using" />
-      <item value="auth status is exceed limit." />
-      <item value="mobile Net Loading Pictures Or No" />
-      <item value="mobile Net Loading Pictures" />
-      <item value="TRANSPORT CELLULAR" />
-      <item value="TRANSPORT ETHERNET" />
-      <item value="数据网络加载图片" />
-      <item value="traffic Loading Pictures" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1061" />
-        <entry key="ENGLISH" value="1062" />
+        <entry key="CHINESE" value="1070" />
+        <entry key="ENGLISH" value="1071" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
