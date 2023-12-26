@@ -95,6 +95,7 @@
     <option name="newTranslationDialogY" value="750" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="support adaptive color gamut feature!" />
       <item value="fast Scroll Enabled" />
       <item value="scrollbars" />
       <item value="over Scroll Mode" />
@@ -144,12 +145,11 @@
       <item value="birthday" />
       <item value="生日" />
       <item value="signature" />
-      <item value="签名" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1084" />
-        <entry key="ENGLISH" value="1085" />
+        <entry key="CHINESE" value="1085" />
+        <entry key="ENGLISH" value="1086" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
