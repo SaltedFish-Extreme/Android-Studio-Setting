@@ -95,6 +95,10 @@
     <option name="newTranslationDialogY" value="750" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="fast Scroll Enabled" />
+      <item value="scrollbars" />
+      <item value="over Scroll Mode" />
+      <item value="option view" />
       <item value="is Check Show" />
       <item value="is Check Allow Nothing" />
       <item value="set Show Check Box" />
@@ -141,15 +145,11 @@
       <item value="生日" />
       <item value="signature" />
       <item value="签名" />
-      <item value="昵称" />
-      <item value="avatar" />
-      <item value="portrait" />
-      <item value="landscape" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1080" />
-        <entry key="ENGLISH" value="1081" />
+        <entry key="CHINESE" value="1084" />
+        <entry key="ENGLISH" value="1085" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
