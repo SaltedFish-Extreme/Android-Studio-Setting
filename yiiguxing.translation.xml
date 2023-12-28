@@ -90,11 +90,16 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="864" />
+    <option name="newTranslationDialogWidth" value="862" />
     <option name="newTranslationDialogX" value="379" />
     <option name="newTranslationDialogY" value="750" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="invoke" />
+      <item value="Upload pictures to album (nine-square grid)" />
+      <item value="相册上传图片(九宫格)" />
+      <item value="九宫格" />
+      <item value="album Upload Image" />
       <item value="Called removeDetachedView with a view which is not flagged as tmp detached" />
       <item value="support adaptive color gamut feature!" />
       <item value="fast Scroll Enabled" />
@@ -140,16 +145,11 @@
       <item value="提示" />
       <item value="已绑定" />
       <item value="未绑定" />
-      <item value="绑定邀请码" />
-      <item value="我的邀请码" />
-      <item value="woman" />
-      <item value="birthday" />
-      <item value="生日" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1086" />
-        <entry key="ENGLISH" value="1087" />
+        <entry key="CHINESE" value="1091" />
+        <entry key="ENGLISH" value="1091" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
