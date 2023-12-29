@@ -95,6 +95,7 @@
     <option name="newTranslationDialogY" value="750" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="layout dialog confirm" />
       <item value="invoke" />
       <item value="Upload pictures to album (nine-square grid)" />
       <item value="相册上传图片(九宫格)" />
@@ -144,12 +145,11 @@
       <item value="用户信息" />
       <item value="提示" />
       <item value="已绑定" />
-      <item value="未绑定" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1091" />
-        <entry key="ENGLISH" value="1091" />
+        <entry key="ENGLISH" value="1092" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
