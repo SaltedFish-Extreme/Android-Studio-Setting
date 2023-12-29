@@ -95,6 +95,7 @@
     <option name="newTranslationDialogY" value="750" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="enter Fade Duration" />
       <item value="Display the previous configuration" />
       <item value="layout dialog confirm" />
       <item value="invoke" />
@@ -144,12 +145,11 @@
       <item value="User Personal Information Model" />
       <item value="用户个人信息数据模型" />
       <item value="用户信息" />
-      <item value="提示" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1092" />
-        <entry key="ENGLISH" value="1093" />
+        <entry key="CHINESE" value="1093" />
+        <entry key="ENGLISH" value="1094" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
