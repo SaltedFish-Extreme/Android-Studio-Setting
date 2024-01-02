@@ -75,7 +75,7 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1703467958714" />
+    <option name="lastTrimTime" value="1704164499750" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -90,11 +90,12 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="862" />
+    <option name="newTranslationDialogWidth" value="860" />
     <option name="newTranslationDialogX" value="379" />
     <option name="newTranslationDialogY" value="750" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="账户安全" />
       <item value="Bind Invitation Code API" />
       <item value="邀请码" />
       <item value="enter Fade Duration" />
@@ -144,7 +145,6 @@
       <item value="is Scroll Container" />
       <item value="invited Code" />
       <item value="invite Code" />
-      <item value="User Personal Information Model" />
     </histories>
     <option name="languageScores">
       <map>
