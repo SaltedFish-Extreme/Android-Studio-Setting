@@ -95,6 +95,10 @@
     <option name="newTranslationDialogY" value="750" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="logged In" />
+      <item value="已登录" />
+      <item value="logged in" />
+      <item value="未登录" />
       <item value="警告" />
       <item value="注销" />
       <item value="注销账号" />
@@ -141,15 +145,11 @@
       <item value="male" />
       <item value="selector" />
       <item value="日期时间选择弹窗" />
-      <item value="日期时间选择器弹窗" />
-      <item value="STYLE NO FRAME" />
-      <item value="STYLE NO INPUT" />
-      <item value="rectangle dialog" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1099" />
-        <entry key="ENGLISH" value="1099" />
+        <entry key="CHINESE" value="1103" />
+        <entry key="ENGLISH" value="1104" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
