@@ -95,6 +95,7 @@
     <option name="newTranslationDialogY" value="750" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="set Canceled On Touch Outside" />
       <item value="注销账户" />
       <item value="logout account" />
       <item value="login Or No" />
@@ -144,12 +145,11 @@
       <item value="性别" />
       <item value="Option View" />
       <item value="单选多选选择器" />
-      <item value="选择器" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1108" />
-        <entry key="ENGLISH" value="1108" />
+        <entry key="ENGLISH" value="1109" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
