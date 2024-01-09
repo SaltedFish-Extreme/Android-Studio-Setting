@@ -95,6 +95,9 @@
     <option name="newTranslationDialogY" value="750" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="举报该用户" />
+      <item value="select action option" />
+      <item value="请选择操作选项" />
       <item value="Report User Or Joke API" />
       <item value="举报" />
       <item value="logout success" />
@@ -142,14 +145,11 @@
       <item value="is Check Single" />
       <item value="MODE CHECK NONE" />
       <item value="LAYOUT ITEM HORIZONTAL" />
-      <item value="is Check Trigger By Item View" />
-      <item value="gender Option Data List" />
-      <item value="选择性别" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1111" />
-        <entry key="ENGLISH" value="1112" />
+        <entry key="CHINESE" value="1113" />
+        <entry key="ENGLISH" value="1113" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
