@@ -95,6 +95,11 @@
     <option name="newTranslationDialogY" value="750" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="report person" />
+      <item value="用户" />
+      <item value="对此不感兴趣" />
+      <item value="不感兴趣" />
+      <item value="举报发布者" />
       <item value="举报该用户" />
       <item value="select action option" />
       <item value="请选择操作选项" />
@@ -140,16 +145,11 @@
       <item value="fading Edge Length" />
       <item value="adjust View Bounds" />
       <item value="blocks Descendants" />
-      <item value="descendant Focusability" />
-      <item value="columns" />
-      <item value="is Check Single" />
-      <item value="MODE CHECK NONE" />
-      <item value="LAYOUT ITEM HORIZONTAL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1113" />
-        <entry key="ENGLISH" value="1113" />
+        <entry key="CHINESE" value="1117" />
+        <entry key="ENGLISH" value="1118" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
