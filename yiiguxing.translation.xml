@@ -95,6 +95,7 @@
     <option name="newTranslationDialogY" value="750" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="'lateinit' modifier is not allowed on properties of primitive types" />
       <item value="reverse Layout" />
       <item value="text Color" />
       <item value="空白" />
@@ -144,11 +145,10 @@
       <item value="option view" />
       <item value="is Check Show" />
       <item value="is Check Allow Nothing" />
-      <item value="set Show Check Box" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1120" />
+        <entry key="CHINESE" value="1121" />
         <entry key="ENGLISH" value="1121" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
