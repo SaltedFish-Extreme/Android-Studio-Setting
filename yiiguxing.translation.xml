@@ -95,6 +95,7 @@
     <option name="newTranslationDialogY" value="750" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="举报详情" />
       <item value="选择举报类型" />
       <item value="Backing field of 'var optionView: ShapeTextView' is not accessible at this point" />
       <item value="初始化" />
@@ -144,12 +145,11 @@
       <item value="Called removeDetachedView with a view which is not flagged as tmp detached" />
       <item value="support adaptive color gamut feature!" />
       <item value="fast Scroll Enabled" />
-      <item value="scrollbars" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1125" />
-        <entry key="ENGLISH" value="1123" />
+        <entry key="CHINESE" value="1126" />
+        <entry key="ENGLISH" value="1124" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
