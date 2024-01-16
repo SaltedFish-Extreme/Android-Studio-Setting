@@ -75,7 +75,7 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1704769704392" />
+    <option name="lastTrimTime" value="1705369164142" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -95,6 +95,9 @@
     <option name="newTranslationDialogY" value="750" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="possible solutiontory declare repository providing the artifact, se the documentation" />
+      <item value="declare repository providing the artifact, se the documentation" />
+      <item value="possible solutiontory" />
       <item value="举报详情" />
       <item value="选择举报类型" />
       <item value="Backing field of 'var optionView: ShapeTextView' is not accessible at this point" />
@@ -142,14 +145,11 @@
       <item value="相册上传图片(九宫格)" />
       <item value="九宫格" />
       <item value="album Upload Image" />
-      <item value="Called removeDetachedView with a view which is not flagged as tmp detached" />
-      <item value="support adaptive color gamut feature!" />
-      <item value="fast Scroll Enabled" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1126" />
-        <entry key="ENGLISH" value="1124" />
+        <entry key="ENGLISH" value="1127" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
