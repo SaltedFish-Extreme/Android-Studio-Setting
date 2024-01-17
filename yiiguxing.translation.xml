@@ -95,6 +95,8 @@
     <option name="newTranslationDialogY" value="750" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="帖子详情" />
+      <item value="详情" />
       <item value="possible solutiontory declare repository providing the artifact, se the documentation" />
       <item value="declare repository providing the artifact, se the documentation" />
       <item value="possible solutiontory" />
@@ -143,12 +145,10 @@
       <item value="invoke" />
       <item value="Upload pictures to album (nine-square grid)" />
       <item value="相册上传图片(九宫格)" />
-      <item value="九宫格" />
-      <item value="album Upload Image" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1126" />
+        <entry key="CHINESE" value="1127" />
         <entry key="ENGLISH" value="1127" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
