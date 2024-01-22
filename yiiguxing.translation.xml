@@ -95,6 +95,7 @@
     <option name="newTranslationDialogY" value="750" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="srl Enable Footer Follow When Load Finished" />
       <item value="Not targeting the latest versions of Android; compatibility modes apply. Consider testing and updating this version. Consult the android.os.Build.VERSION_CODES javadoc for details." />
       <item value="提示" />
       <item value="Joke For Id" />
@@ -144,12 +145,11 @@
       <item value="账户安全" />
       <item value="Bind Invitation Code API" />
       <item value="邀请码" />
-      <item value="enter Fade Duration" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1130" />
-        <entry key="ENGLISH" value="1129" />
+        <entry key="ENGLISH" value="1130" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
