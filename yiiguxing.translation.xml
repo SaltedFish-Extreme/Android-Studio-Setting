@@ -95,6 +95,7 @@
     <option name="newTranslationDialogY" value="750" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="include input comment" />
       <item value="输入栏" />
       <item value="input field" />
       <item value="show Data Info" />
@@ -144,12 +145,11 @@
       <item value="已登录" />
       <item value="logged in" />
       <item value="未登录" />
-      <item value="警告" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1136" />
-        <entry key="ENGLISH" value="1136" />
+        <entry key="ENGLISH" value="1137" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
