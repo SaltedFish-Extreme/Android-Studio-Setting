@@ -95,6 +95,7 @@
     <option name="newTranslationDialogY" value="750" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="srl Enable Footer Follow When Load Finished" />
       <item value="include input comment" />
       <item value="输入栏" />
       <item value="input field" />
@@ -103,7 +104,6 @@
       <item value="delete confirm" />
       <item value="Clickable View Accessibility" />
       <item value="String Format Matches" />
-      <item value="srl Enable Footer Follow When Load Finished" />
       <item value="Not targeting the latest versions of Android; compatibility modes apply. Consider testing and updating this version. Consult the android.os.Build.VERSION_CODES javadoc for details." />
       <item value="提示" />
       <item value="Joke For Id" />
@@ -148,8 +148,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1136" />
-        <entry key="ENGLISH" value="1137" />
+        <entry key="CHINESE" value="1137" />
+        <entry key="ENGLISH" value="1138" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
