@@ -95,11 +95,11 @@
     <option name="newTranslationDialogY" value="750" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="srl Enable Footer Follow When Load Finished" />
       <item value="指定段子点赞用户信息列表" />
       <item value="指定段子点赞" />
       <item value="指定段子点赞列表" />
       <item value="锚点" />
-      <item value="srl Enable Footer Follow When Load Finished" />
       <item value="include input comment" />
       <item value="输入栏" />
       <item value="input field" />
@@ -149,7 +149,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1142" />
-        <entry key="ENGLISH" value="1142" />
+        <entry key="ENGLISH" value="1143" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
