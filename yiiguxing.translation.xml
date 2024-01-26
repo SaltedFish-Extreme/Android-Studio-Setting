@@ -95,6 +95,9 @@
     <option name="newTranslationDialogY" value="750" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="指定段子点赞用户信息列表" />
+      <item value="指定段子点赞" />
+      <item value="指定段子点赞列表" />
       <item value="锚点" />
       <item value="srl Enable Footer Follow When Load Finished" />
       <item value="include input comment" />
@@ -142,14 +145,11 @@
       <item value="login Or No" />
       <item value="退出登录操作" />
       <item value="已退出登录" />
-      <item value="logged In" />
-      <item value="已登录" />
-      <item value="logged in" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1139" />
-        <entry key="ENGLISH" value="1139" />
+        <entry key="CHINESE" value="1142" />
+        <entry key="ENGLISH" value="1142" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
