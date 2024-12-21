@@ -1,0 +1,58 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="shift ctrl comma" />
+  </action>
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
+    <keyboard-shortcut first-keystroke="alt f11" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="CollapseTreeNode">
+    <mouse-shortcut keystroke="alt button143" />
+  </action>
+  <action id="Editor EditorTranslateAction">
+    <mouse-shortcut keystroke="shift button1" />
+  </action>
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="shift alt z" />
+  </action>
+  <action id="FixDocComment">
+    <keyboard-shortcut first-keystroke="ctrl windows" />
+  </action>
+  <action id="FullyExpandTreeNode">
+    <mouse-shortcut keystroke="alt button142" />
+  </action>
+  <action id="GenerateJavadoc">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+  </action>
+  <action id="HippieCompletion" />
+  <action id="ReflowKDoc">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="ToggleRenderedDocPresentation" />
+  <action id="UpdateRunningApplication" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+  <action id="com.wuyr.google_library_query.QueryAction">
+    <keyboard-shortcut first-keystroke="ctrl alt q" />
+    <keyboard-shortcut first-keystroke="ctrl alt quote" />
+  </action>
+  <action id="com.zxy.idea.plugin.fvbi.support.FindViewByIdGenerateAction">
+    <keyboard-shortcut first-keystroke="shift ctrl windows" />
+  </action>
+  <action id="me.majiajie.FindViewForAndroid.GenerateFindView">
+    <keyboard-shortcut first-keystroke="shift ctrl windows" />
+  </action>
+  <action id="编辑EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="shift ctrl comma" />
+  </action>
+  <action id="编辑器Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+  </action>
+</keymap>
