@@ -3,7 +3,6 @@
     <option name="applyColorsOfRoundForAllBrackets" value="true" />
     <option name="bigFilesLinesThreshold" value="3000" />
     <option name="borderHighlightingStrength" value="1.0" />
-    <option name="colorGenLuminosityOption" value="random" />
     <option name="customIndentGuides" value="true" />
     <option name="cycleCountOnAllBrackets" value="true" />
     <option name="enableRainbowVariables" value="true" />
