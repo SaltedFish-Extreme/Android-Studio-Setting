@@ -220,14 +220,14 @@
     },
     {
       &quot;code&quot;: &quot;PRAINBOWBRACKET&quot;,
-      &quot;paidUpTo&quot;: &quot;2099-12-31&quot;,
-      &quot;fallbackDate&quot;: &quot;2099-12-31&quot;,
+      &quot;paidUpTo&quot;: &quot;2025-01-30&quot;,
+      &quot;fallbackDate&quot;: &quot;2025-01-30&quot;,
       &quot;extended&quot;: false
     },
     {
       &quot;code&quot;: &quot;PWIFIADB&quot;,
-      &quot;paidUpTo&quot;: &quot;2099-12-31&quot;,
-      &quot;fallbackDate&quot;: &quot;2099-12-31&quot;,
+      &quot;paidUpTo&quot;: &quot;2025-01-30&quot;,
+      &quot;fallbackDate&quot;: &quot;2025-01-30&quot;,
       &quot;extended&quot;: false
     }
   ],
