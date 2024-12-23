@@ -236,5 +236,6 @@
   &quot;gracePeriodDays&quot;: 7,
   &quot;isAutoProlongated&quot;: false
 }</jetbrainsActivationCode>
+    <patchAgentPath>D:/Bundle-ja-netfilter.jar</patchAgentPath>
   </component>
 </application>
