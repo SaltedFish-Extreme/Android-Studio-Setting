@@ -6,6 +6,7 @@
     <option name="customIndentGuides" value="true" />
     <option name="cycleCountOnAllBrackets" value="true" />
     <option name="enableRainbowVariables" value="true" />
+    <option name="enableRainbowVariablesBySemanticHighlighting" value="true" />
     <option name="highlightCurrentBlockOptions" value="Border" />
     <option name="numberOfColors" value="20" />
     <option name="rainbowifyPythonKeywords" value="true" />

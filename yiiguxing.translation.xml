@@ -89,12 +89,9 @@
     <option name="translator" value="GOOGLE" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="860" />
-    <option name="newTranslationDialogX" value="379" />
-    <option name="newTranslationDialogY" value="750" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Could not install Gradle distribution from 'https:services.gradle.orgdistributionsgradle-8.4-bin.zip'. The cached zip file C:\Users\咸鱼至尊\.gradle\wrapper\dists\gradle-8.4-bin\1w5dpkrfk8irigvoxmyhowfim\gradle-8.4-bin.zip may be corrupted." />
       <item value="srl Enable Footer Follow When Load Finished" />
       <item value="指定段子点赞用户信息列表" />
       <item value="指定段子点赞" />
@@ -144,12 +141,12 @@
       <item value="logout account" />
       <item value="login Or No" />
       <item value="退出登录操作" />
-      <item value="已退出登录" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1142" />
-        <entry key="ENGLISH" value="1143" />
+        <entry key="CHINESE_SIMPLIFIED" value="1" />
+        <entry key="ENGLISH" value="1144" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
