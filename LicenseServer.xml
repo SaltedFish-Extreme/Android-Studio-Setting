@@ -220,8 +220,8 @@
     },
     {
       &quot;code&quot;: &quot;PRAINBOWBRACKET&quot;,
-      &quot;paidUpTo&quot;: &quot;2099-12-31&quot;,
-      &quot;fallbackDate&quot;: &quot;2099-12-31&quot;,
+      &quot;paidUpTo&quot;: &quot;2025-02-28&quot;,
+      &quot;fallbackDate&quot;: &quot;2025-02-28&quot;,
       &quot;extended&quot;: false
     },
     {
