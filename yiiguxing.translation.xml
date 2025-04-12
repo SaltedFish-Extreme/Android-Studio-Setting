@@ -91,8 +91,9 @@
     <option name="pinTranslationDialog" value="true" />
     <option name="translationDialogHeight" value="260" />
     <option name="translationDialogLocationX" value="723" />
-    <option name="translationDialogLocationY" value="450" />
+    <option name="translationDialogLocationY" value="445" />
     <histories>
+      <item value="Permission exists without corresponding hardware &lt;uses-feature android:name=&quot;android.hardware.camera&quot; required=&quot;false&quot;&gt; tag" />
       <item value="public inline fun &lt;reified T : AppCompatActivity&gt; TypeVariable(T).loginActivityForResult(activity: AppCompatActivity): Unit defined in com.example.wanAndroid.widget.ext in file CustomViewExt.kt" />
       <item value="reified" />
       <item value="serial lazy" />
@@ -142,12 +143,11 @@
       <item value="举报" />
       <item value="logout success" />
       <item value="Logout Account API" />
-      <item value="set Canceled On Touch Outside" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1142" />
-        <entry key="CHINESE_SIMPLIFIED" value="5" />
+        <entry key="CHINESE_SIMPLIFIED" value="6" />
         <entry key="ENGLISH" value="1147" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
