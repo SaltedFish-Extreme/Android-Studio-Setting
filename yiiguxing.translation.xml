@@ -93,6 +93,7 @@
     <option name="translationDialogLocationX" value="723" />
     <option name="translationDialogLocationY" value="445" />
     <histories>
+      <item value="Request response: Access to this site has been restricted. If you believe this is an error, please contact https:support.github.com" />
       <item value="reified" />
       <item value="Permission exists without corresponding hardware &lt;uses-feature android:name=&quot;android.hardware.camera&quot; required=&quot;false&quot;&gt; tag" />
       <item value="public inline fun &lt;reified T : AppCompatActivity&gt; TypeVariable(T).loginActivityForResult(activity: AppCompatActivity): Unit defined in com.example.wanAndroid.widget.ext in file CustomViewExt.kt" />
@@ -142,12 +143,11 @@
       <item value="Report User Or Joke API" />
       <item value="举报" />
       <item value="logout success" />
-      <item value="Logout Account API" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1142" />
-        <entry key="CHINESE_SIMPLIFIED" value="7" />
+        <entry key="CHINESE_SIMPLIFIED" value="8" />
         <entry key="ENGLISH" value="1148" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
