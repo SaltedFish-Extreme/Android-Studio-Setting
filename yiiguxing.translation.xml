@@ -75,7 +75,7 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1734939245094" />
+    <option name="lastTrimTime" value="1744424499560" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -83,10 +83,9 @@
         <option name="appId" value="20221025001414231" />
       </app-key>
     </option>
-    <option name="primaryLanguage" value="CHINESE" />
+    <option name="primaryLanguage" value="CHINESE_SIMPLIFIED" />
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
     <option name="translateDocumentation" value="true" />
-    <option name="translator" value="GOOGLE" />
   </component>
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
