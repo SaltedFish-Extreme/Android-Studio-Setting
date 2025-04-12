@@ -89,7 +89,12 @@
   </component>
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
+    <option name="translationDialogHeight" value="260" />
+    <option name="translationDialogLocationX" value="723" />
+    <option name="translationDialogLocationY" value="450" />
     <histories>
+      <item value="public inline fun &lt;reified T : AppCompatActivity&gt; TypeVariable(T).loginActivityForResult(activity: AppCompatActivity): Unit defined in com.example.wanAndroid.widget.ext in file CustomViewExt.kt" />
+      <item value="reified" />
       <item value="serial lazy" />
       <item value="We recommend using a newer Android Gradle plugin to use compileSdk = 34 This Android Gradle plugin (8.0.2) was tested up to compileSdk = 33. You are strongly encouraged to update your project to use a newer Android Gradle plugin that has been tested with compileSdk = 34. If you are already using the latest version of the Android Gradle plugin, you may need to wait until a newer version with support for compileSdk = 34 is available. To suppress this warning, addupdate android.suppressUnsupportedCompileSdk=34 to this project's gradle.properties. Affected Modules: app" />
       <item value="Could not install Gradle distribution from 'https:services.gradle.orgdistributionsgradle-8.4-bin.zip'. The cached zip file C:\Users\咸鱼至尊\.gradle\wrapper\dists\gradle-8.4-bin\1w5dpkrfk8irigvoxmyhowfim\gradle-8.4-bin.zip may be corrupted." />
@@ -138,14 +143,12 @@
       <item value="logout success" />
       <item value="Logout Account API" />
       <item value="set Canceled On Touch Outside" />
-      <item value="注销账户" />
-      <item value="logout account" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1142" />
-        <entry key="CHINESE_SIMPLIFIED" value="3" />
-        <entry key="ENGLISH" value="1146" />
+        <entry key="CHINESE_SIMPLIFIED" value="5" />
+        <entry key="ENGLISH" value="1147" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
