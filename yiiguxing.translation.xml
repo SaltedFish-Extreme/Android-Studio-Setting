@@ -75,7 +75,7 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1744424499560" />
+    <option name="lastTrimTime" value="1766457304021" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -93,6 +93,8 @@
     <option name="translationDialogLocationX" value="723" />
     <option name="translationDialogLocationY" value="445" />
     <histories>
+      <item value="You are strongly encouraged to update your project to use a newer Android Gradle plugin that has been tested with compileSdk = 34." />
+      <item value="This Android Gradle plugin (8.0.2) was tested up to compileSdk = 33." />
       <item value="Request response: Access to this site has been restricted. If you believe this is an error, please contact https:support.github.com" />
       <item value="reified" />
       <item value="Permission exists without corresponding hardware &lt;uses-feature android:name=&quot;android.hardware.camera&quot; required=&quot;false&quot;&gt; tag" />
@@ -141,14 +143,12 @@
       <item value="select action option" />
       <item value="请选择操作选项" />
       <item value="Report User Or Joke API" />
-      <item value="举报" />
-      <item value="logout success" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1142" />
-        <entry key="CHINESE_SIMPLIFIED" value="8" />
-        <entry key="ENGLISH" value="1148" />
+        <entry key="CHINESE_SIMPLIFIED" value="10" />
+        <entry key="ENGLISH" value="1150" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
