@@ -93,6 +93,7 @@
     <option name="translationDialogLocationX" value="723" />
     <option name="translationDialogLocationY" value="445" />
     <histories>
+      <item value="pinned this issue" />
       <item value="You only have a single verified email address. We recommend verifying at least one more email address to ensure you can recover your account if you lose access to your primary email." />
       <item value="constrcaint layout" />
       <item value="constraint layout" />
@@ -142,13 +143,12 @@
       <item value="用户" />
       <item value="对此不感兴趣" />
       <item value="不感兴趣" />
-      <item value="举报发布者" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1142" />
-        <entry key="CHINESE_SIMPLIFIED" value="16" />
-        <entry key="ENGLISH" value="1156" />
+        <entry key="CHINESE_SIMPLIFIED" value="17" />
+        <entry key="ENGLISH" value="1157" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
