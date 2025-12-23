@@ -93,6 +93,8 @@
     <option name="translationDialogLocationX" value="723" />
     <option name="translationDialogLocationY" value="445" />
     <histories>
+      <item value="constrcaint layout" />
+      <item value="constraint layout" />
       <item value="assemble debug" />
       <item value="You are strongly encouraged to update your project to use a newer Android Gradle plugin that has been tested with compileSdk = 34." />
       <item value="This Android Gradle plugin (8.0.2) was tested up to compileSdk = 33." />
@@ -141,14 +143,12 @@
       <item value="不感兴趣" />
       <item value="举报发布者" />
       <item value="举报该用户" />
-      <item value="select action option" />
-      <item value="请选择操作选项" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1142" />
-        <entry key="CHINESE_SIMPLIFIED" value="11" />
-        <entry key="ENGLISH" value="1151" />
+        <entry key="CHINESE_SIMPLIFIED" value="15" />
+        <entry key="ENGLISH" value="1155" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
