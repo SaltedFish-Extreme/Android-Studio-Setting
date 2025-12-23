@@ -93,6 +93,11 @@
     <option name="translationDialogLocationX" value="723" />
     <option name="translationDialogLocationY" value="445" />
     <histories>
+      <item value="install" />
+      <item value="安装" />
+      <item value="进度条" />
+      <item value="seek" />
+      <item value="seek bar" />
       <item value="QUALCOMM build" />
       <item value="The specified message queue synchronization barrier token has not been posted or has already been removed" />
       <item value="pinned this issue" />
@@ -138,17 +143,12 @@
       <item value="option View" />
       <item value="'lateinit' modifier is not allowed on properties of primitive types" />
       <item value="reverse Layout" />
-      <item value="text Color" />
-      <item value="空白" />
-      <item value="color bottom sheet" />
-      <item value="report person" />
-      <item value="用户" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1142" />
-        <entry key="CHINESE_SIMPLIFIED" value="19" />
-        <entry key="ENGLISH" value="1159" />
+        <entry key="CHINESE_SIMPLIFIED" value="24" />
+        <entry key="ENGLISH" value="1162" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
