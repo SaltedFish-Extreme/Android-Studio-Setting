@@ -90,9 +90,10 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="723" />
+    <option name="translationDialogLocationX" value="211" />
     <option name="translationDialogLocationY" value="445" />
     <histories>
+      <item value="Formats: boolean Flag indicating whether the given application component is available to other applications. If false, it can only be accessed by applications with its same user id (which usually means only by code in its own package). If true, it can be invoked by external entities, though which ones can do so may be controlled through permissions. The default value is false for activity, receiver, and service components that do not specify any intent filters; it is true for activity, receiver, and service components that do have intent filters (implying they expect to be invoked by others who do not know their particular component name) and for all content providers." />
       <item value="install" />
       <item value="安装" />
       <item value="进度条" />
@@ -142,12 +143,11 @@
       <item value="初始化" />
       <item value="option View" />
       <item value="'lateinit' modifier is not allowed on properties of primitive types" />
-      <item value="reverse Layout" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1142" />
-        <entry key="CHINESE_SIMPLIFIED" value="24" />
+        <entry key="CHINESE_SIMPLIFIED" value="25" />
         <entry key="ENGLISH" value="1162" />
         <entry key="GALICIAN" value="1" />
         <entry key="GERMAN" value="1" />
